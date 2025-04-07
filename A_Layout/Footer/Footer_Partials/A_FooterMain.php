@@ -77,7 +77,7 @@ echo
                                                         <div class="elementor-widget-container mb-0">
                                                             <div class="hfe-site-logo">
                                                                 <a data-elementor-open-lightbox=""
-                                                                    class="elementor-clickable" href="Home">
+                                                                    class="elementor-clickable" href="home">
                                                                     <div class="hfe-site-logo-set">
                                                                         <div class="hfe-site-logo-container">
                                                                             <img class="hfe-site-logo-img elementor-animation-"
@@ -249,32 +249,32 @@ echo
                                                                     <ul id="menu-1-211b1c4" class="hfe-nav-menu">
                                                                         <li id="menu-item-6847"
                                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-495 current_page_item parent hfe-creative-menu">
-                                                                            <a href="Home"
+                                                                            <a href="home"
                                                                                 class="hfe-menu-item">Home</a>
                                                                         </li>
                                                                         <li id="menu-item-6849"
                                                                             class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-                                                                            <a href="About-Us"
+                                                                            <a href="about-us"
                                                                                 class="hfe-menu-item">About Us</a>
                                                                         </li>
                                                                         <li id="menu-item-6857"
                                                                             class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-                                                                            <a href="Services-Page"
+                                                                            <a href="services-page"
                                                                                 class="hfe-menu-item">Services</a>
                                                                         </li>
                                                                         <li id="menu-item-6990"
                                                                             class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-                                                                            <a href="Portfolio"
+                                                                            <a href="\"
                                                                                 class="hfe-menu-item">Portfolio</a>
                                                                         </li>
                                                                         <li id="menu-item-6850"
                                                                             class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-                                                                            <a href="Blogs"
+                                                                            <a href="blogs"
                                                                                 class="hfe-menu-item">Blogs</a>
                                                                         </li>
                                                                         <li id="menu-item-6852"
                                                                             class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-                                                                            <a href="Contact-Us"
+                                                                            <a href="contact-us"
                                                                                 class="hfe-menu-item">Contact Us</a>
                                                                         </li>
                                                                     </ul>
@@ -301,37 +301,37 @@ echo
                                                         <div class="elementor-widget-container mb-0">
                                                             <ul class="elementor-icon-list-items">
                                                                 <li class="elementor-icon-list-item">
-                                                                    <a href="Catalogue-Design"><span
+                                                                    <a href="catalogue-design"><span
                                                                             class="elementor-icon-list-text">Catalogue
                                                                             Design</span>
                                                                     </a>
                                                                 </li>
                                                                 <li class="elementor-icon-list-item">
-                                                                    <a href="Catalogue-Design"><span
+                                                                    <a href="catalogue-design"><span
                                                                             class="elementor-icon-list-text">Creative
                                                                             Designing</span>
                                                                     </a>
                                                                 </li>
                                                                 <li class="elementor-icon-list-item">
-                                                                    <a href="Digital-Marketing-Agency"><span
+                                                                    <a href="digital-marketing-agency"><span
                                                                             class="elementor-icon-list-text">Digital
                                                                             Marketing</span>
                                                                     </a>
                                                                 </li>
                                                                 <li class="elementor-icon-list-item">
-                                                                    <a href="Ui-Ux-Design"><span
+                                                                    <a href="ui-ux-design"><span
                                                                             class="elementor-icon-list-text">UI/UX
                                                                             Designing</span>
                                                                     </a>
                                                                 </li>
                                                                 <li class="elementor-icon-list-item">
-                                                                    <a href="Website-Design"><span
+                                                                    <a href="website-design"><span
                                                                             class="elementor-icon-list-text">Website
                                                                             Development</span>
                                                                     </a>
                                                                 </li>
                                                                 <li class="elementor-icon-list-item">
-                                                                    <a href="Services-Page"><span
+                                                                    <a href="services-page"><span
                                                                             class="elementor-icon-list-text">More...</span>
                                                                     </a>
                                                                 </li>

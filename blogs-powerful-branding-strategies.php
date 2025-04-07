@@ -79,7 +79,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 business growth. Whether you’re a
                                                                                 startup or an established company,
                                                                                 investing in a </span><a
-                                                                                href="Home"><b>branding
+                                                                                href="home"><b>branding
                                                                                     agency in ahmedabad</b></a><span
                                                                                 style="font-weight: 400;"> can help you
                                                                                 craft a unique identity that boosts
@@ -116,7 +116,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 with your audience. Customers tend to
                                                                                 stay loyal to brands they trust. A
                                                                                 professional </span><a
-                                                                                href="Digital-Marketing-Agency"><b>digital
+                                                                                href="digital-marketing-agency"><b>digital
                                                                                     marketing agency</b></a><span
                                                                                 style="font-weight: 400;"> can implement
                                                                                 strategies to maintain engagement and
@@ -173,7 +173,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 well-designed catalogue enhances brand
                                                                                 perception and influences purchasing
                                                                                 decisions. </span><a
-                                                                                href="Catalogue-Design"><b>Catalogue
+                                                                                href="catalogue-design"><b>Catalogue
                                                                                     design services</b> </a><span
                                                                                 style="font-weight: 400;">ensure that
                                                                                 your product offerings are showcased in
@@ -185,7 +185,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 effective advertising campaign amplifies
                                                                                 your brand’s reach. A professional
                                                                             </span><a
-                                                                                href="Advertising-Agency"><b>advertising
+                                                                                href="advertising-agency"><b>advertising
                                                                                     agency</b></a><span
                                                                                 style="font-weight: 400;"> helps craft
                                                                                 compelling ad creatives that engage

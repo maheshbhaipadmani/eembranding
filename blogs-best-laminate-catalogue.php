@@ -95,7 +95,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 identity.</span></p>
                                                                         <p><span style="font-weight: 400;">&nbsp;Here’s
                                                                                 how we engage customers for</span> <a
-                                                                                href="Catalogue-Design"><b>laminate
+                                                                                href="catalogue-design"><b>laminate
                                                                                     catalogue designing
                                                                                     services</b></a><span
                                                                                 style="font-weight: 400;"> in India in
@@ -164,7 +164,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <p><b>Our Specialty in the industry for more than
                                                                             20+ years:</b></p>
                                                                     <p><span style="font-weight: 400;">As a</span> <a
-                                                                            href="Home"><b>branding
+                                                                            href="home"><b>branding
                                                                                 agency in Ahmedabad</b></a><b>,</b><span
                                                                             style="font-weight: 400;"> we follow a
                                                                             meticulous design process,&nbsp; ensuring
@@ -340,7 +340,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </h2>
                                                                         <p><span style="font-weight: 400;">If you’re
                                                                                 looking for </span><a
-                                                                                href="Catalogue-Design"><b>laminate
+                                                                                href="catalogue-design"><b>laminate
                                                                                     catalogue design services in
                                                                                     Ahmedabad</b></a><span
                                                                                 style="font-weight: 400;">, EEM Branding
@@ -375,7 +375,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-sm-6">
                                         <div class="post prev">
                                             <h4 class="title"><a
-                                                    href="Blogs-Grow-Your-Business"
+                                                    href="blogs-grow-your-business"
                                                     rel="prev">Grow Your Business with a Top Digital Marketing
                                                     Company</a> </h4>
                                             <span>Prev Post</span>
@@ -385,7 +385,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-sm-6">
                                         <div class="post next">
                                             <h4 class="title"><a
-                                                    href="Blogs-Rendering"
+                                                    href="blogs-rendering"
                                                     rel="next">How 3D Rendering Can Help Brands Stand Out in a
                                                     Competitive Market</a> </h4>
                                             <span>Next Post</span>

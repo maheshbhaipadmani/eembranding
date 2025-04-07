@@ -100,7 +100,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 with brands on social media, and making
                                                                                 purchase decisions based on digital
                                                                                 interactions. This is where a </span><a
-                                                                                href="Digital-Marketing-Agency"><b>digital
+                                                                                href="digital-marketing-agency"><b>digital
                                                                                     marketing company</b></a><span
                                                                                 style="font-weight: 400;"> creates
                                                                                 data-driven strategies that maximize
@@ -204,7 +204,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <li aria-level="2"><span
                                                                                     style="font-weight: 400;">As a&nbsp;
                                                                                 </span><a
-                                                                                    href="Home"><b>branding
+                                                                                    href="home"><b>branding
                                                                                         agency in Ahmedabad</b></a><span
                                                                                     style="font-weight: 400;"> we ensure
                                                                                     consistent messaging and brand
@@ -243,7 +243,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 continuously attracts and engages
                                                                                 potential customers. By working with a
                                                                                 professional </span><a
-                                                                                href="Digital-Marketing-Agency"><b>digital
+                                                                                href="digital-marketing-agency"><b>digital
                                                                                     marketing agency in
                                                                                     ahmedabad</b></a><span
                                                                                 style="font-weight: 400;">, businesses
@@ -296,7 +296,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-sm-6">
                                         <div class="post prev">
                                             <h4 class="title"><a
-                                                    href="Blogs-Creative-Design-Agency"
+                                                    href="blogs-creative-design-agency"
                                                     rel="prev">How a Creative Design Agency Can Boost Your Brand’s
                                                     Digital Presence</a> </h4>
                                             <span>Prev Post</span>
@@ -306,7 +306,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-sm-6">
                                         <div class="post next">
                                             <h4 class="title"><a
-                                                    href="Blogs-Best-Laminate-Catalogue"
+                                                    href="blogs-best-laminate-catalogue"
                                                     rel="next">Best Laminate Catalogue Design Services in India</a>
                                             </h4>
                                             <span>Next Post</span>

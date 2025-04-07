@@ -76,7 +76,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         <div
                                                                             class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                                             <a data-id="7100"
-                                                                                href="Blogs-Graphic-Design"
+                                                                                href="blogs-graphic-design"
                                                                                 class="tpg-post-link" target="_self">
                                                                                 <img fetchpriority="high"
                                                                                     decoding="async"
@@ -98,11 +98,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                                                                     <a class="blogs"
-                                                                                        href="Category-Blog">Blogs</a>
+                                                                                        href="category-blog">Blogs</a>
                                                                                 </span>
                                                                             </div>
                                                                             <h3 class="entry-title"><a data-id="7100"
-                                                                                    href="Blogs-Graphic-Design"
+                                                                                    href="blogs-graphic-design"
                                                                                     class="tpg-post-link"
                                                                                     target="_self">The Power of Graphic
                                                                                     Design in Brand Identity
@@ -111,13 +111,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         <!-- <div class="post-meta-tags rt-el-post-meta">
                                                                             <span class="date">
                                                                                 <i class="far fa-calendar-alt "></i> <a
-                                                                                    href="Home">
+                                                                                    href="home">
                                                                                     March 18, 2025 </a>
                                                                             </span>
                                                                             <span class="categories-links">
                                                                                 <i class="fas fa-folder-open "></i><a
                                                                                     class="blogs"
-                                                                                    href="Category-Blog">Blogs</a>
+                                                                                    href="category-blog">Blogs</a>
                                                                             </span>
                                                                         </div> -->
 
@@ -132,7 +132,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <div class="post-footer">
                                                                                 <div class="read-more">
                                                                                     <a data-id="7100"
-                                                                                        href="Blogs-Graphic-Design"
+                                                                                        href="blogs-graphic-design"
                                                                                         class="tpg-post-link"
                                                                                         target="_self">Read
                                                                                         More.....</a>
@@ -150,7 +150,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         <div
                                                                             class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                                             <a data-id="7088"
-                                                                                href="Blogs-Powerful-Branding-Strategies"
+                                                                                href="blogs-powerful-branding-strategies"
                                                                                 class="tpg-post-link" target="_self">
                                                                                 <img fetchpriority="high"
                                                                                     decoding="async"
@@ -170,11 +170,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                                                                     <a class="blogs"
-                                                                                        href="Category-Blog">Blogs</a>
+                                                                                        href="category-blog">Blogs</a>
                                                                                 </span>
                                                                             </div>
                                                                             <h3 class="entry-title"><a data-id="7088"
-                                                                                    href="Blogs-Powerful-Branding-Strategies"
+                                                                                    href="blogs-powerful-branding-strategies"
                                                                                     class="tpg-post-link"
                                                                                     target="_self">Powerful Branding
                                                                                     Strategies to Drive Business Growth
@@ -183,13 +183,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         <!-- <div class="post-meta-tags rt-el-post-meta">
                                                                             <span class="date">
                                                                                 <i class="far fa-calendar-alt "></i> <a
-                                                                                    href="Home">
+                                                                                    href="home">
                                                                                     March 11, 2025 </a>
                                                                             </span>
                                                                             <span class="categories-links">
                                                                                 <i class="fas fa-folder-open "></i><a
                                                                                     class="blogs"
-                                                                                    href="Category-Blog">Blogs</a>
+                                                                                    href="category-blog">Blogs</a>
                                                                             </span>
                                                                         </div> -->
 
@@ -204,7 +204,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <div class="post-footer">
                                                                                 <div class="read-more">
                                                                                     <a data-id="7088"
-                                                                                        href="Blogs-Powerful-Branding-Strategies"
+                                                                                        href="blogs-powerful-branding-strategies"
                                                                                         class="tpg-post-link"
                                                                                         target="_self">Read
                                                                                         More.....</a>
@@ -222,7 +222,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         <div
                                                                             class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                                             <a data-id="7075"
-                                                                                href="Blogs-Rendering"
+                                                                                href="blogs-rendering"
                                                                                 class="tpg-post-link" target="_self">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/blogs/2Blog-5.jpg"
@@ -243,11 +243,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                                                                     <a class="blogs"
-                                                                                        href="Category-Blog">Blogs</a>
+                                                                                        href="category-blog">Blogs</a>
                                                                                 </span>
                                                                             </div>
                                                                             <h3 class="entry-title"><a data-id="7075"
-                                                                                    href="Blogs-Rendering"
+                                                                                    href="blogs-rendering"
                                                                                     class="tpg-post-link"
                                                                                     target="_self">How 3D Rendering Can
                                                                                     Help Brands Stand Out in a
@@ -256,13 +256,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         <!-- <div class="post-meta-tags rt-el-post-meta">
                                                                             <span class="date">
                                                                                 <i class="far fa-calendar-alt "></i> <a
-                                                                                    href="Home">
+                                                                                    href="home">
                                                                                     March 7, 2025 </a>
                                                                             </span>
                                                                             <span class="categories-links">
                                                                                 <i class="fas fa-folder-open "></i><a
                                                                                     class="blogs"
-                                                                                    href="Category-Blog">Blogs</a>
+                                                                                    href="category-blog">Blogs</a>
                                                                             </span>
                                                                         </div> -->
 
@@ -277,7 +277,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <div class="post-footer">
                                                                                 <div class="read-more">
                                                                                     <a data-id="7075"
-                                                                                        href="Blogs-Rendering"
+                                                                                        href="blogs-rendering"
                                                                                         class="tpg-post-link"
                                                                                         target="_self">Read
                                                                                         More.....</a>
@@ -295,7 +295,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         <div
                                                                             class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                                             <a data-id="7056"
-                                                                                href="Blogs-Best-Laminate-Catalogue"
+                                                                                href="blogs-best-laminate-catalogue"
                                                                                 class="tpg-post-link" target="_self">
                                                                                 <img loading="lazy" decoding="async"
                                                                                     src="./assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
@@ -316,11 +316,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                                                                     <a class="blogs"
-                                                                                        href="Category-Blog">Blogs</a>
+                                                                                        href="category-blog">Blogs</a>
                                                                                 </span>
                                                                             </div>
                                                                             <h3 class="entry-title"><a data-id="7056"
-                                                                                    href="Blogs-Best-Laminate-Catalogue"
+                                                                                    href="blogs-best-laminate-catalogue"
                                                                                     class="tpg-post-link"
                                                                                     target="_self">Best Laminate
                                                                                     Catalogue Design Services in
@@ -329,13 +329,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         <!-- <div class="post-meta-tags rt-el-post-meta">
                                                                             <span class="date">
                                                                                 <i class="far fa-calendar-alt "></i> <a
-                                                                                    href="Home">
+                                                                                    href="home">
                                                                                     February 28, 2025 </a>
                                                                             </span>
                                                                             <span class="categories-links">
                                                                                 <i class="fas fa-folder-open "></i><a
                                                                                     class="blogs"
-                                                                                    href="Category-Blog">Blogs</a>
+                                                                                    href="category-blog">Blogs</a>
                                                                             </span>
                                                                         </div> -->
 
@@ -350,7 +350,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <div class="post-footer">
                                                                                 <div class="read-more">
                                                                                     <a data-id="7056"
-                                                                                        href="Blogs-Best-Laminate-Catalogue"
+                                                                                        href="blogs-best-laminate-catalogue"
                                                                                         class="tpg-post-link"
                                                                                         target="_self">Read
                                                                                         More.....</a>
@@ -368,7 +368,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         <div
                                                                             class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                                             <a data-id="7008"
-                                                                                href="Blogs-Grow-Your-Business"
+                                                                                href="blogs-grow-your-business"
                                                                                 class="tpg-post-link" target="_self">
                                                                                 <img loading="lazy" decoding="async"
                                                                                     src="./assest/img/blogs/4banner-3-1.jpg"
@@ -389,11 +389,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                                                                     <a class="blogs"
-                                                                                        href="Category-Blog">Blogs</a>
+                                                                                        href="category-blog">Blogs</a>
                                                                                 </span>
                                                                             </div>
                                                                             <h3 class="entry-title"><a data-id="7008"
-                                                                                    href="Blogs-Grow-Your-Business"
+                                                                                    href="blogs-grow-your-business"
                                                                                     class="tpg-post-link"
                                                                                     target="_self">Grow Your Business
                                                                                     with a Top Digital Marketing
@@ -402,13 +402,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         <!-- <div class="post-meta-tags rt-el-post-meta">
                                                                             <span class="date">
                                                                                 <i class="far fa-calendar-alt "></i> <a
-                                                                                    href="Home">
+                                                                                    href="home">
                                                                                     February 22, 2025 </a>
                                                                             </span>
                                                                             <span class="categories-links">
                                                                                 <i class="fas fa-folder-open "></i><a
                                                                                     class="blogs"
-                                                                                    href="Category-Blog">Blogs</a>
+                                                                                    href="category-blog">Blogs</a>
                                                                             </span>
                                                                         </div> -->
 
@@ -423,7 +423,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <div class="post-footer">
                                                                                 <div class="read-more">
                                                                                     <a data-id="7008"
-                                                                                        href="Blogs-Grow-Your-Business"
+                                                                                        href="blogs-grow-your-business"
                                                                                         class="tpg-post-link"
                                                                                         target="_self">Read
                                                                                         More.....</a>
@@ -441,7 +441,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         <div
                                                                             class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                                             <a data-id="6993"
-                                                                                href="Blogs-Creative-Design-Agency"
+                                                                                href="blogs-creative-design-agency"
                                                                                 class="tpg-post-link" target="_self">
                                                                                 <img loading="lazy" decoding="async"
                                                                                     src="./assest/img/blogs/5banner-2-1.jpg"
@@ -462,11 +462,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                                                                     <a class="blogs"
-                                                                                        href="Category-Blog">Blogs</a>
+                                                                                        href="category-blog">Blogs</a>
                                                                                 </span>
                                                                             </div>
                                                                             <h3 class="entry-title"><a data-id="6993"
-                                                                                    href="Blogs-Creative-Design-Agency"
+                                                                                    href="blogs-creative-design-agency"
                                                                                     class="tpg-post-link"
                                                                                     target="_self">How a Creative Design
                                                                                     Agency Can Boost Your Brand’s
@@ -475,13 +475,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         <!-- <div class="post-meta-tags rt-el-post-meta">
                                                                             <span class="date">
                                                                                 <i class="far fa-calendar-alt "></i> <a
-                                                                                    href="Home">
+                                                                                    href="home">
                                                                                     February 17, 2025 </a>
                                                                             </span>
                                                                             <span class="categories-links">
                                                                                 <i class="fas fa-folder-open "></i><a
                                                                                     class="blogs"
-                                                                                    href="Category-Blog">Blogs</a>
+                                                                                    href="category-blog">Blogs</a>
                                                                             </span>
                                                                         </div> -->
 
@@ -496,7 +496,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <div class="post-footer">
                                                                                 <div class="read-more">
                                                                                     <a data-id="6993"
-                                                                                        href="Blogs-Creative-Design-Agency"
+                                                                                        href="blogs-creative-design-agency"
                                                                                         class="tpg-post-link"
                                                                                         target="_self">Read
                                                                                         More.....</a>

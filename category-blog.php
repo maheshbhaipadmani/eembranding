@@ -49,7 +49,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                 <div class="blog-thumb">
                                     <a
-                                        href="Blogs-Graphic-Design">
+                                        href="blogs-graphic-design">
                                         <img fetchpriority="high" width="1200" height="800"
                                             src="./assest/img/blogs/Blog-Graphic-design.jpg"
                                             class="img-responsive wp-post-image" alt="" decoding="async"> </a>
@@ -73,7 +73,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         </ul>
                                     </div>
                                     <h2 class="title"><a
-                                            href="Blogs-Graphic-Design">The
+                                            href="blogs-graphic-design">The
                                             Power of Graphic Design in Brand Identity Building</a></h2>
                                     <div class="post-text">
                                         <p>The Role of Graphic Design in Building a Strong Brand Identity Standing out
@@ -85,7 +85,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <!-- blog btn -->
 
                                     <div class="tg-blog-post-bottom">
-                                        <a href="Blogs-Graphic-Design"
+                                        <a href="blogs-graphic-design"
                                             class="btn">Read More<span></span></a>
                                     </div>
 
@@ -98,7 +98,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                 <div class="blog-thumb">
                                     <a
-                                        href="Blogs-Powerful-Branding-Strategies">
+                                        href="blogs-powerful-branding-strategies">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/1banner-4.jpg"
                                             class="img-responsive wp-post-image" alt="" decoding="async"> </a>
@@ -122,7 +122,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         </ul>
                                     </div>
                                     <h2 class="title"><a
-                                            href="Blogs-Powerful-Branding-Strategies">Powerful
+                                            href="blogs-powerful-branding-strategies">Powerful
                                             Branding Strategies to Drive Business Growth &amp; Revenue</a></h2>
                                     <div class="post-text">
                                         <p>How Strong Branding Can Accelerate Business Growth and Revenue Branding is
@@ -134,7 +134,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <!-- blog btn -->
 
                                     <div class="tg-blog-post-bottom">
-                                        <a href="Blogs-Powerful-Branding-Strategies"
+                                        <a href="blogs-powerful-branding-strategies"
                                             class="btn">Read More<span></span></a>
                                     </div>
 
@@ -147,7 +147,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                 <div class="blog-thumb">
                                     <a
-                                        href="Blogs-Rendering">
+                                        href="blogs-rendering">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/2Blog-5.jpg"
                                             class="img-responsive wp-post-image" alt="" decoding="async"> </a>
@@ -171,7 +171,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         </ul>
                                     </div>
                                     <h2 class="title"><a
-                                            href="Blogs-Rendering">How
+                                            href="blogs-rendering">How
                                             3D Rendering Can Help Brands Stand Out in a Competitive Market</a></h2>
                                     <div class="post-text">
                                         <p>In today’s rapidly evolving digital landscape, brands must adopt innovative
@@ -184,7 +184,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <!-- blog btn -->
 
                                     <div class="tg-blog-post-bottom">
-                                        <a href="Blogs-Rendering"
+                                        <a href="blogs-rendering"
                                             class="btn">Read More<span></span></a>
                                     </div>
 
@@ -197,7 +197,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                 <div class="blog-thumb">
                                     <a
-                                        href="Blogs-Best-Laminate-Catalogue">
+                                        href="blogs-best-laminate-catalogue">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
                                             class="img-responsive wp-post-image" alt="" decoding="async"> </a>
@@ -221,7 +221,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         </ul>
                                     </div>
                                     <h2 class="title"><a
-                                            href="Blogs-Best-Laminate-Catalogue">Best
+                                            href="blogs-best-laminate-catalogue">Best
                                             Laminate Catalogue Design Services in India</a></h2>
                                     <div class="post-text">
                                         <p>Why We Are the Best Laminate Catalogue Designing Firm in India An Effectively
@@ -234,7 +234,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <!-- blog btn -->
 
                                     <div class="tg-blog-post-bottom">
-                                        <a href="Blogs-Best-Laminate-Catalogue"
+                                        <a href="blogs-best-laminate-catalogue"
                                             class="btn">Read More<span></span></a>
                                     </div>
 
@@ -247,7 +247,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                 <div class="blog-thumb">
                                     <a
-                                        href="Blogs-Grow-Your-Business">
+                                        href="blogs-grow-your-business">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/4banner-3-1.jpg"
                                             class="img-responsive wp-post-image" alt="" decoding="async"> </a>
@@ -271,7 +271,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         </ul>
                                     </div>
                                     <h2 class="title"><a
-                                            href="Blogs-Grow-Your-Business">Grow
+                                            href="blogs-grow-your-business">Grow
                                             Your Business with a Top Digital Marketing Company</a></h2>
                                     <div class="post-text">
                                         <p>The Role of a Digital Marketing Company in Business Growth In today’s
@@ -284,7 +284,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <!-- blog btn -->
 
                                     <div class="tg-blog-post-bottom">
-                                        <a href="Blogs-Grow-Your-Business"
+                                        <a href="blogs-grow-your-business"
                                             class="btn">Read More<span></span></a>
                                     </div>
 
@@ -297,7 +297,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                 <div class="blog-thumb">
                                     <a
-                                        href="Blogs-Creative-Design-Agency">
+                                        href="blogs-creative-design-agency">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/5banner-2-1.jpg"
                                             class="img-responsive wp-post-image" alt="" decoding="async"> </a>
@@ -321,7 +321,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         </ul>
                                     </div>
                                     <h2 class="title"><a
-                                            href="Blogs-Creative-Design-Agency">How
+                                            href="blogs-creative-design-agency">How
                                             a Creative Design Agency Can Boost Your Brand’s Digital Presence</a></h2>
                                     <div class="post-text">
                                         <p>How a Creative Design Agency Can Boost Your Brand’s Digital Presence&nbsp; In
@@ -334,7 +334,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <!-- blog btn -->
 
                                     <div class="tg-blog-post-bottom">
-                                        <a href="Blogs-Creative-Design-Agency"
+                                        <a href="blogs-creative-design-agency"
                                             class="btn">Read More<span></span></a>
                                     </div>
 
@@ -347,7 +347,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                 <div class="blog-thumb">
                                     <a
-                                        href="Blogs-Branding-Vs-Advertising">
+                                        href="blogs-branding-vs-advertising">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/6banner.jpg"
                                             class="img-responsive wp-post-image" alt="" decoding="async"> </a>
@@ -371,7 +371,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         </ul>
                                     </div>
                                     <h2 class="title"><a
-                                            href="Blogs-Branding-Vs-Advertising">Branding
+                                            href="blogs-branding-vs-advertising">Branding
                                             vs. Advertising: Understanding the Key Differences</a></h2>
                                     <div class="post-text">
                                         <p>Branding vs. Advertising: Understanding the Key Differences In the fast-paced
@@ -384,7 +384,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <!-- blog btn -->
 
                                     <div class="tg-blog-post-bottom">
-                                        <a href="Blogs-Branding-Vs-Advertising"
+                                        <a href="blogs-branding-vs-advertising"
                                             class="btn">Read More<span></span></a>
                                     </div>
 

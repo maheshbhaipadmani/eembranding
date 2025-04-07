@@ -75,7 +75,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         <div
                                                                             class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                                             <a data-id="6955"
-                                                                                href="Blogs-Branding-Vs-Advertising"
+                                                                                href="blogs-branding-vs-advertising"
                                                                                 class="tpg-post-link" target="_self">
                                                                                 <img loading="lazy" decoding="async"
                                                                                     src="./assest/img/blogs/6banner.jpg"
@@ -96,11 +96,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                                                                     <a class="blogs"
-                                                                                        href="Category-Blog">Blogs</a>
+                                                                                        href="category-blog">Blogs</a>
                                                                                 </span>
                                                                             </div>
                                                                             <h3 class="entry-title"><a data-id="6955"
-                                                                                    href="Blogs-Branding-Vs-Advertising"
+                                                                                    href="blogs-branding-vs-advertising"
                                                                                     class="tpg-post-link"
                                                                                     target="_self">Branding vs.
                                                                                     Advertising: Understanding the Key
@@ -109,13 +109,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         <!-- <div class="post-meta-tags rt-el-post-meta">
                                                                             <span class="date">
                                                                                 <i class="far fa-calendar-alt "></i> <a
-                                                                                    href="Home">
+                                                                                    href="home">
                                                                                     February 10, 2025 </a>
                                                                             </span>
                                                                             <span class="categories-links">
                                                                                 <i class="fas fa-folder-open "></i><a
                                                                                     class="blogs"
-                                                                                    href="Category-Blog">Blogs</a>
+                                                                                    href="category-blog">Blogs</a>
                                                                             </span>
                                                                         </div> -->
 
@@ -130,7 +130,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <div class="post-footer">
                                                                                 <div class="read-more">
                                                                                     <a data-id="6955"
-                                                                                        href="Blogs-Branding-Vs-Advertising"
+                                                                                        href="blogs-branding-vs-advertising"
                                                                                         class="tpg-post-link"
                                                                                         target="_self">Read
                                                                                         More.....</a>
@@ -146,7 +146,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             <div class="rt-pagination">
                                                                 <ul class="pagination-list">
                                                                     <li><a data-paged="1"
-                                                                        href="Blogs">1</a>
+                                                                        href="blogs">1</a>
                                                                 </li>
                                                                     <li class="active"><span>2</span></li>
                                                                 </ul>

@@ -96,7 +96,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 more than just a logo—it’s about
                                                                                 creating a consistent and memorable
                                                                                 identity. A professional </span><a
-                                                                                href="Home"><b>Branding
+                                                                                href="home"><b>Branding
                                                                                     Agency in Ahmedabad</b></a><span
                                                                                 style="font-weight: 400;"> ensures that
                                                                                 your brand:</span></p>
@@ -197,7 +197,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                         showcases products effectively
                                                                                         and enhances credibility.
                                                                                     </span><a
-                                                                                        href="Catalogue-Design"><b>Catalogue
+                                                                                        href="catalogue-design"><b>Catalogue
                                                                                             Design Services</b></a><span
                                                                                         style="font-weight: 400;">
                                                                                         include:</span></p>
@@ -233,7 +233,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                         helps businesses reach their
                                                                                         target audience. A professional
                                                                                     </span><a
-                                                                                        href="Advertising-Agency"><b>Advertising
+                                                                                        href="advertising-agency"><b>Advertising
                                                                                             Agency</b></a><span
                                                                                         style="font-weight: 400;">
                                                                                         develops:</span></p>
@@ -354,7 +354,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-sm-6">
                                         <div class="post prev">
                                             <h4 class="title"><a
-                                                    href="Blogs-Branding-Vs-Advertising"
+                                                    href="blogs-branding-vs-advertising"
                                                     rel="prev">Branding vs. Advertising: Understanding the Key
                                                     Differences</a> </h4>
                                             <span>Prev Post</span>
@@ -364,7 +364,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-sm-6">
                                         <div class="post next">
                                             <h4 class="title"><a
-                                                    href="Blogs-Grow-Your-Business"
+                                                    href="blogs-grow-your-business"
                                                     rel="next">Grow Your Business with a Top Digital Marketing
                                                     Company</a> </h4>
                                             <span>Next Post</span>

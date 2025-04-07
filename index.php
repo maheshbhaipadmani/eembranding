@@ -41,7 +41,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                     Crafting captivating laminate folder designs that weave stories,
                                                     combining striking visuals with informative content, leaving a
                                                     memorable impact.</p>
-                                                <a href="Catalogue-Design" data-bs-toggle="" data-bs-target=""><i
+                                                <a href="catalogue-design" data-bs-toggle="" data-bs-target=""><i
                                                         class="fas fa-arrow-right"></i></a>
                                             </div>
                                         </li>
@@ -56,7 +56,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <p>
                                                     Shaping iconic identities that resonate deeply and leave a lasting
                                                     impression.</p>
-                                                <a href="Catalogue-Design" data-bs-toggle="" data-bs-target=""><i
+                                                <a href="catalogue-design" data-bs-toggle="" data-bs-target=""><i
                                                         class="fas fa-arrow-right"></i></a>
                                             </div>
                                         </li>
@@ -72,7 +72,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <p>
                                                     From concept to execution, we breathe life into ideas, delivering
                                                     designs that captivate and inspire audiences.</p>
-                                                <a href="Digital-Marketing-Agency" data-bs-toggle=""
+                                                <a href="digital-marketing-agency" data-bs-toggle=""
                                                     data-bs-target=""><i class="fas fa-arrow-right"></i></a>
                                             </div>
                                         </li>
@@ -88,7 +88,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <p>
                                                     Crafting seamless digital experiences for your website and mobile
                                                     platforms with our expert designing and development services.</p>
-                                                <a href="Website-Design" data-bs-toggle="" data-bs-target=""><i
+                                                <a href="website-design" data-bs-toggle="" data-bs-target=""><i
                                                         class="fas fa-arrow-right"></i></a>
                                             </div>
                                         </li>
@@ -281,7 +281,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <p><span style="font-weight: 400;">Transform Your Business with Expert Branding,
                                         Marketing, and Design</span></p>
                                 <p><span style="font-weight: 400;">At our </span><a
-                                        href="Advertising-Agency"><b>branding
+                                        href="advertising-agency"><b>branding
                                             and advertising agency</b></a><span style="font-weight: 400;">, we believe
                                         that strong branding is the cornerstone of business success. Our creative team
                                         works closely with you to craft a unique identity that reflects your values,
@@ -289,19 +289,19 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         complete brand overhaul or a new campaign launch, we deliver solutions that
                                         drive impact.</span></p>
                                 <p><span style="font-weight: 400;">In the digital age, visibility is everything.
-                                        Our</span> <a href="Digital-Marketing-Agency"><b>digital
+                                        Our</span> <a href="digital-marketing-agency"><b>digital
                                             marketing services</b></a><span style="font-weight: 400;"> are designed to
                                         help you reach the right audience through data-driven strategies. From search
                                         engine optimization (SEO) and social media marketing to pay-per-click
                                         advertising, we ensure your business gains the exposure it deserves.</span></p>
                                 <p><span style="font-weight: 400;">For businesses in the laminate industry, we offer
-                                        professional</span><a href="Catalogue-Design">
+                                        professional</span><a href="catalogue-design">
                                         <b>laminate catalogue design services</b></a><span style="font-weight: 400;">
                                         that highlight the quality and variety of your products. Our catalogues are
                                         designed to be visually stunning and informative, providing your clients with a
                                         clear representation of your offerings.</span></p>
                                 <p><span style="font-weight: 400;">Your website is your digital storefront. Our
-                                    </span><a href="Website-Design"><b>website
+                                    </span><a href="website-design"><b>website
                                             design services</b></a><span style="font-weight: 400;"> focus on creating
                                         modern, responsive websites that offer seamless user experiences. We blend
                                         creativity with functionality to develop websites that not only look great but
@@ -390,7 +390,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="Catalogue-Design">Laminate
+                                                        <a href="catalogue-design">Laminate
                                                             Catalogue Design Services In Ahmedabad</a>
                                                     </h2>
                                                     <p>Transform your brand's identity into tangible excellence with our
@@ -398,7 +398,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         eye-catching and vibrant, our designs elevate your marketing
                                                         materials, leaving a lasting impression on clients and partners
                                                         alike.</p>
-                                                    <a href="Catalogue-Design" class="link-btn">Read More</a>
+                                                    <a href="catalogue-design" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -433,14 +433,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="Digital-Marketing-Agency">Digital
+                                                        <a href="digital-marketing-agency">Digital
                                                             Marketing Agency In Ahmedabad</a>
                                                     </h2>
                                                     <p>Amplify your brand's online presence and generate targeted
                                                         traffic with our comprehensive digital marketing services. From
                                                         strategic planning to execution, we guide you through the
                                                         digital landscape for maximum impact and ROI.</p>
-                                                    <a href="Digital-Marketing-Agency" class="link-btn">Read
+                                                    <a href="digital-marketing-agency" class="link-btn">Read
                                                         More</a>
                                                 </div>
                                             </div>
@@ -455,7 +455,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="Ui-Ux-Design">Ui
+                                                        <a href="ui-ux-design">Ui
                                                             Ux Design Company In Ahmedabad</a>
                                                     </h2>
                                                     <p>Enhance user satisfaction and engagement with our UI/UX Designing
@@ -464,7 +464,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         From wireframes to prototypes, we specialise in creating
                                                         user-centric designs that elevate your brand and drive
                                                         conversions.</p>
-                                                    <a href="Ui-Ux-Design" class="link-btn">Read More</a>
+                                                    <a href="ui-ux-design" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -478,12 +478,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="Website-Design">Website
+                                                        <a href="website-design">Website
                                                             Design &amp; Development Company In Ahmedabad</a>
                                                     </h2>
                                                     <p>Empower your online presence with our cutting-edge website
                                                         development services tailored to your unique needs</p>
-                                                    <a href="Website-Design" class="link-btn">Read More</a>
+                                                    <a href="website-design" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -497,7 +497,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="Mobile-App-Development">Mobile
+                                                        <a href="mobile-app-development">Mobile
                                                             App Design &amp; Development Company In Ahmedabad</a>
                                                     </h2>
                                                     <p>Transform your ideas into stunning, user-friendly mobile
@@ -505,7 +505,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         services. From concept to launch, we're here to bring your app
                                                         vision to life with cutting-edge technology and intuitive
                                                         design.</p>
-                                                    <a href="Mobile-App-Development" class="link-btn">Read More</a>
+                                                    <a href="mobile-app-development" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -519,13 +519,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="Event-Management">Event
+                                                        <a href="event-management">Event
                                                             Management Company In Ahmedabad</a>
                                                     </h2>
                                                     <p>Elevate your events with precision planning and flawless
                                                         execution. Our event management services ensure unforgettable
                                                         experiences tailored to your unique vision and goals.</p>
-                                                    <a href="Event-Management" class="link-btn">Read More</a>
+                                                    <a href="event-management" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -539,14 +539,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="Rendering-3D">3d
+                                                        <a href="rendering">3d
                                                             Rendering Services In Ahmedabad</a>
                                                     </h2>
                                                     <p>Elevate your projects with stunning visualisations through our
                                                         precise 3D rendering services. From architectural designs to
                                                         digital walk through, we bring your ideas to life with
                                                         unparalleled realism and detail.</p>
-                                                    <a href="Rendering-3D" class="link-btn">Read More</a>
+                                                    <a href="rendering" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -560,14 +560,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="Advertising-Agency">Advertising
+                                                        <a href="advertising-agency">Advertising
                                                             Agency In Ahmedabad</a>
                                                     </h2>
                                                     <p>Elevate your brand's visibility with captivating outdoor branding
                                                         solutions tailored to leave a lasting impression on your target
                                                         audience. From eye-catching billboards to engaging signage, we
                                                         help you stand out in the great outdoors.</p>
-                                                    <a href="Advertising-Agency" class="link-btn">Read More</a>
+                                                    <a href="advertising-agency" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -637,7 +637,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-8.jpg"
                                                                         alt="Image">
-                                                                    <a href="Moonshineenchanting"
+                                                                    <a href="moonshineenchanting"
                                                                         class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/home/icon/arrow-right.svg"
@@ -652,7 +652,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-11.jpg"
                                                                         alt="Image">
-                                                                    <a href="Fabrino-Fabric" class="link-icon">
+                                                                    <a href="fabrino-fabric" class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/home/icon/arrow-right.svg"
                                                                             alt="Icon">
@@ -666,7 +666,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-7.jpg"
                                                                         alt="Image">
-                                                                    <a href="Dazzle-Berryenpastel"
+                                                                    <a href="dazzle-berryenpastel"
                                                                         class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/home/icon/arrow-right.svg"
@@ -681,7 +681,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-12.jpg"
                                                                         alt="Image">
-                                                                    <a href="Ranwood-Rega" class="link-icon">
+                                                                    <a href="ranwood-rega" class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/home/icon/arrow-right.svg"
                                                                             alt="Icon">
@@ -695,7 +695,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail.jpg"
                                                                         alt="Image">
-                                                                    <a href="Kooyoo-Enchanting" class="link-icon">
+                                                                    <a href="kooyoo-enchanting" class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/home/icon/arrow-right.svg"
                                                                             alt="Icon">
@@ -709,7 +709,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-3.jpg"
                                                                         alt="Image">
-                                                                    <a href="Kiana"
+                                                                    <a href="kiana"
                                                                         class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/home/icon/arrow-right.svg"
@@ -1090,17 +1090,17 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="blog-post-item-two">
                                                 <div class="blog-post-thumb">
                                                     <a
-                                                        href="Blogs-Graphic-Design">
+                                                        href="blogs-graphic-design">
                                                         <img loading="lazy" decoding="async" width="1200" height="800"
                                                             src="./assest/img/blogs/Blog-Graphic-design.jpg"
                                                             class="attachment-7100 size-7100 wp-post-image" alt=""
                                                             full="" /> </a>
                                                 </div>
                                                 <div class="blog-post-content">
-                                                    <a href="Category-Blog"
+                                                    <a href="category-blog"
                                                         class="tag">Blogs</a>
                                                     <h2 class="title"><a
-                                                            href="Blogs-Graphic-Design">The
+                                                            href="blogs-graphic-design">The
                                                             Power of Graphic Design in Brand Identity Building</a></h2>
                                                     <div class="blog-meta">
                                                         <ul class="list-wrap">
@@ -1117,17 +1117,17 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="blog-post-item-two">
                                                 <div class="blog-post-thumb">
                                                     <a
-                                                        href="Blogs-Powerful-Branding-Strategies">
+                                                        href="blogs-powerful-branding-strategies">
                                                         <img loading="lazy" decoding="async" width="1200" height="800"
                                                             src="./assest/img/blogs/1banner-4.jpg"
                                                             class="attachment-7088 size-7088 wp-post-image" alt=""
                                                             full="" /> </a>
                                                 </div>
                                                 <div class="blog-post-content">
-                                                    <a href="Category-Blog"
+                                                    <a href="category-blog"
                                                         class="tag">Blogs</a>
                                                     <h2 class="title"><a
-                                                            href="Blogs-Powerful-Branding-Strategies">Powerful
+                                                            href="blogs-powerful-branding-strategies">Powerful
                                                             Branding Strategies to Drive Business Growth &#038;
                                                             Revenue</a></h2>
                                                     <div class="blog-meta">
@@ -1144,17 +1144,17 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="blog-post-item-two">
                                                 <div class="blog-post-thumb">
                                                     <a
-                                                        href="Blogs-Rendering">
+                                                        href="blogs-rendering">
                                                         <img loading="lazy" decoding="async" width="1200" height="800"
                                                             src="./assest/img/blogs/2Blog-5.jpg"
                                                             class="attachment-7075 size-7075 wp-post-image" alt=""
                                                             full="" /> </a>
                                                 </div>
                                                 <div class="blog-post-content">
-                                                    <a href="Category-Blog"
+                                                    <a href="category-blog"
                                                         class="tag">Blogs</a>
                                                     <h2 class="title"><a
-                                                            href="Blogs-Rendering">How
+                                                            href="blogs-rendering">How
                                                             3D Rendering Can Help Brands Stand Out in a Competitive
                                                             Market</a></h2>
                                                     <div class="blog-meta">
@@ -1171,17 +1171,17 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="blog-post-item-two">
                                                 <div class="blog-post-thumb">
                                                     <a
-                                                        href="Blogs-Best-Laminate-Catalogue">
+                                                        href="blogs-best-laminate-catalogue">
                                                         <img loading="lazy" decoding="async" width="1200" height="800"
                                                             src="./assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
                                                             class="attachment-7056 size-7056 wp-post-image" alt=""
                                                             full="" /> </a>
                                                 </div>
                                                 <div class="blog-post-content">
-                                                    <a href="Category-Blog"
+                                                    <a href="category-blog"
                                                         class="tag">Blogs</a>
                                                     <h2 class="title"><a
-                                                            href="Blogs-Best-Laminate-Catalogue">Best
+                                                            href="blogs-best-laminate-catalogue">Best
                                                             Laminate Catalogue Design Services in India</a></h2>
                                                     <div class="blog-meta">
                                                         <ul class="list-wrap">
@@ -1252,7 +1252,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         <div class="rt-holder tpg-post-holder">
                                             <div class="rt-detail rt-el-content-wrapper">
                                                 <div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-                                                    <a data-id="7088" href="Blogs-Powerful-Branding-Strategies"
+                                                    <a data-id="7088" href="blogs-powerful-branding-strategies"
                                                         class="tpg-post-link" target="_self"> <img loading="lazy"
                                                             decoding="async" src="./assest/img/blogs/1banner-4.jpg"
                                                             class="rt-img-responsive" width="1200" height="800"
@@ -1263,22 +1263,22 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="entry-title-wrapper">
                                                     <div class="tpg-separate-category style1 top_left cat-above-title">
                                                         <span class="categories-links"><a class="blogs"
-                                                                href="Category-Blog">Blogs</a>
+                                                                href="category-blog">Blogs</a>
                                                         </span>
                                                     </div>
                                                     <h3 class="entry-title"><a data-id="7088"
-                                                            href="Blogs-Powerful-Branding-Strategies"
+                                                            href="blogs-powerful-branding-strategies"
                                                             class="tpg-post-link" target="_self">Powerful Branding
                                                             Strategies to Drive Business Growth &amp; Revenue</a></h3>
                                                 </div>
                                                 <div class="post-meta-tags rt-el-post-meta">
                                                     <span class="date">
-                                                        <i class="far fa-calendar-alt "></i> <a href="Home">
+                                                        <i class="far fa-calendar-alt "></i> <a href="home">
                                                             March 11, 2025 </a>
                                                     </span>
                                                     <span class="categories-links">
                                                         <i class="fas fa-folder-open "></i><a class="blogs"
-                                                            href="Category-Blog">Blogs</a>
+                                                            href="category-blog">Blogs</a>
                                                     </span>
                                                 </div>
                                                 <div class="tpg-excerpt tpg-el-excerpt">
@@ -1290,7 +1290,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                     <div class="post-footer">
                                                         <div class="read-more">
                                                             <a data-id="7088"
-                                                                href="Blogs-Powerful-Branding-Strategies"
+                                                                href="blogs-powerful-branding-strategies"
                                                                 class="tpg-post-link" target="_self">Read More...</a>
                                                         </div>
                                                     </div>
@@ -1303,7 +1303,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         <div class="rt-holder tpg-post-holder">
                                             <div class="rt-detail rt-el-content-wrapper">
                                                 <div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-                                                    <a data-id="7075" href="Blogs-Rendering"
+                                                    <a data-id="7075" href="blogs-rendering"
                                                         class="tpg-post-link" target="_self"> <img loading="lazy"
                                                             decoding="async" src="./assest/img/blogs/2Blog-5.jpg"
                                                             class="rt-img-responsive" width="1200" height="800"
@@ -1314,22 +1314,22 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="entry-title-wrapper">
                                                     <div class="tpg-separate-category style1 top_left cat-above-title">
                                                         <span class="categories-links"><a class="blogs"
-                                                                href="Category-Blog">Blogs</a>
+                                                                href="category-blog">Blogs</a>
                                                         </span>
                                                     </div>
                                                     <h3 class="entry-title"><a data-id="7075"
-                                                            href="Blogs-Rendering" class="tpg-post-link"
+                                                            href="blogs-rendering" class="tpg-post-link"
                                                             target="_self">How 3D Rendering Can
                                                             Help Brands Stand Out in a Competitive Market</a></h3>
                                                 </div>
                                                 <div class="post-meta-tags rt-el-post-meta">
                                                     <span class="date">
-                                                        <i class="far fa-calendar-alt "></i> <a href="Home">
+                                                        <i class="far fa-calendar-alt "></i> <a href="home">
                                                             March 7, 2025 </a>
                                                     </span>
                                                     <span class="categories-links">
                                                         <i class="fas fa-folder-open "></i><a class="blogs"
-                                                            href="Category-Blog">Blogs</a>
+                                                            href="category-blog">Blogs</a>
                                                     </span>
                                                 </div>
                                                 <div class="tpg-excerpt tpg-el-excerpt">
@@ -1340,7 +1340,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="post-footer">
                                                     <div class="post-footer">
                                                         <div class="read-more">
-                                                            <a data-id="7075" href="Blogs-Rendering"
+                                                            <a data-id="7075" href="blogs-rendering"
                                                                 class="tpg-post-link" target="_self">Read More...</a>
                                                         </div>
                                                     </div>
@@ -1353,7 +1353,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         <div class="rt-holder tpg-post-holder">
                                             <div class="rt-detail rt-el-content-wrapper">
                                                 <div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-                                                    <a data-id="7056" href="Blogs-Best-Laminate-Catalogue"
+                                                    <a data-id="7056" href="blogs-best-laminate-catalogue"
                                                         class="tpg-post-link" target="_self"> <img loading="lazy"
                                                             decoding="async"
                                                             src="./assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
@@ -1365,22 +1365,22 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="entry-title-wrapper">
                                                     <div class="tpg-separate-category style1 top_left cat-above-title">
                                                         <span class="categories-links"><a class="blogs"
-                                                                href="Category-Blog">Blogs</a>
+                                                                href="category-blog">Blogs</a>
                                                         </span>
                                                     </div>
                                                     <h3 class="entry-title"><a data-id="7056"
-                                                            href="Blogs-Best-Laminate-Catalogue"
+                                                            href="blogs-best-laminate-catalogue"
                                                             class="tpg-post-link" target="_self">Best Laminate Catalogue
                                                             Design Services in India</a></h3>
                                                 </div>
                                                 <div class="post-meta-tags rt-el-post-meta">
                                                     <span class="date">
-                                                        <i class="far fa-calendar-alt "></i> <a href="Home">
+                                                        <i class="far fa-calendar-alt "></i> <a href="home">
                                                             February 28, 2025 </a>
                                                     </span>
                                                     <span class="categories-links">
                                                         <i class="fas fa-folder-open "></i><a class="blogs"
-                                                            href="Category-Blog">Blogs</a>
+                                                            href="category-blog">Blogs</a>
                                                     </span>
                                                 </div>
                                                 <div class="tpg-excerpt tpg-el-excerpt">
@@ -1391,7 +1391,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="post-footer">
                                                     <div class="post-footer">
                                                         <div class="read-more">
-                                                            <a data-id="7056" href="Blogs-Best-Laminate-Catalogue"
+                                                            <a data-id="7056" href="blogs-best-laminate-catalogue"
                                                                 class="tpg-post-link" target="_self">Read More...</a>
                                                         </div>
                                                     </div>
@@ -1406,7 +1406,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="elementor-element elementor-element-678f840 elementor-widget elementor-widget-tg-btn"
                         data-id="678f840" data-element_type="widget" data-widget_type="tg-btn.default">
                         <div class="elementor-widget-container">
-                            <a href="Blogs" target="_blank" rel="nofollow" class="btn">
+                            <a href="blogs" target="_blank" rel="nofollow" class="btn">
                                 Our Blogs<span></span>
                             </a>
                         </div>
@@ -1435,7 +1435,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <h2 class="title tg-element-title">
                                                     Transform your vision into reality today!
                                                 </h2>
-                                            </div><a href="Contact-Us" target="_self" rel="nofollow"
+                                            </div><a href="contact-us" target="_self" rel="nofollow"
                                                 class="btn">Call Now <span></span></a>
                                         </div>
                                         <div class="newsletter-img">

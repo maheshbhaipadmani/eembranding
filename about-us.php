@@ -73,23 +73,23 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 in turning ideas into impactful realities. Based in
                                                                 Ahmedabad, we are a full-service agency offering a
                                                                 diverse range of solutions, including </span><a
-                                                                href="Digital-Marketing-Agency"><span
+                                                                href="digital-marketing-agency"><span
                                                                     style="font-weight: 400;">digital
                                                                     marketing</span></a><span
                                                                 style="font-weight: 400;">,</span><a
-                                                                href="Ui-Ux-Design"><span
+                                                                href="ui-ux-design"><span
                                                                     style="font-weight: 400;"> UI/UX
                                                                     design</span></a><span style="font-weight: 400;">,
                                                             </span><a
-                                                                href="Event-Management"><span
+                                                                href="event-management"><span
                                                                     style="font-weight: 400;">event
                                                                     management</span></a><span
                                                                 style="font-weight: 400;">, </span><a
-                                                                href="Rendering-3D"><span
+                                                                href="rendering"><span
                                                                     style="font-weight: 400;">3D
                                                                     rendering</span></a><span
                                                                 style="font-weight: 400;">, and </span><a
-                                                                href="Catalogue-Design"><span
+                                                                href="catalogue-design"><span
                                                                     style="font-weight: 400;">catalogue design
                                                                     services</span></a><span
                                                                 style="font-weight: 400;">.</span></p>
@@ -99,7 +99,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 enhance your online presence, captivate your audience
                                                                 with stunning designs, or elevate your brand with
                                                             </span><a
-                                                                href="Advertising-Agency"><span
+                                                                href="advertising-agency"><span
                                                                     style="font-weight: 400;">outdoor
                                                                     advertising</span></a><span
                                                                 style="font-weight: 400;">, we’re here to make it
