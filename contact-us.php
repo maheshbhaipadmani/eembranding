@@ -42,7 +42,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 data-id="289888e" data-element_type="widget" data-widget_type="contact-info.default">
                                 <div class="elementor-widget-container">
 
-                                    <div class="row justify-content-center">
+                                    <div class="row justify-content-center" style="margin-left: 0; margin-right: 0;">
                                         <div class="col-lg-4 col-md-6">
                                             <div class="contact-info-item">
                                                 <div class="icon">
@@ -242,7 +242,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 data-id="69c46e7" data-element_type="widget" data-widget_type="google_maps.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-custom-embed">
-                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.7717053808174!2d72.50066869999999!3d22.995421000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b2673181487%3A0xea3aa6a29eeb1d58!2sEEM%20Branding%20-%20Branding%20%26%20Advertising%20Agency%20-%20Digital%20Marketing%20Agency!5e0!3m2!1sen!2sin!4v1742357263878!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.7717053808174!2d72.50066869999999!3d22.995421000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b2673181487%3A0xea3aa6a29eeb1d58!2sEEM%20Branding%20-%20Branding%20%26%20Advertising%20Agency%20-%20Digital%20Marketing%20Agency!5e0!3m2!1sen!2sin!4v1742357263878!5m2!1sen!2sin" width="500" height="520" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -250,8 +250,63 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
             </section>
+
+            
         </div>
 
+        <script>
+document.addEventListener('DOMContentLoaded', function () {
+    const form = document.querySelector('.wpcf7-form');
+    
+    if (!form) return;
+
+    form.addEventListener('submit', function (e) {
+        // Clear previous errors
+        form.querySelectorAll('.form-error').forEach(el => el.remove());
+        let isValid = true;
+
+        // Input fields
+        const name = form.querySelector('input[name="your-name"]');
+        const email = form.querySelector('input[name="your-email"]');
+        const phone = form.querySelector('input[name="your-number"]');
+        const subject = form.querySelector('input[name="your-subject"]');
+        const message = form.querySelector('textarea[name="your-message"]');
+
+        // Helper: show error
+        const showError = (input, msg) => {
+            const error = document.createElement('div');
+            error.className = 'form-error';
+            error.style.color = 'red';
+            error.style.fontSize = '0.9em';
+            error.textContent = msg;
+            input.parentNode.appendChild(error);
+            isValid = false;
+        };
+
+        // Validations
+        if (!name.value.trim()) showError(name, 'Name is required');
+        if (!email.value.trim()) showError(email, 'Email is required');
+        else if (!/^\S+@\S+\.\S+$/.test(email.value)) showError(email, 'Enter a valid email');
+        
+        if (!phone.value.trim()) showError(phone, 'Phone is required');
+        else if (!/^\d{10}$/.test(phone.value)) showError(phone, 'Enter a valid 10-digit number');
+
+        if (!subject.value.trim()) showError(subject, 'Subject is required');
+        if (!message.value.trim()) showError(message, 'Message is required');
+
+        if (!isValid) e.preventDefault();
+    });
+});
+</script>
+
+<style>
+    .form-error {
+  margin-top: 5px;
+  color: red;
+  font-weight: 400;
+}
+
+</style>
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
 ?>

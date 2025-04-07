@@ -17265,7 +17265,7 @@ h1.entry-title {
 
 @media (max-width:1024px) {
     .elementor-section .elementor-container {
-        flex-wrap: wrap
+        flex-wrap: inherit;
     }
 }
 
@@ -20836,9 +20836,10 @@ h1.entry-title {
 
 .elementor-6939 .elementor-element.elementor-element-9b93f3e:not(.elementor-motion-effects-element-type-background),
 .elementor-6939 .elementor-element.elementor-element-9b93f3e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url(../img/about/breadcrumb_bg.jpg);
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover
+    background-size: cover;
 }
 
 .elementor-6939 .elementor-element.elementor-element-9b93f3e>.elementor-container {
@@ -21805,7 +21806,7 @@ body.rtl .elementor-6939 .elementor-element.elementor-element-1783f56 {
     }
 
     .elementor-6939 .elementor-element.elementor-element-f79ea92 {
-        padding: 0 0 80px 0
+        padding: 30px 0 10px 0
     }
 }
 
@@ -55108,7 +55109,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 
     .blog-area,
     .tg-page-area {
-        padding: 100px 0
+        padding: 50px 0
     }
 
     .blog-shape-wrap {

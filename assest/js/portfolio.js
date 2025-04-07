@@ -1,4 +1,3 @@
-
 $(document).ready(function () {
     $('.brand-slider').slick({
         dots: false,
@@ -7,13 +6,37 @@ $(document).ready(function () {
         autoplay: true,
         autoplaySpeed: 2000,
         arrows: false,
-        slidesToShow: 6, /* Always show 6 logos */
+        slidesToShow: 6,
         slidesToScroll: 2,
         responsive: [
-            { breakpoint: 1200, settings: { slidesToShow: 6, slidesToScroll: 2 } },
-            { breakpoint: 992, settings: { slidesToShow: 6, slidesToScroll: 2 } },
-            { breakpoint: 767, settings: { slidesToShow: 6, slidesToScroll: 2 } },
-            { breakpoint: 575, settings: { slidesToShow: 6, slidesToScroll: 2 } }
+            {
+                breakpoint: 1200,
+                settings: {
+                    slidesToShow: 6,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 992,
+                settings: {
+                    slidesToShow: 4,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 576,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1
+                }
+            }
         ]
     });
 });

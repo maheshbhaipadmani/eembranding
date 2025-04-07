@@ -57,7 +57,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-element elementor-element-c4faafa elementor-widget elementor-widget-heading"
                                     data-id="c4faafa" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                        <h2 class="elementor-heading-title elementor-size-default">Create Seamless
+                                        <h2 class="elementor-heading-title elementor-size-default mb-3 mt-3">Create Seamless
                                             Mobile Experiences with Expert App Development
                                         </h2>
                                     </div>

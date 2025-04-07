@@ -106,7 +106,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     Advertising: Understanding the Key
                                                                                     Differences</a></h3>
                                                                         </div>
-                                                                        <div class="post-meta-tags rt-el-post-meta">
+                                                                        <!-- <div class="post-meta-tags rt-el-post-meta">
                                                                             <span class="date">
                                                                                 <i class="far fa-calendar-alt "></i> <a
                                                                                     href="Home">
@@ -117,7 +117,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     class="blogs"
                                                                                     href="Category-Blog">Blogs</a>
                                                                             </span>
-                                                                        </div>
+                                                                        </div> -->
 
                                                                         <div class="tpg-excerpt tpg-el-excerpt">
                                                                             <div class="tpg-excerpt-inner">

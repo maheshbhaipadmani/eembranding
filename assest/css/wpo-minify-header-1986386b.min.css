@@ -17253,7 +17253,7 @@ h1.entry-title {
 
 @media (max-width:1024px) {
     .elementor-section .elementor-container {
-        flex-wrap: wrap
+        flex-wrap: inherit;
     }
 }
 
@@ -54776,7 +54776,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 
     .blog-area,
     .tg-page-area {
-        padding: 100px 0
+        padding: 50px 0
     }
 
     .blog-shape-wrap {

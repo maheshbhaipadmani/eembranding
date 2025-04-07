@@ -30,16 +30,16 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                     <div class="elementor-element elementor-element-c28537a elementor-widget elementor-widget-heading"
                                                         data-id="c28537a" data-element_type="widget"
                                                         data-widget_type="heading.default">
-                                                        <div class="elementor-widget-container">
-                                                            <h2 class="elementor-heading-title elementor-size-default">
+                                                        <div class="elementor-widget-container ">
+                                                            <h2 class="elementor-heading-title elementor-size-default P-O">
                                                                 Our Creative Showcase</h2>
                                                         </div>
                                                     </div>
                                                     <div class="elementor-element elementor-element-4208ec1 elementor-widget__width-initial elementor-widget elementor-widget-heading"
                                                         data-id="4208ec1" data-element_type="widget"
                                                         data-widget_type="heading.default">
-                                                        <div class="elementor-widget-container">
-                                                            <p class="elementor-heading-title elementor-size-default">
+                                                        <div class="elementor-widget-container ">
+                                                            <p class="elementor-heading-title elementor-size-default P-O">
                                                                 Explore our portfolio of captivating designs and
                                                                 successful campaigns. See how we've transformed brands
                                                                 and inspired audiences.</p>

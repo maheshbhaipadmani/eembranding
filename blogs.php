@@ -108,7 +108,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     Design in Brand Identity
                                                                                     Building</a></h3>
                                                                         </div>
-                                                                        <div class="post-meta-tags rt-el-post-meta">
+                                                                        <!-- <div class="post-meta-tags rt-el-post-meta">
                                                                             <span class="date">
                                                                                 <i class="far fa-calendar-alt "></i> <a
                                                                                     href="Home">
@@ -119,7 +119,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     class="blogs"
                                                                                     href="Category-Blog">Blogs</a>
                                                                             </span>
-                                                                        </div>
+                                                                        </div> -->
 
                                                                         <div class="tpg-excerpt tpg-el-excerpt">
                                                                             <div class="tpg-excerpt-inner">
@@ -180,7 +180,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     Strategies to Drive Business Growth
                                                                                     &amp; Revenue</a></h3>
                                                                         </div>
-                                                                        <div class="post-meta-tags rt-el-post-meta">
+                                                                        <!-- <div class="post-meta-tags rt-el-post-meta">
                                                                             <span class="date">
                                                                                 <i class="far fa-calendar-alt "></i> <a
                                                                                     href="Home">
@@ -191,7 +191,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     class="blogs"
                                                                                     href="Category-Blog">Blogs</a>
                                                                             </span>
-                                                                        </div>
+                                                                        </div> -->
 
                                                                         <div class="tpg-excerpt tpg-el-excerpt">
                                                                             <div class="tpg-excerpt-inner">
@@ -253,7 +253,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     Help Brands Stand Out in a
                                                                                     Competitive Market</a></h3>
                                                                         </div>
-                                                                        <div class="post-meta-tags rt-el-post-meta">
+                                                                        <!-- <div class="post-meta-tags rt-el-post-meta">
                                                                             <span class="date">
                                                                                 <i class="far fa-calendar-alt "></i> <a
                                                                                     href="Home">
@@ -264,7 +264,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     class="blogs"
                                                                                     href="Category-Blog">Blogs</a>
                                                                             </span>
-                                                                        </div>
+                                                                        </div> -->
 
                                                                         <div class="tpg-excerpt tpg-el-excerpt">
                                                                             <div class="tpg-excerpt-inner">
@@ -326,7 +326,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     Catalogue Design Services in
                                                                                     India</a></h3>
                                                                         </div>
-                                                                        <div class="post-meta-tags rt-el-post-meta">
+                                                                        <!-- <div class="post-meta-tags rt-el-post-meta">
                                                                             <span class="date">
                                                                                 <i class="far fa-calendar-alt "></i> <a
                                                                                     href="Home">
@@ -337,7 +337,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     class="blogs"
                                                                                     href="Category-Blog">Blogs</a>
                                                                             </span>
-                                                                        </div>
+                                                                        </div> -->
 
                                                                         <div class="tpg-excerpt tpg-el-excerpt">
                                                                             <div class="tpg-excerpt-inner">
@@ -399,7 +399,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     with a Top Digital Marketing
                                                                                     Company</a></h3>
                                                                         </div>
-                                                                        <div class="post-meta-tags rt-el-post-meta">
+                                                                        <!-- <div class="post-meta-tags rt-el-post-meta">
                                                                             <span class="date">
                                                                                 <i class="far fa-calendar-alt "></i> <a
                                                                                     href="Home">
@@ -410,7 +410,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     class="blogs"
                                                                                     href="Category-Blog">Blogs</a>
                                                                             </span>
-                                                                        </div>
+                                                                        </div> -->
 
                                                                         <div class="tpg-excerpt tpg-el-excerpt">
                                                                             <div class="tpg-excerpt-inner">
@@ -472,7 +472,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     Agency Can Boost Your Brand’s
                                                                                     Digital Presence</a></h3>
                                                                         </div>
-                                                                        <div class="post-meta-tags rt-el-post-meta">
+                                                                        <!-- <div class="post-meta-tags rt-el-post-meta">
                                                                             <span class="date">
                                                                                 <i class="far fa-calendar-alt "></i> <a
                                                                                     href="Home">
@@ -483,7 +483,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     class="blogs"
                                                                                     href="Category-Blog">Blogs</a>
                                                                             </span>
-                                                                        </div>
+                                                                        </div> -->
 
                                                                         <div class="tpg-excerpt tpg-el-excerpt">
                                                                             <div class="tpg-excerpt-inner">

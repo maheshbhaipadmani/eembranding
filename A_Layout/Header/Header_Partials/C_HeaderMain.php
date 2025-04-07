@@ -175,7 +175,7 @@ echo
                                         <img src="./assest/img/logo/logo-small.png" style="max-height: 36px" alt="Logo">
                                     </a>
                                 </div>
-                                <div class="menu-outer">
+                                <div class="">
                                     <ul id="menu-main-menu" class="navigation">
                                         <li itemscope="itemscope"
                                             itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-5521"

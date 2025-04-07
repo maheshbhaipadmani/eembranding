@@ -41,14 +41,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="elementor-element elementor-element-c600c56 elementor-widget elementor-widget-heading"
                                 data-id="c600c56" data-element_type="widget" data-widget_type="heading.default">
                                 <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">Services Built
+                                    <h2 class="elementor-heading-title elementor-size-default P-0">Services Built
                                         Specifically for your Business</h2>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-345de28 elementor-widget__width-initial elementor-widget elementor-widget-heading"
                                 data-id="345de28" data-element_type="widget" data-widget_type="heading.default">
                                 <div class="elementor-widget-container">
-                                    <p class="elementor-heading-title elementor-size-default">We offer customized
+                                    <p class="elementor-heading-title elementor-size-default P-0">We offer customized
                                         services tailored to your business needs, ensuring your brand's unique story is
                                         told with precision and creativity. Our bespoke solutions are designed to
                                         elevate your brand and engage your target audience effectively.</p>
@@ -124,7 +124,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="elementor-element elementor-element-6415dad elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-tg-servicesBox"
                                 data-id="6415dad" data-element_type="widget" data-widget_type="tg-servicesBox.default">
                                 <div class="elementor-widget-container">
-                                    <div class="row justify-content-center"></div>
+                                    <div class="row justify-content-center" style="margin-left: 0; margin-right: 0;"></div>
                                 </div>
                             </div>
                         </div>
@@ -138,7 +138,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="elementor-element elementor-element-0a20103 services-icon elementor-widget elementor-widget-tg-servicesBox"
                         data-id="0a20103" data-element_type="widget" data-widget_type="tg-servicesBox.default">
                         <div class="elementor-widget-container">
-                            <div class="row justify-content-center">
+                            <div class="row justify-content-center" style="margin-left: 0; margin-right: 0;">
                                 <div class="col-lg-4 col-md-6">
                                     <div class="services-item-two wow fadeInUp" data-wow-delay=".0s"
                                         style="visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
@@ -340,7 +340,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         presence?</h6>
                                                 </span>
                                                 <h2 class="title tg-element-title">
-                                                    Transform your vision into reality today!
+                                                Join us now to start  your digital transformation!
                                                 </h2>
                                             </div><a href="Contact-Us" target="_self" rel="nofollow"
                                                 class="btn">Call Now <span></span></a>
@@ -359,7 +359,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 </div>
             </section>
             <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-f79ea92 elementor-section-boxed elementor-section-height-default elementor-section-height-default custom-bottom-paddign"
+                class="elementor-section elementor-top-section elementor-element elementor-element-f79ea92 elementor-section-boxed elementor-section-height-default elementor-section-height-default custom-bottom-paddign mt-3"
                 data-id="f79ea92" data-element_type="section">
                 <div class="elementor-container elementor-column-gap-no">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8b0cce8"

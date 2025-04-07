@@ -17235,7 +17235,7 @@ h1.entry-title {
 
 @media (max-width:1024px) {
     .elementor-section .elementor-container {
-        flex-wrap: wrap
+        flex-wrap: inherit;
     }
 }
 
@@ -53966,7 +53966,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 
     .blog-area,
     .tg-page-area {
-        padding: 100px 0
+        padding: 50px 0
     }
 
     .blog-shape-wrap {
@@ -69993,6 +69993,12 @@ i[class*=" flaticon-"]:before {
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     padding: 30px 60px 30px 0;
 }
+
+@media (max-width: 430px) {
+    .elementor-214 .elementor-element.elementor-element-70f6d47{
+        padding: 10px !important;
+    }
+  }
 @media (min-width: 768px) {
     .elementor-214 .elementor-element.elementor-element-c399357 {
         width: 58.4%;

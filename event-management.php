@@ -57,7 +57,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-element elementor-element-0e3974e elementor-widget elementor-widget-heading"
                                     data-id="0e3974e" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                        <h2 class="elementor-heading-title elementor-size-default">Create Memorable
+                                        <h2 class="elementor-heading-title elementor-size-default mb-3 mt-3">Create Memorable
                                             Experiences with Expert Event Management</h2>
                                     </div>
                                 </div>
