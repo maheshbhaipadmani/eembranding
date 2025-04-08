@@ -14,7 +14,8 @@ echo
         href="./assest/img/logo/cropped-cropped-logo-small-180x180.png">
     <!-- favicon -->
 
-    <link rel="stylesheet" href="./assest/css/custom.css">
+    <link rel="stylesheet" href="./assest/css/dev-style.css">
+    <link rel="stylesheet" href="./assest/css/responsive.css">
     <link rel="stylesheet" href="./assest/css/whatsapp.css">
 
     <!-- font awesome -->
@@ -27,7 +28,5 @@ echo
     <link rel="stylesheet" id="wpo_min-header-0-css"  href="./assest/css/wpo-minify-header-dda130cd.min.css"  type="text/css" media="all">
     <link rel="stylesheet" id="wpo_min-header-0-css"  href="./assest/css/wpo-minify-header-ebbd37db.min.css"  type="text/css" media="all">
     </head>
-
-
 '
 ?>

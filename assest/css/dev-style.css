@@ -471,15 +471,7 @@ img:is([sizes="auto" i], [sizes^="auto," i]) {
     justify-content: left !important;
 }
 
-@media screen and (max-width: 480px) {
-    .testimonial-content p {
-        font-size: 15px;
-    }
 
-    .testimonial-content .content-bottom .title {
-        font-size: 18px;
-    }
-}
 * {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -760,34 +752,7 @@ min-height: auto; */
     color: #ffffff;
 }
 
-@media only screen and (min-width: 1000px) and (max-width: 1400px) {
-    .accordion-portfolio-lists li {
-        max-height: 100vh;
-        min-height: 100vh;
-    }
 
-    .accrdion-portfolio-area div {
-        height: auto !important;
-        min-height: unset !important;
-    }
-}
-
-@media (max-width: 991px) {
-    /* Error Box */
-    .error-box {
-        padding-top: 0;
-    }
-}
-
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-    .accordion-portfolio-lists li.out {
-        padding-top: 280px;
-    }
-
-    .accrdion-portfolio-area .out .accordion-overlay h2 {
-        font-size: 36px;
-    }
-}
 .navbar-wrap ul {
     margin: 0 0 0 auto !important;
 }
@@ -884,15 +849,7 @@ min-height: auto; */
     justify-content: left !important;
 }
 
-@media screen and (max-width: 480px) {
-    .testimonial-content p {
-        font-size: 15px;
-    }
 
-    .testimonial-content .content-bottom .title {
-        font-size: 18px;
-    }
-}
 .fal, .far {
     font-family: 'FontAwesome' !important;
 }
@@ -1156,73 +1113,10 @@ body .is-layout-grid {
     background: #ffdddd;
     height: 320px;
 }
-@media (max-width: 1024px) {
-    .test-bg .testimonial-item {
-      height: 410px;
-     
-    }
-    .test-bg .testimonial-item{
-     padding: 20px 20px;   
-    }
-    .pt-100 {
-        padding-top: 70px !important;
-    }
-  }
 
-  @media (max-width: 768px) {
-    .pt-100 {
-        padding-top: 50px !important;
-    }
-    .elementor-section .elementor-container {
-        flex-wrap: wrap !important;
-    }
-  }
-
-  @media (max-width: 425px) {
-    .pt-100 {
-        padding-top: 35px !important;
-    }
-    .custom-bottom-paddign {
-        padding: 50px 0 50px 0;
-    }
-    .accrdion-portfolio-area .accordion-overlay {
-        padding: 15px;
-    }
-    .elementor-4372 .elementor-element.elementor-element-2348a4d{
-        padding: 0 !important;
-    }
-    .elementor-214 .elementor-element.elementor-element-70f6d47{
-        padding: 0 !important;
-    }
-    .blog-area, .tg-page-area {
-        padding: 50px 0 !important;
-    }
-    .elementor-6939 .elementor-element.elementor-element-9b93f3e {
-        padding: 50px 0 50px 0;
-    }
-    .slick-slider .slick-track, .slick-slider .slick-list{
-        margin-top: 20px !important;
-    }
-    .elementor-6939 .elementor-element.elementor-element-f79ea92{
-        padding: 20px 0 0 0 !important;
-    }
-  }
   .mobile-menu .menu-box:nth-child(n+2) {
     display: none !important;
 }
-
-
-  @media (max-width: 320px) {
-    .pt-100 {
-        padding-top: 20px !important;
-    }
-    .blog-content {
-        padding: 20px 15px;
-    }
-    .elementor-214 .elementor-element.elementor-element-70f6d47{
-        padding: 0 !important;
-    }
-  }
 
 .leftside-sec .row.justify-content-center {
     justify-content: left !important;
@@ -1489,77 +1383,6 @@ min-height: auto; */
 .text-light a {
     color: #ffffff;
 }
-@media (max-width: 991px) {
-
-    /* Accordion Portfolio */
-    .accordion-portfolio-lists {
-        padding: 30px 15px;
-        display: block;
-        height: auto;
-        width: 100%;
-    }
-
-    .accrdion-portfolio-area,
-    .accrdion-portfolio-area div {
-        height: inherit;
-        min-height: inherit;
-    }
-
-    .accordion-portfolio-lists li {
-        width: 100%;
-        height: 90px;
-        display: block;
-        /* border: none; */
-        margin-top: 15px;
-        border-radius: 10px;
-        padding: 35px;
-    }
-    .accordion-portfolio-lists li h3 {
-        writing-mode: inherit !important;
-        padding: 15px !important;
-        position: absolute !important;
-        top: 50% !important;
-        transform: translate(0, -50%) !important;
-        right: 15px !important;
-        left: 100px !important;
-        text-align: right !important;
-    }
-    .accordion-portfolio-lists li h3 {
-        position: absolute;
-        left: 50%;
-        margin: 0 !important;
-        font-weight: 700;
-        padding: 0;
-        transform: translateX(-50%);
-        top: 50px;
-        writing-mode: inherit;
-        transition: all 0.35s ease-in-out;
-        font-size: 22px;
-    }
-    .accordion-portfolio-lists li>span {
-        left: 30px;
-        top: 50%;
-        transform: translate(0, -50%);
-        font-size: 60px;
-        bottom: auto;
-    }
-
-    .accordion-portfolio-lists li.out {
-        width: 100%;
-        padding-top: 200px;
-        height: auto;
-    }
-
-    .accordion-portfolio-lists li.out h3 {
-        display: none;
-    }
-
-    /* Error Box */
-    .error-box {
-        padding-top: 0;
-    }
-}
-
 
 /*===================================== portfolio page style ===================================== */
 .protfolio-slider .slick-slide {
@@ -1640,15 +1463,6 @@ min-height: auto; */
     justify-content: left !important;
 }
 
-@media screen and (max-width: 480px) {
-    .testimonial-content p {
-        font-size: 15px;
-    }
-
-    .testimonial-content .content-bottom .title {
-        font-size: 18px;
-    }
-}
 
 /*====================================== services page style ======================================*/
 .custom-bottom-paddign{
@@ -1932,96 +1746,6 @@ body {
     color: #fff
 }
 
-@media only screen and (min-width:1000px) and (max-width:1400px) {
-    .accordion-portfolio-lists li {
-        max-height: 100vh;
-        min-height: 100vh
-    }
-
-    .accrdion-portfolio-area div {
-        height: auto !important;
-        min-height: unset !important
-    }
-}
-
-@media (max-width:991px) {
-    .accordion-portfolio-lists {
-        padding: 30px 15px;
-        display: block;
-        height: auto;
-        width: 100%
-    }
-
-    .accrdion-portfolio-area,
-    .accrdion-portfolio-area div {
-        height: inherit;
-        min-height: inherit
-    }
-
-    .accordion-portfolio-lists li {
-        width: 100%;
-        height: 90px;
-        display: block;
-        border: none;
-        margin-top: 15px;
-        border-radius: 10px;
-        padding: 35px
-    }
-
-    .accordion-portfolio-lists li>span {
-        left: 30px;
-        top: 50%;
-        transform: translate(0, -50%);
-        font-size: 60px;
-        bottom: auto
-    }
-
-    .accordion-portfolio-lists li.out {
-        width: 100%;
-        padding-top: 200px;
-        height: auto
-    }
-
-    .accordion-portfolio-lists li.out h3 {
-        display: none
-    }
-
-    .accrdion-portfolio-area .out .accordion-overlay h2 {
-        font-size: 24px
-    }
-
-    .accordion-portfolio-lists li.out::before {
-        height: 100%
-    }
-
-    .accordion-portfolio-lists li::after {
-        opacity: .8
-    }
-
-    .accrdion-portfolio-area .out .accordion-overlay p {
-        padding: 0
-    }
-
-    .bg-dark ul.gallery-project-basic-info {
-        border: none;
-        background: #1d1d1d
-    }
-
-    .error-box {
-        padding-top: 0
-    }
-}
-
-@media only screen and (min-width:768px) and (max-width:991px) {
-    .accordion-portfolio-lists li.out {
-        padding-top: 280px
-    }
-
-    .accrdion-portfolio-area .out .accordion-overlay h2 {
-        font-size: 36px
-    }
-}
-
 .elementor-495 .elementor-element.elementor-element-cb5e0db .title {
     font-size: 36px;
 }
@@ -2031,26 +1755,7 @@ body {
 .custom-mt-5{
     margin-top: 1.5rem !important
 }
-@media (max-width: 425px) {
-    .brand-slider div {
-      width: 80px;
-    }
-  }
-  @media (min-width: 768px) {
-    .elementor-214 .elementor-element.elementor-element-c399357 {
-        width: 100% !important;
-    }
-}
-@media (min-width: 768px) {
-    .elementor-column.elementor-col-50, .elementor-column[data-col="50"] {
-        width: 100% !important;
-    }
-}
+
 .elementor-214 .elementor-element.elementor-element-c399357 {
     width: 130% !important;
-}
-@media (max-width: 768px) {
-    .test-bg .testimonial-item {
-        height: 350px;
-    }
 }
