@@ -2232,7 +2232,7 @@ input[type=number]::-webkit-outer-spin-button {
 .wpcf7-form-control-wrap {
     position: relative
 }
-
+/* 
 .wpcf7-not-valid-tip {
     color: #dc3232;
     font-size: 1em;
@@ -2249,7 +2249,7 @@ input[type=number]::-webkit-outer-spin-button {
     background: #fff;
     padding: .2em .8em;
     width: 24em
-}
+} */
 
 .wpcf7-list-item {
     display: inline-block;
@@ -17290,10 +17290,10 @@ h1.entry-title {
     flex-wrap: wrap;
     align-content: flex-start
 }
-
+/* 
 .elementor:not(.elementor-bc-flex-widget) .elementor-widget-wrap {
     display: flex
-}
+} */
 
 .elementor-widget-wrap>.elementor-element {
     width: 100%

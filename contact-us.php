@@ -98,7 +98,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <section
                                 class="elementor-section elementor-inner-section elementor-element elementor-element-70f6d47 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default"
-                                data-id="70f6d47" data-element_type="section"
+                                data-id="70f6d47" data-element_type="section" style="margin-top:3rem;"
                                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                 <div class="elementor-container elementor-column-gap-no">
                                     <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ec2eac5"
@@ -138,92 +138,21 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 </p>
                                                                 <ul></ul>
                                                             </div>
-                                                            <form action="/contact-us/#wpcf7-f1342-p214-o1"
-                                                                method="post" class="wpcf7-form init"
-                                                                aria-label="Contact form" novalidate="novalidate"
-                                                                data-status="init">
-                                                                <div style="display: none;">
-                                                                    <input type="hidden" name="_wpcf7" value="1342">
-                                                                    <input type="hidden" name="_wpcf7_version"
-                                                                        value="6.0">
-                                                                    <input type="hidden" name="_wpcf7_locale"
-                                                                        value="en_US">
-                                                                    <input type="hidden" name="_wpcf7_unit_tag"
-                                                                        value="wpcf7-f1342-p214-o1">
-                                                                    <input type="hidden" name="_wpcf7_container_post"
-                                                                        value="214">
-                                                                    <input type="hidden" name="_wpcf7_posted_data_hash"
-                                                                        value="">
-                                                                </div>
-                                                                <div class="contact-form-wrap">
-                                                                    <div class="row">
-                                                                        <div class="col-md-6">
-                                                                            <div class="form-grp">
-                                                                                <span class="wpcf7-form-control-wrap"
-                                                                                    data-name="your-name"><input
-                                                                                        size="40" maxlength="400"
-                                                                                        class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                                        aria-required="true"
-                                                                                        aria-invalid="false"
-                                                                                        placeholder="Your Name" value=""
-                                                                                        type="text"
-                                                                                        name="your-name"></span>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="col-md-6">
-                                                                            <div class="form-grp">
-                                                                                <span class="wpcf7-form-control-wrap"
-                                                                                    data-name="your-email"><input
-                                                                                        size="40" maxlength="400"
-                                                                                        class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email"
-                                                                                        aria-required="true"
-                                                                                        aria-invalid="false"
-                                                                                        placeholder="Email address"
-                                                                                        value="" type="email"
-                                                                                        name="your-email"></span>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="col-md-6">
-                                                                            <div class="form-grp">
-                                                                                <span class="wpcf7-form-control-wrap"
-                                                                                    data-name="your-number"><input
-                                                                                        size="40" maxlength="400"
-                                                                                        class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel"
-                                                                                        aria-required="true"
-                                                                                        aria-invalid="false"
-                                                                                        placeholder="Phone number"
-                                                                                        value="" type="tel"
-                                                                                        name="your-number"></span>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="col-md-6">
-                                                                            <div class="form-grp">
-                                                                                <span class="wpcf7-form-control-wrap"
-                                                                                    data-name="your-subject"><input
-                                                                                        size="40" maxlength="400"
-                                                                                        class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                                        aria-required="true"
-                                                                                        aria-invalid="false"
-                                                                                        placeholder="Subject" value=""
-                                                                                        type="text"
-                                                                                        name="your-subject"></span>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="form-grp">
-                                                                        <span class="wpcf7-form-control-wrap"
-                                                                            data-name="your-message"><textarea cols="40"
-                                                                                rows="10" maxlength="2000"
-                                                                                class="wpcf7-form-control wpcf7-textarea"
-                                                                                aria-invalid="false"
-                                                                                placeholder="Write message"
-                                                                                name="your-message"></textarea></span>
-                                                                    </div>
-                                                                    <button type="submit" class="btn">Send a message
-                                                                        <span></span></button>
-                                                                </div>
-                                                                <div class="wpcf7-response-output" aria-hidden="true">
-                                                                </div>
+                                                            <form class="contact-form"  id="contact-form">
+                                                              <div style="display: flex; gap:10px; margin-bottom: 10px;">
+                                                                <input type="text" id="name" placeholder="Your Name">
+                                                                <input type="email" id="email" placeholder="Email address">
+                                                              </div>
+                                                              <div style="display: flex; gap:10px; margin-bottom: 10px;">
+                                                                <input type="text" id="number" placeholder="Phone number">
+                                                                <input type="text" id="subject" placeholder="Subject">
+                                                              </div>
+                                                              <textarea placeholder="Write message" id="message" rows="4" style="height:180px"></textarea>
+                                                               <button type="submit" class="btn">Send a message <span></span></button>
+                                                               <!-- Feedback -->
+                                                             <div id="feedback-container" class="fixed top-0 end-0 p-3 z-[1050]">
+                                                               <div id="feedback" class="hidden alert" role="alert"></div>
+                                                             </div>
                                                             </form>
                                                         </div>
                                                     </div>
@@ -242,7 +171,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 data-id="69c46e7" data-element_type="widget" data-widget_type="google_maps.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-custom-embed">
-                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.7717053808174!2d72.50066869999999!3d22.995421000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b2673181487%3A0xea3aa6a29eeb1d58!2sEEM%20Branding%20-%20Branding%20%26%20Advertising%20Agency%20-%20Digital%20Marketing%20Agency!5e0!3m2!1sen!2sin!4v1742357263878!5m2!1sen!2sin" width="500" height="520" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.7717053808174!2d72.50066869999999!3d22.995421000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b2673181487%3A0xea3aa6a29eeb1d58!2sEEM%20Branding%20-%20Branding%20%26%20Advertising%20Agency%20-%20Digital%20Marketing%20Agency!5e0!3m2!1sen!2sin!4v1742357263878!5m2!1sen!2sin" width="500" height="650" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                     </div>
                                 </div>
                             </div>

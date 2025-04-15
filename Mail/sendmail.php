@@ -4,7 +4,7 @@ require 'smtp/PHPMailerAutoload.php';
 class SendMail
 {
     public $SenderEmail = "hitixa.bhuva@uniqueconsumerservices.com";
-    public $SenderEmailPassword = "EWE1{@1@^9cE";
+    public $SenderEmailPassword = "1f1UOc{3U*64";
     public $ReciverEmail = "patelhitixa4439@gmail.com";
     public $Subject = "";
     public $Body = "hello";
@@ -20,7 +20,7 @@ class SendMail
         $mail->SMTPDebug = 2; // Change to 3 for detailed debug output
         $mail->isSMTP();
         $mail->SMTPAuth = true;
-        $mail->SMTPSecure = 'ssl';
+        $mail->SMTPSecure = '';
         $mail->Host = "216.10.241.228";
         $mail->Port = 587;
         $mail->isHTML(true);

@@ -10,6 +10,7 @@ echo
     <script src="https://cdn.jsdelivr.net/npm/slick-carousel/slick/slick.min.js"></script>
 
     <!-- swiper -->
+    <script src="./assest/js/Contact-mail.js"></script>
     <script src="./assest/js/nav.js"></script>
      <script src="./assest/js/swiper.min.js"></script>
      <script src="./assest/js/whatsapp.js"></script>
