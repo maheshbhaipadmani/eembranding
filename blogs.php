@@ -1,4 +1,5 @@
 <?php
+include_once __DIR__ . '/A_Models/BLOG_Blog.php';
 $Title = "Our Blog | Eem Branding";
 $MetaDescription = "Our blog offers expert tips on digital marketing, branding, and more. Learn proven strategies to help your brand thrive in a competitive market.";
 $MetaKeywords = "digital marketing blog, branding tips, marketing strategies, expert marketing insights, brand growth techniques, online marketing advice, social media marketing tips, SEO strategies, content marketing ideas, advertising trends, business branding blog.";
@@ -6,6 +7,17 @@ $MetaKeywords = "digital marketing blog, branding tips, marketing strategies, ex
 
 <?php
 include __DIR__ . '/A_Layout/Header/header.php';
+
+$testOBJ = new BLOG_Blog();
+$page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
+$limit = 6;
+$myaraa = $testOBJ->selectblog($page, $limit);
+$total = $testOBJ->getBlogCount();
+$totalPages = ceil($total / $limit);
+// Reset the array pointer just in case
+reset($myaraa);
+
+
 ?>
 
     <!-- main-area -->
@@ -68,455 +80,72 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                                         <div data-title="Loading ..."
                                                             class="rt-row rt-content-loader grid-layout4 grid-behaviour tpg-full-height grid_layout_wrapper">
+                                                            <?php
+while ($item = current($myaraa)) {
+    ?>
+    <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item" data-id="7100">
+        <div class="rt-holder tpg-post-holder">
+            <div class="rt-detail rt-el-content-wrapper">
+                <div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
+                    <a data-id="7100" href="blogs-graphic-design" class="tpg-post-link" target="_self">
+                        <img fetchpriority="high" decoding="async" src="./assest/img/blogs/Blog-Graphic-design.jpg"
+                             class="rt-img-responsive" width="1200" height="800"
+                             alt="The Power of Graphic Design in Brand Identity Building">
+                    </a>
+                    <div class="overlay grid-hover-content"></div>
+                </div>
 
-                                                            <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item"
-                                                                data-id="7100">
-                                                                <div class="rt-holder tpg-post-holder">
-                                                                    <div class="rt-detail rt-el-content-wrapper">
-                                                                        <div
-                                                                            class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-                                                                            <a data-id="7100"
-                                                                                href="blogs-graphic-design"
-                                                                                class="tpg-post-link" target="_self">
-                                                                                <img fetchpriority="high"
-                                                                                    decoding="async"
-                                                                                    src="./assest/img/blogs/Blog-Graphic-design.jpg"
-                                                                                    class="rt-img-responsive"
-                                                                                    width="1200" height="800"
-                                                                                    alt="The Power of Graphic Design in Brand Identity Building">
+                <div class="entry-title-wrapper">
+                    <div class="tpg-separate-category style1 top_left cat-above-title">
+                        <span class="categories-links">
+                            <a class="blogs" href="category-blog">Blogs</a>
+                        </span>
+                    </div>
+                    <h3 class="entry-title">
+                        <a data-id="7100" href="blogs-graphic-design" class="tpg-post-link" target="_self">
+                        <?php echo $item["BlogTitle"]; ?>
 
+                        </a>
+                    </h3>
+                </div>
 
-                                                                            </a>
-                                                                            <div class="overlay grid-hover-content">
-                                                                            </div>
-                                                                        </div>
+                <div class="tpg-excerpt tpg-el-excerpt">
+                    <div class="tpg-excerpt-inner">
+                    <?php echo $item["BlogContent"]; ?>
+                    </div>
+                </div>
 
-                                                                        <div class="entry-title-wrapper">
-                                                                            <div
-                                                                                class="tpg-separate-category style1 top_left cat-above-title">
-                                                                                <span class="categories-links">
+                <div class="post-footer">
+                    <div class="read-more">
+                        <a data-id="7100" href="blogsdetails/<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">Read More...</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <?php
+    // Move to next item
+    next($myaraa);
+}
+?>
 
+                                                            
 
-                                                                                    <a class="blogs"
-                                                                                        href="category-blog">Blogs</a>
-                                                                                </span>
-                                                                            </div>
-                                                                            <h3 class="entry-title"><a data-id="7100"
-                                                                                    href="blogs-graphic-design"
-                                                                                    class="tpg-post-link"
-                                                                                    target="_self">The Power of Graphic
-                                                                                    Design in Brand Identity
-                                                                                    Building</a></h3>
-                                                                        </div>
-                                                                        <!-- <div class="post-meta-tags rt-el-post-meta">
-                                                                            <span class="date">
-                                                                                <i class="far fa-calendar-alt "></i> <a
-                                                                                    href="home">
-                                                                                    March 18, 2025 </a>
-                                                                            </span>
-                                                                            <span class="categories-links">
-                                                                                <i class="fas fa-folder-open "></i><a
-                                                                                    class="blogs"
-                                                                                    href="category-blog">Blogs</a>
-                                                                            </span>
-                                                                        </div> -->
-
-                                                                        <div class="tpg-excerpt tpg-el-excerpt">
-                                                                            <div class="tpg-excerpt-inner">
-                                                                                The Role of Graphic Design in Building a
-                                                                                Strong Brand Identity Standing out in a
-                                                                                crowded market... </div>
-                                                                        </div>
-
-                                                                        <div class="post-footer">
-                                                                            <div class="post-footer">
-                                                                                <div class="read-more">
-                                                                                    <a data-id="7100"
-                                                                                        href="blogs-graphic-design"
-                                                                                        class="tpg-post-link"
-                                                                                        target="_self">Read
-                                                                                        More.....</a>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-
-                                                            <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item"
-                                                                data-id="7088">
-                                                                <div class="rt-holder tpg-post-holder">
-                                                                    <div class="rt-detail rt-el-content-wrapper">
-                                                                        <div
-                                                                            class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-                                                                            <a data-id="7088"
-                                                                                href="blogs-powerful-branding-strategies"
-                                                                                class="tpg-post-link" target="_self">
-                                                                                <img fetchpriority="high"
-                                                                                    decoding="async"
-                                                                                    src="./assest/img/blogs/1banner-4.jpg"
-                                                                                    class="rt-img-responsive"
-                                                                                    width="1200" height="800"
-                                                                                    alt="Powerful Branding Strategies to Drive Business Growth &amp; Revenue">
-                                                                            </a>
-                                                                            <div class="overlay grid-hover-content">
-                                                                            </div>
-                                                                        </div>
-
-                                                                        <div class="entry-title-wrapper">
-                                                                            <div
-                                                                                class="tpg-separate-category style1 top_left cat-above-title">
-                                                                                <span class="categories-links">
-
-
-                                                                                    <a class="blogs"
-                                                                                        href="category-blog">Blogs</a>
-                                                                                </span>
-                                                                            </div>
-                                                                            <h3 class="entry-title"><a data-id="7088"
-                                                                                    href="blogs-powerful-branding-strategies"
-                                                                                    class="tpg-post-link"
-                                                                                    target="_self">Powerful Branding
-                                                                                    Strategies to Drive Business Growth
-                                                                                    &amp; Revenue</a></h3>
-                                                                        </div>
-                                                                        <!-- <div class="post-meta-tags rt-el-post-meta">
-                                                                            <span class="date">
-                                                                                <i class="far fa-calendar-alt "></i> <a
-                                                                                    href="home">
-                                                                                    March 11, 2025 </a>
-                                                                            </span>
-                                                                            <span class="categories-links">
-                                                                                <i class="fas fa-folder-open "></i><a
-                                                                                    class="blogs"
-                                                                                    href="category-blog">Blogs</a>
-                                                                            </span>
-                                                                        </div> -->
-
-                                                                        <div class="tpg-excerpt tpg-el-excerpt">
-                                                                            <div class="tpg-excerpt-inner">
-                                                                                How Strong Branding Can Accelerate
-                                                                                Business Growth and Revenue Branding is
-                                                                                more than just a logo or... </div>
-                                                                        </div>
-
-                                                                        <div class="post-footer">
-                                                                            <div class="post-footer">
-                                                                                <div class="read-more">
-                                                                                    <a data-id="7088"
-                                                                                        href="blogs-powerful-branding-strategies"
-                                                                                        class="tpg-post-link"
-                                                                                        target="_self">Read
-                                                                                        More.....</a>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-
-                                                            <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item"
-                                                                data-id="7075">
-                                                                <div class="rt-holder tpg-post-holder">
-                                                                    <div class="rt-detail rt-el-content-wrapper">
-                                                                        <div
-                                                                            class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-                                                                            <a data-id="7075"
-                                                                                href="blogs-rendering"
-                                                                                class="tpg-post-link" target="_self">
-                                                                                <img decoding="async"
-                                                                                    src="./assest/img/blogs/2Blog-5.jpg"
-                                                                                    class="rt-img-responsive"
-                                                                                    width="1200" height="800"
-                                                                                    alt="How 3D Rendering Can Help Brands Stand Out in a Competitive Market">
-
-
-                                                                            </a>
-                                                                            <div class="overlay grid-hover-content">
-                                                                            </div>
-                                                                        </div>
-
-                                                                        <div class="entry-title-wrapper">
-                                                                            <div
-                                                                                class="tpg-separate-category style1 top_left cat-above-title">
-                                                                                <span class="categories-links">
-
-
-                                                                                    <a class="blogs"
-                                                                                        href="category-blog">Blogs</a>
-                                                                                </span>
-                                                                            </div>
-                                                                            <h3 class="entry-title"><a data-id="7075"
-                                                                                    href="blogs-rendering"
-                                                                                    class="tpg-post-link"
-                                                                                    target="_self">How 3D Rendering Can
-                                                                                    Help Brands Stand Out in a
-                                                                                    Competitive Market</a></h3>
-                                                                        </div>
-                                                                        <!-- <div class="post-meta-tags rt-el-post-meta">
-                                                                            <span class="date">
-                                                                                <i class="far fa-calendar-alt "></i> <a
-                                                                                    href="home">
-                                                                                    March 7, 2025 </a>
-                                                                            </span>
-                                                                            <span class="categories-links">
-                                                                                <i class="fas fa-folder-open "></i><a
-                                                                                    class="blogs"
-                                                                                    href="category-blog">Blogs</a>
-                                                                            </span>
-                                                                        </div> -->
-
-                                                                        <div class="tpg-excerpt tpg-el-excerpt">
-                                                                            <div class="tpg-excerpt-inner">
-                                                                                In today’s rapidly evolving digital
-                                                                                landscape, brands must adopt innovative
-                                                                                approaches to capture... </div>
-                                                                        </div>
-
-                                                                        <div class="post-footer">
-                                                                            <div class="post-footer">
-                                                                                <div class="read-more">
-                                                                                    <a data-id="7075"
-                                                                                        href="blogs-rendering"
-                                                                                        class="tpg-post-link"
-                                                                                        target="_self">Read
-                                                                                        More.....</a>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-
-                                                            <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item"
-                                                                data-id="7056">
-                                                                <div class="rt-holder tpg-post-holder">
-                                                                    <div class="rt-detail rt-el-content-wrapper">
-                                                                        <div
-                                                                            class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-                                                                            <a data-id="7056"
-                                                                                href="blogs-best-laminate-catalogue"
-                                                                                class="tpg-post-link" target="_self">
-                                                                                <img loading="lazy" decoding="async"
-                                                                                    src="./assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
-                                                                                    class="rt-img-responsive"
-                                                                                    width="1200" height="800"
-                                                                                    alt="Best Laminate Catalogue Design Services in India">
-
-
-                                                                            </a>
-                                                                            <div class="overlay grid-hover-content">
-                                                                            </div>
-                                                                        </div>
-
-                                                                        <div class="entry-title-wrapper">
-                                                                            <div
-                                                                                class="tpg-separate-category style1 top_left cat-above-title">
-                                                                                <span class="categories-links">
-
-
-                                                                                    <a class="blogs"
-                                                                                        href="category-blog">Blogs</a>
-                                                                                </span>
-                                                                            </div>
-                                                                            <h3 class="entry-title"><a data-id="7056"
-                                                                                    href="blogs-best-laminate-catalogue"
-                                                                                    class="tpg-post-link"
-                                                                                    target="_self">Best Laminate
-                                                                                    Catalogue Design Services in
-                                                                                    India</a></h3>
-                                                                        </div>
-                                                                        <!-- <div class="post-meta-tags rt-el-post-meta">
-                                                                            <span class="date">
-                                                                                <i class="far fa-calendar-alt "></i> <a
-                                                                                    href="home">
-                                                                                    February 28, 2025 </a>
-                                                                            </span>
-                                                                            <span class="categories-links">
-                                                                                <i class="fas fa-folder-open "></i><a
-                                                                                    class="blogs"
-                                                                                    href="category-blog">Blogs</a>
-                                                                            </span>
-                                                                        </div> -->
-
-                                                                        <div class="tpg-excerpt tpg-el-excerpt">
-                                                                            <div class="tpg-excerpt-inner">
-                                                                                Why We Are the Best Laminate Catalogue
-                                                                                Designing Firm in India An Effectively
-                                                                                designed laminates... </div>
-                                                                        </div>
-
-                                                                        <div class="post-footer">
-                                                                            <div class="post-footer">
-                                                                                <div class="read-more">
-                                                                                    <a data-id="7056"
-                                                                                        href="blogs-best-laminate-catalogue"
-                                                                                        class="tpg-post-link"
-                                                                                        target="_self">Read
-                                                                                        More.....</a>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-
-                                                            <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item"
-                                                                data-id="7008">
-                                                                <div class="rt-holder tpg-post-holder">
-                                                                    <div class="rt-detail rt-el-content-wrapper">
-                                                                        <div
-                                                                            class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-                                                                            <a data-id="7008"
-                                                                                href="blogs-grow-your-business"
-                                                                                class="tpg-post-link" target="_self">
-                                                                                <img loading="lazy" decoding="async"
-                                                                                    src="./assest/img/blogs/4banner-3-1.jpg"
-                                                                                    class="rt-img-responsive"
-                                                                                    width="1200" height="800"
-                                                                                    alt="Grow Your Business with a Top Digital Marketing Company">
-
-
-                                                                            </a>
-                                                                            <div class="overlay grid-hover-content">
-                                                                            </div>
-                                                                        </div>
-
-                                                                        <div class="entry-title-wrapper">
-                                                                            <div
-                                                                                class="tpg-separate-category style1 top_left cat-above-title">
-                                                                                <span class="categories-links">
-
-
-                                                                                    <a class="blogs"
-                                                                                        href="category-blog">Blogs</a>
-                                                                                </span>
-                                                                            </div>
-                                                                            <h3 class="entry-title"><a data-id="7008"
-                                                                                    href="blogs-grow-your-business"
-                                                                                    class="tpg-post-link"
-                                                                                    target="_self">Grow Your Business
-                                                                                    with a Top Digital Marketing
-                                                                                    Company</a></h3>
-                                                                        </div>
-                                                                        <!-- <div class="post-meta-tags rt-el-post-meta">
-                                                                            <span class="date">
-                                                                                <i class="far fa-calendar-alt "></i> <a
-                                                                                    href="home">
-                                                                                    February 22, 2025 </a>
-                                                                            </span>
-                                                                            <span class="categories-links">
-                                                                                <i class="fas fa-folder-open "></i><a
-                                                                                    class="blogs"
-                                                                                    href="category-blog">Blogs</a>
-                                                                            </span>
-                                                                        </div> -->
-
-                                                                        <div class="tpg-excerpt tpg-el-excerpt">
-                                                                            <div class="tpg-excerpt-inner">
-                                                                                The Role of a Digital Marketing Company
-                                                                                in Business Growth In today’s fast-paced
-                                                                                digital landscape... </div>
-                                                                        </div>
-
-                                                                        <div class="post-footer">
-                                                                            <div class="post-footer">
-                                                                                <div class="read-more">
-                                                                                    <a data-id="7008"
-                                                                                        href="blogs-grow-your-business"
-                                                                                        class="tpg-post-link"
-                                                                                        target="_self">Read
-                                                                                        More.....</a>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-
-                                                            <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item"
-                                                                data-id="6993">
-                                                                <div class="rt-holder tpg-post-holder">
-                                                                    <div class="rt-detail rt-el-content-wrapper">
-                                                                        <div
-                                                                            class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-                                                                            <a data-id="6993"
-                                                                                href="blogs-creative-design-agency"
-                                                                                class="tpg-post-link" target="_self">
-                                                                                <img loading="lazy" decoding="async"
-                                                                                    src="./assest/img/blogs/5banner-2-1.jpg"
-                                                                                    class="rt-img-responsive"
-                                                                                    width="1200" height="800"
-                                                                                    alt="How a Creative Design Agency Can Boost Your Brand’s Digital Presence">
-
-
-                                                                            </a>
-                                                                            <div class="overlay grid-hover-content">
-                                                                            </div>
-                                                                        </div>
-
-                                                                        <div class="entry-title-wrapper">
-                                                                            <div
-                                                                                class="tpg-separate-category style1 top_left cat-above-title">
-                                                                                <span class="categories-links">
-
-
-                                                                                    <a class="blogs"
-                                                                                        href="category-blog">Blogs</a>
-                                                                                </span>
-                                                                            </div>
-                                                                            <h3 class="entry-title"><a data-id="6993"
-                                                                                    href="blogs-creative-design-agency"
-                                                                                    class="tpg-post-link"
-                                                                                    target="_self">How a Creative Design
-                                                                                    Agency Can Boost Your Brand’s
-                                                                                    Digital Presence</a></h3>
-                                                                        </div>
-                                                                        <!-- <div class="post-meta-tags rt-el-post-meta">
-                                                                            <span class="date">
-                                                                                <i class="far fa-calendar-alt "></i> <a
-                                                                                    href="home">
-                                                                                    February 17, 2025 </a>
-                                                                            </span>
-                                                                            <span class="categories-links">
-                                                                                <i class="fas fa-folder-open "></i><a
-                                                                                    class="blogs"
-                                                                                    href="category-blog">Blogs</a>
-                                                                            </span>
-                                                                        </div> -->
-
-                                                                        <div class="tpg-excerpt tpg-el-excerpt">
-                                                                            <div class="tpg-excerpt-inner">
-                                                                                How a Creative Design Agency Can Boost
-                                                                                Your Brand’s Digital Presence&nbsp; In
-                                                                                today’s competitive digital... </div>
-                                                                        </div>
-
-                                                                        <div class="post-footer">
-                                                                            <div class="post-footer">
-                                                                                <div class="read-more">
-                                                                                    <a data-id="6993"
-                                                                                        href="blogs-creative-design-agency"
-                                                                                        class="tpg-post-link"
-                                                                                        target="_self">Read
-                                                                                        More.....</a>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
                                                         </div>
                                                         <div class="rt-pagination-wrap" data-total-pages="2"
                                                             data-posts-per-page="6" data-type="pagination">
                                                             <div class="rt-pagination">
-                                                                <ul class="pagination-list">
-                                                                    <li class="active"><span>1</span></li>
-                                                                    <li><a data-paged="2"
-                                                                            href="Blogs-2">2</a>
-                                                                    </li>
-                                                                </ul>
-                                                            </div>
+    <ul class="pagination-list">
+        <?php for ($i = 1; $i <= $totalPages; $i++): ?>
+            <?php if ($i == $page): ?>
+                <li class="active"><span><?= $i ?></span></li>
+            <?php else: ?>
+                <li><a href="blogs/page/<?= $i ?>"><?= $i ?></a></li>
+            <?php endif; ?>
+        <?php endfor; ?>
+    </ul>
+</div>
+
                                                         </div>
                                                     </div>
                                                 </div>
