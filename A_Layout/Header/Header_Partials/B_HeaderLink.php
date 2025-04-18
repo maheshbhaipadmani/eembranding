@@ -21,12 +21,12 @@ echo
     <!-- font awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <link rel="stylesheet" id="header-0-css"  href="./assest/css/header-0e234091.min.css"  type="text/css" media="all">
-    <link rel="stylesheet" id="header-0-css"  href="./assest/css/header-91a72205.min.css"  type="text/css" media="all">
-    <link rel="stylesheet" id="header-0-css"  href="./assest/css/header-99982ff2.min.css"  type="text/css" media="all">
-    <link rel="stylesheet" id="header-0-css"  href="./assest/css/header-1986386b.min.css"  type="text/css" media="all">
-    <link rel="stylesheet" id="header-0-css"  href="./assest/css/header-dda130cd.min.css"  type="text/css" media="all">
-    <link rel="stylesheet" id="header-0-css"  href="./assest/css/header-ebbd37db.min.css"  type="text/css" media="all">
+    <link rel="stylesheet" id="min-header-0-css"  href="./assest/css/minify-header-0e234091.min.css"  type="text/css" media="all">
+    <link rel="stylesheet" id="min-header-0-css"  href="./assest/css/minify-header-91a72205.min.css"  type="text/css" media="all">
+    <link rel="stylesheet" id="min-header-0-css"  href="./assest/css/minify-header-99982ff2.min.css"  type="text/css" media="all">
+    <link rel="stylesheet" id="min-header-0-css"  href="./assest/css/minify-header-1986386b.min.css"  type="text/css" media="all">
+    <link rel="stylesheet" id="min-header-0-css"  href="./assest/css/minify-header-dda130cd.min.css"  type="text/css" media="all">
+    <link rel="stylesheet" id="min-header-0-css"  href="./assest/css/minify-header-ebbd37db.min.css"  type="text/css" media="all">
     </head>
 '
 ?>
