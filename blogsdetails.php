@@ -10,8 +10,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
 $testOBJ = new BLOG_Blog();
 
 $singleBlog = $testOBJ->getBlogByURL($_GET['url']);
-
-
+echo "hello";
+echo $_GET['url'];
 ?>
 
     <!-- main-area -->
