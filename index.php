@@ -191,14 +191,16 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=YyXAiHejnVk&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}"
                             data-widget_type="video.default">
                             <div class="elementor-widget-container">
-                                <div class="elementor-wrapper elementor-open-inline"><iframe class="elementor-video"
+                                <div class="elementor-wrapper elementor-open-inline">
+                                    <!-- <iframe class="elementor-video"
                                         frameborder="0" allowfullscreen=""
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                         referrerpolicy="strict-origin-when-cross-origin"
                                         title="EEM Branding – audio + visual + publicity. A creative digital marketing agency!"
                                         width="640" height="360"
                                         src="https://www.youtube.com/embed/YyXAiHejnVk?controls=1&amp;rel=0&amp;playsinline=0&amp;modestbranding=0&amp;autoplay=1&amp;enablejsapi=1&amp;origin=https%3A%2F%2Feembranding.com&amp;widgetid=1&amp;forigin=https%3A%2F%2Feembranding.com%2F&amp;aoriginsup=1&amp;vf=1"
-                                        id="widget2" data-gtm-yt-inspected-9="true"></iframe></div>
+                                        id="widget2" data-gtm-yt-inspected-9="true"></iframe> -->
+                                    </div>
                             </div>
                         </div>
                         <div class="elementor-element elementor-element-d816505 elementor-widget__width-initial elementor-absolute elementor-invisible elementor-widget elementor-widget-image"
