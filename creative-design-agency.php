@@ -59,12 +59,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                         <div class="about-img text-end">
                                             <img decoding="async" class="wow fadeInLeft" data-wow-delay=".5s"
-                                                src="./assest/img/service/creative-design-agency/Pacakging-design.jpeg"
+                                                src="./assest/img/service/creative-design-agency-in-ahmedabad/Pacakging-design.jpeg"
                                                 alt="packaging design"
                                                 style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
 
                                             <img decoding="async" class="wow zoomIn" data-wow-delay=".2s"
-                                                src="./assest/img/service/creative-design-agency/Rosewood-Lamintes.jpeg"
+                                                src="./assest/img/service/creative-design-agency-in-ahmedabad/Rosewood-Lamintes.jpeg"
                                                 alt="creative designing, graphic desinging"
                                                 style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
                                         </div>

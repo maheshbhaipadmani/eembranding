@@ -68,12 +68,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                         <div class="about-img text-end">
                                             <img decoding="async" class="wow fadeInLeft" data-wow-delay=".5s"
-                                                src="./assest/img/service/event-management/event-management.jpeg"
+                                                src="./assest/img/service/event-management-company-in-ahmedabad/event-management-company-in-ahmedabad.jpeg"
                                                 alt="event management"
                                                 style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
 
                                             <img decoding="async" class="wow zoomIn" data-wow-delay=".2s"
-                                                src="./assest/img/service/event-management/event-management-proffesional.jpeg"
+                                                src="./assest/img/service/event-management-company-in-ahmedabad/event-management-company-in-ahmedabad-proffesional.jpeg"
                                                 alt="event management"
                                                 style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
                                         </div>

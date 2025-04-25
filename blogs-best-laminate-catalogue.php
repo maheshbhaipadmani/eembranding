@@ -95,7 +95,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 identity.</span></p>
                                                                         <p><span style="font-weight: 400;">&nbsp;Here’s
                                                                                 how we engage customers for</span> <a
-                                                                                href="catalogue-design"><b>laminate
+                                                                                href="catalogue-design-company-in-ahmedabad/"><b>laminate
                                                                                     catalogue designing
                                                                                     services</b></a><span
                                                                                 style="font-weight: 400;"> in India in
@@ -107,7 +107,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 design</b><span
                                                                                 style="font-weight: 400;"> crafted by
                                                                                 a</span> <a
-                                                                                href="Creative-Design-Agency"><b>creative
+                                                                                href="creative-design-agency-in-ahmedabad"><b>creative
                                                                                     design agency</b></a><span
                                                                                 style="font-weight: 400;"> would be a
                                                                                 perfect blend of beauty, usability, and
@@ -340,7 +340,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </h2>
                                                                         <p><span style="font-weight: 400;">If you’re
                                                                                 looking for </span><a
-                                                                                href="catalogue-design"><b>laminate
+                                                                                href="catalogue-design-company-in-ahmedabad/"><b>laminate
                                                                                     catalogue design services in
                                                                                     Ahmedabad</b></a><span
                                                                                 style="font-weight: 400;">, EEM Branding
@@ -397,7 +397,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div id="respond" class="comment-respond">
                                     <h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a
                                                 rel="nofollow" id="cancel-comment-reply-link"
-                                                href="/blogs-best-laminate-catalogue-design-services-in-india/#respond"
+                                                href="/blogs-best-laminate-catalogue-design-company-in-ahmedabad/-services-in-india/#respond"
                                                 style="display:none;">Cancel reply</a></small></h3>
                                     <form action="wp-comments-post.php" method="post"
                                         id="commentform" class="comment-form">

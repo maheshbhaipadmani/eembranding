@@ -73,23 +73,23 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 in turning ideas into impactful realities. Based in
                                                                 Ahmedabad, we are a full-service agency offering a
                                                                 diverse range of solutions, including </span><a
-                                                                href="digital-marketing-agency"><span
+                                                                href="digital-marketing-agency-ahmedabad"><span
                                                                     style="font-weight: 400;">digital
                                                                     marketing</span></a><span
                                                                 style="font-weight: 400;">,</span><a
-                                                                href="ui-ux-design"><span
+                                                                href="ui-ux-design-company-in-ahmedabad"><span
                                                                     style="font-weight: 400;"> UI/UX
                                                                     design</span></a><span style="font-weight: 400;">,
                                                             </span><a
-                                                                href="event-management"><span
+                                                                href="event-management-company-in-ahmedabad"><span
                                                                     style="font-weight: 400;">event
                                                                     management</span></a><span
                                                                 style="font-weight: 400;">, </span><a
-                                                                href="rendering"><span
+                                                                href="3d-rendering-company-in-ahmedabad"><span
                                                                     style="font-weight: 400;">3D
                                                                     rendering</span></a><span
                                                                 style="font-weight: 400;">, and </span><a
-                                                                href="catalogue-design"><span
+                                                                href="catalogue-design-company-in-ahmedabad/"><span
                                                                     style="font-weight: 400;">catalogue design
                                                                     services</span></a><span
                                                                 style="font-weight: 400;">.</span></p>
@@ -99,7 +99,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 enhance your online presence, captivate your audience
                                                                 with stunning designs, or elevate your brand with
                                                             </span><a
-                                                                href="advertising-agency"><span
+                                                                href="advertising-agency-in-ahmedabad"><span
                                                                     style="font-weight: 400;">outdoor
                                                                     advertising</span></a><span
                                                                 style="font-weight: 400;">, we’re here to make it

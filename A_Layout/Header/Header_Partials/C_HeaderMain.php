@@ -50,7 +50,7 @@ echo
                                         </li>
                                         <li itemscope="itemscope"
                                             itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-5525"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown has-dropdown menu-item-5525 nav-item ' ?><?php if ($page == "services-page.php" || $page == "catalogue-design.php" || $page == "creative-design-agency.php" || $page == "digital-marketing-agency.php" || $page == "ui-ux-design.php" || $page == "website-design.php" || $page == "mobile-app-development.php" || $page == "event-management.php" || $page == "3d-rendering.php" || $page == "advertising-agency.php") {
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown has-dropdown menu-item-5525 nav-item ' ?><?php if ($page == "services-page.php" || $page == "catalogue-design-company-in-ahmedabad/.php" || $page == "creative-design-agency-in-ahmedabad.php" || $page == "digital-marketing-agency-ahmedabad.php" || $page == "ui-ux-design-company-in-ahmedabad.php" || $page == "website-design-company-in-ahmedabad.php" || $page == "mobile-app-development-company-ahmedabad.php" || $page == "event-management-company-in-ahmedabad.php" || $page == "3d-rendering.php" || $page == "advertising-agency.php") {
                                          echo 'active';
                                      } ?><?php echo '" aria-current="page">
                                             <a title="Services" href="services-page" class="nav-links">Services</a>
@@ -58,65 +58,65 @@ echo
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6705"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6705 nav-item ' ?><?php if ($page == "catalogue-design.php") {
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6705 nav-item ' ?><?php if ($page == "catalogue-design-company-in-ahmedabad/.php") {
                                                  echo 'active';
                                              } ?><?php echo '">
-                                                    <a title="Catalogue Design" href="catalogue-design"
+                                                    <a title="Catalogue Design" href="catalogue-design-company-in-ahmedabad/"
                                                         class="dropdown-items">Catalogue Design</a>
                                                 </li>
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6706"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6706 nav-item ' ?><?php if ($page == "creative-design-agency.php") {
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6706 nav-item ' ?><?php if ($page == "creative-design-agency-in-ahmedabad.php") {
                                                  echo 'active';
                                              } ?><?php echo '">
-                                                    <a title="Creative Designing" href="Creative-Design-Agency"
+                                                    <a title="Creative Designing" href="creative-design-agency-in-ahmedabad"
                                                         class="dropdown-items">Creative Designing</a>
                                                 </li>
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6707"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6707 nav-item ' ?><?php if ($page == "digital-marketing-agency.php") {
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6707 nav-item ' ?><?php if ($page == "digital-marketing-agency-ahmedabad.php") {
                                                  echo 'active';
                                              } ?><?php echo '">
-                                                    <a title="Digital Marketing" href="digital-marketing-agency"
+                                                    <a title="Digital Marketing" href="digital-marketing-agency-ahmedabad"
                                                         class="dropdown-items">Digital Marketing</a>
                                                 </li>
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6708"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6708 nav-item ' ?><?php if ($page == "ui-ux-design.php") {
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6708 nav-item ' ?><?php if ($page == "ui-ux-design-company-in-ahmedabad.php") {
                                                  echo 'active';
                                              } ?><?php echo '">
-                                                    <a title="Ui Ux Design" href="ui-ux-design"
+                                                    <a title="Ui Ux Design" href="ui-ux-design-company-in-ahmedabad"
                                                         class="dropdown-items">Ui Ux Design</a>
                                                 </li>
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6709"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6709 nav-item ' ?><?php if ($page == "website-design.php") {
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6709 nav-item ' ?><?php if ($page == "website-design-company-in-ahmedabad.php") {
                                                  echo 'active';
                                              } ?><?php echo '">
                                                     <a title="Website Design &amp; Development"
-                                                        href="website-design" class="dropdown-items">Website Design
+                                                        href="website-design-company-in-ahmedabad" class="dropdown-items">Website Design
                                                         &amp; Development</a>
                                                 </li>
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6710"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6710 nav-item ' ?><?php if ($page == "mobile-app-development.php") {
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6710 nav-item ' ?><?php if ($page == "mobile-app-development-company-ahmedabad.php") {
                                                  echo 'active';
                                              } ?><?php echo '">
-                                                    <a title="Mobile App" href="mobile-app-development"
+                                                    <a title="Mobile App" href="mobile-app-development-company-ahmedabad"
                                                         class="dropdown-items">Mobile App</a>
                                                 </li>
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6711"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6711 nav-item ' ?><?php if ($page == "event-management.php") {
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6711 nav-item ' ?><?php if ($page == "event-management-company-in-ahmedabad.php") {
                                                  echo 'active';
                                              } ?><?php echo '">
-                                                    <a title="Event Management" href="event-management"
+                                                    <a title="Event Management" href="event-management-company-in-ahmedabad"
                                                         class="dropdown-items">Event Management</a>
                                                 </li>
                                                 <li itemscope="itemscope"
@@ -125,7 +125,7 @@ echo
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6712 nav-item ' ?><?php if ($page == "3d-rendering.php") {
                                                  echo 'active';
                                              } ?><?php echo '">
-                                                    <a title="3d Rendering" href="rendering"
+                                                    <a title="3d Rendering" href="3d-rendering-company-in-ahmedabad"
                                                         class="dropdown-items">3d Rendering</a>
                                                 </li>
                                                 <li itemscope="itemscope"
@@ -134,7 +134,7 @@ echo
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6713 nav-item ' ?><?php if ($page == "advertising-agency.php") {
                                                  echo 'active';
                                              } ?><?php echo '">
-                                                    <a title="Advertising Agency" href="advertising-agency"
+                                                    <a title="Advertising Agency" href="advertising-agency-in-ahmedabad"
                                                         class="dropdown-items">Advertising Agency</a>
                                                 </li>
                                             </ul>
@@ -149,7 +149,7 @@ echo
                                         </li>
                                         <li itemscope="itemscope"
                                             itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6720"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6720 nav-item  ' ?><?php if ($page == "blogs.php" || $page == "blogs-2.php" || $page == "blogs-graphic-design.php" || $page == "blogs-best-laminate-catalogue.php" || $page == "blogs-grow-your-business.php" || $page == "blogs-powerful-branding-strategies.php" || $page == "blogs-how-a-creative-design-agency.php" || $page == "blogs-branding-vs-advertising.php" || $page == "blogs-how-3d-rendering.php" || $page == "category-blog.php") {
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6720 nav-item  ' ?><?php if ($page == "blogs.php" || $page == "blogs-2.php" || $page == "blogs-graphic-design.php" || $page == "blogs-best-laminate-catalogue.php" || $page == "blogs-grow-your-business.php" || $page == "blogs-powerful-branding-strategies.php" || $page == "blogs-how-a-creative-design-agency-in-ahmedabad.php" || $page == "blogs-branding-vs-advertising.php" || $page == "blogs-how-3d-rendering.php" || $page == "category-blog.php") {
                                     echo 'active';
                                 } ?><?php echo '">
                                             <a title="Blogs" href="blogs" class="nav-links">Blogs</a>
@@ -196,28 +196,28 @@ echo
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6705"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6705 nav-item">
-                                                    <a title="Catalogue Design" href="catalogue-design"
+                                                    <a title="Catalogue Design" href="catalogue-design-company-in-ahmedabad/"
                                                         class="dropdown-items">Catalogue Design</a>
                                                 </li>
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6706"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6706 nav-item">
-                                                    <a title="Creative Designing" href="Creative-Design-Agency"
+                                                    <a title="Creative Designing" href="creative-design-agency-in-ahmedabad"
                                                         class="dropdown-items">Creative Designing</a>
                                                 </li>
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6707"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6707 nav-item">
-                                                    <a title="Digital Marketing" href="digital-marketing-agency"
+                                                    <a title="Digital Marketing" href="digital-marketing-agency-ahmedabad"
                                                         class="dropdown-items">Digital Marketing</a>
                                                 </li>
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6708"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6708 nav-item">
-                                                    <a title="Ui Ux Design" href="ui-ux-design"
+                                                    <a title="Ui Ux Design" href="ui-ux-design-company-in-ahmedabad"
                                                         class="dropdown-items">Ui Ux Design</a>
                                                 </li>
                                                 <li itemscope="itemscope"
@@ -225,35 +225,35 @@ echo
                                                     id="menu-item-6709"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6709 nav-item">
                                                     <a title="Website Design &amp; Development"
-                                                        href="website-design" class="dropdown-items">Website Design
+                                                        href="website-design-company-in-ahmedabad" class="dropdown-items">Website Design
                                                         &amp; Development</a>
                                                 </li>
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6710"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6710 nav-item">
-                                                    <a title="Mobile App" href="mobile-app-development"
+                                                    <a title="Mobile App" href="mobile-app-development-company-ahmedabad"
                                                         class="dropdown-items">Mobile App</a>
                                                 </li>
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6711"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6711 nav-item">
-                                                    <a title="Event Management" href="event-management"
+                                                    <a title="Event Management" href="event-management-company-in-ahmedabad"
                                                         class="dropdown-items">Event Management</a>
                                                 </li>
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6712"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6712 nav-item">
-                                                    <a title="3d Rendering" href="rendering"
+                                                    <a title="3d Rendering" href="3d-rendering-company-in-ahmedabad"
                                                         class="dropdown-items">3d Rendering</a>
                                                 </li>
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6713"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6713 nav-item">
-                                                    <a title="Advertising Agency" href="advertising-agency"
+                                                    <a title="Advertising Agency" href="advertising-agency-in-ahmedabad"
                                                         class="dropdown-items">Advertising Agency</a>
                                                 </li>
                                             </ul>

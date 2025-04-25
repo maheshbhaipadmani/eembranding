@@ -61,12 +61,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                         <div class="about-img text-end">
                                             <img decoding="async" class="wow fadeInLeft" data-wow-delay=".5s"
-                                                src="./assest/img/service/ui-ux-design/UI.jpeg"
+                                                src="./assest/img/service/ui-ux-design-company-in-ahmedabad/UI.jpeg"
                                                 alt="uiux website designing"
                                                 style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
 
                                             <img decoding="async" class="wow zoomIn" data-wow-delay=".2s"
-                                                src="./assest/img/service/ui-ux-design/uiux-design-2.jpeg"
+                                                src="./assest/img/service/ui-ux-design-company-in-ahmedabad/uiux-design-2.jpeg"
                                                 alt="uiux designing"
                                                 style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
                                         </div>

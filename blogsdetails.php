@@ -129,7 +129,7 @@ $singleBlog = $testOBJ->getBlogByURL($_GET['url']);
                                 <div id="respond" class="comment-respond">
                                     <h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a
                                                 rel="nofollow" id="cancel-comment-reply-link"
-                                                href="/blogs-best-laminate-catalogue-design-services-in-india/#respond"
+                                                href="/blogs-best-laminate-catalogue-design-company-in-ahmedabad/-services-in-india/#respond"
                                                 style="display:none;">Cancel reply</a></small></h3>
                                     <form action="wp-comments-post.php" method="post"
                                         id="commentform" class="comment-form">
