@@ -1306,7 +1306,7 @@ while ($item = current($myaraa)) {
     next($myaraa);
 }
 ?>
-                                    <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item"
+                                    <!-- <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item"
                                         data-id="7075">
                                         <div class="rt-holder tpg-post-holder">
                                             <div class="rt-detail rt-el-content-wrapper">
@@ -1406,7 +1406,7 @@ while ($item = current($myaraa)) {
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
