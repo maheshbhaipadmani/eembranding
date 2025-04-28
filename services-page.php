@@ -258,7 +258,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <!-- <div class="col-lg-4 col-md-6">
                                     <div class="services-item-two wow fadeInUp" data-wow-delay=".12s"
                                         style="visibility: visible; animation-delay: 0.12s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
@@ -276,7 +276,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <a href="event-management-company-in-ahmedabad" class="link-btn">Read More</a>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div class="col-lg-4 col-md-6">
                                     <div class="services-item-two wow fadeInUp" data-wow-delay=".14s"
                                         style="visibility: visible; animation-delay: 0.14s; animation-name: fadeInUp;">

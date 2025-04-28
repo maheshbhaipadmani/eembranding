@@ -112,15 +112,6 @@ echo
                                                 </li>
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
-                                                    id="menu-item-6711"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6711 nav-item ' ?><?php if ($page == "event-management-company-in-ahmedabad.php") {
-                                                 echo 'active';
-                                             } ?><?php echo '">
-                                                    <a title="Event Management" href="event-management-company-in-ahmedabad"
-                                                        class="dropdown-items">Event Management</a>
-                                                </li>
-                                                <li itemscope="itemscope"
-                                                    itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6712"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6712 nav-item ' ?><?php if ($page == "3d-rendering.php") {
                                                  echo 'active';
@@ -234,13 +225,6 @@ echo
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6710 nav-item">
                                                     <a title="Mobile App" href="mobile-app-development-company-ahmedabad"
                                                         class="dropdown-items">Mobile App</a>
-                                                </li>
-                                                <li itemscope="itemscope"
-                                                    itemtype="https://www.schema.org/SiteNavigationElement"
-                                                    id="menu-item-6711"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6711 nav-item">
-                                                    <a title="Event Management" href="event-management-company-in-ahmedabad"
-                                                        class="dropdown-items">Event Management</a>
                                                 </li>
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
