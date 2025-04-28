@@ -38,7 +38,7 @@ reset($myaraa);
                                 <div class="row">
                                     <ul class="accordion-portfolio-lists text-light" id="accordion">
                                         <li
-                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/01-LAMINATE-catalogue-design-company-in-ahmedabad/.jpg');">
+                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/01-LAMINATE-CATALOGUE-DESIGN.jpg');">
                                             <h3>Laminate Catalogue Design</h3>
                                             <span>01</span>
                                             <div class="accordion-overlay">
