@@ -1,4 +1,5 @@
 <?php
+include_once __DIR__ . '/A_Models/BLOG_Blog.php';
 $Title = "Best Branding Agency in Ahmedabad for Business Growth";
 $MetaDescription = "EEM Branding is a trusted branding &amp; advertising agency in Ahmedabad, specialising in digital marketing, logo design, 3D rendering, and brochure design solutions.";
 $MetaKeywords = "branding agency in Ahmedabad, best branding agency, advertising agency Ahmedabad, logo design Ahmedabad, digital marketing agency Ahmedabad, SEO services Ahmedabad, social media marketing Ahmedabad, PPC advertising Ahmedabad, 3D rendering company, brochure design Ahmedabad, creative design agency, website development Ahmedabad, mobile app development Ahmedabad, UI UX design Ahmedabad, branding solutions, business branding services, corporate branding Ahmedabad, brand identity design, best digital marketing agency, content marketing services";
@@ -6,6 +7,14 @@ $MetaKeywords = "branding agency in Ahmedabad, best branding agency, advertising
 
 <?php
 include __DIR__ . '/A_Layout/Header/header.php';
+$testOBJ = new BLOG_Blog();
+$page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
+$limit = 6;
+$myaraa = $testOBJ->selectblog($page, $limit);
+$total = $testOBJ->getBlogCount();
+$totalPages = ceil($total / $limit);
+// Reset the array pointer just in case
+reset($myaraa);
 ?>
 
     <main class="main-area">
@@ -1249,57 +1258,54 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 </div>
                                 <div data-title="Loading ..."
                                     class="rt-row rt-content-loader grid-layout4 grid-behaviour tpg-full-height grid_layout_wrapper">
-                                    <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item"
-                                        data-id="7088">
-                                        <div class="rt-holder tpg-post-holder">
-                                            <div class="rt-detail rt-el-content-wrapper">
-                                                <div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-                                                    <a data-id="7088" href="blogs-powerful-branding-strategies"
-                                                        class="tpg-post-link" target="_self"> <img loading="lazy"
-                                                            decoding="async" src="./assest/img/blogs/1banner-4.jpg"
-                                                            class="rt-img-responsive" width="1200" height="800"
-                                                            alt="Powerful Branding Strategies to Drive Business Growth &amp; Revenue">
-                                                    </a>
-                                                    <div class="overlay grid-hover-content"></div>
-                                                </div>
-                                                <div class="entry-title-wrapper">
-                                                    <div class="tpg-separate-category style1 top_left cat-above-title">
-                                                        <span class="categories-links"><a class="blogs"
-                                                                href="category-blog">Blogs</a>
-                                                        </span>
-                                                    </div>
-                                                    <h3 class="entry-title"><a data-id="7088"
-                                                            href="blogs-powerful-branding-strategies"
-                                                            class="tpg-post-link" target="_self">Powerful Branding
-                                                            Strategies to Drive Business Growth &amp; Revenue</a></h3>
-                                                </div>
-                                                <div class="post-meta-tags rt-el-post-meta">
-                                                    <span class="date">
-                                                        <i class="far fa-calendar-alt "></i> <a href="home">
-                                                            March 11, 2025 </a>
-                                                    </span>
-                                                    <span class="categories-links">
-                                                        <i class="fas fa-folder-open "></i><a class="blogs"
-                                                            href="category-blog">Blogs</a>
-                                                    </span>
-                                                </div>
-                                                <div class="tpg-excerpt tpg-el-excerpt">
-                                                    <div class="tpg-excerpt-inner">
-                                                        How Strong Branding Can Accelerate Business Growth and Revenue
-                                                        Branding is more than just a logo or...</div>
-                                                </div>
-                                                <div class="post-footer">
-                                                    <div class="post-footer">
-                                                        <div class="read-more">
-                                                            <a data-id="7088"
-                                                                href="blogs-powerful-branding-strategies"
-                                                                class="tpg-post-link" target="_self">Read More...</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    <?php
+while ($item = current($myaraa)) {
+    ?>
+    <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item" data-id="7100">
+        <div class="rt-holder tpg-post-holder">
+            <div class="rt-detail rt-el-content-wrapper">
+                <div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
+                    <a data-id="7100" href="blogsdetails/<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">
+                        <img fetchpriority="high" decoding="async" src="<?php echo $item['Thumbnail']; ?>"
+                             class="rt-img-responsive" width="1200" height="800"
+                             alt="The Power of Graphic Design in Brand Identity Building">
+                    </a>
+                    <div class="overlay grid-hover-content"></div>
+                </div>
+
+                <div class="entry-title-wrapper">
+                    <div class="tpg-separate-category style1 top_left cat-above-title">
+                        <span class="categories-links">
+                            <a class="blogs" href="category-blog">Blogs</a>
+                        </span>
+                    </div>
+                    <h3 class="entry-title">
+                        <a data-id="7100" href="blogsdetails/<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">
+                        <?php echo $item["BlogTitle"]; ?>
+
+                        </a>
+                    </h3>
+                </div>
+
+                <div class="tpg-excerpt tpg-el-excerpt">
+                    <div class="tpg-excerpt-inner">
+                    <?php echo mb_substr($item["BlogContent"], 0, 150) . '...'; ?>
+                    </div>
+                </div>
+
+                <div class="post-footer">
+                    <div class="read-more">
+                        <a data-id="7100" href="blogsdetails/<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">Read More...</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <?php
+    // Move to next item
+    next($myaraa);
+}
+?>
                                     <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item"
                                         data-id="7075">
                                         <div class="rt-holder tpg-post-holder">

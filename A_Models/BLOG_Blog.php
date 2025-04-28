@@ -115,6 +115,45 @@ class BLOG_Blog extends dbconnect
         $row = $result->fetch_assoc();
         return $row['total'];
     }
+
+    public function selectAllBlogs()
+    {
+        try {
+            $query = "SELECT
+                        BlogID,
+                        BlogTitle,
+                        BlogContent,
+                        AuthorId,
+                        Thumbnail,
+                        Sequence,
+                        URL,
+                        Technology,
+                        MetaTitle,
+                        MetaImage,
+                        MetaDescription,
+                        MetaKeywords,
+                        Description,
+                        CreatedDate,
+                        CreatedBy,
+                        ModifiedDate,
+                        ModifiedBy,
+                        ScheduledDate
+                    FROM BLOG_Blog
+                    WHERE DeletedAt IS NULL
+                    ORDER BY CreatedDate DESC";
+    
+            $result = $this->connection->query($query);
+    
+            if ($result) {
+                return mysqli_fetch_all($result, MYSQLI_ASSOC);
+            } else {
+                return [];
+            }
+        } catch (Exception $e) {
+            return false;
+        }
+    }    
+    
     
     //generate otp 
     public function getBlogByURL($url)

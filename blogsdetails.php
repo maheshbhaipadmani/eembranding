@@ -20,7 +20,7 @@ $singleBlog = $testOBJ->getBlogByURL($_GET['url']);
                 <div class="row align-items-center">
                     <div class="col-lg-7">
                         <div class="breadcrumb-content-two">
-                            <h1 class="title">Best Laminate Catalogue Design Services in India</h1>
+                            <h1 class="title"> <?php echo $singleBlog["BlogTitle"]; ?></h1>
                         </div>
                     </div>
                     <div class="col-lg-5">
@@ -46,7 +46,7 @@ $singleBlog = $testOBJ->getBlogByURL($_GET['url']);
 
                                 <div class="blog-thumb">
                                     <img fetchpriority="high" width="1200" height="800"
-                                        src="./assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
+                                        src="<?php echo $singleBlog['Thumbnail']; ?>"
                                         class="img-responsive wp-post-image" alt="" decoding="async">
                                 </div>
 
