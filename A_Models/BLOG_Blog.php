@@ -91,7 +91,7 @@ class BLOG_Blog extends dbconnect
                     ScheduledDate
                 FROM BLOG_Blog
                 WHERE DeletedAt IS NULL
-                ORDER BY Sequence ASC
+                ORDER BY CreatedDate DESC
                 LIMIT $limit OFFSET $offset
             ";
     
