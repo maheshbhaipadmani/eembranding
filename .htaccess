@@ -48,7 +48,6 @@ RewriteRule ^blogs-creative-design-agency$ blogs-how-a-creative-design-agency.ph
 RewriteRule ^catalogue-design-company-in-ahmedabad$ catalogue-design.php [L,NC]
 RewriteRule ^contact-us$ contact-us.php [L,NC]
 RewriteRule ^portfolio/dazzle-berryenpastel$ dazzle-berryenpastel.php [L,NC]
-RewriteRule ^event-management-company-in-ahmedabad$ event-management.php [L,NC]
 RewriteRule ^portfolio/fabrino-fabric$ fabrino-fabric.php [L,NC]
 RewriteRule ^kiana$ kiana.php [L,NC]
 RewriteRule ^mobile-app-development-company-ahmedabad$ mobile-app-development.php [L,NC]

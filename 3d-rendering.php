@@ -9,8 +9,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
 <!-- main-area -->
-<main class="main-area">
-    <!-- breadcrumb-area -->
+<!-- <main class="main-area">
+    
     <section class="breadcrumb-area-two ">
         <div class="container">
             <div class="row align-items-center">
@@ -30,8 +30,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
         </div>
     </section>
 
-    <!-- breadcrumb-area-end -->
-    <section class="services-details-area">
+        <section class="services-details-area">
         <div class="container">
             <div data-elementor-type="wp-post" data-elementor-id="4414" class="elementor elementor-4414">
                 <div class="elementor-element elementor-element-5b57568 e-flex e-con-boxed e-con e-parent e-lazyloaded"
@@ -198,7 +197,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <?php
     include __DIR__ . '/A_Layout/Footer/footer.php';

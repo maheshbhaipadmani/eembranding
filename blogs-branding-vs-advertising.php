@@ -8,9 +8,9 @@ $MetaKeywords = "branding vs advertising, difference between branding and advert
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-    <!-- main-area -->
+   
     <main class="main-area">
-        <!-- breadcrumb-area -->
+        
         <section class="breadcrumb-area-two details-breadcrumb">
             <div class="container">
                 <div class="row align-items-center">
@@ -31,8 +31,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
 
-        <!-- breadcrumb-area-end -->
-        <section class="blog-area blog-details-area pt-100 pb-120">
+                <section class="blog-area blog-details-area pt-100 pb-120">
             <div class="container">
                 <div class="inner-blog-wrap">
                     <div class="row justify-content-center">

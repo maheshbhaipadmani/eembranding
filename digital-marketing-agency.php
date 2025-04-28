@@ -8,9 +8,7 @@ $MetaKeywords = "digital marketing company Ahmedabad, best SEO services, PPC adv
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-    <!-- main-area -->
-    <main class="main-area">
-        <!-- breadcrumb-area -->
+    <!-- <main class="main-area">
 
         <section class="breadcrumb-area-two ">
 
@@ -64,7 +62,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
         </section>
 
-        <!-- breadcrumb-area-end -->
 
         <section class="services-details-area">
             <div class="container">
@@ -293,7 +290,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
 
         <?php

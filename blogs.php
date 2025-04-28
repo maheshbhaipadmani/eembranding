@@ -20,10 +20,10 @@ reset($myaraa);
 
 ?>
 
-    <!-- main-area -->
+   
     <main class="main-area">
 
-        <!-- breadcrumb-area -->
+        
         <section class="breadcrumb-area-two ">
             <div class="container">
                 <div class="row align-items-center">
@@ -42,8 +42,7 @@ reset($myaraa);
                 </div>
             </div>
         </section>
-        <!-- breadcrumb-area-end -->
-
+        
         <!-- about intro  -->
          <!-- card blog -->
          <div class="tg-page-area pt-100 pb-120">

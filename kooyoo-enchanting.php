@@ -7,9 +7,9 @@ $MetaKeywords = "Kooyoo Enchanting, conceptual design, sophisticated branding, i
 <?php
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
-    <!-- main-area -->
+   
     <main class="main-area">
-        <!-- breadcrumb-area -->
+        
         <section class="breadcrumb-area-two ">
             <div class="container">
                 <div class="row align-items-center">
@@ -29,8 +29,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 </div>
             </div>
         </section>
-        <!-- breadcrumb-area-end -->
-        <section class="project-details-area">
+                <section class="project-details-area">
             <div class="container">
                 <div class="row">
                     <div class="col-12">

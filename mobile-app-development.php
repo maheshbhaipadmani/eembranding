@@ -8,9 +8,9 @@ $MetaKeywords = "mobile app development, app design company, custom mobile solut
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-    <!-- main-area -->
-    <main class="main-area">
-        <!-- breadcrumb-area -->
+   
+    <!-- <main class="main-area">
+        
 
         <section class="breadcrumb-area-two ">
             <div class="container">
@@ -32,8 +32,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
 
-        <!-- breadcrumb-area-end -->
-        <section class="services-details-area">
+                <section class="services-details-area">
             <div class="container">
                 <div data-elementor-type="wp-post" data-elementor-id="4577" class="elementor elementor-4577">
                     <div class="elementor-element elementor-element-90556e0 e-flex e-con-boxed e-con e-parent e-lazyloaded"
@@ -203,7 +202,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
 
         <?php

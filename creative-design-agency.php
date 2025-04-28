@@ -1,4 +1,4 @@
-<?php
+ <?php
 $Title = "Creative Designing Agency | Logo, Packaging &amp; Graphic Design in Ahmedabad";
 $MetaDescription = "Looking for a graphic design company in Ahmedabad? Our creative designing agency specializes in logo design, packaging design, and more to enhance your brand’s visual presence.";
 $MetaKeywords = "graphic design company Ahmedabad, creative designing agency, logo design Ahmedabad, packaging design services, branding and design, professional graphic design, visual identity design, custom logo design, print and digital design, best graphic design agency, creative branding solutions, corporate identity design.";
@@ -8,9 +8,7 @@ $MetaKeywords = "graphic design company Ahmedabad, creative designing agency, lo
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-    <!-- main-area -->
-    <main class="main-area">
-        <!-- breadcrumb-area -->
+    <!-- <main class="main-area">
         <section class="breadcrumb-area-two ">
             <div class="container">
                 <div class="row align-items-center">
@@ -30,7 +28,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
 
-        <!-- breadcrumb-area-end -->
         <section class="services-details-area">
             <div class="container">
                 <div data-elementor-type="wp-post" data-elementor-id="4388" class="elementor elementor-4388 custom-mt-5">
@@ -239,8 +236,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
-?>
+?> 

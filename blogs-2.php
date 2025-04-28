@@ -8,10 +8,10 @@ $MetaKeywords = "Digital marketing tips, branding strategies, expert marketing i
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-    <!-- main-area -->
+   
     <main class="main-area">
 
-        <!-- breadcrumb-area -->
+        
         <section class="breadcrumb-area-two ">
             <div class="container">
                 <div class="row align-items-center">
@@ -30,8 +30,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 </div>
             </div>
         </section>
-        <!-- breadcrumb-area-end -->
-
+        
         <!-- about intro  -->
          <!-- card blog -->
          <div class="tg-page-area pt-100 pb-120">

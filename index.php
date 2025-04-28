@@ -521,26 +521,6 @@ reset($myaraa);
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-6">
-                                            <div class="services-item-two wow fadeInUp" data-wow-delay=".12s"
-                                                style="visibility: hidden; animation-delay: 0.12s; animation-name: none;">
-                                                <div class="services-icon-two">
-                                                    <img decoding="async"
-                                                        src="./assest/img/home/icon/7-event-menegment.png"
-                                                        alt="Icon">
-                                                </div>
-                                                <div class="services-content-two">
-                                                    <h2 class="title">
-                                                        <a href="event-management-company-in-ahmedabad">Event
-                                                            Management Company In Ahmedabad</a>
-                                                    </h2>
-                                                    <p>Elevate your events with precision planning and flawless
-                                                        execution. Our event management services ensure unforgettable
-                                                        experiences tailored to your unique vision and goals.</p>
-                                                    <a href="event-management-company-in-ahmedabad" class="link-btn">Read More</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-4 col-md-6">
                                             <div class="services-item-two wow fadeInUp" data-wow-delay=".14s"
                                                 style="visibility: hidden; animation-delay: 0.14s; animation-name: none;">
                                                 <div class="services-icon-two">

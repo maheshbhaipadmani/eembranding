@@ -8,7 +8,7 @@ $MetaKeywords = "latest work EEM Branding, creative portfolio, branding projects
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-    <!-- main-area -->
+   
     <main class="main-area">
         <div class="tg-page-area pb-120">
             <div class="container">
@@ -205,23 +205,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                                 </div>
                                             </div>
-                                            <div class="elementor-element elementor-element-c50c600 elementor-widget elementor-widget-tg-btn"
-                                                data-id="c50c600" data-element_type="widget"
-                                                data-widget_type="tg-btn.default">
-                                                <div class="elementor-widget-container">
 
-
-                                                    <div class="newsletter-btn">
-                                                        <a href="#em7" target="_blank" rel="nofollow"
-                                                            class="btn btn-three">
-                                                            Event Management<span></span>
-                                                        </a>
-                                                    </div>
-
-
-
-                                                </div>
-                                            </div>
                                             <div class="elementor-element elementor-element-bc968ae elementor-widget elementor-widget-tg-btn"
                                                 data-id="bc968ae" data-element_type="widget"
                                                 data-widget_type="tg-btn.default">

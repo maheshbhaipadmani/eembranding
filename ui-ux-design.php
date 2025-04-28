@@ -8,9 +8,9 @@ $MetaKeywords = "UI/UX design agency, best UI/UX company Ahmedabad, user-centric
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-    <!-- main-area -->
-    <main class="main-area">
-        <!-- breadcrumb-area -->
+   
+    <!-- <main class="main-area">
+        
 
         <section class="breadcrumb-area-two ">
             <div class="container">
@@ -31,8 +31,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
 
-        <!-- breadcrumb-area-end -->
-
+        
         <section class="services-details-area">
             <div class="container">
                 <div data-elementor-type="wp-post" data-elementor-id="4382" class="elementor elementor-4382">
@@ -235,7 +234,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
 
         <?php

@@ -8,10 +8,10 @@ $MetaKeywords = "branding agency Ahmedabad, advertising agency, digital marketin
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-    <!-- main-area -->
+   
     <main class="main-area">
 
-        <!-- breadcrumb-area -->
+        
         <section class="breadcrumb-area-two ">
             <div class="container">
                 <div class="row align-items-center">
@@ -30,8 +30,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 </div>
             </div>
         </section>
-        <!-- breadcrumb-area-end -->
-
+        
         <!-- about intro  -->
         <div class="tg-page-area pt-100 pb-120">
             <div class="container">
@@ -80,10 +79,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 href="ui-ux-design-company-in-ahmedabad"><span
                                                                     style="font-weight: 400;"> UI/UX
                                                                     design</span></a><span style="font-weight: 400;">,
-                                                            </span><a
-                                                                href="event-management-company-in-ahmedabad"><span
-                                                                    style="font-weight: 400;">event
-                                                                    management</span></a><span
+                                                            </span><span
                                                                 style="font-weight: 400;">, </span><a
                                                                 href="3d-rendering-company-in-ahmedabad"><span
                                                                     style="font-weight: 400;">3D

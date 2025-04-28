@@ -8,9 +8,9 @@ $MetaKeywords = "Mr. Velvet Ears, luxury design, soft texture, premium aesthetic
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-    <!-- main-area -->
+   
     <main class="main-area">
-        <!-- breadcrumb-area -->
+        
 
         <section class="breadcrumb-area-two ">
             <div class="container">

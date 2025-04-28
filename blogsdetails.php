@@ -12,9 +12,9 @@ $testOBJ = new BLOG_Blog();
 $singleBlog = $testOBJ->getBlogByURL($_GET['url']);
 ?>
 
-    <!-- main-area -->
+   
     <main class="main-area">
-        <!-- breadcrumb-area -->
+        
         <section class="breadcrumb-area-two details-breadcrumb">
             <div class="container">
                 <div class="row align-items-center">
@@ -34,8 +34,7 @@ $singleBlog = $testOBJ->getBlogByURL($_GET['url']);
             </div>
         </section>
 
-        <!-- breadcrumb-area-end -->
-        <section class="blog-area blog-details-area pt-100 pb-120">
+                <section class="blog-area blog-details-area pt-100 pb-120">
             <div class="container">
                 <div class="inner-blog-wrap">
                     <div class="row justify-content-center">

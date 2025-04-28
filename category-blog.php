@@ -9,9 +9,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
 
-    <!-- main-area -->
+   
     <main class="main-area">
-        <!-- breadcrumb-area -->
+        
 
         <section class="breadcrumb-area-two ">
             <div class="container">
@@ -33,8 +33,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
 
-        <!-- breadcrumb-area-end -->
-
+        
         <div class="blog-area pt-100 pb-120">
             <div class="container">
                 <div class="inner-blog-wrap">
