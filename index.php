@@ -9,7 +9,7 @@ $MetaKeywords = "branding agency in Ahmedabad, best branding agency, advertising
 include __DIR__ . '/A_Layout/Header/header.php';
 $testOBJ = new BLOG_Blog();
 $page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
-$limit = 6;
+$limit = 3;
 $myaraa = $testOBJ->selectblog($page, $limit);
 $total = $testOBJ->getBlogCount();
 $totalPages = ceil($total / $limit);
@@ -1289,7 +1289,20 @@ while ($item = current($myaraa)) {
 
                 <div class="tpg-excerpt tpg-el-excerpt">
                     <div class="tpg-excerpt-inner">
-                    <?php echo mb_substr($item["BlogContent"], 0, 150) . '...'; ?>
+                    <?php 
+        if (!empty($item["BlogContent"])) {
+            $decodedContent = html_entity_decode($item["BlogContent"]);
+            $plainTextContent = strip_tags($decodedContent);
+            $excerpt = mb_substr(trim($plainTextContent), 0, 150, 'UTF-8');
+            $lastSpace = mb_strrpos($excerpt, ' ', 0, 'UTF-8');
+            if ($lastSpace !== false) {
+                $excerpt = mb_substr($excerpt, 0, $lastSpace, 'UTF-8');
+            }
+            echo $excerpt . '...';
+        } else {
+            echo 'No content available...';
+        }
+        ?>
                     </div>
                 </div>
 
