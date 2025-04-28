@@ -130,7 +130,7 @@ while ($item = current($myaraa)) {
 
                 <div class="post-footer">
                     <div class="read-more">
-                        <a data-id="7100" href="blogsdetails/<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">Read More...</a>
+                        <a data-id="7100" href="<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">Read More...</a>
                     </div>
                 </div>
             </div>

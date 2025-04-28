@@ -1265,7 +1265,7 @@ while ($item = current($myaraa)) {
         <div class="rt-holder tpg-post-holder">
             <div class="rt-detail rt-el-content-wrapper">
                 <div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-                    <a data-id="7100" href="blogsdetails/<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">
+                    <a data-id="7100" href="<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">
                         <img fetchpriority="high" decoding="async" src="<?php echo $item['Thumbnail']; ?>"
                              class="rt-img-responsive" width="1200" height="800"
                              alt="The Power of Graphic Design in Brand Identity Building">
@@ -1280,7 +1280,7 @@ while ($item = current($myaraa)) {
                         </span>
                     </div>
                     <h3 class="entry-title">
-                        <a data-id="7100" href="blogsdetails/<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">
+                        <a data-id="7100" href="<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">
                         <?php echo $item["BlogTitle"]; ?>
 
                         </a>
@@ -1308,7 +1308,7 @@ while ($item = current($myaraa)) {
 
                 <div class="post-footer">
                     <div class="read-more">
-                        <a data-id="7100" href="blogsdetails/<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">Read More...</a>
+                        <a data-id="7100" href="<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">Read More...</a>
                     </div>
                 </div>
             </div>
