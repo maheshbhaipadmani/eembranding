@@ -102,7 +102,7 @@ while ($item = current($myaraa)) {
                         </span>
                     </div>
                     <h3 class="entry-title">
-                        <a data-id="7100" href="blogsdetails/<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">
+                        <a data-id="7100" href="<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">
                         <?php echo $item["BlogTitle"]; ?>
 
                         </a>
