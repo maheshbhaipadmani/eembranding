@@ -607,7 +607,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="elementor-element elementor-element-f25c134 elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
+                                    <!-- <div class="elementor-element elementor-element-f25c134 elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="f25c134" data-element_type="container">
                                         <div class="e-con-inner">
                                             <div class="elementor-element elementor-element-eaa4af0 elementor-widget__width-initial elementor-widget elementor-widget-project-list"
@@ -616,18 +616,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="elementor-widget-container">
                                                     <div class="project-area-two">
                                                         <div class="row">
-                                                            <!-- <div class="col-lg-4 col-md-6">
-                                                                <div class="project-item-two wow fadeInUp"
-                                                                    data-wow-delay=".1s"
-                                                                    style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
-                                                                    <img decoding="async" src="" alt="Image">
-                                                                    <a href="mr-velvet-ears" class="link-icon">
-                                                                        <img decoding="async"
-                                                                            src="./assest/img/icon/arrow-right.svg"
-                                                                            alt="Icon">
-                                                                    </a>
-                                                                </div>
-                                                            </div> -->
                                                             <div class="col-lg-4 col-md-6">
                                                                 <div class="project-item-two wow fadeInUp"
                                                                     data-wow-delay=".2s"
@@ -662,7 +650,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <div class="elementor-element elementor-element-81c53b4 elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="81c53b4" data-element_type="container" id="dm3">
                                         <div class="e-con-inner">
@@ -686,7 +674,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="elementor-element elementor-element-0d55d11 elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
+                                    <!-- <div class="elementor-element elementor-element-0d55d11 elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="0d55d11" data-element_type="container">
                                         <div class="e-con-inner">
                                             <div class="elementor-element elementor-element-7d51bc8 elementor-widget__width-initial elementor-widget elementor-widget-project-list"
@@ -766,7 +754,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <div class="elementor-element elementor-element-fc83779 elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="fc83779" data-element_type="container" id="uu4">
                                         <div class="e-con-inner">
@@ -790,7 +778,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="elementor-element elementor-element-4969899 elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
+                                    <!-- <div class="elementor-element elementor-element-4969899 elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="4969899" data-element_type="container">
                                         <div class="e-con-inner">
                                             <div class="elementor-element elementor-element-527f036 elementor-widget__width-initial elementor-widget elementor-widget-project-list"
@@ -816,7 +804,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="portfolio/bliss">BLISS
                                                                                 <span>Decor</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="portfolio/bliss" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -840,7 +827,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -865,7 +851,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 href="portfolio/evershine-color-trendenchanting">Evershine
                                                                                 Color Trend<span>catalouge</span></a>
                                                                         </h2>
-                                                                        <!-- <span>Catalogue Design</span> -->
                                                                     </div>
                                                                     <a href="portfolio/evershine-color-trendenchanting"
                                                                         class="link-arrow"><i
@@ -890,7 +875,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -904,7 +888,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <div class="elementor-element elementor-element-b373126 elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="b373126" data-element_type="container" id="wd5">
                                         <div class="e-con-inner">
@@ -928,7 +912,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="elementor-element elementor-element-1919b7a elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
+                                    <!-- <div class="elementor-element elementor-element-1919b7a elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="1919b7a" data-element_type="container">
                                         <div class="e-con-inner">
                                             <div class="elementor-element elementor-element-7b28456 elementor-widget__width-initial elementor-widget elementor-widget-project-list"
@@ -954,7 +938,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="portfolio/bliss">BLISS
                                                                                 <span>Decor</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="portfolio/bliss" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -978,7 +961,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -1003,7 +985,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 href="portfolio/evershine-color-trendenchanting">Evershine
                                                                                 Color Trend<span>catalouge</span></a>
                                                                         </h2>
-                                                                        <!-- <span>Catalogue Design</span> -->
                                                                     </div>
                                                                     <a href="portfolio/evershine-color-trendenchanting"
                                                                         class="link-arrow"><i
@@ -1028,7 +1009,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -1042,7 +1022,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <div class="elementor-element elementor-element-b506a5d elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="b506a5d" data-element_type="container" id="md6">
                                         <div class="e-con-inner">
@@ -1066,7 +1046,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="elementor-element elementor-element-5eb048d elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
+                                    <!-- <div class="elementor-element elementor-element-5eb048d elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="5eb048d" data-element_type="container">
                                         <div class="e-con-inner">
                                             <div class="elementor-element elementor-element-674f3b7 elementor-widget__width-initial elementor-widget elementor-widget-project-list"
@@ -1092,7 +1072,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="portfolio/bliss">BLISS
                                                                                 <span>Decor</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="portfolio/bliss" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -1116,7 +1095,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -1141,7 +1119,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 href="portfolio/evershine-color-trendenchanting">Evershine
                                                                                 Color Trend<span>catalouge</span></a>
                                                                         </h2>
-                                                                        <!-- <span>Catalogue Design</span> -->
                                                                     </div>
                                                                     <a href="portfolio/evershine-color-trendenchanting"
                                                                         class="link-arrow"><i
@@ -1166,7 +1143,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -1180,7 +1156,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <div class="elementor-element elementor-element-eeed32c elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="eeed32c" data-element_type="container" id="em7">
                                         <div class="e-con-inner">
@@ -1204,7 +1180,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="elementor-element elementor-element-5aff7ba elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
+                                    <!-- <div class="elementor-element elementor-element-5aff7ba elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="5aff7ba" data-element_type="container">
                                         <div class="e-con-inner">
                                             <div class="elementor-element elementor-element-9f66b77 elementor-widget__width-initial elementor-widget elementor-widget-project-list"
@@ -1230,7 +1206,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="portfolio/bliss">BLISS
                                                                                 <span>Decor</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="portfolio/bliss" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -1254,7 +1229,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -1279,7 +1253,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 href="portfolio/evershine-color-trendenchanting">Evershine
                                                                                 Color Trend<span>catalouge</span></a>
                                                                         </h2>
-                                                                        <!-- <span>Catalogue Design</span> -->
                                                                     </div>
                                                                     <a href="portfolio/evershine-color-trendenchanting"
                                                                         class="link-arrow"><i
@@ -1304,7 +1277,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -1318,7 +1290,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <div class="elementor-element elementor-element-014aa4e elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="014aa4e" data-element_type="container" id="3d8">
                                         <div class="e-con-inner">
@@ -1342,7 +1314,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="elementor-element elementor-element-0d35503 elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
+                                    <!-- <div class="elementor-element elementor-element-0d35503 elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="0d35503" data-element_type="container">
                                         <div class="e-con-inner">
                                             <div class="elementor-element elementor-element-b4cf255 elementor-widget__width-initial elementor-widget elementor-widget-project-list"
@@ -1368,7 +1340,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="portfolio/bliss">BLISS
                                                                                 <span>Decor</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="portfolio/bliss" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -1392,7 +1363,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -1418,7 +1388,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 href="portfolio/evershine-color-trendenchanting">Evershine
                                                                                 Color Trend<span>catalouge</span></a>
                                                                         </h2>
-                                                                        <!-- <span>Catalogue Design</span> -->
                                                                     </div>
                                                                     <a href="portfolio/evershine-color-trendenchanting"
                                                                         class="link-arrow"><i
@@ -1443,7 +1412,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -1457,7 +1425,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <div class="elementor-element elementor-element-8216c9c elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="8216c9c" data-element_type="container" id="ob9">
                                         <div class="e-con-inner">
@@ -1481,7 +1449,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="elementor-element elementor-element-31dd37e elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
+                                    <!-- <div class="elementor-element elementor-element-31dd37e elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="31dd37e" data-element_type="container">
                                         <div class="e-con-inner">
                                             <div class="elementor-element elementor-element-279462c elementor-widget__width-initial elementor-widget elementor-widget-project-list"
@@ -1507,7 +1475,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="portfolio/bliss">BLISS
                                                                                 <span>Decor</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="portfolio/bliss" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -1531,7 +1498,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a href="atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
-                                                                        <!-- <span></span> -->
                                                                     </div>
                                                                     <a href="atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
@@ -1545,7 +1511,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <section
                                         class="elementor-section elementor-top-section elementor-element elementor-element-08773b0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                         data-id="08773b0" data-element_type="section">
