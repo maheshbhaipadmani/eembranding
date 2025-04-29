@@ -8,13 +8,17 @@ $MetaKeywords = "laminate catalogue design, catalogue design services, best lami
 <?php
 include __DIR__ . '/A_Layout/Header/header.php';
 $testOBJ = new BLOG_Blog();
+$singleBlog = $testOBJ->getBlogByURL("blogs-".$_GET['url']);
 
-$singleBlog = $testOBJ->getBlogByURL($_GET['url']);
 ?>
 
    
     <main class="main-area">
-        
+    <?php if ($singleBlog !== null) {
+    // Blog found, you can use $singleBlog safely
+
+?>
+        <!-- breadcrumb-area -->
         <section class="breadcrumb-area-two details-breadcrumb">
             <div class="container">
                 <div class="row align-items-center">
@@ -182,6 +186,28 @@ $singleBlog = $testOBJ->getBlogByURL($_GET['url']);
             </div>
         </section>
 
+<?php } else 
+{?>
+ <section class="breadcrumb-area-two details-breadcrumb">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-7">
+                        <div class="breadcrumb-content-two">
+                            <h1 class="title">Not Found</h1>
+                        </div>
+                    </div>
+                    <div class="col-lg-5">
+                        <div class="breadcrumb-shape">
+                            <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
+                                src="./assest/img/icon/Untitled-2.png" alt="Shape">
+                            <img src="./assest/img/icon/Untitled-3.png" alt="Shape">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+<?php }?>
 
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
