@@ -54,7 +54,7 @@ RewriteRule ^mobile-app-development-company-ahmedabad$ mobile-app-development.ph
 RewriteRule ^mr-velvet-ears$ mr-velvet-ears.php [L,NC]
 RewriteRule ^portfolio$ Portfolio.php [L,NC]
 RewriteRule ^portfolio/vanshlam$ vanshlam.php [L,NC]
-RewriteRule ^blogsdetails/([^/\.]+)?$       blogsdetails.php?url=$1 [NC,L]
+; RewriteRule ^blogsdetails/([^/\.]+)?$       blogsdetails.php?url=$1 [NC,L]
 RewriteRule ^blogs/page/([^/\.]+)?$       blogs.php?page=$1 [NC,L]
 
 # RewriteRule ^Natural Sesame Seeds natural-sesame-seeds.php [L]  
