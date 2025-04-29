@@ -50,7 +50,7 @@ echo
                                         </li>
                                         <li itemscope="itemscope"
                                             itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-5525"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown has-dropdown menu-item-5525 nav-item ' ?><?php if ($page == "services-page.php" || $page == "catalogue-design-company-in-ahmedabad/.php" || $page == "creative-design-agency-in-ahmedabad.php" || $page == "digital-marketing-agency-ahmedabad.php" || $page == "ui-ux-design-company-in-ahmedabad.php" || $page == "website-design-company-in-ahmedabad.php" || $page == "mobile-app-development-company-ahmedabad.php" || $page == "event-management-company-in-ahmedabad.php" || $page == "3d-rendering.php" || $page == "advertising-agency.php") {
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown has-dropdown menu-item-5525 nav-item ' ?><?php if ($page == "services-page.php" || $page == "catalogue-design-company-in-ahmedabad.php" || $page == "creative-design-agency-in-ahmedabad.php" || $page == "digital-marketing-agency-ahmedabad.php" || $page == "ui-ux-design-company-in-ahmedabad.php" || $page == "website-design-company-in-ahmedabad.php" || $page == "mobile-app-development-company-ahmedabad.php" || $page == "event-management-company-in-ahmedabad.php" || $page == "3d-rendering.php" || $page == "advertising-agency.php") {
                                          echo 'active';
                                      } ?><?php echo '" aria-current="page">
                                             <a title="Services" href="services-page" class="nav-links">Services</a>
@@ -58,10 +58,10 @@ echo
                                                 <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6705"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6705 nav-item ' ?><?php if ($page == "catalogue-design-company-in-ahmedabad/.php") {
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6705 nav-item ' ?><?php if ($page == "catalogue-design-company-in-ahmedabad.php") {
                                                  echo 'active';
                                              } ?><?php echo '">
-                                                    <a title="Catalogue Design" href="catalogue-design-company-in-ahmedabad/"
+                                                    <a title="Catalogue Design" href="catalogue-design-company-in-ahmedabad"
                                                         class="dropdown-items">Catalogue Design</a>
                                                 </li>
                                                 <li itemscope="itemscope"
@@ -187,7 +187,7 @@ echo
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6705"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6705 nav-item">
-                                                    <a title="Catalogue Design" href="catalogue-design-company-in-ahmedabad/"
+                                                    <a title="Catalogue Design" href="catalogue-design-company-in-ahmedabad"
                                                         class="dropdown-items">Catalogue Design</a>
                                                 </li>
                                                 <li itemscope="itemscope"

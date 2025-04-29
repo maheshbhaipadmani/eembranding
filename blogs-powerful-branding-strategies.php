@@ -172,7 +172,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 well-designed catalogue enhances brand
                                                                                 perception and influences purchasing
                                                                                 decisions. </span><a
-                                                                                href="catalogue-design-company-in-ahmedabad/"><b>Catalogue
+                                                                                href="catalogue-design-company-in-ahmedabad"><b>Catalogue
                                                                                     design services</b> </a><span
                                                                                 style="font-weight: 400;">ensure that
                                                                                 your product offerings are showcased in

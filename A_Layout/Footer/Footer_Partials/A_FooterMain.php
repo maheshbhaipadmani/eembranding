@@ -301,13 +301,13 @@ echo
                                                         <div class="elementor-widget-container mb-0">
                                                             <ul class="elementor-icon-list-items">
                                                                 <li class="elementor-icon-list-item">
-                                                                    <a href="catalogue-design-company-in-ahmedabad/"><span
+                                                                    <a href="catalogue-design-company-in-ahmedabad"><span
                                                                             class="elementor-icon-list-text">Catalogue
                                                                             Design</span>
                                                                     </a>
                                                                 </li>
                                                                 <li class="elementor-icon-list-item">
-                                                                    <a href="catalogue-design-company-in-ahmedabad/"><span
+                                                                    <a href="catalogue-design-company-in-ahmedabad"><span
                                                                             class="elementor-icon-list-text">Creative
                                                                             Designing</span>
                                                                     </a>

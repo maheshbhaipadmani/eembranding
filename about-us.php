@@ -85,7 +85,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     style="font-weight: 400;">3D
                                                                     rendering</span></a><span
                                                                 style="font-weight: 400;">, and </span><a
-                                                                href="catalogue-design-company-in-ahmedabad/"><span
+                                                                href="catalogue-design-company-in-ahmedabad"><span
                                                                     style="font-weight: 400;">catalogue design
                                                                     services</span></a><span
                                                                 style="font-weight: 400;">.</span></p>

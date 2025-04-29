@@ -196,7 +196,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                         showcases products effectively
                                                                                         and enhances credibility.
                                                                                     </span><a
-                                                                                        href="catalogue-design-company-in-ahmedabad/"><b>Catalogue
+                                                                                        href="catalogue-design-company-in-ahmedabad"><b>Catalogue
                                                                                             Design Services</b></a><span
                                                                                         style="font-weight: 400;">
                                                                                         include:</span></p>

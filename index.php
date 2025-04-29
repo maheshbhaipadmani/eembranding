@@ -50,7 +50,7 @@ reset($myaraa);
                                                     Crafting captivating laminate folder designs that weave stories,
                                                     combining striking visuals with informative content, leaving a
                                                     memorable impact.</p>
-                                                <a href="catalogue-design-company-in-ahmedabad/" data-bs-toggle="" data-bs-target=""><i
+                                                <a href="catalogue-design-company-in-ahmedabad" data-bs-toggle="" data-bs-target=""><i
                                                         class="fas fa-arrow-right"></i></a>
                                             </div>
                                         </li>
@@ -65,7 +65,7 @@ reset($myaraa);
                                                 <p>
                                                     Shaping iconic identities that resonate deeply and leave a lasting
                                                     impression.</p>
-                                                <a href="catalogue-design-company-in-ahmedabad/" data-bs-toggle="" data-bs-target=""><i
+                                                <a href="catalogue-design-company-in-ahmedabad" data-bs-toggle="" data-bs-target=""><i
                                                         class="fas fa-arrow-right"></i></a>
                                             </div>
                                         </li>
@@ -115,7 +115,7 @@ reset($myaraa);
                                 <div class="row">
                                     <ul class="accordion-portfolio-lists text-light" id="accordion">
                                         <li
-                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/01-LAMINATE-catalogue-design-company-in-ahmedabad/.jpg');">
+                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/01-LAMINATE-catalogue-design-company-in-ahmedabad.jpg');">
                                             <h3>Laminate Catalogue Design</h3>
                                             <span>01</span>
                                             <div class="accordion-overlay">
@@ -306,7 +306,7 @@ reset($myaraa);
                                         engine optimization (SEO) and social media marketing to pay-per-click
                                         advertising, we ensure your business gains the exposure it deserves.</span></p>
                                 <p><span style="font-weight: 400;">For businesses in the laminate industry, we offer
-                                        professional</span><a href="catalogue-design-company-in-ahmedabad/">
+                                        professional</span><a href="catalogue-design-company-in-ahmedabad">
                                         <b>laminate catalogue design services</b></a><span style="font-weight: 400;">
                                         that highlight the quality and variety of your products. Our catalogues are
                                         designed to be visually stunning and informative, providing your clients with a
@@ -401,7 +401,7 @@ reset($myaraa);
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="catalogue-design-company-in-ahmedabad/">Laminate
+                                                        <a href="catalogue-design-company-in-ahmedabad">Laminate
                                                             Catalogue Design Services In Ahmedabad</a>
                                                     </h2>
                                                     <p>Transform your brand's identity into tangible excellence with our
@@ -409,7 +409,7 @@ reset($myaraa);
                                                         eye-catching and vibrant, our designs elevate your marketing
                                                         materials, leaving a lasting impression on clients and partners
                                                         alike.</p>
-                                                    <a href="catalogue-design-company-in-ahmedabad/" class="link-btn">Read More</a>
+                                                    <a href="catalogue-design-company-in-ahmedabad" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>

@@ -148,14 +148,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         </div>
                                         <div class="services-content-two">
                                             <h2 class="title">
-                                                <a href="catalogue-design-company-in-ahmedabad/">Laminate
+                                                <a href="catalogue-design-company-in-ahmedabad">Laminate
                                                     Catalogue Design Services In Ahmedabad</a>
                                             </h2>
                                             <p>Transform your brand's identity into tangible excellence with our bespoke
                                                 laminate folder designs. From sleek and professional to eye-catching and
                                                 vibrant, our designs elevate your marketing materials, leaving a lasting
                                                 impression on clients and partners alike.</p>
-                                            <a href="catalogue-design-company-in-ahmedabad/" class="link-btn">Read More</a>
+                                            <a href="catalogue-design-company-in-ahmedabad" class="link-btn">Read More</a>
                                         </div>
                                     </div>
                                 </div>
