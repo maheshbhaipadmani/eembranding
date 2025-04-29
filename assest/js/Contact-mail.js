@@ -277,13 +277,6 @@ console.log("Collected form data:", { name, email, number, subject, message });
                         </div>
                     </td>
                 </tr>
-                 
-                <!-- Footer -->
-                <tr>
-                    <td style="padding: 30px; text-align: center; background-color: #333333; color: #ffffff; font-size: 13px; line-height: 20px;">
-                        <p style="margin: 0 0 15px 0;">© 2025 Monitor Smartbox. All Rights Reserved. Developed by UniqueIT Solution.</p>
-                    </td>
-                </tr>
             </table>
         </div>
     </center>
