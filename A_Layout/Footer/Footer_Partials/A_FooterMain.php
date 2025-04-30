@@ -69,7 +69,7 @@ echo
                                         <div class="elementor-container elementor-column-gap-no">
                                             <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-f88cc92"
                                                 data-id="f88cc92" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap elementor-element-populated mb-0">
                                                     <div class="elementor-element elementor-element-81bf74d elementor-widget elementor-widget-site-logo"
                                                         data-id="81bf74d" data-element_type="widget"
                                                         data-settings="{&quot;align&quot;:&quot;left&quot;,&quot;width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:151,&quot;sizes&quot;:[]},&quot;width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_tablet&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;space_mobile&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;image_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;caption_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;caption_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;caption_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}"
@@ -221,7 +221,7 @@ echo
                                             </div>
                                             <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-cf84156"
                                                 data-id="cf84156" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap elementor-element-populated mb-0">
                                                     <div class="elementor-element elementor-element-e570f38 elementor-widget elementor-widget-heading"
                                                         data-id="e570f38" data-element_type="widget"
                                                         data-widget_type="heading.default">
@@ -286,7 +286,7 @@ echo
                                             </div>
                                             <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-dd85c21"
                                                 data-id="dd85c21" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap elementor-element-populated mb-0">
                                                     <div class="elementor-element elementor-element-4e8a4f4 elementor-widget elementor-widget-heading"
                                                         data-id="4e8a4f4" data-element_type="widget"
                                                         data-widget_type="heading.default">
@@ -342,7 +342,7 @@ echo
                                             </div>
                                             <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-bb96d98"
                                                 data-id="bb96d98" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div class="elementor-widget-wrap elementor-element-populated mb-0">
                                                     <div class="elementor-element elementor-element-84af021 elementor-widget elementor-widget-heading"
                                                         data-id="84af021" data-element_type="widget"
                                                         data-widget_type="heading.default">

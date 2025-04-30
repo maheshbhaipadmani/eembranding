@@ -121,7 +121,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6710 nav-item ' ?><?php if ($page == "exhibition-stall-design.php") {
                                                  echo 'active';
                                              } ?><?php echo '">
-                                                    <a title="Exhibition Stall Design" href="mobile-app-development-company-ahmedabad"
+                                                    <a title="Exhibition Stall Design" href="exhibition-stall-design-company-ahmedabad"
                                                         class="dropdown-items">Exhibition Stall Design</a>
                                                 </li>
                                                 <li itemscope="itemscope"   

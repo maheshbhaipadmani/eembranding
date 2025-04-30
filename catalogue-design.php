@@ -63,8 +63,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </div>
                                 </div>
                                     <div class="elementor-widget-container">
-                                        <p>Looking to make a lasting impression with your product catalogues? Our <a href="https://eembranding.com/"><span style="font-weight: 400;">laminate catalogue design services</span></a>  are crafted to captivate and engage your audience. A well-designed catalogue does more than just display products – it tells a story, highlights your brand’s uniqueness, and drives sales.</p>
-                                        <p>As a leading <a href="https://eembranding.com/"><span style="font-weight: 400;">catalogue design agency</span></a> in Ahmedabad, we specialize in creating visually appealing and strategically crafted catalogues that reflect your brand’s identity. Whether you need a sleek and modern design or something more classic and sophisticated, our team of experienced designers works closely with you to ensure every detail aligns with your vision.</p>
+                                        <p>Looking to make a lasting impression with your product catalogues? Our <b> laminate catalogue design services </b>  are crafted to captivate and engage your audience. A well-designed catalogue does more than just display products – it tells a story, highlights your brand’s uniqueness, and drives sales.</p>
+                                        <p>As a leading <b> catalogue design agency </b> in Ahmedabad, we specialize in creating visually appealing and strategically crafted catalogues that reflect your brand’s identity. Whether you need a sleek and modern design or something more classic and sophisticated, our team of experienced designers works closely with you to ensure every detail aligns with your vision.</p>
                                         
                                     </div>
                                 </div>
@@ -136,7 +136,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
                                     data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
-                                    <p>At our <a href="https://eembranding.com/"><span style="font-weight: 400;">catalogue design company in Ahmedabad,</span></a> we understand that every business is unique. That’s why we offer customized solutions that showcase your products in the best light. From laminate product catalogues to multi-industry portfolios, we ensure high-quality layouts, striking visuals, and a seamless blend of creativity and functionality.
+                                    <p>At our <b> catalogue design company in Ahmedabad, </b> we understand that every business is unique. That’s why we offer customized solutions that showcase your products in the best light. From laminate product catalogues to multi-industry portfolios, we ensure high-quality layouts, striking visuals, and a seamless blend of creativity and functionality.
                                         </p>
                                     </div>
                                 </div>
