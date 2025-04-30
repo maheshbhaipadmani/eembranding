@@ -6461,7 +6461,7 @@ progress {
     .container-md,
     .container-sm,
     .container-xl {
-        max-width: 1800px !important
+        max-width: 1300px !important
     }
 }
 
@@ -6473,7 +6473,7 @@ progress {
     .container-sm,
     .container-xl,
     .container-xxl {
-        max-width: 1800px
+        max-width: 1300px
     }
 }
 
@@ -12211,7 +12211,7 @@ blockquote cite a {
 
 @media (max-width:1500px) {
     .container {
-        max-width: 1800px !important
+        max-width: 1200px !important
     }
 
     .banner-img img,
@@ -17032,7 +17032,7 @@ blockquote cite a {
 }
 
 .elementor-4980 .elementor-element.elementor-element-23ec5b3>.elementor-container {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .elementor-4980 .elementor-element.elementor-element-23ec5b3 {
@@ -17109,7 +17109,7 @@ body.rtl .elementor-4980 .elementor-element.elementor-element-eb0505f {
 }
 
 .elementor-4980 .elementor-element.elementor-element-8778eb1>.elementor-container {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .elementor-4980 .elementor-element.elementor-element-8778eb1>.elementor-background-overlay {
@@ -17338,7 +17338,7 @@ body.rtl .elementor-4980 .elementor-element.elementor-element-eb0505f {
     .container-md,
     .container-sm,
     .container-xl {
-        max-width: 1800px
+        max-width: 1300px
     }
 }
 
@@ -17350,7 +17350,7 @@ body.rtl .elementor-4980 .elementor-element.elementor-element-eb0505f {
     .container-sm,
     .container-xl,
     .container-xxl {
-        max-width: 1800px
+        max-width: 1300px
     }
 }
 
@@ -28060,7 +28060,7 @@ body.rtl .elementor-495 .elementor-element.elementor-element-d816505 {
 }
 
 .elementor-495 .elementor-element.elementor-element-87de0e2>.elementor-container {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .elementor-495 .elementor-element.elementor-element-87de0e2 {
@@ -28192,7 +28192,7 @@ body.rtl .elementor-495 .elementor-element.elementor-element-b57a11c {
 }
 
 .elementor-495 .elementor-element.elementor-element-701f65a>.elementor-container {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .elementor-495 .elementor-element.elementor-element-3157e1e>.elementor-element-populated {
@@ -28249,7 +28249,7 @@ body.rtl .elementor-495 .elementor-element.elementor-element-418c0cc {
 }
 
 .elementor-495 .elementor-element.elementor-element-236c1cb>.elementor-container {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .elementor-495 .elementor-element.elementor-element-236c1cb {
@@ -28323,7 +28323,7 @@ body.rtl .elementor-495 .elementor-element.elementor-element-ab09290 {
 }
 
 .elementor-495 .elementor-element.elementor-element-7a336c0>.elementor-container {
-    max-width: 1800px;
+    max-width: 1300px;
     text-align: center
 }
 
@@ -28406,7 +28406,7 @@ body.rtl .elementor-495 .elementor-element.elementor-element-ab09290 {
 }
 
 .elementor-495 .elementor-element.elementor-element-08773b0>.elementor-container {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .elementor-495 .elementor-element.elementor-element-08773b0 {
@@ -28418,7 +28418,7 @@ body.rtl .elementor-495 .elementor-element.elementor-element-ab09290 {
 }
 
 .elementor-495 .elementor-element.elementor-element-6a74d89>.elementor-container {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .elementor-495 .elementor-element.elementor-element-6a74d89 {
@@ -28686,7 +28686,7 @@ body.rtl .elementor-495 .elementor-element.elementor-element-ab09290 {
     .container-sm,
     .container-xl,
     .container-xxl {
-        max-width: 1800px
+        max-width: 1300px
     }
 }
 
@@ -39023,7 +39023,7 @@ screen and (max-height:300px) {
 }
 
 .elementor-503 .elementor-element.elementor-element-c59cb04>.elementor-container {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .elementor-503 .elementor-element.elementor-element-c59cb04 {
@@ -39135,7 +39135,7 @@ body.rtl .elementor-503 .elementor-element.elementor-element-950eff0 {
 }
 
 .elementor-503 .elementor-element.elementor-element-258b115>.elementor-container {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .elementor-503 .elementor-element.elementor-element-258b115 {
@@ -39207,7 +39207,7 @@ body.rtl .elementor-503 .elementor-element.elementor-element-9e0abde {
 }
 
 .elementor-503 .elementor-element.elementor-element-9076abc>.elementor-container {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .elementor-503 .elementor-element.elementor-element-9076abc {
@@ -39219,7 +39219,7 @@ body.rtl .elementor-503 .elementor-element.elementor-element-9e0abde {
 }
 
 .elementor-503 .elementor-element.elementor-element-38edb73>.elementor-container {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .elementor-503 .elementor-element.elementor-element-38edb73 {
@@ -39474,7 +39474,7 @@ body.rtl .elementor-503 .elementor-element.elementor-element-9e0abde {
     .container-sm,
     .container-xl,
     .container-xxl {
-        max-width: 1800px
+        max-width: 1300px
     }
 }
 
@@ -50568,7 +50568,7 @@ body.rtl .elementor-6939 .elementor-element.elementor-element-1783f56 {
 }
 
 .elementor-6939 .elementor-element.elementor-element-e35e90b>.elementor-container {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .elementor-6939 .elementor-element.elementor-element-e35e90b {
@@ -50580,7 +50580,7 @@ body.rtl .elementor-6939 .elementor-element.elementor-element-1783f56 {
 }
 
 .elementor-6939 .elementor-element.elementor-element-f79ea92>.elementor-container {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .elementor-6939 .elementor-element.elementor-element-f79ea92 {
@@ -50902,7 +50902,7 @@ fieldset {
     .container-sm,
     .container-xl,
     .container-xxl {
-        max-width: 1800px
+        max-width: 1300px
     }
 }
 
@@ -72515,7 +72515,7 @@ button {
 
 .swiper-3d,
 .swiper-3d.swiper-css-mode .swiper-wrapper {
-    perspective: 1800px
+    perspective: 1300px
 }
 
 .swiper-3d .swiper-cube-shadow,
@@ -73598,7 +73598,7 @@ output {
 }
 
 .elementor-1758 .elementor-element.elementor-element-2d99808>.elementor-container {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .elementor-1758 .elementor-element.elementor-element-2d99808 {
@@ -74629,7 +74629,7 @@ legend+* {
     .container-sm,
     .container-xl,
     .container-xxl {
-        max-width: 1800px
+        max-width: 1300px
     }
 }
 
@@ -88250,7 +88250,7 @@ label {
 }
 
 .custom-container {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .transparent-header {
@@ -90378,7 +90378,7 @@ label {
 }
 
 .mfp-iframe-holder .mfp-content {
-    max-width: 1800px
+    max-width: 1300px
 }
 
 .counter-area {
@@ -95481,7 +95481,7 @@ ul .comment-respond {
 
 @media (max-width:1500px) {
     .container {
-        max-width: 1800px !important
+        max-width: 1300px !important
     }
 
     .banner-img img,
