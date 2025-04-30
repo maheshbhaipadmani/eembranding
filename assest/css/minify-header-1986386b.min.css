@@ -12211,7 +12211,8 @@ blockquote cite a {
 
 @media (max-width:1500px) {
     .container {
-        max-width: 1200px !important
+        max-width: 1200px !important;
+        margin:  0 auto;
     }
 
     .banner-img img,
@@ -95481,7 +95482,8 @@ ul .comment-respond {
 
 @media (max-width:1500px) {
     .container {
-        max-width: 1300px !important
+        max-width: 1300px !important;
+        margin: 0 auto;
     }
 
     .banner-img img,
