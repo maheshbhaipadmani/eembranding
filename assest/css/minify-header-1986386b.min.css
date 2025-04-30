@@ -71562,7 +71562,7 @@ body.rtl .e-con {
     gap: var(--gap);
     width: 106%;
     max-width: 1250px !important;
-    margin: 0 0;
+    margin: 0 auto;
     padding-inline-start: 0;
     padding-inline-end: 0;
     height: 100%
