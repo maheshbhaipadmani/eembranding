@@ -118,10 +118,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                  <li itemscope="itemscope"
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6710"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6710 nav-item ' ?><?php if ($page == "exhibition-stall-design.php") {
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6710 nav-item ' ?><?php if ($page == "services/exhibition-stall-design.php") {
                                                  echo 'active';
                                              } ?><?php echo '">
-                                                    <a title="Exhibition Stall Design" href="exhibition-stall-design-company-ahmedabad"
+                                                    <a title="Exhibition Stall Design" href="services/exhibition-stall-design-company-ahmedabad"
                                                         class="dropdown-items">Exhibition Stall Design</a>
                                                 </li>
                                                 <li itemscope="itemscope"   
