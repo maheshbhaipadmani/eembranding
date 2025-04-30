@@ -18,6 +18,7 @@ echo
 <!--====== Title ======-->
 <title>'.$Title.'</title>
 <link rel="canonical" href="https://eembranding.com/beta" />
+<meta name="google-site-verification" content="vsgX5HfXq7XRE_Lg52zCv8-J9qCUh1JBZt64nUZXQZE" />
 
 
 <!-- Open Graph Meta Tags -->
