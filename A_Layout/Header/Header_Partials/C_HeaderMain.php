@@ -5,7 +5,12 @@ echo
 <body
     class="home page-template page-template-elementor_header_footer page page-id-495 wp-custom-logo wp-embed-responsive rttpg rttpg-7.7.17 radius-frontend rttpg-body-wrap ehf-footer ehf-template-xotric ehf-stylesheet-xotric no-sidebar elementor-default elementor-template-full-width elementor-kit-4212 elementor-page elementor-page-495 e--ua-blink e--ua-chrome e--ua-webkit cht-in-desktop cht-landscape vsc-initialized"
     style="" data-elementor-device-mode="desktop">
+
     
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TRZNTVHB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
         <!-- Preloader -->
         <div id="preloader" class="">
             <div id="loading-center">
