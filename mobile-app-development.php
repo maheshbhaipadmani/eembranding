@@ -9,9 +9,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
    
-    <!-- <main class="main-area">
-        
-
+    <main class="main-area">
         <section class="breadcrumb-area-two ">
             <div class="container">
                 <div class="row align-items-center">
@@ -32,14 +30,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
 
-                <section class="services-details-area">
+        <section class="services-details-area">
             <div class="container">
-                <div data-elementor-type="wp-post" data-elementor-id="4577" class="elementor elementor-4577">
-                    <div class="elementor-element elementor-element-90556e0 e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="90556e0" data-element_type="container">
+                <div data-elementor-type="wp-post" data-elementor-id="4372" class="elementor elementor-4372">
+                    <div class="elementor-element elementor-element-9189992 e-flex e-con-boxed e-con e-parent e-lazyloaded"
+                        data-id="9189992" data-element_type="container">
                         <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-c2c2c6d elementor-widget elementor-widget-spacer"
-                                data-id="c2c2c6d" data-element_type="widget" data-widget_type="spacer.default">
+                            <div class="elementor-element elementor-element-50438b8 elementor-widget elementor-widget-spacer"
+                                data-id="50438b8" data-element_type="widget" data-widget_type="spacer.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-spacer">
                                         <div class="elementor-spacer-inner"></div>
@@ -48,83 +46,57 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             </div>
                         </div>
                     </div>
-                    <div class="elementor-element elementor-element-16df7eb e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="16df7eb" data-element_type="container">
+
+                    <div class="elementor-element elementor-element-2cdeb1c e-flex e-con-boxed e-con e-parent e-lazyloaded"
+                        data-id="2cdeb1c" data-element_type="container">
                         <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-d5d5ff4 e-con-full e-flex e-con e-child"
-                                data-id="d5d5ff4" data-element_type="container">
-                                <div class="elementor-element elementor-element-c4faafa elementor-widget elementor-widget-heading"
-                                    data-id="c4faafa" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
+                                data-id="2348a4d" data-element_type="container">
+                                <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
+                                    data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
+                                    
+                                    <div class="elementor-element elementor-element-16ab348 elementor-widget elementor-widget-heading"
+                                    data-id="16ab348" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                        <h2 class="elementor-heading-title elementor-size-default mb-3 mt-3">Create Seamless
-                                            Mobile Experiences with Expert App Development
-                                        </h2>
+                                        <h5 class="elementor-heading-title elementor-size-default">Create Seamless Mobile Experiences with Expert App Development</h5>
                                     </div>
                                 </div>
-                                <div class="elementor-element elementor-element-ba44296 elementor-widget elementor-widget-genix-image"
-                                    data-id="ba44296" data-element_type="widget" data-widget_type="genix-image.default">
                                     <div class="elementor-widget-container">
-
-
+                                        <p>Mobile apps are more than just tools – they’re a way to connect with your audience. Our <b>mobile app design & development services</b> are designed to create powerful, user-centric apps that deliver results.</p>
+                                        <p>Our expertise spans platforms. With our <b>Android app development services,</b> we create robust, scalable apps tailored to the Android ecosystem. For iPhone users, our iOS mobile app development services deliver sleek, functional apps that resonate with Apple’s design standards.</p>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
+                                data-id="2348a4d" data-element_type="container">
+                                <div class="elementor-element elementor-element-b765a09 elementor-widget__width-inherit elementor-widget elementor-widget-genix-image"
+                                    data-id="b765a09" data-element_type="widget" data-widget_type="genix-image.default">
+                                    <div class="elementor-widget-container">
                                         <div class="about-img text-end">
-                                            <img decoding="async" class="wow fadeInLeft" data-wow-delay=".5s"
-                                                src="./assest/img/service/mobile-app-development-company-ahmedabad/Mobile-app-design-and-development.jpeg"
+                                            <img class="wow fadeInLeft" data-wow-delay=".5s"
+                                                src="./assest/img/service/mobile-app-development/mobile-app.jpg"
                                                 alt=""
                                                 style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
 
-                                            <img decoding="async" class="wow zoomIn" data-wow-delay=".2s"
-                                                src="./assest/img/service/mobile-app-development-company-ahmedabad/mobile-app-development-company-ahmedabad.jpeg"
-                                                alt=""
-                                                style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
+                                           
                                         </div>
-
-
                                     </div>
                                 </div>
-                                <div class="elementor-element elementor-element-c86b2b1 elementor-widget elementor-widget-text-editor"
-                                    data-id="c86b2b1" data-element_type="widget" data-widget_type="text-editor.default">
+                            </div>
+                        </div>
+                        
+                    </div>
+                    <div class="elementor-element elementor-element-2cdeb1c e-flex e-con-boxed e-con e-parent e-lazyloaded"
+                        data-id="2cdeb1c" data-element_type="container">
+                        <div class="e-con-inner">
+                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
+                                data-id="2348a4d" data-element_type="container">
+                                              
+                                <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
+                                    data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
-                                        <p><span style="font-weight: 400;">Mobile apps are more than just tools –
-                                                they’re a way to connect with your audience. Our </span><b>mobile app
-                                                design &amp; development services</b><span style="font-weight: 400;">
-                                                are designed to create powerful, user-centric apps that deliver
-                                                results.</span></p>
-                                        <p><span style="font-weight: 400;">Our expertise spans across platforms. With
-                                                our </span><b>Android app development services</b><span
-                                                style="font-weight: 400;">, we create apps that are robust, scalable,
-                                                and tailored for the Android ecosystem. For iPhone users, our iOS mobile
-                                                app development services deliver sleek, functional apps that resonate
-                                                with Apple’s design standards.</span></p>
-                                        <p><span style="font-weight: 400;">As a trusted </span><b>app development
-                                                company in Ahmedabad</b><span style="font-weight: 400;">, we handle
-                                                everything from ideation and </span><b>UI/UX design to
-                                                development</b><span style="font-weight: 400;"> and deployment. Whether
-                                                you’re a startup or an established business, we work tirelessly to
-                                                create apps that align with your goals and captivate your
-                                                audience.</span></p>
-                                        <p><span style="font-weight: 400;">Let’s work together to turn your app idea
-                                                into reality.</span></p>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-75e1612 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-text-editor"
-                                    data-id="75e1612" data-element_type="widget" data-widget_type="text-editor.default">
-                                    <div class="elementor-widget-container">
-                                        <p><strong>Utilizing the latest design trends and technologies, we craft
-                                                visually stunning and functional app designs that align with your brand
-                                                identity.</strong></p>
-                                        <p>At eemBranding, we offer comprehensive mobile app design and development
-                                            services that bring your ideas to life on both the iOS and Android
-                                            platforms. Our process begins with an in-depth consultation to understand
-                                            your business objectives, target audience, and unique requirements. Our team
-                                            of experienced designers creates intuitive, user-friendly interfaces that
-                                            ensure a seamless user experience.</p>
-                                        <p>Following the design phase, our skilled developers turn these designs into
-                                            fully operational mobile applications. We employ agile development
-                                            methodologies, ensuring flexibility and efficiency throughout the process.
-                                            From coding and integration to rigorous testing and deployment, we handle
-                                            every aspect of app development with precision and care. Our goal is to
-                                            deliver a high-performing, reliable app that meets your business needs and
-                                            exceeds user expectations.</p>
+                                    <p>As a trusted <b>app development company in Ahmedabad,</b> we handle everything from ideation and <b>UI/UX design to development</b> and deployment. Whether you’re a startup or an established business, we work tirelessly to create apps that align with your goals and captivate your audience.</p>
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-db8dd2e elementor-widget elementor-widget-heading"
@@ -136,8 +108,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-element elementor-element-37cf0dd elementor-widget elementor-widget-genix-faq"
                                     data-id="37cf0dd" data-element_type="widget" data-widget_type="genix-faq.default">
                                     <div class="elementor-widget-container">
-
-
                                         <div class="services-faq-wrap">
                                             <div class="accordion" id="accordionExample">
 
@@ -181,17 +151,16 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                             </div>
                                         </div>
-
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="elementor-element elementor-element-8d649b6 e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="8d649b6" data-element_type="container">
+                    <div class="elementor-element elementor-element-920aeb1 e-flex e-con-boxed e-con e-parent"
+                        data-id="920aeb1" data-element_type="container">
                         <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-766e320 elementor-widget elementor-widget-spacer"
-                                data-id="766e320" data-element_type="widget" data-widget_type="spacer.default">
+                            <div class="elementor-element elementor-element-33dfcb9 elementor-widget elementor-widget-spacer"
+                                data-id="33dfcb9" data-element_type="widget" data-widget_type="spacer.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-spacer">
                                         <div class="elementor-spacer-inner"></div>
@@ -202,8 +171,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
             </div>
-        </section> -->
-
+        </section>
 
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';

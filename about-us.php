@@ -53,7 +53,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div
                                                             class="section-title-two tg-heading-subheading animation-style3">
 
-                                                            <h1 class="title tg-element-title" style="perspective: 400px;">
+                                                            <h1 class="title tg-element-title" style="perspective: 400px; font-weight: 500;">
                                                             About EEM Branding – Designing Ideas, Delivering Impact
                                                             </h1>
                                                         </div>
@@ -97,7 +97,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div
                                                             class="section-title-two tg-heading-subheading animation-style3">
 
-                                                            <h1 class="title tg-element-title" style="perspective: 400px;">
+                                                            <h1 class="title tg-element-title" style="perspective: 400px; font-weight: 500;">
                                                             What Drives Us
                                                             </h1>
                                                         </div>
@@ -208,7 +208,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div
                                                             class="section-title-two tg-heading-subheading animation-style3">
 
-                                                            <h1 class="title tg-element-title" style="perspective: 400px;">
+                                                            <h1 class="title tg-element-title" style="perspective: 400px; font-weight: 500;">
                                                             Why Choose EEM Branding?
                                                             </h1>
                                                         </div>

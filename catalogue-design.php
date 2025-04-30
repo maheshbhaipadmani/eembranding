@@ -8,7 +8,7 @@ $MetaKeywords = "laminate catalogue design, catalogue design Ahmedabad, brochure
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-    <iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe>
+ 
     <main class="main-area">
         
         <section class="breadcrumb-area-two ">
@@ -54,7 +54,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 data-id="2348a4d" data-element_type="container">
                                 <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
                                     data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
-                                    <h1>Laminate Catalogue Design Services In Ahmedabad</h1>
+                                    
                                     <div class="elementor-element elementor-element-16ab348 elementor-widget elementor-widget-heading"
                                     data-id="16ab348" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
@@ -76,7 +76,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="elementor-widget-container">
                                         <div class="about-img text-end">
                                             <img class="wow fadeInLeft" data-wow-delay=".5s"
-                                                src="./assest/img/service/catalogue-design/Laminate-catalouge-design-mordern.jpeg"
+                                                src="./assest/img/service/catalogue-design/Laminate-catalouge-design-mordern.jpg"
                                                 alt=""
                                                 style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
 
@@ -302,7 +302,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 </div>
             </div>
         </section>
-
 
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';

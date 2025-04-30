@@ -9,7 +9,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
    
-    <!-- <main class="main-area">
+     <main class="main-area">
         
         <section class="breadcrumb-area-two ">
             <div class="container">
@@ -32,12 +32,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
         
         <section class="services-details-area">
             <div class="container">
-                <div data-elementor-type="wp-post" data-elementor-id="4412" class="elementor elementor-4412">
-                    <div class="elementor-element elementor-element-a3c8cc2 e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="a3c8cc2" data-element_type="container">
+                <div data-elementor-type="wp-post" data-elementor-id="4372" class="elementor elementor-4372">
+                    <div class="elementor-element elementor-element-9189992 e-flex e-con-boxed e-con e-parent e-lazyloaded"
+                        data-id="9189992" data-element_type="container">
                         <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-53d7f95 elementor-widget elementor-widget-spacer"
-                                data-id="53d7f95" data-element_type="widget" data-widget_type="spacer.default">
+                            <div class="elementor-element elementor-element-50438b8 elementor-widget elementor-widget-spacer"
+                                data-id="50438b8" data-element_type="widget" data-widget_type="spacer.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-spacer">
                                         <div class="elementor-spacer-inner"></div>
@@ -46,83 +46,55 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             </div>
                         </div>
                     </div>
-                    <div class="elementor-element elementor-element-58e20a1 e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="58e20a1" data-element_type="container">
+
+                    <div class="elementor-element elementor-element-2cdeb1c e-flex e-con-boxed e-con e-parent e-lazyloaded"
+                        data-id="2cdeb1c" data-element_type="container">
                         <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-316d3f6 e-con-full e-flex e-con e-child"
-                                data-id="316d3f6" data-element_type="container">
-                                <div class="elementor-element elementor-element-844d0f8 elementor-widget elementor-widget-heading"
-                                    data-id="844d0f8" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
+                                data-id="2348a4d" data-element_type="container">
+                                <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
+                                    data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
+                                    
+                                    <div class="elementor-element elementor-element-16ab348 elementor-widget elementor-widget-heading"
+                                    data-id="16ab348" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                        <h2 class="elementor-heading-title elementor-size-default mb-3 mt-3">Professional Website
-                                            Design and Development for Businesses in Ahmedabad
-                                        </h2>
+                                        <h5 class="elementor-heading-title elementor-size-default">Professional Website Design and Development for Businesses in Ahmedabad</h5>
                                     </div>
                                 </div>
-                                <div class="elementor-element elementor-element-c02ae2e elementor-widget elementor-widget-genix-image"
-                                    data-id="c02ae2e" data-element_type="widget" data-widget_type="genix-image.default">
                                     <div class="elementor-widget-container">
-
-
+                                        <p>Need a website that stands out? Our <b> web design company in Ahmedabad </b>offers end-to-end solutions to craft unique, performance-driven websites that elevate your brand. From sleek, minimalist designs to bold, dynamic layouts, we create websites that captivate audiences and enhance user experience.</p>
+                                        <p>As the best <b>website designer in Ahmedabad,</b> we ensure that each website we build is responsive, SEO-friendly, and aligned with your business objectives. Our team of expert designers and developers is committed to delivering digital solutions that help you stay ahead of the competition.</p>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
+                                data-id="2348a4d" data-element_type="container">
+                                <div class="elementor-element elementor-element-b765a09 elementor-widget__width-inherit elementor-widget elementor-widget-genix-image"
+                                    data-id="b765a09" data-element_type="widget" data-widget_type="genix-image.default">
+                                    <div class="elementor-widget-container">
                                         <div class="about-img text-end">
-                                            <img decoding="async" class="wow fadeInLeft" data-wow-delay=".5s"
-                                                src="./assest/img/service/website-design-company-in-ahmedabad/Website-Development-1-1.jpeg"
-                                                alt="website development services"
+                                            <img class="wow fadeInLeft" data-wow-delay=".5s"
+                                                src="./assest/img/service/website-design/Website-Design-&-Development.jpg"
+                                                alt=""
                                                 style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
-
-                                            <img decoding="async" class="wow zoomIn" data-wow-delay=".2s"
-                                                src="./assest/img/service/website-design-company-in-ahmedabad/Website-Development.jpeg"
-                                                alt="website development services"
-                                                style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
                                         </div>
-
-
                                     </div>
                                 </div>
-                                <div class="elementor-element elementor-element-83a1fce elementor-widget elementor-widget-text-editor"
-                                    data-id="83a1fce" data-element_type="widget" data-widget_type="text-editor.default">
+                            </div>
+                        </div>
+                        
+                    </div>
+                    <div class="elementor-element elementor-element-2cdeb1c e-flex e-con-boxed e-con e-parent e-lazyloaded"
+                        data-id="2cdeb1c" data-element_type="container">
+                        <div class="e-con-inner">
+                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
+                                data-id="2348a4d" data-element_type="container">
+                                              
+                                <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
+                                    data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
-                                        <p><span style="font-weight: 400;">Need a website that stands out? Our
-                                            </span><b>web design company in Ahmedabad</b><span
-                                                style="font-weight: 400;"> offers end-to-end solutions to craft unique,
-                                                performance-driven websites that elevate your brand. From sleek,
-                                                minimalist designs to bold, dynamic layouts, we create websites that
-                                                captivate audiences and enhance user experience.</span></p>
-                                        <p><span style="font-weight: 400;">As the </span><b>best website
-                                                designer</b><span style="font-weight: 400;"> in Ahmedabad, we ensure
-                                                that each website we build is responsive, SEO-friendly, and aligned with
-                                                your business objectives. Our team of expert designers and developers is
-                                                committed to delivering digital solutions that help you stay ahead of
-                                                the competition.</span></p>
-                                        <p><span style="font-weight: 400;">Looking for a reliable </span><b>website
-                                                design and development company in Ahmedabad</b><span
-                                                style="font-weight: 400;">? Let us create a custom website that helps
-                                                your business grow and thrive in the digital landscape.</span></p>
-                                        <p>&nbsp;</p>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-0d10d23 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-text-editor"
-                                    data-id="0d10d23" data-element_type="widget" data-widget_type="text-editor.default">
-                                    <div class="elementor-widget-container">
-                                        <p><strong>From responsive websites to innovative mobile apps, we develop
-                                                tailored solutions that drive business growth and deliver exceptional
-                                                user experiences across all devices.</strong></p>
-                                        <p><span style="font-weight: 400;">In today’s digital world, a well-designed and
-                                                functional website or mobile app is essential for business success. Our
-                                                web and mobile app development services are focused on creating custom
-                                                solutions that meet your unique business needs and objectives. Whether
-                                                you’re looking to launch a new website, develop a mobile app, or upgrade
-                                                your existing digital presence, our team of developers will work closely
-                                                with you to bring your vision to life.</span></p>
-                                        <p><span style="font-weight: 400;">From front-end design and user interface
-                                                development to back-end programming and database integration, we offer
-                                                end-to-end development services to ensure that your project is completed
-                                                on time and within budget. Our experienced developers are proficient in
-                                                a wide range of technologies and platforms, allowing us to create
-                                                solutions that are not only visually stunning but also robust, scalable,
-                                                and secure. Whether you’re a small startup or a large enterprise, we’ll
-                                                work with you to develop a custom solution that helps you achieve your
-                                                business goals and stay ahead of the competition.</span></p>
+                                    <p>Looking for a reliable <b>website design and development company in Ahmedabad?</b> Let us create a custom website that helps your business grow and thrive in the digital landscape.</p>
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-49bc419 elementor-widget elementor-widget-heading"
@@ -244,11 +216,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             </div>
                         </div>
                     </div>
-                    <div class="elementor-element elementor-element-f152c2b e-flex e-con-boxed e-con e-parent"
-                        data-id="f152c2b" data-element_type="container">
+                    <div class="elementor-element elementor-element-920aeb1 e-flex e-con-boxed e-con e-parent"
+                        data-id="920aeb1" data-element_type="container">
                         <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-2fa0df2 elementor-widget elementor-widget-spacer"
-                                data-id="2fa0df2" data-element_type="widget" data-widget_type="spacer.default">
+                            <div class="elementor-element elementor-element-33dfcb9 elementor-widget elementor-widget-spacer"
+                                data-id="33dfcb9" data-element_type="widget" data-widget_type="spacer.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-spacer">
                                         <div class="elementor-spacer-inner"></div>
@@ -259,7 +231,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
             </div>
-        </section> -->
+        </section>
 
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';

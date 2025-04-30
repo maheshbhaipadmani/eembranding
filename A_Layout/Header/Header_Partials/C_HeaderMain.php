@@ -50,7 +50,7 @@ echo
                                         </li>
                                         <li itemscope="itemscope"
                                             itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-5525"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown has-dropdown menu-item-5525 nav-item ' ?><?php if ($page == "services-page.php" || $page == "catalogue-design-company-in-ahmedabad.php" || $page == "creative-design-agency-in-ahmedabad.php" || $page == "digital-marketing-agency-ahmedabad.php" || $page == "ui-ux-design-company-in-ahmedabad.php" || $page == "website-design-company-in-ahmedabad.php" || $page == "mobile-app-development-company-ahmedabad.php" || $page == "event-management-company-in-ahmedabad.php" || $page == "3d-rendering.php" || $page == "advertising-agency.php") {
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown has-dropdown menu-item-5525 nav-item ' ?><?php if ($page == "services-page.php" || $page == "catalogue-design-company-in-ahmedabad.php" || $page == "creative-design-agency-in-ahmedabad.php" || $page == "digital-marketing-agency-ahmedabad.php" || $page == "ui-ux-design-company-in-ahmedabad.php" || $page == "website-design-company-in-ahmedabad.php" || $page == "mobile-app-development-company-ahmedabad.php" || $page == "exhibition-stall-design.php" || $page == "3d-rendering.php" || $page == "advertising-agency.php") {
                                          echo 'active';
                                      } ?><?php echo '" aria-current="page">
                                             <a title="Services" href="services-page" class="nav-links">Services</a>
@@ -110,7 +110,16 @@ echo
                                                     <a title="Mobile App" href="mobile-app-development-company-ahmedabad"
                                                         class="dropdown-items">Mobile App</a>
                                                 </li>
-                                                <li itemscope="itemscope"
+                                                 <li itemscope="itemscope"
+                                                    itemtype="https://www.schema.org/SiteNavigationElement"
+                                                    id="menu-item-6710"
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6710 nav-item ' ?><?php if ($page == "exhibition-stall-design.php") {
+                                                 echo 'active';
+                                             } ?><?php echo '">
+                                                    <a title="Exhibition Stall Design" href="mobile-app-development-company-ahmedabad"
+                                                        class="dropdown-items">Exhibition Stall Design</a>
+                                                </li>
+                                                <li itemscope="itemscope"   
                                                     itemtype="https://www.schema.org/SiteNavigationElement"
                                                     id="menu-item-6712"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6712 nav-item ' ?><?php if ($page == "3d-rendering.php") {
