@@ -301,31 +301,31 @@ echo
                                                         <div class="elementor-widget-container mb-0">
                                                             <ul class="elementor-icon-list-items">
                                                                 <li class="elementor-icon-list-item">
-                                                                    <a href="catalogue-design-company-in-ahmedabad"><span
+                                                                    <a href="services/catalogue-design-company-in-ahmedabad"><span
                                                                             class="elementor-icon-list-text">Catalogue
                                                                             Design</span>
                                                                     </a>
                                                                 </li>
                                                                 <li class="elementor-icon-list-item">
-                                                                    <a href="catalogue-design-company-in-ahmedabad"><span
+                                                                    <a href="services/creative-design-agency-in-ahmedabad"><span
                                                                             class="elementor-icon-list-text">Creative
                                                                             Designing</span>
                                                                     </a>
                                                                 </li>
                                                                 <li class="elementor-icon-list-item">
-                                                                    <a href="digital-marketing-agency-ahmedabad"><span
+                                                                    <a href="services/digital-marketing-agency-ahmedabad"><span
                                                                             class="elementor-icon-list-text">Digital
                                                                             Marketing</span>
                                                                     </a>
                                                                 </li>
                                                                 <li class="elementor-icon-list-item">
-                                                                    <a href="ui-ux-design-company-in-ahmedabad"><span
+                                                                    <a href="services/ui-ux-design-company-in-ahmedabad"><span
                                                                             class="elementor-icon-list-text">UI/UX
                                                                             Designing</span>
                                                                     </a>
                                                                 </li>
                                                                 <li class="elementor-icon-list-item">
-                                                                    <a href="website-design-company-in-ahmedabad"><span
+                                                                    <a href="services/website-design-company-in-ahmedabad"><span
                                                                             class="elementor-icon-list-text">Website
                                                                             Development</span>
                                                                     </a>
