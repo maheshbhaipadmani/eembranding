@@ -521,6 +521,23 @@ reset($myaraa);
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-6">
+                                            <div class="services-item-two wow fadeInUp" data-wow-delay=".10s"
+                                                style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
+                                                <div class="services-icon-two">
+                                                    <img decoding="async"
+                                                        src="./assest/img/home/icon/6-mobile-app.png"
+                                                        alt="Icon">
+                                                </div>
+                                                <div class="services-content-two">
+                                                    <h2 class="title">
+                                                        <a href="exhibition-stall-design-company-ahmedabad">Creative & Custom Exhibition Stall Design Services in India</a>
+                                                    </h2>
+                                                    <p>We create custom exhibition stalls with 3D design and full setup across India. Perfect for trade shows in Ahmedabad, Delhi, Mumbai, and more.</p>
+                                                    <a href="exhibition-stall-design-company-ahmedabad" class="link-btn">Read More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-6">
                                             <div class="services-item-two wow fadeInUp" data-wow-delay=".14s"
                                                 style="visibility: hidden; animation-delay: 0.14s; animation-name: none;">
                                                 <div class="services-icon-two">
