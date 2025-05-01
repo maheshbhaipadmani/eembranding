@@ -116,7 +116,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     making them more likely to return
                                                                                     and engage with your products or
                                                                                     services. A </span><a
-                                                                                    href="home"><b>branding
+                                                                                    href="/"><b>branding
                                                                                         agency in Ahmedabad</b></a><span
                                                                                     style="font-weight: 400;">
                                                                                     specializes in developing brand
@@ -333,7 +333,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     increasing awareness or driving
                                                                                     sales. By partnering with a
                                                                                 </span><a
-                                                                                    href="home"><b>branding
+                                                                                    href="/"><b>branding
                                                                                         &amp; advertising
                                                                                         agency</b></a><span
                                                                                     style="font-weight: 400;">,

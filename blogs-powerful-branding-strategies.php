@@ -78,7 +78,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 business growth. Whether you’re a
                                                                                 startup or an established company,
                                                                                 investing in a </span><a
-                                                                                href="home"><b>branding
+                                                                                href="/"><b>branding
                                                                                     agency in ahmedabad</b></a><span
                                                                                 style="font-weight: 400;"> can help you
                                                                                 craft a unique identity that boosts

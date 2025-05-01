@@ -203,7 +203,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <li aria-level="2"><span
                                                                                     style="font-weight: 400;">As a&nbsp;
                                                                                 </span><a
-                                                                                    href="home"><b>branding
+                                                                                    href="/"><b>branding
                                                                                         agency in Ahmedabad</b></a><span
                                                                                     style="font-weight: 400;"> we ensure
                                                                                     consistent messaging and brand

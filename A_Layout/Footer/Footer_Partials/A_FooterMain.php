@@ -77,7 +77,7 @@ echo
                                                         <div class="elementor-widget-container mb-0">
                                                             <div class="hfe-site-logo">
                                                                 <a data-elementor-open-lightbox=""
-                                                                    class="elementor-clickable" href="home">
+                                                                    class="elementor-clickable" href="/">
                                                                     <div class="hfe-site-logo-set">
                                                                         <div class="hfe-site-logo-container">
                                                                             <img class="hfe-site-logo-img elementor-animation-"
@@ -249,7 +249,7 @@ echo
                                                                     <ul id="menu-1-211b1c4" class="hfe-nav-menu">
                                                                         <li id="menu-item-6847"
                                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-495 current_page_item parent hfe-creative-menu">
-                                                                            <a href="home"
+                                                                            <a href="/"
                                                                                 class="hfe-menu-item">Home</a>
                                                                         </li>
                                                                         <li id="menu-item-6849"

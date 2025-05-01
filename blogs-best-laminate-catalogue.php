@@ -163,7 +163,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <p><b>Our Specialty in the industry for more than
                                                                             20+ years:</b></p>
                                                                     <p><span style="font-weight: 400;">As a</span> <a
-                                                                            href="home"><b>branding
+                                                                            href="/"><b>branding
                                                                                 agency in Ahmedabad</b></a><b>,</b><span
                                                                             style="font-weight: 400;"> we follow a
                                                                             meticulous design process,&nbsp; ensuring

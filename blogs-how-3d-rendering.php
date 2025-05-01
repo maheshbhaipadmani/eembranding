@@ -125,7 +125,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 conditions and settings, reducing
                                                                                 uncertainty and increasing purchase
                                                                                 confidence. A </span><a
-                                                                                href="home"><b>branding
+                                                                                href="/"><b>branding
                                                                                     agency in ahmedabad</b> </a><span
                                                                                 style="font-weight: 400;">can
                                                                                 incorporate these visuals into marketing

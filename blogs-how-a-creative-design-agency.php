@@ -95,7 +95,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 more than just a logo—it’s about
                                                                                 creating a consistent and memorable
                                                                                 identity. A professional </span><a
-                                                                                href="home"><b>Branding
+                                                                                href="/"><b>Branding
                                                                                     Agency in Ahmedabad</b></a><span
                                                                                 style="font-weight: 400;"> ensures that
                                                                                 your brand:</span></p>
