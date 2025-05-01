@@ -292,7 +292,7 @@ reset($myaraa);
                                 <p><span style="font-weight: 400;">Transform Your Business with Expert Branding,
                                         Marketing, and Design</span></p>
                                 <p><span style="font-weight: 400;">At our </span><a
-                                        href="advertising-agency-in-ahmedabad"><b>branding
+                                        href="services/advertising-agency-in-ahmedabad"><b>branding
                                             and advertising agency</b></a><span style="font-weight: 400;">, we believe
                                         that strong branding is the cornerstone of business success. Our creative team
                                         works closely with you to craft a unique identity that reflects your values,
@@ -300,19 +300,19 @@ reset($myaraa);
                                         complete brand overhaul or a new campaign launch, we deliver solutions that
                                         drive impact.</span></p>
                                 <p><span style="font-weight: 400;">In the digital age, visibility is everything.
-                                        Our</span> <a href="digital-marketing-agency-ahmedabad"><b>digital
+                                        Our</span> <a href="services/digital-marketing-agency-ahmedabad"><b>digital
                                             marketing services</b></a><span style="font-weight: 400;"> are designed to
                                         help you reach the right audience through data-driven strategies. From search
                                         engine optimization (SEO) and social media marketing to pay-per-click
                                         advertising, we ensure your business gains the exposure it deserves.</span></p>
                                 <p><span style="font-weight: 400;">For businesses in the laminate industry, we offer
-                                        professional</span><a href="catalogue-design-company-in-ahmedabad">
+                                        professional</span><a href="services/catalogue-design-company-in-ahmedabad">
                                         <b>laminate catalogue design services</b></a><span style="font-weight: 400;">
                                         that highlight the quality and variety of your products. Our catalogues are
                                         designed to be visually stunning and informative, providing your clients with a
                                         clear representation of your offerings.</span></p>
                                 <p><span style="font-weight: 400;">Your website is your digital storefront. Our
-                                    </span><a href="website-design-company-in-ahmedabad"><b>website
+                                    </span><a href="services/website-design-company-in-ahmedabad"><b>website
                                             design services</b></a><span style="font-weight: 400;"> focus on creating
                                         modern, responsive websites that offer seamless user experiences. We blend
                                         creativity with functionality to develop websites that not only look great but
