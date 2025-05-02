@@ -347,7 +347,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-16.jpg"
                                                                                 alt="Image">
-                                                                            <a href="portfolio/ranwood-rega/"
+                                                                            <a href="portfolio/ranwood-rega"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
@@ -362,7 +362,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01.jpg"
                                                                                 alt="Image">
-                                                                            <a href="kooyoo-enchanting"
+                                                                            <a href="portfolio/kooyoo-enchanting"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
@@ -405,7 +405,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/00-Thumbnail-6.jpg"
                                                                                 alt="Image">
-                                                                            <a href="keton-micabeautiful"
+                                                                            <a href="portfolio/keton-micabeautiful"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"

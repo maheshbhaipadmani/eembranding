@@ -50,7 +50,7 @@ reset($myaraa);
                                                     Crafting captivating laminate folder designs that weave stories,
                                                     combining striking visuals with informative content, leaving a
                                                     memorable impact.</p>
-                                                <a href="catalogue-design-company-in-ahmedabad" data-bs-toggle="" data-bs-target=""><i
+                                                <a href="services/catalogue-design-company-in-ahmedabad" data-bs-toggle="" data-bs-target=""><i
                                                         class="fas fa-arrow-right"></i></a>
                                             </div>
                                         </li>
@@ -65,7 +65,7 @@ reset($myaraa);
                                                 <p>
                                                     Shaping iconic identities that resonate deeply and leave a lasting
                                                     impression.</p>
-                                                <a href="catalogue-design-company-in-ahmedabad" data-bs-toggle="" data-bs-target=""><i
+                                                <a href="services/catalogue-design-company-in-ahmedabad" data-bs-toggle="" data-bs-target=""><i
                                                         class="fas fa-arrow-right"></i></a>
                                             </div>
                                         </li>
@@ -81,7 +81,7 @@ reset($myaraa);
                                                 <p>
                                                     From concept to execution, we breathe life into ideas, delivering
                                                     designs that captivate and inspire audiences.</p>
-                                                <a href="digital-marketing-agency-ahmedabad" data-bs-toggle=""
+                                                <a href="services/digital-marketing-agency-ahmedabad" data-bs-toggle=""
                                                     data-bs-target=""><i class="fas fa-arrow-right"></i></a>
                                             </div>
                                         </li>
@@ -97,7 +97,7 @@ reset($myaraa);
                                                 <p>
                                                     Crafting seamless digital experiences for your website and mobile
                                                     platforms with our expert designing and development services.</p>
-                                                <a href="website-design-company-in-ahmedabad" data-bs-toggle="" data-bs-target=""><i
+                                                <a href="services/website-design-company-in-ahmedabad" data-bs-toggle="" data-bs-target=""><i
                                                         class="fas fa-arrow-right"></i></a>
                                             </div>
                                         </li>
@@ -401,7 +401,7 @@ reset($myaraa);
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="catalogue-design-company-in-ahmedabad">Laminate
+                                                        <a href="services/catalogue-design-company-in-ahmedabad">Laminate
                                                             Catalogue Design Services In Ahmedabad</a>
                                                     </h2>
                                                     <p>Transform your brand's identity into tangible excellence with our
@@ -409,7 +409,7 @@ reset($myaraa);
                                                         eye-catching and vibrant, our designs elevate your marketing
                                                         materials, leaving a lasting impression on clients and partners
                                                         alike.</p>
-                                                    <a href="catalogue-design-company-in-ahmedabad" class="link-btn">Read More</a>
+                                                    <a href="services/catalogue-design-company-in-ahmedabad" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -423,14 +423,14 @@ reset($myaraa);
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="creative-design-agency-in-ahmedabad">Creative
+                                                        <a href="services/creative-design-agency-in-ahmedabad">Creative
                                                             Designing Agency In Ahmedabad</a>
                                                     </h2>
                                                     <p>Elevate your brand's visual identity with our innovative and
                                                         captivating creative designing services. From logos to branding
                                                         materials, we bring your vision to life with flair and finesse.
                                                     </p>
-                                                    <a href="creative-design-agency-in-ahmedabad" class="link-btn">Read More</a>
+                                                    <a href="services/creative-design-agency-in-ahmedabad" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -444,14 +444,14 @@ reset($myaraa);
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="digital-marketing-agency-ahmedabad">Digital
+                                                        <a href="services/digital-marketing-agency-ahmedabad">Digital
                                                             Marketing Agency In Ahmedabad</a>
                                                     </h2>
                                                     <p>Amplify your brand's online presence and generate targeted
                                                         traffic with our comprehensive digital marketing services. From
                                                         strategic planning to execution, we guide you through the
                                                         digital landscape for maximum impact and ROI.</p>
-                                                    <a href="digital-marketing-agency-ahmedabad" class="link-btn">Read
+                                                    <a href="services/digital-marketing-agency-ahmedabad" class="link-btn">Read
                                                         More</a>
                                                 </div>
                                             </div>
@@ -466,7 +466,7 @@ reset($myaraa);
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="ui-ux-design-company-in-ahmedabad">Ui
+                                                        <a href="services/ui-ux-design-company-in-ahmedabad">Ui
                                                             Ux Design Company In Ahmedabad</a>
                                                     </h2>
                                                     <p>Enhance user satisfaction and engagement with our UI/UX Designing
@@ -475,7 +475,7 @@ reset($myaraa);
                                                         From wireframes to prototypes, we specialise in creating
                                                         user-centric designs that elevate your brand and drive
                                                         conversions.</p>
-                                                    <a href="ui-ux-design-company-in-ahmedabad" class="link-btn">Read More</a>
+                                                    <a href="services/ui-ux-design-company-in-ahmedabad" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -489,12 +489,12 @@ reset($myaraa);
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="website-design-company-in-ahmedabad">Website
+                                                        <a href="services/website-design-company-in-ahmedabad">Website
                                                             Design &amp; Development Company In Ahmedabad</a>
                                                     </h2>
                                                     <p>Empower your online presence with our cutting-edge website
                                                         development services tailored to your unique needs</p>
-                                                    <a href="website-design-company-in-ahmedabad" class="link-btn">Read More</a>
+                                                    <a href="services/website-design-company-in-ahmedabad" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -508,7 +508,7 @@ reset($myaraa);
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="mobile-app-development-company-ahmedabad">Mobile
+                                                        <a href="services/mobile-app-development-company-ahmedabad">Mobile
                                                             App Design &amp; Development Company In Ahmedabad</a>
                                                     </h2>
                                                     <p>Transform your ideas into stunning, user-friendly mobile
@@ -516,7 +516,7 @@ reset($myaraa);
                                                         services. From concept to launch, we're here to bring your app
                                                         vision to life with cutting-edge technology and intuitive
                                                         design.</p>
-                                                    <a href="mobile-app-development-company-ahmedabad" class="link-btn">Read More</a>
+                                                    <a href="services/mobile-app-development-company-ahmedabad" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -530,10 +530,10 @@ reset($myaraa);
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="exhibition-stall-design-company-ahmedabad">Creative & Custom Exhibition Stall Design Services in India</a>
+                                                        <a href="services/exhibition-stall-design-company-ahmedabad">Creative & Custom Exhibition Stall Design Services in India</a>
                                                     </h2>
                                                     <p>We create custom exhibition stalls with 3D design and full setup across India. Perfect for trade shows in Ahmedabad, Delhi, Mumbai, and more.</p>
-                                                    <a href="exhibition-stall-design-company-ahmedabad" class="link-btn">Read More</a>
+                                                    <a href="services/exhibition-stall-design-company-ahmedabad" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -547,14 +547,14 @@ reset($myaraa);
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="3d-rendering-company-in-ahmedabad">3d
+                                                        <a href="services/3d-rendering-company-in-ahmedabad">3d
                                                             Rendering Services In Ahmedabad</a>
                                                     </h2>
                                                     <p>Elevate your projects with stunning visualisations through our
                                                         precise 3D rendering services. From architectural designs to
                                                         digital walk through, we bring your ideas to life with
                                                         unparalleled realism and detail.</p>
-                                                    <a href="3d-rendering-company-in-ahmedabad" class="link-btn">Read More</a>
+                                                    <a href="services/3d-rendering-company-in-ahmedabad" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -568,14 +568,14 @@ reset($myaraa);
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
-                                                        <a href="advertising-agency-in-ahmedabad">Advertising
+                                                        <a href="services/advertising-agency-in-ahmedabad">Advertising
                                                             Agency In Ahmedabad</a>
                                                     </h2>
                                                     <p>Elevate your brand's visibility with captivating outdoor branding
                                                         solutions tailored to leave a lasting impression on your target
                                                         audience. From eye-catching billboards to engaging signage, we
                                                         help you stand out in the great outdoors.</p>
-                                                    <a href="advertising-agency-in-ahmedabad" class="link-btn">Read More</a>
+                                                    <a href="services/advertising-agency-in-ahmedabad" class="link-btn">Read More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -689,7 +689,7 @@ reset($myaraa);
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-12.jpg"
                                                                         alt="Image">
-                                                                    <a href="portfolio/ranwood-rega/" class="link-icon">
+                                                                    <a href="portfolio/ranwood-rega" class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/home/icon/arrow-right.svg"
                                                                             alt="Icon">
@@ -703,7 +703,7 @@ reset($myaraa);
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail.jpg"
                                                                         alt="Image">
-                                                                    <a href="kooyoo-enchanting" class="link-icon">
+                                                                    <a href="portfolio/kooyoo-enchanting" class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/home/icon/arrow-right.svg"
                                                                             alt="Icon">

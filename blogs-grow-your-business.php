@@ -99,7 +99,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 with brands on social media, and making
                                                                                 purchase decisions based on digital
                                                                                 interactions. This is where a </span><a
-                                                                                href="digital-marketing-agency-ahmedabad"><b>digital
+                                                                                href="services/digital-marketing-agency-ahmedabad"><b>digital
                                                                                     marketing company</b></a><span
                                                                                 style="font-weight: 400;"> creates
                                                                                 data-driven strategies that maximize
@@ -226,7 +226,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <li aria-level="2"><span
                                                                                     style="font-weight: 400;">A
                                                                                 </span><a
-                                                                                    href="creative-design-agency-in-ahmedabad"><b>creative
+                                                                                    href="services/creative-design-agency-in-ahmedabad"><b>creative
                                                                                         designing agency</b></a><span
                                                                                     style="font-weight: 400;"> ensures
                                                                                     that your website aligns with your
@@ -242,7 +242,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 continuously attracts and engages
                                                                                 potential customers. By working with a
                                                                                 professional </span><a
-                                                                                href="digital-marketing-agency-ahmedabad"><b>digital
+                                                                                href="services/digital-marketing-agency-ahmedabad"><b>digital
                                                                                     marketing agency in
                                                                                     ahmedabad</b></a><span
                                                                                 style="font-weight: 400;">, businesses
