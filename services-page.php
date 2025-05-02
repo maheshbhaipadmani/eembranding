@@ -263,7 +263,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/icon/6-mobile-app.png"
+                                                        src="./assest/img/home/icon/ExhibitionIcon.png"
                                                         alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">

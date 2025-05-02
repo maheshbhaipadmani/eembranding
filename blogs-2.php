@@ -105,18 +105,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                     Advertising: Understanding the Key
                                                                                     Differences</a></h3>
                                                                         </div>
-                                                                        <!-- <div class="post-meta-tags rt-el-post-meta">
-                                                                            <span class="date">
-                                                                                <i class="far fa-calendar-alt "></i> <a
-                                                                                    href="home">
-                                                                                    February 10, 2025 </a>
-                                                                            </span>
-                                                                            <span class="categories-links">
-                                                                                <i class="fas fa-folder-open "></i><a
-                                                                                    class="blogs"
-                                                                                    href="category-blog">Blogs</a>
-                                                                            </span>
-                                                                        </div> -->
 
                                                                         <div class="tpg-excerpt tpg-el-excerpt">
                                                                             <div class="tpg-excerpt-inner">
