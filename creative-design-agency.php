@@ -175,6 +175,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                     </div>
                                 </div>
+                                <div class="elementor-element elementor-element-5637943 elementor-widget elementor-widget-heading"
+                                                data-id="5637943" data-element_type="widget"
+                                                data-widget_type="heading.default">
+                                                <div class="elementor-widget-container">
+                                                    <h5 class="elementor-heading-title elementor-size-default">FAQ's
+                                                    </h5>
+                                                </div>
+                                            </div>
                                 <div class="elementor-element elementor-element-804d946 elementor-widget elementor-widget-genix-faq"
                                     data-id="804d946" data-element_type="widget" data-widget_type="genix-faq.default">
                                     <div class="elementor-widget-container">
@@ -183,41 +191,86 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="services-faq-wrap">
                                             <div class="accordion" id="accordionExample">
 
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-0">
-                                                        <button class="accordion-button " type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-0"
-                                                            aria-expanded="true" aria-controls="collapseOne-0">
-                                                            What types of design services do you offer? </button>
-                                                    </h2>
-                                                    <div id="collapseOne-0" class="accordion-collapse collapse show"
-                                                        aria-labelledby="headingOne-0"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>We offer a wide range of design services including logo
-                                                                design, brand identity development, print collateral,
-                                                                digital assets, and more.</p>
-                                                        </div>
+                                            <div class="accordion-item">
+                                                <h2 class="accordion-header" id="headingOne-2">
+                                                    <button class="accordion-button collapsed" type="button"
+                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-1"
+                                                        aria-expanded="true" aria-controls="collapseOne-1">
+                                                        What does a creative designing agency do?
+                                                    </button>
+                                                </h2>
+                                                <div id="collapseOne-1" class="accordion-collapse collapse "
+                                                    aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
+                                                    <div class="accordion-body">
+                                                        <p>We create visual content like branding, packaging, brochures, and digital designs that effectively communicate your brand's message.</p>
                                                     </div>
                                                 </div>
+                                            </div>
 
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-1">
-                                                        <button class="accordion-button collapsed" type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-1"
-                                                            aria-expanded="true" aria-controls="collapseOne-1">
-                                                            Can you work with existing brand guidelines? </button>
-                                                    </h2>
-                                                    <div id="collapseOne-1" class="accordion-collapse collapse "
-                                                        aria-labelledby="headingOne-1"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>Yes, we can work within existing brand guidelines or help
-                                                                develop new ones to ensure consistency across all
-                                                                touchpoints.</p>
-                                                        </div>
+                                            <div class="accordion-item">
+                                                <h2 class="accordion-header" id="headingOne-2">
+                                                    <button class="accordion-button collapsed" type="button"
+                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-2"
+                                                        aria-expanded="true" aria-controls="collapseOne-2">
+                                                        Which industries do you serve?
+                                                    </button>
+                                                </h2>
+                                                <div id="collapseOne-2" class="accordion-collapse collapse "
+                                                    aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
+                                                    <div class="accordion-body">
+                                                        <p>We work across various sectors including FMCG, interior, fashion, healthcare, tech, and lifestyle.</p>
                                                     </div>
                                                 </div>
+                                            </div>
+
+                                            <div class="accordion-item">
+                                                <h2 class="accordion-header" id="headingOne-2">
+                                                    <button class="accordion-button collapsed" type="button"
+                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-3"
+                                                        aria-expanded="true" aria-controls="collapseOne-3">
+                                                        Do you offer logo and brand identity design?
+                                                    </button>
+                                                </h2>
+                                                <div id="collapseOne-3" class="accordion-collapse collapse "
+                                                    aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
+                                                    <div class="accordion-body">
+                                                        <p>Yes, we specialize in professional logo creation and complete brand identity design.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="accordion-item">
+                                                <h2 class="accordion-header" id="headingOne-2">
+                                                    <button class="accordion-button collapsed" type="button"
+                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-4"
+                                                        aria-expanded="true" aria-controls="collapseOne-4">
+                                                        Do you design for digital and print?
+                                                    </button>
+                                                </h2>
+                                                <div id="collapseOne-4" class="accordion-collapse collapse "
+                                                    aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
+                                                    <div class="accordion-body">
+                                                        <p>Yes, we create high-quality designs for both print and digital media including social media, websites, and ads.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="accordion-item">
+                                                <h2 class="accordion-header" id="headingOne-2">
+                                                    <button class="accordion-button collapsed" type="button"
+                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-5"
+                                                        aria-expanded="true" aria-controls="collapseOne-5">
+                                                        What makes EEM Branding different from other design agencies?
+                                                    </button>
+                                                </h2>
+                                                <div id="collapseOne-5" class="accordion-collapse collapse "
+                                                    aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
+                                                    <div class="accordion-body">
+                                                        <p>Our team blends strategy with creativity, offering customized design solutions aligned with your business goals.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
                                             </div>
                                         </div>
 

@@ -167,7 +167,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-element elementor-element-3af6d13 elementor-widget elementor-widget-heading"
                                     data-id="3af6d13" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Q&amp;A</h5>
+                                        <h5 class="elementor-heading-title elementor-size-default">FAQ'S</h5>
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-24f69d7 elementor-widget elementor-widget-genix-faq"
@@ -183,16 +183,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <button class="accordion-button " type="button"
                                                             data-bs-toggle="collapse" data-bs-target="#collapseOne-0"
                                                             aria-expanded="true" aria-controls="collapseOne-0">
-                                                            What types of outdoor branding options do you offer?
+                                                            What types of exhibition stalls do you design?
                                                         </button>
                                                     </h2>
                                                     <div id="collapseOne-0" class="accordion-collapse collapse show"
                                                         aria-labelledby="headingOne-0"
                                                         data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
-                                                            <p>We offer a range of outdoor branding solutions including
-                                                                billboards, banners, signage, vehicle wraps, and more.
-                                                            </p>
+                                                            <p>We create custom stalls, modular designs, 3D stalls, and space-efficient layouts tailored to your brand and booth size.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -202,14 +200,64 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <button class="accordion-button collapsed" type="button"
                                                             data-bs-toggle="collapse" data-bs-target="#collapseOne-1"
                                                             aria-expanded="true" aria-controls="collapseOne-1">
-                                                            Can you assist with permits and installation? </button>
+                                                            Can you design stalls for events outside Ahmedabad?   </button>
                                                     </h2>
                                                     <div id="collapseOne-1" class="accordion-collapse collapse "
                                                         aria-labelledby="headingOne-1"
                                                         data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
-                                                            <p>Yes, we can handle the entire process from acquiring
-                                                                permits to installation and maintenance.</p>
+                                                            <p>Absolutely! We serve clients across India including Delhi, Mumbai, Bangalore, and other major cities.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-2"
+                                                            aria-expanded="true" aria-controls="collapseOne-2">
+                                                            Do you offer 3D visualizations before finalizing the stall design?
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapseOne-2" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Yes, we provide detailed 3D renders and mockups so you can preview the stall layout, branding, and structure before execution.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-3"
+                                                            aria-expanded="true" aria-controls="collapseOne-3">
+                                                            How early should I book exhibition stall design services?
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapseOne-3" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Ideally, 3–4 weeks in advance to ensure enough time for design, approvals, and production — especially for large-scale exhibitions.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-4"
+                                                            aria-expanded="true" aria-controls="collapseOne-4">
+                                                            Do you also manage international exhibition stall projects?
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapseOne-4" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Yes, we coordinate and deliver stall designs and execution for overseas exhibitions through our trusted global partners.</p>
                                                         </div>
                                                     </div>
                                                 </div>

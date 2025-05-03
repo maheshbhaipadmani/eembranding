@@ -103,7 +103,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-element elementor-element-40f3738 elementor-widget elementor-widget-heading"
                                 data-id="40f3738" data-element_type="widget" data-widget_type="heading.default">
                                 <div class="elementor-widget-container">
-                                    <h5 class="elementor-heading-title elementor-size-default">Q&amp;A</h5>
+                                    <h5 class="elementor-heading-title elementor-size-default">FAQ'S</h5>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-9f58329 elementor-widget elementor-widget-genix-faq"
@@ -119,16 +119,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                     <button class="accordion-button " type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapseOne-0"
                                                         aria-expanded="true" aria-controls="collapseOne-0">
-                                                        What types of projects do you specialize in for 3D
-                                                        rendering? </button>
+                                                        What are 3D rendering services?</button>
                                                 </h2>
                                                 <div id="collapseOne-0" class="accordion-collapse collapse show"
                                                     aria-labelledby="headingOne-0" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>We specialize in architectural visualization, interior
-                                                            design rendering, product visualization, and animation
-                                                            for various industries including architecture, real
-                                                            estate, interior design, and product development.</p>
+                                                        <p>3D rendering services create realistic visualizations of architectural designs, interiors, products, and more, bringing concepts to life before physical production.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -138,19 +134,67 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                     <button class="accordion-button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#collapseOne-1"
                                                         aria-expanded="true" aria-controls="collapseOne-1">
-                                                        How long does it take to complete a 3D rendering project?
+                                                        Do you provide 3D rendering for both interiors and exteriors?
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne-1" class="accordion-collapse collapse "
                                                     aria-labelledby="headingOne-1" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>The time frame for completing a 3D rendering project
-                                                            varies depending on the complexity of the project and
-                                                            client requirements. We work closely with clients to
-                                                            establish timelines and ensure timely delivery.</p>
+                                                        <p>Yes, we specialize in both 3D interior rendering and 3D exterior rendering to showcase every detail of your design.</p>
                                                     </div>
                                                 </div>
                                             </div>
+
+                                            <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-2"
+                                                            aria-expanded="true" aria-controls="collapseOne-2">
+                                                            Can you create 3D models of existing products?
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapseOne-2" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Absolutely! We offer product modeling services to create accurate, high-quality 3D representations of your products.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-3"
+                                                            aria-expanded="true" aria-controls="collapseOne-3">
+                                                            Can you create 360° views for my product or design?
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapseOne-3" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Yes, we offer 360° views that allow you to display products from every angle, ideal for marketing and online stores.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-4"
+                                                            aria-expanded="true" aria-controls="collapseOne-4">
+                                                            Do you offer 3D walkthroughs for interior designs?
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapseOne-4" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Yes, we provide 3D interior walkthroughs, allowing clients to virtually explore and interact with the space before finalizing designs.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                         </div>
                                     </div>
 

@@ -160,7 +160,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-element elementor-element-5637943 elementor-widget elementor-widget-heading"
                                     data-id="5637943" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Q&amp;A</h5>
+                                        <h5 class="elementor-heading-title elementor-size-default">FAQ'S</h5>
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-ca652ca elementor-widget elementor-widget-genix-faq"
@@ -176,17 +176,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <button class="accordion-button " type="button"
                                                             data-bs-toggle="collapse" data-bs-target="#collapseOne-0"
                                                             aria-expanded="true" aria-controls="collapseOne-0">
-                                                            What technologies do you use for web and mobile app
-                                                            development? </button>
+                                                            What types of websites do you design? </button>
                                                     </h2>
                                                     <div id="collapseOne-0" class="accordion-collapse collapse show"
                                                         aria-labelledby="headingOne-0"
                                                         data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
-                                                            <p>We are proficient in a variety of technologies including
-                                                                HTML/CSS, JavaScript, React, Angular, Vue.js for web
-                                                                development, and Swift, Kotlin, and React Native for
-                                                                mobile app development.</p>
+                                                            <p>We design corporate websites, eCommerce stores, landing pages, portfolio sites, and custom business portals.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -194,17 +190,63 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="accordion-item">
                                                     <h2 class="accordion-header" id="headingOne-1">
                                                         <button class="accordion-button collapsed" type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-1"
-                                                            aria-expanded="true" aria-controls="collapseOne-1">
-                                                            Do you provide ongoing support and maintenance? </button>
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-2"
+                                                            aria-expanded="true" aria-controls="collapseOne-2">
+                                                            Do you offer both design and development services? </button>
                                                     </h2>
-                                                    <div id="collapseOne-1" class="accordion-collapse collapse "
+                                                    <div id="collapseOne-2" class="accordion-collapse collapse "
                                                         aria-labelledby="headingOne-1"
                                                         data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
-                                                            <p>Yes, we offer ongoing support and maintenance services to
-                                                                ensure your website or app remains up-to-date, secure,
-                                                                and optimized for performance.</p>
+                                                            <p>Yes, we handle everything from UI/UX design to full-stack web development under one roof.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-3"
+                                                            aria-expanded="true" aria-controls="collapseOne-3">
+                                                            Is the website mobile responsive? </button>
+                                                    </h2>
+                                                    <div id="collapseOne-3" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Absolutely! Every website we build is fully responsive and optimized for all devices.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-4"
+                                                            aria-expanded="true" aria-controls="collapseOne-4">
+                                                            Do you offer website redesign services? </button>
+                                                    </h2>
+                                                    <div id="collapseOne-4" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Yes, we can refresh your existing website to improve performance, usability, and appearance.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-5"
+                                                            aria-expanded="true" aria-controls="collapseOne-5">
+                                                            Will my website be SEO-friendly? </button>
+                                                    </h2>
+                                                    <div id="collapseOne-5" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Definitely! All our websites follow SEO best practices, including fast loading, mobile optimization, and on-page SEO setup.</p>
                                                         </div>
                                                     </div>
                                                 </div>

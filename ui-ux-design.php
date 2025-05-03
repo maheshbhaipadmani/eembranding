@@ -98,7 +98,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 </div>
                                 <div class="elementor-element elementor-element-08426e4 elementor-widget elementor-widget-heading" data-id="08426e4" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Q&amp;A</h5>
+                                        <h5 class="elementor-heading-title elementor-size-default">FAQ'S</h5>
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-7bcd59d elementor-widget elementor-widget-genix-faq" data-id="7bcd59d" data-element_type="widget" data-widget_type="genix-faq.default">
@@ -111,15 +111,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="accordion-item">
                                                     <h2 class="accordion-header" id="headingOne-0">
                                                         <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne-0" aria-expanded="true" aria-controls="collapseOne-0">
-                                                            What is the difference between UI and UX design? </button>
+                                                        What is UI/UX design? </button>
                                                     </h2>
                                                     <div id="collapseOne-0" class="accordion-collapse collapse show" aria-labelledby="headingOne-0" data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
-                                                            <p>UI (User Interface) design focuses on the visual elements
-                                                                of a digital product such as layout, color scheme, and
-                                                                typography, while UX (User Experience) design focuses on
-                                                                the overall user journey and interaction flow to ensure
-                                                                a seamless and enjoyable experience.</p>
+                                                            <p>UI (User Interface) focuses on the look of your app or website, while UX (User Experience) ensures ease of use and smooth navigation.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -127,13 +123,59 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="accordion-item">
                                                     <h2 class="accordion-header" id="headingOne-1">
                                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne-1" aria-expanded="true" aria-controls="collapseOne-1">
-                                                            Can you conduct user testing to validate designs? </button>
+                                                        Why is UI/UX important for my business? </button>
                                                     </h2>
                                                     <div id="collapseOne-1" class="accordion-collapse collapse " aria-labelledby="headingOne-1" data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
-                                                            <p>Yes, we conduct user testing and gather feedback to
-                                                                validate designs and make data-driven decisions to
-                                                                improve usability and user satisfaction.</p>
+                                                            <p>Great UI/UX improves user engagement, builds trust, and increases conversions by making digital experiences intuitive and enjoyable.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-2"
+                                                            aria-expanded="true" aria-controls="collapseOne-2">
+                                                            Can you redesign my existing website or app?</button>
+                                                    </h2>
+                                                    <div id="collapseOne-2" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Absolutely! We audit and revamp outdated interfaces to improve usability and visual appeal.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-3"
+                                                            aria-expanded="true" aria-controls="collapseOne-3">
+                                                            Will the design be responsive across all devices? </button>
+                                                    </h2>
+                                                    <div id="collapseOne-3" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Absolutely! All our UI/UX designs are fully responsive and optimized for mobile, tablet, and desktop.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-4"
+                                                            aria-expanded="true" aria-controls="collapseOne-4">
+                                                            Can you design an admin panel or dashboard UI? </button>
+                                                    </h2>
+                                                    <div id="collapseOne-4" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Yes, we specialize in clean and functional UI/UX for dashboards, CRMs, and admin interfaces.</p>
                                                         </div>
                                                     </div>
                                                 </div>

@@ -102,7 +102,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-element elementor-element-db8dd2e elementor-widget elementor-widget-heading"
                                     data-id="db8dd2e" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Q&amp;A</h5>
+                                        <h5 class="elementor-heading-title elementor-size-default">FAQ'S</h5>
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-37cf0dd elementor-widget elementor-widget-genix-faq"
@@ -116,16 +116,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <button class="accordion-button " type="button"
                                                             data-bs-toggle="collapse" data-bs-target="#collapseOne-0"
                                                             aria-expanded="true" aria-controls="collapseOne-0">
-                                                            How long does the app development process take? </button>
+                                                            What types of mobile apps do you develop? </button>
                                                     </h2>
                                                     <div id="collapseOne-0" class="accordion-collapse collapse show"
                                                         aria-labelledby="headingOne-0"
                                                         data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
-                                                            <p>The timeline for app development varies depending on the
-                                                                complexity of the project. On average, it can take
-                                                                anywhere from 3 to 6 months from initial consultation to
-                                                                final deployment.</p>
+                                                            <p>We build Android, iOS, hybrid, and cross-platform apps for businesses, startups, and enterprises.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -135,17 +132,65 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <button class="accordion-button collapsed" type="button"
                                                             data-bs-toggle="collapse" data-bs-target="#collapseOne-1"
                                                             aria-expanded="true" aria-controls="collapseOne-1">
-                                                            Can you integrate the app with our existing systems?
+                                                            Do you provide both design and development?
                                                         </button>
                                                     </h2>
                                                     <div id="collapseOne-1" class="accordion-collapse collapse "
                                                         aria-labelledby="headingOne-1"
                                                         data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
-                                                            <p>Absolutely. We can integrate your mobile app with
-                                                                existing systems and databases to ensure seamless
-                                                                operation and data consistency across your business
-                                                                operations.</p>
+                                                            <p>Yes, we offer end-to-end services — from UI/UX design to full app development and deployment.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-2"
+                                                            aria-expanded="true" aria-controls="collapseOne-2">
+                                                            Can you create apps for both Android and iOS?
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapseOne-2" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Absolutely! We develop native and cross-platform apps using Flutter, React Native, Kotlin, and Swift.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-3"
+                                                            aria-expanded="true" aria-controls="collapseOne-3">
+                                                            Will you help with publishing the app to Play Store & App Store?
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapseOne-3" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Yes, we handle complete app submission, listing, and approvals for both Android and iOS platforms.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-4"
+                                                            aria-expanded="true" aria-controls="collapseOne-4">
+                                                            Can you redesign or upgrade my existing app?
+                                                        </button>
+                                                    </h2>
+                                                    <div id="collapseOne-4" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Definitely! We help modernize outdated apps with better UI, new features, and improved performance.</p>
                                                         </div>
                                                     </div>
                                                 </div>

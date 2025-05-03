@@ -143,7 +143,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-element elementor-element-3af6d13 elementor-widget elementor-widget-heading"
                                     data-id="3af6d13" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Q&amp;A</h5>
+                                        <h5 class="elementor-heading-title elementor-size-default">FAQ'S</h5>
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-24f69d7 elementor-widget elementor-widget-genix-faq"
@@ -159,15 +159,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <button class="accordion-button " type="button"
                                                             data-bs-toggle="collapse" data-bs-target="#collapseOne-0"
                                                             aria-expanded="true" aria-controls="collapseOne-0">
-                                                            What types of outdoor branding options do you offer?
+                                                            What advertising services do you offer?
                                                         </button>
                                                     </h2>
                                                     <div id="collapseOne-0" class="accordion-collapse collapse show"
                                                         aria-labelledby="headingOne-0"
                                                         data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
-                                                            <p>We offer a range of outdoor branding solutions including
-                                                                billboards, banners, signage, vehicle wraps, and more.
+                                                            <p>We provide comprehensive services including branding, print advertising, digital marketing, outdoor advertising, TV and radio ads, and more.
                                                             </p>
                                                         </div>
                                                     </div>
@@ -178,14 +177,61 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <button class="accordion-button collapsed" type="button"
                                                             data-bs-toggle="collapse" data-bs-target="#collapseOne-1"
                                                             aria-expanded="true" aria-controls="collapseOne-1">
-                                                            Can you assist with permits and installation? </button>
+                                                            Do you offer outdoor advertising services in Ahmedabad? </button>
                                                     </h2>
                                                     <div id="collapseOne-1" class="accordion-collapse collapse "
                                                         aria-labelledby="headingOne-1"
                                                         data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
-                                                            <p>Yes, we can handle the entire process from acquiring
-                                                                permits to installation and maintenance.</p>
+                                                            <p>Absolutely! We design and manage hoarding advertising and other outdoor campaigns tailored to reach a large audience effectively.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-2"
+                                                            aria-expanded="true" aria-controls="collapseOne-2">
+                                                            How do you develop an advertising strategy?</button>
+                                                    </h2>
+                                                    <div id="collapseOne-2" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>We begin with understanding your business goals and target audience, then craft a custom advertising plan that includes creative concepts, media planning, and execution.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-3"
+                                                            aria-expanded="true" aria-controls="collapseOne-3">
+                                                            Can you create a brand identity from scratch?</button>
+                                                    </h2>
+                                                    <div id="collapseOne-3" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Yes, we offer complete branding services, including logo design, messaging, and visual elements that reflect your brand's vision and values.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-4"
+                                                            aria-expanded="true" aria-controls="collapseOne-4">
+                                                            . Do you handle both small and large-scale campaigns?</button>
+                                                    </h2>
+                                                    <div id="collapseOne-4" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Yes, we manage campaigns of all sizes—whether you're a startup looking to make your mark or an established business aiming for broader reach.</p>
                                                         </div>
                                                     </div>
                                                 </div>

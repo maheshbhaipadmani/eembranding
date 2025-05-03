@@ -150,7 +150,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-element elementor-element-f3daa5d elementor-widget elementor-widget-heading"
                                     data-id="f3daa5d" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Q&amp;A</h5>
+                                        <h5 class="elementor-heading-title elementor-size-default">FAQ'S</h5>
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-40afe29 elementor-widget elementor-widget-genix-faq"
@@ -166,16 +166,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <button class="accordion-button " type="button"
                                                             data-bs-toggle="collapse" data-bs-target="#collapseOne-0"
                                                             aria-expanded="true" aria-controls="collapseOne-0">
-                                                            What digital marketing services do you offer? </button>
+                                                            What services does your digital marketing agency offer? </button>
                                                     </h2>
                                                     <div id="collapseOne-0" class="accordion-collapse collapse show"
                                                         aria-labelledby="headingOne-0"
                                                         data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
-                                                            <p>We offer a comprehensive range of digital marketing
-                                                                services including search engine optimization (SEO),
-                                                                social media marketing, pay-per-click (PPC) advertising,
-                                                                email marketing, and content marketing.</p>
+                                                            <p>We offer SEO, social media marketing, Google Ads, content marketing, and full digital branding solutions.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -185,17 +182,61 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <button class="accordion-button collapsed" type="button"
                                                             data-bs-toggle="collapse" data-bs-target="#collapseOne-1"
                                                             aria-expanded="true" aria-controls="collapseOne-1">
-                                                            How do you measure the success of digital marketing
-                                                            campaigns? </button>
+                                                            Do you handle both B2B and B2C campaigns? </button>
                                                     </h2>
                                                     <div id="collapseOne-1" class="accordion-collapse collapse "
                                                         aria-labelledby="headingOne-1"
                                                         data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
-                                                            <p>We utilize a variety of key performance indicators (KPIs)
-                                                                such as website traffic, conversion rates, engagement
-                                                                metrics, and return on investment (ROI) to measure the
-                                                                effectiveness of our campaigns.</p>
+                                                            <p>Yes, we design targeted digital strategies for both B2B and B2C businesses across various industries.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-2"
+                                                            aria-expanded="true" aria-controls="collapseOne-2">
+                                                            How long before I see results from digital marketing? </button>
+                                                    </h2>
+                                                    <div id="collapseOne-2" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>SEO results usually take 2–3 months, while PPC and social media campaigns can deliver quicker visibility and engagement.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-3"
+                                                            aria-expanded="true" aria-controls="collapseOne-3">
+                                                            Can you manage my brand’s entire online presence? </button>
+                                                    </h2>
+                                                    <div id="collapseOne-3" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Yes, we offer 360° digital marketing solutions, including website optimization, ad management, and social media growth.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="accordion-item">
+                                                    <h2 class="accordion-header" id="headingOne-1">
+                                                        <button class="accordion-button collapsed" type="button"
+                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-5"
+                                                            aria-expanded="true" aria-controls="collapseOne-5">
+                                                            Do you work with startups and small businesses? </button>
+                                                    </h2>
+                                                    <div id="collapseOne-5" class="accordion-collapse collapse "
+                                                        aria-labelledby="headingOne-1"
+                                                        data-bs-parent="#accordionExample">
+                                                        <div class="accordion-body">
+                                                            <p>Of course! We build cost-effective, scalable strategies for startups, SMEs, and growing brands.</p>
                                                         </div>
                                                     </div>
                                                 </div>
