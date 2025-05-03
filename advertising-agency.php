@@ -225,7 +225,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <button class="accordion-button collapsed" type="button"
                                                             data-bs-toggle="collapse" data-bs-target="#collapseOne-4"
                                                             aria-expanded="true" aria-controls="collapseOne-4">
-                                                            . Do you handle both small and large-scale campaigns?</button>
+                                                             Do you handle both small and large-scale campaigns?</button>
                                                     </h2>
                                                     <div id="collapseOne-4" class="accordion-collapse collapse "
                                                         aria-labelledby="headingOne-1"
