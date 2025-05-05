@@ -177,41 +177,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </div>
                                 </div>
                             </div>
-                            <div class="elementor-element elementor-element-16ab348 elementor-widget elementor-widget-heading"
-                                data-id="16ab348" data-element_type="widget" data-widget_type="heading.default">
-                                <div class="elementor-widget-container">
-                                    <h5 class="elementor-heading-title elementor-size-default">Why choose us?</h5>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-1b14708 elementor-widget elementor-widget-iconlist"
-                                data-id="1b14708" data-element_type="widget" data-widget_type="iconlist.default">
-                                <div class="elementor-widget-container">
-
-                                    <div class="about-list">
-                                        <ul class="list-wrap">
-                                            <li>
-                                                <img decoding="async" src="./assest/img/service/check.svg" alt="Icon">
-
-                                                Tailored Designs – Every catalogue is crafted to suit your brand’s
-                                                style and tone.
-                                            </li>
-                                            <li>
-                                                <img decoding="async" src="./assest/img/service/check.svg" alt="Icon">
-
-                                                High-Quality Graphics – We use top-notch visuals to highlight your
-                                                products.
-                                            </li>
-                                            <li>
-                                                <img decoding="async" src="./assest/img/service/check.svg" alt="Icon">
-
-                                                Strategic Layouts – Our designs are not just beautiful; they are
-                                                optimized for engagement and conversion.
-                                            </li>
-                                        </ul>
-                                    </div>
-
-                                </div>
-                            </div>
                             <div class="elementor-element elementor-element-804d946 elementor-widget elementor-widget-genix-faq"
                                 data-id="804d946" data-element_type="widget" data-widget_type="genix-faq.default">
                                 <div class="elementor-widget-container">
@@ -219,23 +184,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                     <div class="services-faq-wrap">
                                         <div class="accordion" id="accordionExample">
-
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingOne-0">
-                                                    <button class="accordion-button " type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-0"
-                                                        aria-expanded="true" aria-controls="collapseOne-0">
-                                                        How long does it take to design a catalog? </button>
-                                                </h2>
-                                                <div id="collapseOne-0" class="accordion-collapse collapse show"
-                                                    aria-labelledby="headingOne-0" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p>Our design process for a TITLE PAGE typically takes 2 to
-                                                            4 business days, depending on the complexity of the
-                                                            project and client feedback.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
                                             <div class="elementor-element elementor-element-5637943 elementor-widget elementor-widget-heading"
                                                 data-id="5637943" data-element_type="widget"
                                                 data-widget_type="heading.default">
