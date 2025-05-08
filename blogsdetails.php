@@ -1,15 +1,15 @@
 <?php
 include_once __DIR__ . '/A_Models/BLOG_Blog.php';
-$Title = "Best Laminate Catalogue Design Services in India | | EEM";
-$MetaDescription = "Discover why we are the leading laminate catalogue design services in Ahmedabad. Elevate your brand with high-quality, creative catalogue designs. Contact us today!";
 $MetaKeywords = "laminate catalogue design, catalogue design services, best laminate catalogue, creative catalogue design, branding catalogue, professional catalogue design, Ahmedabad design services, print marketing materials, custom catalogue design, high-quality catalogue design.";
 ?>
-
+ 
 <?php
-include __DIR__ . '/A_Layout/Header/header.php';
 $testOBJ = new BLOG_Blog();
 $singleBlog = $testOBJ->getBlogByURL("blogs-".$_GET['url']);
-
+$Title = $singleBlog["MetaTitle"];
+$MetaDescription =$singleBlog["MetaDescription"];
+ 
+include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
    

@@ -623,7 +623,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <img decoding="async"
                                                                         src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                         alt="Image">
-                                                                    <a href="atina" class="link-icon">
+                                                                    <a href="portfolio/atina" class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/icon/arrow-right.svg"
                                                                             alt="Icon">
@@ -704,7 +704,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <img decoding="async"
                                                                         src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                         alt="Image">
-                                                                    <a href="atina" class="link-icon">
+                                                                    <a href="portfolio/atina" class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/icon/arrow-right.svg"
                                                                             alt="Icon">
@@ -739,7 +739,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <img decoding="async"
                                                                         src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                         alt="Image">
-                                                                    <a href="atina" class="link-icon">
+                                                                    <a href="portfolio/atina" class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/icon/arrow-right.svg"
                                                                             alt="Icon">
@@ -815,7 +815,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-10">
                                                             <div class="project-item">
                                                                 <div class="project-thumb">
-                                                                    <a href="atina">
+                                                                    <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                             alt="Image">
@@ -824,11 +824,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-content">
                                                                     <div class="content-left">
                                                                         <h2 class="title">
-                                                                            <a href="atina">ATINA
+                                                                            <a href="portfolio/atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
                                                                     </div>
-                                                                    <a href="atina" class="link-arrow"><i
+                                                                    <a href="portfolio/atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
                                                                 </div>
                                                             </div>
@@ -863,7 +863,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-10">
                                                             <div class="project-item">
                                                                 <div class="project-thumb">
-                                                                    <a href="atina">
+                                                                    <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                             alt="Image">
@@ -872,11 +872,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-content">
                                                                     <div class="content-left">
                                                                         <h2 class="title">
-                                                                            <a href="atina">ATINA
+                                                                            <a href="portfolio/atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
                                                                     </div>
-                                                                    <a href="atina" class="link-arrow"><i
+                                                                    <a href="portfolio/atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
                                                                 </div>
                                                             </div>
@@ -949,7 +949,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-10">
                                                             <div class="project-item">
                                                                 <div class="project-thumb">
-                                                                    <a href="atina">
+                                                                    <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                             alt="Image">
@@ -958,11 +958,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-content">
                                                                     <div class="content-left">
                                                                         <h2 class="title">
-                                                                            <a href="atina">ATINA
+                                                                            <a href="portfolio/atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
                                                                     </div>
-                                                                    <a href="atina" class="link-arrow"><i
+                                                                    <a href="portfolio/atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
                                                                 </div>
                                                             </div>
@@ -997,7 +997,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-10">
                                                             <div class="project-item">
                                                                 <div class="project-thumb">
-                                                                    <a href="atina">
+                                                                    <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                             alt="Image">
@@ -1006,11 +1006,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-content">
                                                                     <div class="content-left">
                                                                         <h2 class="title">
-                                                                            <a href="atina">ATINA
+                                                                            <a href="portfolio/atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
                                                                     </div>
-                                                                    <a href="atina" class="link-arrow"><i
+                                                                    <a href="portfolio/atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
                                                                 </div>
                                                             </div>
@@ -1083,7 +1083,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-10">
                                                             <div class="project-item">
                                                                 <div class="project-thumb">
-                                                                    <a href="atina">
+                                                                    <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                             alt="Image">
@@ -1092,11 +1092,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-content">
                                                                     <div class="content-left">
                                                                         <h2 class="title">
-                                                                            <a href="atina">ATINA
+                                                                            <a href="portfolio/atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
                                                                     </div>
-                                                                    <a href="atina" class="link-arrow"><i
+                                                                    <a href="portfolio/atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
                                                                 </div>
                                                             </div>
@@ -1131,7 +1131,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-10">
                                                             <div class="project-item">
                                                                 <div class="project-thumb">
-                                                                    <a href="atina">
+                                                                    <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                             alt="Image">
@@ -1140,11 +1140,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-content">
                                                                     <div class="content-left">
                                                                         <h2 class="title">
-                                                                            <a href="atina">ATINA
+                                                                            <a href="portfolio/atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
                                                                     </div>
-                                                                    <a href="atina" class="link-arrow"><i
+                                                                    <a href="portfolio/atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
                                                                 </div>
                                                             </div>
@@ -1217,7 +1217,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-10">
                                                             <div class="project-item">
                                                                 <div class="project-thumb">
-                                                                    <a href="atina">
+                                                                    <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                             alt="Image">
@@ -1226,11 +1226,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-content">
                                                                     <div class="content-left">
                                                                         <h2 class="title">
-                                                                            <a href="atina">ATINA
+                                                                            <a href="portfolio/atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
                                                                     </div>
-                                                                    <a href="atina" class="link-arrow"><i
+                                                                    <a href="portfolio/atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
                                                                 </div>
                                                             </div>
@@ -1265,7 +1265,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-10">
                                                             <div class="project-item">
                                                                 <div class="project-thumb">
-                                                                    <a href="atina">
+                                                                    <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                             alt="Image">
@@ -1274,11 +1274,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-content">
                                                                     <div class="content-left">
                                                                         <h2 class="title">
-                                                                            <a href="atina">ATINA
+                                                                            <a href="portfolio/atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
                                                                     </div>
-                                                                    <a href="atina" class="link-arrow"><i
+                                                                    <a href="portfolio/atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
                                                                 </div>
                                                             </div>
@@ -1351,7 +1351,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-10">
                                                             <div class="project-item">
                                                                 <div class="project-thumb">
-                                                                    <a href="atina">
+                                                                    <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                             alt="Image">
@@ -1360,11 +1360,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-content">
                                                                     <div class="content-left">
                                                                         <h2 class="title">
-                                                                            <a href="atina">ATINA
+                                                                            <a href="portfolio/atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
                                                                     </div>
-                                                                    <a href="atina" class="link-arrow"><i
+                                                                    <a href="portfolio/atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
                                                                 </div>
                                                             </div>
@@ -1400,7 +1400,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-10">
                                                             <div class="project-item">
                                                                 <div class="project-thumb">
-                                                                    <a href="atina">
+                                                                    <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                             alt="Image">
@@ -1409,11 +1409,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-content">
                                                                     <div class="content-left">
                                                                         <h2 class="title">
-                                                                            <a href="atina">ATINA
+                                                                            <a href="portfolio/atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
                                                                     </div>
-                                                                    <a href="atina" class="link-arrow"><i
+                                                                    <a href="portfolio/atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
                                                                 </div>
                                                             </div>
@@ -1486,7 +1486,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-10">
                                                             <div class="project-item">
                                                                 <div class="project-thumb">
-                                                                    <a href="atina">
+                                                                    <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                             alt="Image">
@@ -1495,11 +1495,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-content">
                                                                     <div class="content-left">
                                                                         <h2 class="title">
-                                                                            <a href="atina">ATINA
+                                                                            <a href="portfolio/atina">ATINA
                                                                                 <span>Touch The Elegance</span></a>
                                                                         </h2>
                                                                     </div>
-                                                                    <a href="atina" class="link-arrow"><i
+                                                                    <a href="portfolio/atina" class="link-arrow"><i
                                                                             class="fas fa-arrow-right"></i></a>
                                                                 </div>
                                                             </div>

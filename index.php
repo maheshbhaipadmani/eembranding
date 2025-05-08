@@ -717,7 +717,7 @@ reset($myaraa);
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-3.jpg"
                                                                         alt="Image">
-                                                                    <a href="kiana"
+                                                                    <a href="portfolio/kiana"
                                                                         class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/home/icon/arrow-right.svg"
