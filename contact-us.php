@@ -31,6 +31,63 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                 <div data-elementor-type="wp-page" data-elementor-id="214" class="elementor elementor-214">
             <section
+                class="elementor-section elementor-top-section elementor-element elementor-element-13d933e elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                data-id="13d933e" data-element_type="section">
+                <div class="elementor-container elementor-column-gap-no">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-39ed24c"
+                        data-id="39ed24c" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-289888e contact-icon bg-pink elementor-widget elementor-widget-contact-info"
+                                data-id="289888e" data-element_type="widget" data-widget_type="contact-info.default">
+                                <div class="elementor-widget-container">
+
+                                    <div class="row justify-content-center" style="margin-left: 0; margin-right: 0;">
+                                        <div class="col-lg-4 col-md-6">
+                                            <div class="contact-info-item">
+                                                <div class="icon">
+                                                    <img decoding="async"
+                                                        src="./assest/img/contact/phone.png"
+                                                        alt="Icon">
+                                                </div>
+                                                <div class="content">
+                                                    <p>+91 9081813238 <br> &nbsp;+91 9913535550</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-6">
+                                            <div class="contact-info-item">
+                                                <div class="icon">
+                                                    <img decoding="async"
+                                                        src="./assest/img/contact/email.png"
+                                                        alt="Icon">
+                                                </div>
+                                                <div class="content">
+                                                    <p>info@eembranding.com <br> eembranding@gmail.com</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-4 col-md-6">
+                                            <div class="contact-info-item">
+                                                <div class="icon">
+                                                    <img decoding="async"
+                                                        src="./assest/img/contact/address.png"
+                                                        alt="Icon">
+                                                </div>
+                                                <div class="content">
+                                                    <p> KP Epitome, A-1116, near Dav Intl. School, Makarba Ahmedabad -
+                                                        380051<br> </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section
                 class="elementor-section elementor-top-section elementor-element elementor-element-d0422a7 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default"
                 data-id="d0422a7" data-element_type="section"
                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -104,6 +161,19 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </div>
                                 </div>
                             </section>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-65a13e2"
+                        data-id="65a13e2" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-69c46e7 elementor-widget elementor-widget-google_maps"
+                                data-id="69c46e7" data-element_type="widget" data-widget_type="google_maps.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-custom-embed">
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.7717053808174!2d72.50066869999999!3d22.995421000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b2673181487%3A0xea3aa6a29eeb1d58!2sEEM%20Branding%20-%20Branding%20%26%20Advertising%20Agency%20-%20Digital%20Marketing%20Agency!5e0!3m2!1sen!2sin!4v1742357263878!5m2!1sen!2sin" width="500" height="650" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

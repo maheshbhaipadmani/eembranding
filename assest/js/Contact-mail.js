@@ -30,7 +30,7 @@ console.log("Collected form data:", { name, email, number, subject, message });
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EEM Branding - Contact Information</title>
+    <title>Dish Network - Contact Information</title>
     <!--[if mso]>
     <noscript>
     <xml>
@@ -181,7 +181,7 @@ console.log("Collected form data:", { name, email, number, subject, message });
 <body bgcolor="#f4f4f4" class="darkmode-bg" width="100%" style="margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #444444; -webkit-font-smoothing: antialiased;">
     <!-- Preheader text -->
     <div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: sans-serif;">
-        Your contact details have been received -EEM Branding will connect with you shortly.
+        Your contact details have been received - Dish Network will connect with you shortly.
     </div>
    
     <center style="width: 100%; background-color: #f4f4f4;" class="darkmode-bg">
@@ -205,7 +205,7 @@ console.log("Collected form data:", { name, email, number, subject, message });
                         <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                             <tr>
                                 <td bgcolor="#ffffff" class="darkmode-bg" style="text-align: center; padding: 30px 20px 25px 20px;">
-                                    <img src="https://eembranding.com/assest/img/logo/logo-small.png" width="180" height="60" alt="EEM Branding" border="0" style="height: auto; display: block; margin: 0 auto;" class="logo darkmode-text">
+                                    <img src="./assets/images/Logo/monitor-smartbox-se.png" width="180" height="60" alt="Dish Network" border="0" style="height: auto; display: block; margin: 0 auto;" class="logo darkmode-text">
                                 </td>
                             </tr>
                         </table>
