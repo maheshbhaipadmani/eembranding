@@ -8,6 +8,7 @@ $testOBJ = new BLOG_Blog();
 $singleBlog = $testOBJ->getBlogByURL("blogs-".$_GET['url']);
 $Title = $singleBlog["MetaTitle"];
 $MetaDescription =$singleBlog["MetaDescription"];
+
  
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
