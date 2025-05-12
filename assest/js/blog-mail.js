@@ -17,7 +17,7 @@ contactform.addEventListener("submit", function (event) {
         "Host": "216.10.241.228",
         "Port": "587",   
     "SMTPSecure": "ssl", 
-        "SenderEmail": "hitixa.bhuva@uniqueconsumerservices.com",
+        "SenderEmail": "website@eembranding.com",
         "SenderEmailPassword": "EWE1{@1@^9cE",
         "ReciverEmail": "patelhitixa4439@gmail.com",
         "Subject": subject,   
