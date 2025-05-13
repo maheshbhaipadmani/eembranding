@@ -233,7 +233,7 @@ reset($myaraa);
                                         <div class="split-line split-line-home-div">
                                             <div class="splite-line-home-sub-div">
                                                 <div class="aboutus-name-class">
-                                                    <h1>about us </h1>
+                                                    <h2>about us </h2>
                                                 </div>
                                             </div>
 
@@ -241,7 +241,7 @@ reset($myaraa);
                                     </span>
                                     <h2 class="title tg-element-title">
                                         <div class="split-line split-line-home-div">
-                                            <h1>audio + visual + publicity</h1>
+                                            <h3>audio + visual + publicity</h3>
                                         </div>
                                     </h2>
                                 </div>
@@ -278,11 +278,11 @@ reset($myaraa);
                             data-id="cb5e0db" data-element_type="widget" data-widget_type="tg-heading.default">
                             <div class="elementor-widget-container">
                                 <div class="section-title-two tg-heading-subheading animation-style3">
-                                    <h1 class="title tg-element-title">
+                                    <h3 class="title tg-element-title">
                                         <div class="split-line split-line-home-div">
                                             <h1>Branding Agency In Ahmedabad</h1>
                                         </div>
-                                    </h1>
+                                    </h3>
                                 </div>
                             </div>
                         </div>
@@ -350,22 +350,7 @@ reset($myaraa);
                                             <div class="elementor-element elementor-element-85d5e43 text-center elementor-widget elementor-widget-tg-heading"
                                                 data-id="85d5e43" data-element_type="widget"
                                                 data-widget_type="tg-heading.default">
-                                                <!-- <div class="elementor-widget-container">
-                                                    <div
-                                                        class="section-title-two tg-heading-subheading animation-style3">
-                                                        <span class="sub-title tg-element-title">
-                                                            <div class="split-line split-line-home-div">
-                                                                <h6>CREATIVE SOLUTIONS</h6>
-                                                            </div>
-                                                        </span>
-                                                        <h2 class="title tg-element-title">
-                                                            <div class="split-line split-line-home-div text-center">
-                                                                <h1>Your Growth, Our Mission:</h1>
-                                                                <h1> Leading Digital Marketing Agency.</h1>
-                                                            </div>
-                                                        </h2>
-                                                    </div>
-                                                </div> -->
+                                            
                                                 <div class="elementor-widget-container">
 		                                                <div class="section-title-two tg-heading-subheading animation-style3">
                                                                         <span class="sub-title tg-element-title" style="perspective: 400px;"><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">C</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">R</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">E</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">A</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">T</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">I</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">V</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">E</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">S</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">O</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">L</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">U</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">T</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">I</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">O</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">N</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">S</div></div></div></span>

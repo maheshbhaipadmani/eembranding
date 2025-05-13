@@ -21,7 +21,7 @@ console.log("Collected form data:", { name, email, number, subject, message });
         "Port": "587",
         "SMTPSecure": "ssl",
         "SenderEmail": "hitixa.bhuva@uniqueconsumerservices.com",
-        "SenderEmailPassword": "1f1UOc{3U*64",
+        "SenderEmailPassword": "1f1UOc{3U*64",  
         "ReciverEmail": "eembranding@gmail.com",
         "Subject": subject,
         "Body": `

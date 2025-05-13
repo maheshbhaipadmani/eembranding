@@ -40,7 +40,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="row justify-content-center">
                         <div class="col-12">
                             <header class="page-header d-none">
-                                <h1 class="page-title">Category: <span>Blogs</span></h1>
+                                <h3 class="page-title">Category: <span>Blogs</span></h3>
                             </header><!-- .page-header -->
 
                             <article id="post-7100"

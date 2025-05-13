@@ -194,7 +194,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="row align-items-center">
                     <div class="col-lg-7">
                         <div class="breadcrumb-content-two">
-                            <h1 class="title">Not Found</h1>
+                            <h3 class="title">Not Found</h3>
                         </div>
                     </div>
                     <div class="col-lg-5">
