@@ -321,9 +321,6 @@ body {
     display: none;
 }
 
-.brand-item {
-    margin: 0 10px;
-}
 
 .project-details-subtitle {
     font-size: 28px;
@@ -418,10 +415,6 @@ body {
     gap: 0.5em;
 }
 
-:where(.is-layout-grid) {
-    gap: 0.5em;
-}
-
 body .is-layout-flex {
     display: flex;
 }
@@ -435,102 +428,9 @@ body .is-layout-flex {
     margin: 0;
 }
 
-body .is-layout-grid {
-    display: grid;
-}
-
-.is-layout-grid> :is(*, div) {
-    margin: 0;
-} */
-
-.has-black-color {
-    color: var(--wp--preset--color--black) !important;
-}
-/* 
-
-.has-light-green-cyan-border-color {
-    border-color: var(--wp--preset--color--light-green-cyan) !important;
-}
-
-.has-vivid-green-cyan-border-color {
-    border-color: var(--wp--preset--color--vivid-green-cyan) !important;
-}
-
-.has-pale-cyan-blue-border-color {
-    border-color: var(--wp--preset--color--pale-cyan-blue) !important;
-}
-
-.has-vivid-cyan-blue-border-color {
-    border-color: var(--wp--preset--color--vivid-cyan-blue) !important;
-}
-
-.has-vivid-purple-border-color {
-    border-color: var(--wp--preset--color--vivid-purple) !important;
-}
-
-.has-vivid-cyan-blue-to-vivid-purple-gradient-background {
-    background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;
-}
-
-.has-light-green-cyan-to-vivid-green-cyan-gradient-background {
-    background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;
-}
-
-.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background {
-    background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;
-}
-
-.has-luminous-vivid-orange-to-vivid-red-gradient-background {
-    background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;
-}
-
-.has-very-light-gray-to-cyan-bluish-gray-gradient-background {
-    background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;
-}
-
-.has-cool-to-warm-spectrum-gradient-background {
-    background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;
-}
-
-.has-blush-light-purple-gradient-background {
-    background: var(--wp--preset--gradient--blush-light-purple) !important;
-}
-
-.has-blush-bordeaux-gradient-background {
-    background: var(--wp--preset--gradient--blush-bordeaux) !important;
-}
-
-.has-luminous-dusk-gradient-background {
-    background: var(--wp--preset--gradient--luminous-dusk) !important;
-}
-
-.has-pale-ocean-gradient-background {
-    background: var(--wp--preset--gradient--pale-ocean) !important;
-}
-
-.has-electric-grass-gradient-background {
-    background: var(--wp--preset--gradient--electric-grass) !important;
-}
-
-.has-midnight-gradient-background {
-    background: var(--wp--preset--gradient--midnight) !important;
-} */
-
-.has-small-font-size {
-    font-size: var(--wp--preset--font-size--small) !important;
-}
 
 :where(.wp-block-post-template.is-layout-flex) {
     gap: 1.25em;
-}
-
-:where(.wp-block-post-template.is-layout-grid) {
-    gap: 1.25em;
-}
-
-.brand-item img {
-    filter: grayscale(0);
-    opacity: 1;
 }
 
 .contact-icon img {
