@@ -82,7 +82,7 @@ echo
                                                                         <div class="hfe-site-logo-container">
                                                                             <img class="hfe-site-logo-img elementor-animation-"
                                                                                 src="./assest/img/logo/logo-small-white.png"
-                                                                                alt="logo-small-white">
+                                                                                loading="lazy"  alt="logo-small-white">
                                                                         </div>
                                                                     </div>
                                                                 </a>

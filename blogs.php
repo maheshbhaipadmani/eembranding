@@ -35,8 +35,8 @@ reset($myaraa);
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                                 <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png" alt="Shape">
-                            <img src="./assest/img/icon/Untitled-3.png" alt="Shape">
+                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
+                            <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
                 </div>
@@ -88,8 +88,8 @@ while ($item = current($myaraa)) {
                 <div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                     <a data-id="7100" href="<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">
                     <img fetchpriority="high" decoding="async" src="<?php echo $item['Thumbnail']; ?>"
-                             class="rt-img-responsive" width="1200" height="800"
-                             alt="The Power of Graphic Design in Brand Identity Building">
+                             class="rt-img-responsive" width="1200" height="800" 
+                               loading="lazy"  alt="The Power of Graphic Design in Brand Identity Building">
                     </a>
                     <div class="overlay grid-hover-content"></div>
                 </div>

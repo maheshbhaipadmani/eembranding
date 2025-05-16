@@ -21,8 +21,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                             <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png" alt="Shape">
-                            <img src="./assest/img/icon/Untitled-3.png" alt="Shape">
+                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
+                            <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
                 </div>
@@ -47,7 +47,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="icon">
                                                     <img decoding="async"
                                                         src="./assest/img/contact/phone.png"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="content">
                                                     <p>+91 9081813238 <br> &nbsp;+91 9913535550</p>
@@ -59,7 +59,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="icon">
                                                     <img decoding="async"
                                                         src="./assest/img/contact/email.png"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="content">
                                                     <p>info@eembranding.com <br> eembranding@gmail.com</p>
@@ -71,7 +71,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="icon">
                                                     <img decoding="async"
                                                         src="./assest/img/contact/address.png"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="content">
                                                     <p> KP Epitome, A-1116, near Dav Intl. School, Makarba Ahmedabad -
@@ -109,7 +109,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="elementor-widget-container">
                                                     <img fetchpriority="high" decoding="async" width="514" height="481"
                                                         src="./assest/img/contact/contact_img.png"
-                                                        class="attachment-full size-full wp-image-1081" alt="">
+                                                        class="attachment-full size-full wp-image-1081"   loading="lazy"  alt="">
                                                 </div>
                                             </div>
                                         </div>
@@ -170,7 +170,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 data-id="69c46e7" data-element_type="widget" data-widget_type="google_maps.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-custom-embed">
-                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.7717053808174!2d72.50066869999999!3d22.995421000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b2673181487%3A0xea3aa6a29eeb1d58!2sEEM%20Branding%20-%20Branding%20%26%20Advertising%20Agency%20-%20Digital%20Marketing%20Agency!5e0!3m2!1sen!2sin!4v1742357263878!5m2!1sen!2sin" width="500" height="650" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.7717053808174!2d72.50066869999999!3d22.995421000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b2673181487%3A0xea3aa6a29eeb1d58!2sEEM%20Branding%20-%20Branding%20%26%20Advertising%20Agency%20-%20Digital%20Marketing%20Agency!5e0!3m2!1sen!2sin!4v1742357263878!5m2!1sen!2sin" width="500" height="650" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
                                     </div>
                                 </div>
                             </div>

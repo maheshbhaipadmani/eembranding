@@ -14,8 +14,8 @@ echo
     <script src="./assest/js/nav.js"></script>
      <script src="./assest/js/swiper.min.js"></script>
      <script src="./assest/js/whatsapp.js"></script>
-    <script type="text/javascript" src="./assest/js/minify-footer-2ef81eaa.min.js"  id="min-footer-1-js"></script>
-   <script type="text/javascript" src="./assest/js/minify-footer-fa3d8e1c.min.js"  id="min-footer-2-js"></script>
+    <script type="text/javascript" src="./assest/js/minify-footer-2ef81eaa.min.js"  id="min-footer-1-js" defer></script>
+   <script type="text/javascript" src="./assest/js/minify-footer-fa3d8e1c.min.js"  id="min-footer-2-js" defer></script>
 
 </body>
 </html>

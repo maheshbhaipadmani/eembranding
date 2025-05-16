@@ -22,9 +22,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                             <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png" alt="Shape"
+                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape"
                                 style="transform:translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                            <img src="./assest/img/icon/Untitled-3.png" alt="Shape">
+                            <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
                 </div>
@@ -72,7 +72,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                     <img decoding="async"
                                                         data-parallax="{&quot;x&quot; : 80 , &quot;y&quot; : 0 }"
                                                         src="./assest/img/icon/Untitled-3.png"
-                                                        alt=""
+                                                          loading="lazy"  alt=""
                                                         style="transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
 
                                                 </div>
@@ -86,7 +86,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                     <img decoding="async"
                                                         data-parallax="{&quot;x&quot; : 79 , &quot;y&quot; : 0 }"
                                                         src="./assest/img/icon/Untitled-2.png"
-                                                        alt=""
+                                                          loading="lazy"  alt=""
                                                         style="transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
 
                                                 </div>
@@ -126,7 +126,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/dazzle-berryenpastel/01-24.avif"
-                                                                        alt="01"></figure>
+                                                                          loading="lazy"  alt="01"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-duplicate"
                                                                 role="group" aria-roledescription="slide"
@@ -135,7 +135,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/dazzle-berryenpastel/02-21.avif"
-                                                                        alt="04"></figure>
+                                                                          loading="lazy"  alt="04"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-duplicate"
                                                                 role="group" aria-roledescription="slide"
@@ -144,7 +144,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/dazzle-berryenpastel/03-22.avif"
-                                                                        alt="03"></figure>
+                                                                          loading="lazy"  alt="03"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-prev" role="group"
                                                                 aria-roledescription="slide" aria-label="1 / 7"
@@ -153,7 +153,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/dazzle-berryenpastel/04-20.avif"
-                                                                        alt="05"></figure>
+                                                                          loading="lazy"  alt="05"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-active" role="group"
                                                                 aria-roledescription="slide" aria-label="2 / 7"
@@ -161,7 +161,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/dazzle-berryenpastel/05-16.avif"
-                                                                        alt="06"></figure>
+                                                                          loading="lazy"  alt="06"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-next" role="group"
                                                                 aria-roledescription="slide" aria-label="3 / 7"
@@ -169,7 +169,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/dazzle-berryenpastel/06-9.avif"
-                                                                        alt="02"></figure>
+                                                                          loading="lazy"  alt="02"></figure>
                                                             </div>
                                                             <div class="swiper-slide" role="group"
                                                                 aria-roledescription="slide" aria-label="4 / 7"
@@ -177,7 +177,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/dazzle-berryenpastel/07-8.avif"
-                                                                        alt="07"></figure>
+                                                                          loading="lazy"  alt="07"></figure>
                                                             </div>
                                                             <div class="swiper-slide" role="group"
                                                                 aria-roledescription="slide" aria-label="5 / 7"
@@ -186,7 +186,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/dazzle-berryenpastel/08-3.avif"
-                                                                        alt="01"></figure>
+                                                                          loading="lazy"  alt="01"></figure>
                                                             </div>
                                                             <div class="swiper-slide" role="group"
                                                                 aria-roledescription="slide" aria-label="6 / 7"
@@ -195,7 +195,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/dazzle-berryenpastel/09-1.avif"
-                                                                        alt="04"></figure>
+                                                                          loading="lazy"  alt="04"></figure>
                                                             </div>
                                                             <div class="swiper-slide" role="group"
                                                                 aria-roledescription="slide" aria-label="7 / 7"
@@ -204,7 +204,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/dazzle-berryenpastel/01-24.avif"
-                                                                        alt="03"></figure>
+                                                                          loading="lazy"  alt="03"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev"
                                                                 role="group" aria-roledescription="slide"
@@ -213,7 +213,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/dazzle-berryenpastel/02-21.avif"
-                                                                        alt="05"></figure>
+                                                                          loading="lazy"  alt="05"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active"
                                                                 role="group" aria-roledescription="slide"
@@ -222,7 +222,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/dazzle-berryenpastel/03-22.avif"
-                                                                        alt="06"></figure>
+                                                                          loading="lazy"  alt="06"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next"
                                                                 role="group" aria-roledescription="slide"
@@ -231,7 +231,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/dazzle-berryenpastel/04-20.avif"
-                                                                        alt="02"></figure>
+                                                                          loading="lazy"  alt="02"></figure>
                                                             </div>
                                                         </div>
                                                         <div class="elementor-swiper-button elementor-swiper-button-prev"

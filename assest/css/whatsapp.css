@@ -7,7 +7,8 @@
   .arcontactus-widget * {
     box-sizing: border-box
   }
-  .arcontactus-widget.arcu-bubble.left .messangers-block,
+
+  /* .arcontactus-widget.arcu-bubble.left .messangers-block,
   .arcontactus-widget.arcu-elastic.left .messangers-block {
     right: auto;
     left: 0;
@@ -384,14 +385,14 @@
     height: 70px;
     margin-top: -35px;
     margin-left: -35px
-  }
+  } */
   
   .arcontactus-widget.md .arcontactus-message-button,
   .arcontactus-widget.md.arcontactus-message {
     width: 60px;
     height: 60px
   }
-  
+/*   
   .arcontactus-widget.md .arcu-popup,
   .arcontactus-widget.md .callback-countdown-block,
   .arcontactus-widget.md .messangers-block {
@@ -434,7 +435,7 @@
   .arcontactus-widget.md.right .arcontactus-prompt.arcu-prompt-top {
     right: 0;
     bottom: 70px
-  }
+  } */
   
   .arcontactus-widget.md .arcontactus-message-button .pulsation {
     width: 74px;
@@ -450,7 +451,7 @@
     margin-top: -20px;
     margin-left: -20px
   }
-  
+/*   
   .arcontactus-widget.sm .arcontactus-message-button,
   .arcontactus-widget.sm.arcontactus-message {
     width: 50px;
@@ -504,7 +505,7 @@
     right: 0;
     bottom: 60px
   }
-  
+   */
   .arcontactus-widget.sm .arcontactus-message-button .pulsation {
     width: 64px;
     height: 64px
@@ -571,7 +572,7 @@
     -webkit-animation: 2s infinite arcontactus-pulse;
     animation: 2s infinite arcontactus-pulse
   }
-  
+/*   
   .arcontactus-widget .arcontactus-message-button .icons {
     background-color: #fff;
     width: 44px;
@@ -584,7 +585,7 @@
     margin-top: -22px;
     margin-left: -22px
   }
-  
+   */
   .arcontactus-widget .arcontactus-message-button .static {
     position: absolute;
     top: 0;

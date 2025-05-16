@@ -21,8 +21,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                             <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png" alt="Shape">
-                            <img src="./assest/img/icon/Untitled-3.png" alt="Shape">
+                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
+                            <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
                 </div>
@@ -75,7 +75,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         <div class="about-img text-end">
                                             <img class="wow fadeInLeft" data-wow-delay=".5s"
                                                 src="./assest/img/service/digital-marketing-agency/Digital-Marketing.avif"
-                                                alt=""
+                                                  loading="lazy"  alt=""
                                                 style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
 
                                            
@@ -113,7 +113,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <li>
                                                     <img decoding="async"
                                                         src="./assest/img/service/check.svg"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
 
                                                     Search Engine Optimization (SEO): Boost your website’s visibility
                                                     and rank higher on search engines.
@@ -121,7 +121,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <li>
                                                     <img decoding="async"
                                                         src="./assest/img/service/check.svg"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
 
                                                     Pay-Per-Click (PPC) Advertising: Get instant traffic and leads with
                                                     strategic ad placements.
@@ -129,7 +129,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <li>
                                                     <img decoding="async"
                                                         src="./assest/img/service/check.svg"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
 
                                                     Social Media Marketing: Engage with your audience and build a loyal
                                                     community around your brand.
@@ -137,7 +137,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <li>
                                                     <img decoding="async"
                                                         src="./assest/img/service/check.svg"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
 
                                                     Content Marketing: Deliver value through high-quality, engaging
                                                     content that attracts and retains customers.

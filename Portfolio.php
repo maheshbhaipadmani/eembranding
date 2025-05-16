@@ -67,7 +67,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             <img decoding="async" width="58" height="58"
                                                                 src="./assest/img/icon/Untitled-2.png"
                                                                 class="attachment-large size-large wp-image-5080"
-                                                                alt="">
+                                                                  loading="lazy"  alt="">
                                                         </div>
                                                     </div>
                                                     <div class="elementor-element elementor-element-1783f56 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image animated zoomIn"
@@ -78,7 +78,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             <img decoding="async" width="134" height="134"
                                                                 src="./assest/img/icon/Untitled-3.png"
                                                                 class="attachment-large size-large wp-image-5081"
-                                                                alt="">
+                                                                  loading="lazy"  alt="">
                                                         </div>
                                                     </div>
                                                 </div>
@@ -90,10 +90,10 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         data-id="434610c" data-element_type="widget"
                                                         data-widget_type="image.default">
                                                         <div class="elementor-widget-container">
-                                                            <img loading="lazy" decoding="async" width="1024"
+                                                            <img  decoding="async" width="1024"
                                                                 height="1024"
                                                                 src="./assest/img/portfolio/Porfolio-Designer.png"
-                                                                class="attachment-full size-full wp-image-6143" alt="">
+                                                                class="attachment-full size-full wp-image-6143"   loading="lazy"  alt="">
                                                         </div>
                                                     </div>
                                                 </div>
@@ -286,12 +286,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-1-scaled.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/ranberry-trends"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -301,12 +301,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/00-Thumbnail-8.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/moonshineenchanting"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -316,12 +316,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/00-Thumbnail-7.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/dazzle-berryenpastel"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -331,12 +331,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/00-Thumbnail-9.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/nelsonenchanting"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -346,12 +346,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-16.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/ranwood-rega"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -361,12 +361,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/kooyoo-enchanting"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -376,11 +376,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.7s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-6.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/central" class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -390,11 +390,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.8s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-5.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/bliss" class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -404,12 +404,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.9s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/00-Thumbnail-6.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/keton-micabeautiful"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -419,12 +419,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/00-Thumbnail-5.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/eco-woodamaurosis"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -434,12 +434,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.11s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-9.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/bravio-pastel-laminate"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -449,12 +449,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.12s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-14.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/fabrino-fabric"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -464,12 +464,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.13s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-8.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/fabrinobeauty"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -479,11 +479,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.14s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-18.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/vanshlam" class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -493,12 +493,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.15s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/00-Thumbnail-10.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/evershine-color-trendenchanting"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -508,12 +508,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.16s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-19.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/lammartcolor"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -523,12 +523,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.17s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-17.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/picsartelegance"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -538,11 +538,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.18s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-13.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/morbi-king" class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -552,12 +552,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.19s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-8.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/fabrinobeauty"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -567,12 +567,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-12.avif"
-                                                                                alt="Image">
+                                                                                  loading="lazy"  alt="Image">
                                                                             <a href="portfolio/crysta-line"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="./assest/img/icon/arrow-right.svg"
-                                                                                    alt="Icon">
+                                                                                      loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
                                                                     </div>
@@ -622,11 +622,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
-                                                                        alt="Image">
+                                                                          loading="lazy"  alt="Image">
                                                                     <a href="portfolio/atina" class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/icon/arrow-right.svg"
-                                                                            alt="Icon">
+                                                                              loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -636,12 +636,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
-                                                                        alt="Image">
+                                                                          loading="lazy"  alt="Image">
                                                                     <a href="portfolio/evershine-color-trendenchanting"
                                                                         class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/icon/arrow-right.svg"
-                                                                            alt="Icon">
+                                                                              loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -689,11 +689,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/portfolio/Catalogue/01-5.jpg"
-                                                                        alt="Image">
+                                                                          loading="lazy"  alt="Image">
                                                                     <a href="portfolio/bliss" class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/icon/arrow-right.svg"
-                                                                            alt="Icon">
+                                                                              loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -703,11 +703,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
-                                                                        alt="Image">
+                                                                          loading="lazy"  alt="Image">
                                                                     <a href="portfolio/atina" class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/icon/arrow-right.svg"
-                                                                            alt="Icon">
+                                                                              loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -720,12 +720,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
-                                                                        alt="Image">
+                                                                          loading="lazy"  alt="Image">
                                                                     <a href="portfolio/evershine-color-trendenchanting"
                                                                         class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/icon/arrow-right.svg"
-                                                                            alt="Icon">
+                                                                              loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -738,11 +738,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
-                                                                        alt="Image">
+                                                                          loading="lazy"  alt="Image">
                                                                     <a href="portfolio/atina" class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/icon/arrow-right.svg"
-                                                                            alt="Icon">
+                                                                              loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -795,7 +795,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/bliss">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/01-5.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -818,7 +818,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -841,7 +841,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/evershine-color-trendenchanting">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -866,7 +866,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -929,7 +929,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/bliss">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/01-5.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -952,7 +952,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -975,7 +975,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/evershine-color-trendenchanting">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1000,7 +1000,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1063,7 +1063,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/bliss">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/01-5.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1086,7 +1086,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1109,7 +1109,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/evershine-color-trendenchanting">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1134,7 +1134,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1197,7 +1197,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/bliss">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/01-5.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1220,7 +1220,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1243,7 +1243,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/evershine-color-trendenchanting">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1268,7 +1268,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1331,7 +1331,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/bliss">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/01-5.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1354,7 +1354,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1378,7 +1378,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/evershine-color-trendenchanting">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1403,7 +1403,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1466,7 +1466,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/bliss">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/01-5.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1489,7 +1489,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
                                                                             src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
-                                                                            alt="Image">
+                                                                              loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
                                                                 <div class="project-content">
@@ -1542,7 +1542,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="newsletter-img">
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/newslettar_img.png"
-                                                                        alt="Image"
+                                                                          loading="lazy"  alt="Image"
                                                                         class="wow fadeInRight wp-content-newslettar"
                                                                         data-wow-delay=".2s">
                                                                 </div>
@@ -1569,45 +1569,45 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             <!-- Brand Logo Slider -->
                                                             <div class="brand-slider protfolio-slider">
                                                                 <div><img src="./assest/img/portfolio/logo/liventa.png"
-                                                                        alt="Brand 1"></div>
+                                                                          loading="lazy"  alt="Brand 1"></div>
                                                                 <div><img src="./assest/img/portfolio/logo/nalisha.png"
-                                                                        alt="Brand 2"></div>
+                                                                          loading="lazy"  alt="Brand 2"></div>
                                                                 <div><img src="./assest/img/portfolio/logo/nelson.png"
-                                                                        alt="Brand 3"></div>
+                                                                          loading="lazy"  alt="Brand 3"></div>
                                                                 <div><img
                                                                         src="./assest/img/portfolio/logo/sun-touch.png"
-                                                                        alt="Brand 4"></div>
+                                                                          loading="lazy"  alt="Brand 4"></div>
                                                                 <div><img
                                                                         src="./assest/img/portfolio/logo/bite-bazzar.png"
-                                                                        alt="Brand 5"></div>
+                                                                          loading="lazy"  alt="Brand 5"></div>
                                                                 <div><img src="./assest/img/portfolio/logo/bravio.png"
-                                                                        alt="Brand 6"></div>
+                                                                          loading="lazy"  alt="Brand 6"></div>
                                                                 <div><img src="./assest/img/portfolio/logo/durian.png"
-                                                                        alt="Brand 7"></div>
+                                                                          loading="lazy"  alt="Brand 7"></div>
                                                                 <div><img src="./assest/img/portfolio/logo/edicon.png"
-                                                                        alt="Brand 8"></div>
+                                                                          loading="lazy"  alt="Brand 8"></div>
                                                                 <div><img src="./assest/img/portfolio/logo/iscon.png"
-                                                                        alt="Brand 8"></div>
+                                                                          loading="lazy"  alt="Brand 8"></div>
                                                                 <div><img src="./assest/img/portfolio/logo/liventa.png"
-                                                                        alt="Brand 8"></div>
+                                                                          loading="lazy"  alt="Brand 8"></div>
                                                                 <div><img src="./assest/img/portfolio/logo/nalisha.png"
-                                                                        alt="Brand 2"></div>
+                                                                          loading="lazy"  alt="Brand 2"></div>
                                                                 <div><img src="./assest/img/portfolio/logo/nelson.png"
-                                                                        alt="Brand 3"></div>
+                                                                          loading="lazy"  alt="Brand 3"></div>
                                                                 <div><img
                                                                         src="./assest/img/portfolio/logo/sun-touch.png"
-                                                                        alt="Brand 4"></div>
+                                                                          loading="lazy"  alt="Brand 4"></div>
                                                                 <div><img
                                                                         src="./assest/img/portfolio/logo/bite-bazzar.png"
-                                                                        alt="Brand 5"></div>
+                                                                          loading="lazy"  alt="Brand 5"></div>
                                                                 <div><img src="./assest/img/portfolio/logo/bravio.png"
-                                                                        alt="Brand 6"></div>
+                                                                          loading="lazy"  alt="Brand 6"></div>
                                                                 <div><img src="./assest/img/portfolio/logo/durian.png"
-                                                                        alt="Brand 7"></div>
+                                                                          loading="lazy"  alt="Brand 7"></div>
                                                                 <div><img src="./assest/img/portfolio/logo/edicon.png"
-                                                                        alt="Brand 8"></div>
+                                                                          loading="lazy"  alt="Brand 8"></div>
                                                                 <div><img src="./assest/img/portfolio/logo/iscon.png"
-                                                                        alt="Brand 8"></div>
+                                                                          loading="lazy"  alt="Brand 8"></div>
                                                             </div>
                                                         </div>
                                                     </div>

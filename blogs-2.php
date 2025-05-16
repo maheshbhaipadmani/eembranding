@@ -23,8 +23,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                                 <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png" alt="Shape">
-                            <img src="./assest/img/icon/Untitled-3.png" alt="Shape">
+                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
+                            <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
                 </div>
@@ -76,11 +76,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <a data-id="6955"
                                                                                 href="blogs-branding-vs-advertising"
                                                                                 class="tpg-post-link" target="_self">
-                                                                                <img loading="lazy" decoding="async"
+                                                                                <img  decoding="async"
                                                                                     src="./assest/img/blogs/6banner.jpg"
                                                                                     class="rt-img-responsive"
                                                                                     width="1200" height="800"
-                                                                                    alt="Branding vs. Advertising: Understanding the Key Differences">
+                                                                                      loading="lazy"  alt="Branding vs. Advertising: Understanding the Key Differences">
 
 
                                                                             </a>

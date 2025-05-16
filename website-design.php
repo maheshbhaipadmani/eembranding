@@ -22,8 +22,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                             <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png" alt="Shape">
-                            <img src="./assest/img/icon/Untitled-3.png" alt="Shape">
+                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
+                            <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
                 </div>
@@ -76,7 +76,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         <div class="about-img text-end">
                                             <img class="wow fadeInLeft" data-wow-delay=".5s"
                                                 src="./assest/img/service/website-design/Website-Design-&-Development.avif"
-                                                alt=""
+                                                  loading="lazy"  alt=""
                                                 style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
                                         </div>
                                     </div>
@@ -114,7 +114,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <li>
                                                     <img decoding="async"
                                                         src="./assest/img/service/check.svg"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
 
                                                     Custom Web Design – We don’t use cookie-cutter templates. Each
                                                     design is created from scratch to meet your unique needs.
@@ -122,7 +122,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <li>
                                                     <img decoding="async"
                                                         src="./assest/img/service/check.svg"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
 
                                                     SEO-Friendly Development – Our websites are optimized for search
                                                     engines, ensuring higher visibility and more traffic.
@@ -130,7 +130,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <li>
                                                     <img decoding="async"
                                                         src="./assest/img/service/check.svg"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
 
                                                     Mobile Responsiveness – We guarantee that your site will look and
                                                     function flawlessly on all devices.
@@ -138,7 +138,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <li>
                                                     <img decoding="async"
                                                         src="./assest/img/service/check.svg"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
 
                                                     Ongoing Support – Our relationship doesn’t end at launch. We offer
                                                     ongoing maintenance and updates to keep your site running smoothly.
@@ -146,7 +146,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <li>
                                                     <img decoding="async"
                                                         src="./assest/img/service/check.svg"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
 
                                                     Conversion Focused – Our designs are not just about aesthetics. We
                                                     ensure that each website is built to convert visitors into paying

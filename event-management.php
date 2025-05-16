@@ -23,8 +23,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                             <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png" alt="Shape">
-                            <img src="./assest/img/icon/Untitled-3.png" alt="Shape">
+                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
+                            <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
                 </div>
@@ -69,12 +69,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         <div class="about-img text-end">
                                             <img decoding="async" class="wow fadeInLeft" data-wow-delay=".5s"
                                                 src="./assest/img/service/event-management-company-in-ahmedabad/event-management-company-in-ahmedabad.jpeg"
-                                                alt="event management"
+                                                  loading="lazy"  alt="event management"
                                                 style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
 
                                             <img decoding="async" class="wow zoomIn" data-wow-delay=".2s"
                                                 src="./assest/img/service/event-management-company-in-ahmedabad/event-management-company-in-ahmedabad-proffesional.jpeg"
-                                                alt="event management"
+                                                  loading="lazy"  alt="event management"
                                                 style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
                                         </div>
 

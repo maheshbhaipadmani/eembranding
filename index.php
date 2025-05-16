@@ -219,7 +219,7 @@ reset($myaraa);
                             <div class="elementor-widget-container">
                                 <img fetchpriority="high" decoding="async" width="512" height="512"
                                     src="./assest/img/home/icon/3-digital-Marketing.png"
-                                    class="attachment-large size-large wp-image-5646" alt="">
+                                    class="attachment-large size-large wp-image-5646"   loading="lazy"  alt="">
                             </div>
                         </div>
                     </div>
@@ -280,7 +280,7 @@ reset($myaraa);
                                 <div class="section-title-two tg-heading-subheading animation-style3">
                                     <h3 class="title tg-element-title">
                                         <div class="split-line split-line-home-div">
-                                            <h1>Branding Agency In Ahmedabad</h1>
+                                            <h1>Branding Agency In Ahmedabad </h1>
                                         </div>
                                     </h3>
                                 </div>
@@ -344,7 +344,7 @@ reset($myaraa);
                                                 <div class="elementor-widget-container">
                                                     <img fetchpriority="high" decoding="async" width="512" height="512"
                                                         src="./assest/img/home/icon/3-digital-Marketing.png"
-                                                        class="attachment-large size-large wp-image-5646" alt="">
+                                                        class="attachment-large size-large wp-image-5646"   loading="lazy"  alt="">
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-85d5e43 text-center elementor-widget elementor-widget-tg-heading"
@@ -365,7 +365,7 @@ reset($myaraa);
                                                 <div class="elementor-widget-container">
                                                     <img decoding="async" width="58" height="58"
                                                         src="./assest/img/icon/Untitled-2.png"
-                                                        class="attachment-large size-large wp-image-5080" alt="">
+                                                        class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="">
                                                 </div>
                                             </div>
                                         </div>
@@ -382,7 +382,7 @@ reset($myaraa);
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/3-digital-Marketing.png"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
@@ -404,7 +404,7 @@ reset($myaraa);
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/2-creative-design.png"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
@@ -425,7 +425,7 @@ reset($myaraa);
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/3-digital-Marketing.png"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
@@ -447,7 +447,7 @@ reset($myaraa);
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/4-UIUx.png"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
@@ -470,7 +470,7 @@ reset($myaraa);
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/5-website-development.png"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
@@ -489,7 +489,7 @@ reset($myaraa);
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/6-mobile-app.png"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
@@ -511,7 +511,7 @@ reset($myaraa);
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/ExhibitionIcon.png"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
@@ -528,7 +528,7 @@ reset($myaraa);
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/8-3d-rendering.png"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
@@ -549,7 +549,7 @@ reset($myaraa);
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/9-outdoor-branding.png"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
@@ -572,9 +572,9 @@ reset($myaraa);
                                 data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;zoomIn&quot;}"
                                 data-widget_type="image.default">
                                 <div class="elementor-widget-container">
-                                    <img loading="lazy" decoding="async" width="134" height="134"
+                                    <img  decoding="async" width="134" height="134"
                                         src="./assest/img/icon/Untitled-3.png"
-                                        class="attachment-large size-large wp-image-5081" alt="">
+                                        class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="">
                                 </div>
                             </div>
                         </div>
@@ -603,7 +603,7 @@ reset($myaraa);
                                                 <div class="elementor-widget-container">
                                                     <img decoding="async" width="58" height="58"
                                                         src="./assest/img/icon/Untitled-2.png"
-                                                        class="attachment-large size-large wp-image-5080" alt="">
+                                                        class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="">
                                                 </div>
                                             </div>
                                         </div>
@@ -629,12 +629,12 @@ reset($myaraa);
                                                                     style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-8.avif"
-                                                                        alt="Image">
+                                                                          loading="lazy"  alt="Image">
                                                                     <a href="portfolio/moonshineenchanting"
                                                                         class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/home/icon/arrow-right.svg"
-                                                                            alt="Icon">
+                                                                              loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -644,11 +644,11 @@ reset($myaraa);
                                                                     style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-11.avif"
-                                                                        alt="Image">
+                                                                          loading="lazy"  alt="Image">
                                                                     <a href="portfolio/fabrino-fabric" class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/home/icon/arrow-right.svg"
-                                                                            alt="Icon">
+                                                                              loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -657,13 +657,13 @@ reset($myaraa);
                                                                     data-wow-delay=".3s"
                                                                     style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
                                                                     <img decoding="async"
-                                                                        src="./assest/img/home/catalogue/00-Thumbnail-7.jpg"
-                                                                        alt="Image">
+                                                                        src="./assest/img/home/catalogue/00-Thumbnail-7.avif"
+                                                                          loading="lazy"  alt="Image">
                                                                     <a href="portfolio/dazzle-berryenpastel"
                                                                         class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/home/icon/arrow-right.svg"
-                                                                            alt="Icon">
+                                                                              loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -673,11 +673,11 @@ reset($myaraa);
                                                                     style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-12.avif"
-                                                                        alt="Image">
+                                                                          loading="lazy"  alt="Image">
                                                                     <a href="portfolio/ranwood-rega" class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/home/icon/arrow-right.svg"
-                                                                            alt="Icon">
+                                                                              loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -687,11 +687,11 @@ reset($myaraa);
                                                                     style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail.avif"
-                                                                        alt="Image">
+                                                                          loading="lazy"  alt="Image">
                                                                     <a href="portfolio/kooyoo-enchanting" class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/home/icon/arrow-right.svg"
-                                                                            alt="Icon">
+                                                                              loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -701,12 +701,12 @@ reset($myaraa);
                                                                     style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-3.avif"
-                                                                        alt="Image">
+                                                                          loading="lazy"  alt="Image">
                                                                     <a href="portfolio/kiana"
                                                                         class="link-icon">
                                                                         <img decoding="async"
                                                                             src="./assest/img/home/icon/arrow-right.svg"
-                                                                            alt="Icon">
+                                                                              loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
                                                             </div>
@@ -759,9 +759,9 @@ reset($myaraa);
                                 data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;zoomIn&quot;}"
                                 data-widget_type="image.default">
                                 <div class="elementor-widget-container">
-                                    <img loading="lazy" decoding="async" width="134" height="134"
+                                    <img  decoding="async" width="134" height="134"
                                         src="./assest/img/icon/Untitled-3.png"
-                                        class="attachment-large size-large wp-image-5081" alt="">
+                                        class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="">
                                 </div>
                             </div>
                         </div>
@@ -824,7 +824,7 @@ reset($myaraa);
                                 <div class="elementor-widget-container">
                                     <img decoding="async" width="58" height="58"
                                         src="./assest/img/icon/Untitled-2.png"
-                                        class="attachment-large size-large wp-image-5080" alt="" />
+                                        class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="" />
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-ab09290 elementor-widget__width-initial elementor-absolute elementor-invisible elementor-widget elementor-widget-image"
@@ -832,9 +832,9 @@ reset($myaraa);
                                 data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;zoomIn&quot;}"
                                 data-widget_type="image.default">
                                 <div class="elementor-widget-container">
-                                    <img loading="lazy" decoding="async" width="134" height="134"
+                                    <img  decoding="async" width="134" height="134"
                                         src="./assest/img/icon/Untitled-3.png"
-                                        class="attachment-large size-large wp-image-5081" alt="" />
+                                        class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="" />
                                 </div>
                             </div>
                         </div>
@@ -913,12 +913,12 @@ reset($myaraa);
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
                                                         src="./assest/img/home/placeholder.png"
-                                                        alt="">
+                                                          loading="lazy"  alt="">
 
                                                     <div class="icon">
                                                         <img decoding="async"
                                                             src="./assest/img/home/placeholder.png"
-                                                            alt="Icon">
+                                                              loading="lazy"  alt="Icon">
                                                     </div>
                                                 </div>
 
@@ -937,12 +937,12 @@ reset($myaraa);
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
                                                         src="./assest/img/home/placeholder.png"
-                                                        alt="">
+                                                          loading="lazy"  alt="">
 
                                                     <div class="icon">
                                                         <img decoding="async"
                                                             src="./assest/img/home/placeholder.png"
-                                                            alt="Icon">
+                                                              loading="lazy"  alt="Icon">
                                                     </div>
                                                 </div>
 
@@ -963,12 +963,12 @@ reset($myaraa);
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
                                                         src="./assest/img/home/placeholder.png"
-                                                        alt="">
+                                                          loading="lazy"  alt="">
 
                                                     <div class="icon">
                                                         <img decoding="async"
                                                             src="./assest/img/home/placeholder.png"
-                                                            alt="Icon">
+                                                              loading="lazy"  alt="Icon">
                                                     </div>
                                                 </div>
 
@@ -987,12 +987,12 @@ reset($myaraa);
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
                                                         src="./assest/img/home/placeholder.png"
-                                                        alt="">
+                                                          loading="lazy"  alt="">
 
                                                     <div class="icon">
                                                         <img decoding="async"
                                                             src="./assest/img/home/placeholder.png"
-                                                            alt="Icon">
+                                                              loading="lazy"  alt="Icon">
                                                     </div>
                                                 </div>
 
@@ -1010,12 +1010,12 @@ reset($myaraa);
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
                                                         src="./assest/img/home/placeholder.png"
-                                                        alt="">
+                                                          loading="lazy"  alt="">
 
                                                     <div class="icon">
                                                         <img decoding="async"
                                                             src="./assest/img/home/placeholder.png"
-                                                            alt="Icon">
+                                                              loading="lazy"  alt="Icon">
                                                     </div>
                                                 </div>
 
@@ -1084,9 +1084,9 @@ reset($myaraa);
                                                 <div class="blog-post-thumb">
                                                     <a
                                                         href="blogs-graphic-design">
-                                                        <img loading="lazy" decoding="async" width="1200" height="800"
+                                                        <img  decoding="async" width="1200" height="800"
                                                             src="./assest/img/blogs/Blog-Graphic-design.jpg"
-                                                            class="attachment-7100 size-7100 wp-post-image" alt=""
+                                                            class="attachment-7100 size-7100 wp-post-image"   loading="lazy"  alt=""
                                                             full="" /> </a>
                                                 </div>
                                                 <div class="blog-post-content">
@@ -1111,9 +1111,9 @@ reset($myaraa);
                                                 <div class="blog-post-thumb">
                                                     <a
                                                         href="blogs-powerful-branding-strategies">
-                                                        <img loading="lazy" decoding="async" width="1200" height="800"
+                                                        <img  decoding="async" width="1200" height="800"
                                                             src="./assest/img/blogs/1banner-4.jpg"
-                                                            class="attachment-7088 size-7088 wp-post-image" alt=""
+                                                            class="attachment-7088 size-7088 wp-post-image"   loading="lazy"  alt=""
                                                             full="" /> </a>
                                                 </div>
                                                 <div class="blog-post-content">
@@ -1138,9 +1138,9 @@ reset($myaraa);
                                                 <div class="blog-post-thumb">
                                                     <a
                                                         href="blogs-rendering">
-                                                        <img loading="lazy" decoding="async" width="1200" height="800"
+                                                        <img  decoding="async" width="1200" height="800"
                                                             src="./assest/img/blogs/2Blog-5.jpg"
-                                                            class="attachment-7075 size-7075 wp-post-image" alt=""
+                                                            class="attachment-7075 size-7075 wp-post-image"   loading="lazy"  alt=""
                                                             full="" /> </a>
                                                 </div>
                                                 <div class="blog-post-content">
@@ -1165,9 +1165,9 @@ reset($myaraa);
                                                 <div class="blog-post-thumb">
                                                     <a
                                                         href="blogs-best-laminate-catalogue">
-                                                        <img loading="lazy" decoding="async" width="1200" height="800"
+                                                        <img  decoding="async" width="1200" height="800"
                                                             src="./assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
-                                                            class="attachment-7056 size-7056 wp-post-image" alt=""
+                                                            class="attachment-7056 size-7056 wp-post-image"   loading="lazy"  alt=""
                                                             full="" /> </a>
                                                 </div>
                                                 <div class="blog-post-content">
@@ -1250,7 +1250,7 @@ while ($item = current($myaraa)) {
                     <a data-id="7100" href="<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">
                         <img fetchpriority="high" decoding="async" src="<?php echo $item['Thumbnail']; ?>"
                              class="rt-img-responsive" width="1200" height="800"
-                             alt="The Power of Graphic Design in Brand Identity Building">
+                               loading="lazy"  alt="The Power of Graphic Design in Brand Identity Building">
                     </a>
                     <div class="overlay grid-hover-content"></div>
                 </div>
@@ -1307,10 +1307,10 @@ while ($item = current($myaraa)) {
                                             <div class="rt-detail rt-el-content-wrapper">
                                                 <div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                     <a data-id="7075" href="blogs-rendering"
-                                                        class="tpg-post-link" target="_self"> <img loading="lazy"
+                                                        class="tpg-post-link" target="_self"> <img 
                                                             decoding="async" src="./assest/img/blogs/2Blog-5.jpg"
                                                             class="rt-img-responsive" width="1200" height="800"
-                                                            alt="How 3D Rendering Can Help Brands Stand Out in a Competitive Market">
+                                                              loading="lazy"  alt="How 3D Rendering Can Help Brands Stand Out in a Competitive Market">
                                                     </a>
                                                     <div class="overlay grid-hover-content"></div>
                                                 </div>
@@ -1357,11 +1357,11 @@ while ($item = current($myaraa)) {
                                             <div class="rt-detail rt-el-content-wrapper">
                                                 <div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                     <a data-id="7056" href="blogs-best-laminate-catalogue"
-                                                        class="tpg-post-link" target="_self"> <img loading="lazy"
+                                                        class="tpg-post-link" target="_self"> <img 
                                                             decoding="async"
                                                             src="./assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
                                                             class="rt-img-responsive" width="1200" height="800"
-                                                            alt="Best Laminate Catalogue Design Services in India">
+                                                              loading="lazy"  alt="Best Laminate Catalogue Design Services in India">
                                                     </a>
                                                     <div class="overlay grid-hover-content"></div>
                                                 </div>
@@ -1444,7 +1444,7 @@ while ($item = current($myaraa)) {
                                         <div class="newsletter-img">
                                             <img decoding="async"
                                                 src="./assest/img/home/newslettar_img.png"
-                                                alt="Image" class="wow fadeInRight wp-content-newslettar"
+                                                  loading="lazy"  alt="Image" class="wow fadeInRight wp-content-newslettar"
                                                 data-wow-delay=".2s">
                                         </div>
                                     </div>
@@ -1467,24 +1467,24 @@ while ($item = current($myaraa)) {
 
                                     <!-- Brand Logo Slider -->
                                     <div class="brand-slider protfolio-slider">
-                                        <div><img src="./assest/img/portfolio/logo/liventa.png" alt="Brand 1"></div>
-                                        <div><img src="./assest/img/portfolio/logo/nalisha.png" alt="Brand 2"></div>    
-                                        <div><img src="./assest/img/portfolio/logo/nelson.png" alt="Brand 3"></div>
-                                        <div><img src="./assest/img/portfolio/logo/sun-touch.png" alt="Brand 4"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bite-bazzar.png" alt="Brand 5"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bravio.png" alt="Brand 6"></div>
-                                        <div><img src="./assest/img/portfolio/logo/durian.png" alt="Brand 7"></div>
-                                        <div><img src="./assest/img/portfolio/logo/edicon.png" alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/iscon.png" alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/liventa.png" alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/nalisha.png" alt="Brand 2"></div>
-                                        <div><img src="./assest/img/portfolio/logo/nelson.png" alt="Brand 3"></div>
-                                        <div><img src="./assest/img/portfolio/logo/sun-touch.png" alt="Brand 4"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bite-bazzar.png" alt="Brand 5"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bravio.png" alt="Brand 6"></div>
-                                        <div><img src="./assest/img/portfolio/logo/durian.png" alt="Brand 7"></div>
-                                        <div><img src="./assest/img/portfolio/logo/edicon.png" alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/iscon.png" alt="Brand 8"></div>
+                                        <div><img src="./assest/img/portfolio/logo/liventa.png"   loading="lazy"  alt="Brand 1"></div>
+                                        <div><img src="./assest/img/portfolio/logo/nalisha.png"   loading="lazy"  alt="Brand 2"></div>    
+                                        <div><img src="./assest/img/portfolio/logo/nelson.png"   loading="lazy"  alt="Brand 3"></div>
+                                        <div><img src="./assest/img/portfolio/logo/sun-touch.png"   loading="lazy"  alt="Brand 4"></div>
+                                        <div><img src="./assest/img/portfolio/logo/bite-bazzar.png"   loading="lazy"  alt="Brand 5"></div>
+                                        <div><img src="./assest/img/portfolio/logo/bravio.png"   loading="lazy"  alt="Brand 6"></div>
+                                        <div><img src="./assest/img/portfolio/logo/durian.png"   loading="lazy"  alt="Brand 7"></div>
+                                        <div><img src="./assest/img/portfolio/logo/edicon.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="./assest/img/portfolio/logo/iscon.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="./assest/img/portfolio/logo/liventa.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="./assest/img/portfolio/logo/nalisha.png"   loading="lazy"  alt="Brand 2"></div>
+                                        <div><img src="./assest/img/portfolio/logo/nelson.png"   loading="lazy"  alt="Brand 3"></div>
+                                        <div><img src="./assest/img/portfolio/logo/sun-touch.png"   loading="lazy"  alt="Brand 4"></div>
+                                        <div><img src="./assest/img/portfolio/logo/bite-bazzar.png"   loading="lazy"  alt="Brand 5"></div>
+                                        <div><img src="./assest/img/portfolio/logo/bravio.png"   loading="lazy"  alt="Brand 6"></div>
+                                        <div><img src="./assest/img/portfolio/logo/durian.png"   loading="lazy"  alt="Brand 7"></div>
+                                        <div><img src="./assest/img/portfolio/logo/edicon.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="./assest/img/portfolio/logo/iscon.png"   loading="lazy"  alt="Brand 8"></div>
                                     </div>
                                 </div>
                             </div>

@@ -25,7 +25,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-widget-container">
                                     <img decoding="async" width="58" height="58"
                                         src="./assest/img/icon/Untitled-2.png"
-                                        class="attachment-large size-large wp-image-5080" alt="">
+                                        class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="">
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-950eff0 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image animated zoomIn"
@@ -35,7 +35,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-widget-container">
                                     <img decoding="async" width="134" height="134"
                                         src="./assest/img/icon/Untitled-3.png"
-                                        class="attachment-large size-large wp-image-5081" alt="">
+                                        class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="">
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-c600c56 elementor-widget elementor-widget-heading"
@@ -71,9 +71,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="elementor-element elementor-element-3ba1cb7 elementor-widget elementor-widget-image"
                                 data-id="3ba1cb7" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
-                                    <img loading="lazy" decoding="async" width="500" height="500"
+                                    <img  decoding="async" width="500" height="500"
                                         src="./assest/img/service/main/branding_and_designing_Services.png"
-                                        class="attachment-full size-full wp-image-6148" alt="">
+                                        class="attachment-full size-full wp-image-6148"   loading="lazy"  alt="">
                                 </div>
                             </div>
                         </div>
@@ -116,9 +116,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 data-settings="{&quot;_position&quot;:&quot;absolute&quot;}"
                                 data-widget_type="image.default">
                                 <div class="elementor-widget-container">
-                                    <img loading="lazy" decoding="async" width="512" height="512"
+                                    <img  decoding="async" width="512" height="512"
                                         src="./assest/img/service/main/2-creative-design.png"
-                                        class="attachment-full size-full wp-image-5654" alt="">
+                                        class="attachment-full size-full wp-image-5654"   loading="lazy"  alt="">
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-6415dad elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-tg-servicesBox"
@@ -144,7 +144,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         style="visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async" src="./assest/img/service/main/icon/1-catalog.png"
-                                                alt="Icon">
+                                                  loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
                                             <h2 class="title">
@@ -164,7 +164,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async"
-                                                src="./assest/img/service/main/icon/2-creative-design.png" alt="Icon">
+                                                src="./assest/img/service/main/icon/2-creative-design.png"   loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
                                             <h2 class="title">
@@ -183,7 +183,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async"
-                                                src="./assest/img/service/main/icon/3-digital-Marketing.png" alt="Icon">
+                                                src="./assest/img/service/main/icon/3-digital-Marketing.png"   loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
                                             <h2 class="title">
@@ -203,7 +203,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async" src="./assest/img/service/main/icon/4-UIUx.png"
-                                                alt="Icon">
+                                                  loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
                                             <h2 class="title">
@@ -225,7 +225,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         <div class="services-icon-two">
                                             <img decoding="async"
                                                 src="./assest/img/service/main/icon/5-website-development.png"
-                                                alt="Icon">
+                                                  loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
                                             <h2 class="title">
@@ -243,7 +243,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async" src="./assest/img/service/main/icon/6-mobile-app.png"
-                                                alt="Icon">
+                                                  loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
                                             <h2 class="title">
@@ -264,7 +264,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/ExhibitionIcon.png"
-                                                        alt="Icon">
+                                                          loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
                                                     <h2 class="title">
@@ -280,7 +280,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         style="visibility: visible; animation-delay: 0.14s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async"
-                                                src="./assest/img/service/main/icon/8-3d-rendering.png" alt="Icon">
+                                                src="./assest/img/service/main/icon/8-3d-rendering.png"   loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
                                             <h2 class="title">
@@ -299,7 +299,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         style="visibility: visible; animation-delay: 0.16s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async"
-                                                src="./assest/img/service/main/icon/9-outdoor-branding.png" alt="Icon">
+                                                src="./assest/img/service/main/icon/9-outdoor-branding.png"   loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
                                             <h2 class="title">
@@ -346,7 +346,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         <div class="newsletter-img">
                                             <img decoding="async"
                                                 src="./assest/img/home/newslettar_img.png"
-                                                alt="Image" class="wow fadeInRight wp-content-newslettar"
+                                                  loading="lazy"  alt="Image" class="wow fadeInRight wp-content-newslettar"
                                                 data-wow-delay=".2s">
                                         </div>
                                     </div>
@@ -370,24 +370,24 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                     <!-- Brand Logo Slider -->
                                     <div class="brand-slider protfolio-slider">
-                                        <div><img src="./assest/img/portfolio/logo/liventa.png" alt="Brand 1"></div>
-                                        <div><img src="./assest/img/portfolio/logo/nalisha.png" alt="Brand 2"></div>
-                                        <div><img src="./assest/img/portfolio/logo/nelson.png" alt="Brand 3"></div>
-                                        <div><img src="./assest/img/portfolio/logo/sun-touch.png" alt="Brand 4"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bite-bazzar.png" alt="Brand 5"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bravio.png" alt="Brand 6"></div>
-                                        <div><img src="./assest/img/portfolio/logo/durian.png" alt="Brand 7"></div>
-                                        <div><img src="./assest/img/portfolio/logo/edicon.png" alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/iscon.png" alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/liventa.png" alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/nalisha.png" alt="Brand 2"></div>
-                                        <div><img src="./assest/img/portfolio/logo/nelson.png" alt="Brand 3"></div>
-                                        <div><img src="./assest/img/portfolio/logo/sun-touch.png" alt="Brand 4"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bite-bazzar.png" alt="Brand 5"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bravio.png" alt="Brand 6"></div>
-                                        <div><img src="./assest/img/portfolio/logo/durian.png" alt="Brand 7"></div>
-                                        <div><img src="./assest/img/portfolio/logo/edicon.png" alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/iscon.png" alt="Brand 8"></div>
+                                        <div><img src="./assest/img/portfolio/logo/liventa.png"   loading="lazy"  alt="Brand 1"></div>
+                                        <div><img src="./assest/img/portfolio/logo/nalisha.png"   loading="lazy"  alt="Brand 2"></div>
+                                        <div><img src="./assest/img/portfolio/logo/nelson.png"   loading="lazy"  alt="Brand 3"></div>
+                                        <div><img src="./assest/img/portfolio/logo/sun-touch.png"   loading="lazy"  alt="Brand 4"></div>
+                                        <div><img src="./assest/img/portfolio/logo/bite-bazzar.png"   loading="lazy"  alt="Brand 5"></div>
+                                        <div><img src="./assest/img/portfolio/logo/bravio.png"   loading="lazy"  alt="Brand 6"></div>
+                                        <div><img src="./assest/img/portfolio/logo/durian.png"   loading="lazy"  alt="Brand 7"></div>
+                                        <div><img src="./assest/img/portfolio/logo/edicon.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="./assest/img/portfolio/logo/iscon.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="./assest/img/portfolio/logo/liventa.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="./assest/img/portfolio/logo/nalisha.png"   loading="lazy"  alt="Brand 2"></div>
+                                        <div><img src="./assest/img/portfolio/logo/nelson.png"   loading="lazy"  alt="Brand 3"></div>
+                                        <div><img src="./assest/img/portfolio/logo/sun-touch.png"   loading="lazy"  alt="Brand 4"></div>
+                                        <div><img src="./assest/img/portfolio/logo/bite-bazzar.png"   loading="lazy"  alt="Brand 5"></div>
+                                        <div><img src="./assest/img/portfolio/logo/bravio.png"   loading="lazy"  alt="Brand 6"></div>
+                                        <div><img src="./assest/img/portfolio/logo/durian.png"   loading="lazy"  alt="Brand 7"></div>
+                                        <div><img src="./assest/img/portfolio/logo/edicon.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="./assest/img/portfolio/logo/iscon.png"   loading="lazy"  alt="Brand 8"></div>
                                     </div>
                                 </div>
                             </div>
