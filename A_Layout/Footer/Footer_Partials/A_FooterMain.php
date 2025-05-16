@@ -109,9 +109,9 @@ echo
                                                                         target="_blank">
                                                                         <span
                                                                             class="elementor-screen-only">Facebook-f</span>
-                                                                        <svg class="e-font-icon-svg e-fab-facebook-f"
+                                                                        <svg class="iconsizecoustom e-font-icon-svg e-fab-facebook-f"
                                                                             viewBox="0 0 320 512"
-                                                                            xmlns="http://www.w3.org/2000/svg">
+                                                                            xmlns="http://www.w3.org/2000/svg" width="10px">
                                                                             <path
                                                                                 d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z">
                                                                             </path>
@@ -122,7 +122,7 @@ echo
                                                                         target="_blank">
                                                                         <span
                                                                             class="elementor-screen-only">Twitter</span>
-                                                                        <svg class="e-font-icon-svg e-fab-twitter"
+                                                                        <svg class="iconsizecoustom e-font-icon-svg e-fab-twitter"
                                                                             viewBox="0 0 512 512"
                                                                             xmlns="http://www.w3.org/2000/svg">
                                                                             <path
@@ -136,7 +136,7 @@ echo
                                                                         target="_blank">
                                                                         <span
                                                                             class="elementor-screen-only">Linkedin-in</span>
-                                                                        <svg class="e-font-icon-svg e-fab-linkedin-in"
+                                                                        <svg class="iconsizecoustom e-font-icon-svg e-fab-linkedin-in"
                                                                             viewBox="0 0 448 512"
                                                                             xmlns="http://www.w3.org/2000/svg">
                                                                             <path
@@ -150,7 +150,7 @@ echo
                                                                         target="_blank">
                                                                         <span
                                                                             class="elementor-screen-only">Instagram</span>
-                                                                        <svg class="e-font-icon-svg e-fab-instagram"
+                                                                        <svg class="iconsizecoustom e-font-icon-svg e-fab-instagram"
                                                                             viewBox="0 0 448 512"
                                                                             xmlns="http://www.w3.org/2000/svg">
                                                                             <path
@@ -164,7 +164,7 @@ echo
                                                                         target="_blank">
                                                                         <span
                                                                             class="elementor-screen-only">Behance</span>
-                                                                        <svg class="e-font-icon-svg e-fab-behance"
+                                                                        <svg class="iconsizecoustom e-font-icon-svg e-fab-behance"
                                                                             viewBox="0 0 576 512"
                                                                             xmlns="http://www.w3.org/2000/svg">
                                                                             <path
@@ -178,7 +178,7 @@ echo
                                                                         target="_blank">
                                                                         <span
                                                                             class="elementor-screen-only">Dribbble</span>
-                                                                        <svg class="e-font-icon-svg e-fab-dribbble"
+                                                                        <svg class="iconsizecoustom e-font-icon-svg e-fab-dribbble"
                                                                             viewBox="0 0 512 512"
                                                                             xmlns="http://www.w3.org/2000/svg">
                                                                             <path
@@ -192,7 +192,7 @@ echo
                                                                         target="_blank">
                                                                         <span
                                                                             class="elementor-screen-only">Youtube</span>
-                                                                        <svg class="e-font-icon-svg e-fab-youtube"
+                                                                        <svg class="iconsizecoustom e-font-icon-svg e-fab-youtube"
                                                                             viewBox="0 0 576 512"
                                                                             xmlns="http://www.w3.org/2000/svg">
                                                                             <path
@@ -206,7 +206,7 @@ echo
                                                                         target="_blank">
                                                                         <span
                                                                             class="elementor-screen-only">Pinterest</span>
-                                                                        <svg class="e-font-icon-svg e-fab-pinterest"
+                                                                        <svg class="iconsizecoustom e-font-icon-svg e-fab-pinterest"
                                                                             viewBox="0 0 496 512"
                                                                             xmlns="http://www.w3.org/2000/svg">
                                                                             <path
