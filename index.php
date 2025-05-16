@@ -38,7 +38,7 @@ reset($myaraa);
                                 <div class="row">
                                     <ul class="accordion-portfolio-lists text-light" id="accordion">
                                         <li
-                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/01-LAMINATE-CATALOGUE-DESIGN.jpg');">
+                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/01-LAMINATE-CATALOGUE-DESIGN.avif');">
                                             <h3>Laminate Catalogue Design</h3>
                                             <span>01</span>
                                             <div class="accordion-overlay">
@@ -55,7 +55,7 @@ reset($myaraa);
                                             </div>
                                         </li>
                                         <li class="out"
-                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/02-CREATIVE-DESIGNING.jpg');">
+                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/02-CREATIVE-DESIGNING.avif');">
                                             <h3>Creative Designing</h3>
                                             <span>02</span>
                                             <div class="accordion-overlay">
@@ -70,7 +70,7 @@ reset($myaraa);
                                             </div>
                                         </li>
                                         <li
-                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/03-DIGITAL-MARKETING.jpg');">
+                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/03-DIGITAL-MARKETING.avif');">
                                             <h3>Digital Marketing</h3>
                                             <span>03</span>
                                             <div class="accordion-overlay">
@@ -86,7 +86,7 @@ reset($myaraa);
                                             </div>
                                         </li>
                                         <li
-                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/04-WEBSITE-MOBILE.jpg');">
+                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/04-WEBSITE-MOBILE.avif');">
                                             <h3>Website &amp; Mobile</h3>
                                             <span>04</span>
                                             <div class="accordion-overlay">
@@ -115,7 +115,7 @@ reset($myaraa);
                                 <div class="row">
                                     <ul class="accordion-portfolio-lists text-light" id="accordion">
                                         <li
-                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/01-LAMINATE-catalogue-design-company-in-ahmedabad.jpg');">
+                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/01-LAMINATE-catalogue-design-company-in-ahmedabad.avif');">
                                             <h3>Laminate Catalogue Design</h3>
                                             <span>01</span>
                                             <div class="accordion-overlay">
@@ -133,7 +133,7 @@ reset($myaraa);
                                             </div>
                                         </li>
                                         <li class="out"
-                                            style="background-image: url('./assest/img/home/hero/02-CREATIVE-DESIGNING.jpg');">
+                                            style="background-image: url('./assest/img/home/hero/02-CREATIVE-DESIGNING.avif');">
                                             <h3>Creative Designing</h3>
                                             <span>02</span>
                                             <div class="accordion-overlay">
@@ -149,7 +149,7 @@ reset($myaraa);
                                             </div>
                                         </li>
                                         <li
-                                            style="background-image: url('./assest/img/home/hero/03-DIGITAL-MARKETING.jpg');">
+                                            style="background-image: url('./assest/img/home/hero/03-DIGITAL-MARKETING.avif');">
                                             <h3>Digital Marketing</h3>
                                             <span>03</span>
                                             <div class="accordion-overlay">
@@ -166,7 +166,7 @@ reset($myaraa);
                                             </div>
                                         </li>
                                         <li
-                                            style="background-image: url('./assest/img/home/hero/04-WEBSITE-MOBILE.jpg');">
+                                            style="background-image: url('./assest/img/home/hero/04-WEBSITE-MOBILE.avif');">
                                             <h3>Website &amp; Mobile</h3>
                                             <span>04</span>
                                             <div class="accordion-overlay">
@@ -628,7 +628,7 @@ reset($myaraa);
                                                                     data-wow-delay=".1s"
                                                                     style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                                     <img decoding="async"
-                                                                        src="./assest/img/home/catalogue/00-Thumbnail-8.jpg"
+                                                                        src="./assest/img/home/catalogue/00-Thumbnail-8.avif"
                                                                         alt="Image">
                                                                     <a href="portfolio/moonshineenchanting"
                                                                         class="link-icon">
@@ -643,7 +643,7 @@ reset($myaraa);
                                                                     data-wow-delay=".2s"
                                                                     style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                     <img decoding="async"
-                                                                        src="./assest/img/home/catalogue/00-Thumbnail-11.jpg"
+                                                                        src="./assest/img/home/catalogue/00-Thumbnail-11.avif"
                                                                         alt="Image">
                                                                     <a href="portfolio/fabrino-fabric" class="link-icon">
                                                                         <img decoding="async"
@@ -672,7 +672,7 @@ reset($myaraa);
                                                                     data-wow-delay=".4s"
                                                                     style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
                                                                     <img decoding="async"
-                                                                        src="./assest/img/home/catalogue/00-Thumbnail-12.jpg"
+                                                                        src="./assest/img/home/catalogue/00-Thumbnail-12.avif"
                                                                         alt="Image">
                                                                     <a href="portfolio/ranwood-rega" class="link-icon">
                                                                         <img decoding="async"
@@ -686,7 +686,7 @@ reset($myaraa);
                                                                     data-wow-delay=".5s"
                                                                     style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
                                                                     <img decoding="async"
-                                                                        src="./assest/img/home/catalogue/00-Thumbnail.jpg"
+                                                                        src="./assest/img/home/catalogue/00-Thumbnail.avif"
                                                                         alt="Image">
                                                                     <a href="portfolio/kooyoo-enchanting" class="link-icon">
                                                                         <img decoding="async"
@@ -700,7 +700,7 @@ reset($myaraa);
                                                                     data-wow-delay=".6s"
                                                                     style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
                                                                     <img decoding="async"
-                                                                        src="./assest/img/home/catalogue/00-Thumbnail-3.jpg"
+                                                                        src="./assest/img/home/catalogue/00-Thumbnail-3.avif"
                                                                         alt="Image">
                                                                     <a href="portfolio/kiana"
                                                                         class="link-icon">

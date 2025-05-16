@@ -120,7 +120,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                                 </div>
                                             </div>
-                                            <div class="elementor-element elementor-element-6ba64d2 elementor-widget elementor-widget-tg-btn"
+                                             <div class="elementor-element elementor-element-6ba64d2 elementor-widget elementor-widget-tg-btn"
                                                 data-id="6ba64d2" data-element_type="widget"
                                                 data-widget_type="tg-btn.default">
                                                 <div class="elementor-widget-container">
@@ -239,7 +239,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                                 </div>
-                                            </div>
+                                            </div> 
                                         </div>
                                     </div>
                                     <div class="elementor-element elementor-element-c221da5 e-flex e-con-boxed e-con e-parent e-lazyloaded"
@@ -285,7 +285,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".1s"
                                                                             style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/01-1-scaled.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/01-1-scaled.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/ranberry-trends"
                                                                                 class="link-icon">
@@ -300,7 +300,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".2s"
                                                                             style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/00-Thumbnail-8.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/00-Thumbnail-8.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/moonshineenchanting"
                                                                                 class="link-icon">
@@ -315,7 +315,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".3s"
                                                                             style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/00-Thumbnail-7.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/00-Thumbnail-7.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/dazzle-berryenpastel"
                                                                                 class="link-icon">
@@ -330,7 +330,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".4s"
                                                                             style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/00-Thumbnail-9.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/00-Thumbnail-9.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/nelsonenchanting"
                                                                                 class="link-icon">
@@ -345,7 +345,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".5s"
                                                                             style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/01-16.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/01-16.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/ranwood-rega"
                                                                                 class="link-icon">
@@ -360,7 +360,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".6s"
                                                                             style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/01.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/01.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/kooyoo-enchanting"
                                                                                 class="link-icon">
@@ -375,7 +375,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".7s"
                                                                             style="visibility: hidden; animation-delay: 0.7s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/01-6.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/01-6.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/central" class="link-icon">
                                                                                 <img decoding="async"
@@ -389,7 +389,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".8s"
                                                                             style="visibility: hidden; animation-delay: 0.8s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/01-5.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/01-5.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/bliss" class="link-icon">
                                                                                 <img decoding="async"
@@ -403,7 +403,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".9s"
                                                                             style="visibility: hidden; animation-delay: 0.9s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/00-Thumbnail-6.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/00-Thumbnail-6.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/keton-micabeautiful"
                                                                                 class="link-icon">
@@ -418,7 +418,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".10s"
                                                                             style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/00-Thumbnail-5.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/00-Thumbnail-5.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/eco-woodamaurosis"
                                                                                 class="link-icon">
@@ -433,7 +433,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".11s"
                                                                             style="visibility: hidden; animation-delay: 0.11s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/01-9.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/01-9.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/bravio-pastel-laminate"
                                                                                 class="link-icon">
@@ -448,7 +448,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".12s"
                                                                             style="visibility: hidden; animation-delay: 0.12s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/01-14.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/01-14.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/fabrino-fabric"
                                                                                 class="link-icon">
@@ -463,7 +463,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".13s"
                                                                             style="visibility: hidden; animation-delay: 0.13s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/01-8.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/01-8.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/fabrinobeauty"
                                                                                 class="link-icon">
@@ -478,7 +478,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".14s"
                                                                             style="visibility: hidden; animation-delay: 0.14s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/01-18.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/01-18.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/vanshlam" class="link-icon">
                                                                                 <img decoding="async"
@@ -492,7 +492,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".15s"
                                                                             style="visibility: hidden; animation-delay: 0.15s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/00-Thumbnail-10.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/evershine-color-trendenchanting"
                                                                                 class="link-icon">
@@ -507,7 +507,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".16s"
                                                                             style="visibility: hidden; animation-delay: 0.16s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/01-19.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/01-19.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/lammartcolor"
                                                                                 class="link-icon">
@@ -522,7 +522,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".17s"
                                                                             style="visibility: hidden; animation-delay: 0.17s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/01-17.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/01-17.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/picsartelegance"
                                                                                 class="link-icon">
@@ -537,7 +537,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".18s"
                                                                             style="visibility: hidden; animation-delay: 0.18s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/01-13.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/01-13.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/morbi-king" class="link-icon">
                                                                                 <img decoding="async"
@@ -551,7 +551,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".19s"
                                                                             style="visibility: hidden; animation-delay: 0.19s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/01-8.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/01-8.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/fabrinobeauty"
                                                                                 class="link-icon">
@@ -566,7 +566,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".20s"
                                                                             style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/Catalogue/01-12.jpg"
+                                                                                src="./assest/img/portfolio/Catalogue/01-12.avif"
                                                                                 alt="Image">
                                                                             <a href="portfolio/crysta-line"
                                                                                 class="link-icon">
@@ -584,7 +584,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                         </div>
                                     </section>
-                                    <div class="elementor-element elementor-element-891259b elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
+                                    <!-- <div class="elementor-element elementor-element-891259b elementor-hidden-tablet e-flex e-con-boxed e-con e-parent"
                                         data-id="891259b" data-element_type="container" id="cd2">
                                         <div class="e-con-inner">
                                             <div class="elementor-element elementor-element-55dcb8a elementor-widget elementor-widget-heading"
@@ -1511,7 +1511,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <section
                                         class="elementor-section elementor-top-section elementor-element elementor-element-08773b0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                         data-id="08773b0" data-element_type="section">

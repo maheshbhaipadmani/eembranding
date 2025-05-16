@@ -75,7 +75,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="elementor-widget-container">
                                         <div class="about-img text-end">
                                             <img class="wow fadeInLeft" data-wow-delay=".5s"
-                                                src="./assest/img/service/mobile-app-development/mobile-app.jpg"
+                                                src="./assest/img/service/mobile-app-development/mobile-app.avif"
                                                 alt=""
                                                 style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
 
