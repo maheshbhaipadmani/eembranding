@@ -209,7 +209,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
         </section>
 
 <?php }?>
-
+<script src="./assest/js/Contact-mail.js"></script>
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
 ?>
