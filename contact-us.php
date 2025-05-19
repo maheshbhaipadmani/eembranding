@@ -178,54 +178,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
             </section>
-
-            
         </div>
 
-        <script>
-document.addEventListener('DOMContentLoaded', function () {
-    const form = document.querySelector('.wpcf7-form');
-    
-    if (!form) return;
-
-    form.addEventListener('submit', function (e) {
-        // Clear previous errors
-        form.querySelectorAll('.form-error').forEach(el => el.remove());
-        let isValid = true;
-
-        // Input fields
-        const name = form.querySelector('input[name="your-name"]');
-        const email = form.querySelector('input[name="your-email"]');
-        const phone = form.querySelector('input[name="your-number"]');
-        const subject = form.querySelector('input[name="your-subject"]');
-        const message = form.querySelector('textarea[name="your-message"]');
-
-        // Helper: show error
-        const showError = (input, msg) => {
-            const error = document.createElement('div');
-            error.className = 'form-error';
-            error.style.color = 'red';
-            error.style.fontSize = '0.9em';
-            error.textContent = msg;
-            input.parentNode.appendChild(error);
-            isValid = false;
-        };
-
-        // Validations
-        if (!name.value.trim()) showError(name, 'Name is required');
-        if (!email.value.trim()) showError(email, 'Email is required');
-        else if (!/^\S+@\S+\.\S+$/.test(email.value)) showError(email, 'Enter a valid email');
-        
-        if (!phone.value.trim()) showError(phone, 'Phone is required');
-        else if (!/^\d{10}$/.test(phone.value)) showError(phone, 'Enter a valid 10-digit number');
-
-        if (!subject.value.trim()) showError(subject, 'Subject is required');
-        if (!message.value.trim()) showError(message, 'Message is required');
-
-        if (!isValid) e.preventDefault();
-    });
-});
-</script>
+<script src="./assest/js/Contact-mail.js"></script>
 
 <style>
     .form-error {
