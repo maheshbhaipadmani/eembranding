@@ -1096,3 +1096,180 @@ body {
       height: 50px;
     }
     
+
+    /* ==================================================================== */
+    .d-rendering-style{
+        visibility: visible; 
+        animation-delay: 0.5s; 
+        animation-name: fadeInLeft;
+    }
+    .font-weight-400{
+        font-weight: 400;
+    }
+    .perspective-400{
+        perspective:400;
+    }
+    .font-weight-500{
+        font-weight: 500;
+    }
+    .breadcrumb-shape .parallax-shape {
+    transform: translate3d(0px, 42.023px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1);
+    -webkit-transform: translate3d(0px, 42.023px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1);
+}
+.parallax-shapenext {
+    transform: translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1);
+    -webkit-transform: translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1);
+    will-change: transform;
+}
+.parallax-logo {
+    transform: translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1);
+    -webkit-transform: translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1);
+    will-change: transform;
+}
+.width-390{
+    width: 390px;
+}
+.custom-stretched-section {
+    width: 1425px;
+    left: -127.4px;
+    position: relative; /* Ensure position context for 'left' to work */
+}
+.custom-carousel-wrapper {
+    transition-duration: 0ms;
+    transform: translate3d(-1560px, 0px, 0px);
+    will-change: transform;
+}
+.shape-parallax-img {
+    transform: translate3d(0px, 11.902px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1);
+    -webkit-transform: translate3d(0px, 11.902px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale3d(1, 1, 1);
+}
+.d-none{
+    display: none;
+}
+.delay-02s {
+    animation-delay: 0.2s;
+    visibility: visible;
+    animation-name: zoomIn;
+}
+.ml-0{
+    margin-left: 0;
+}
+.mr-0{
+    margin-right: 0;
+}
+.mt-3rem{
+    margin-top: 3rem;
+}
+.custom-swiper-transform {
+    transition-duration: 0ms;
+    transform: translate3d(-1560px, 0px, 0px);
+}
+.d-flex{
+    display: flex;
+}
+.gap-10{
+    gap: 10px;
+}
+.mb-10px{
+    margin-bottom: 10px;
+}
+.border-0{
+    border: 0;
+}
+.message-height{
+    height:180px;
+}
+.breadcrumb-parallax-img-second{
+    transform: translate3d(0px, 100px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1);
+    -webkit-transform: translate3d(0px, 100px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1);
+}
+.animation-delay-1s{
+    visibility: hidden;
+     animation-delay: 0.1s;
+     animation-name: none;
+}
+.letter-world-style{
+    position: relative; 
+    display: inline-block; 
+    opacity: 1; 
+    transform: translate(0px, 0px);
+}
+.split-line-style{
+    display: block; 
+    text-align: center; 
+    position: relative;
+}
+.position-relative-inline-block{
+    position:relative;
+    display:inline-block;
+}
+.data-wow-delay-8s{
+    visibility: hidden; 
+    animation-delay: 0.8s; 
+    animation-name: none;
+}
+.data-wow-delay-0s{
+    visibility: hidden; 
+    animation-delay: 0s; 
+    animation-name: none;
+}
+.data-wow-delay-2s{
+    visibility: hidden;
+    animation-delay: 0.2s; 
+    animation-name: none;
+}
+.data-wow-delay-4s{
+    visibility: hidden; animation-delay: 0.4s; animation-name: none;
+}
+.data-wow-delay-6s{
+    visibility: hidden; animation-delay: 0.6s; animation-name: none;
+}
+.data-wow-delay-14s{
+    visibility: hidden; animation-delay: 0.14s; animation-name: none;
+}
+.data-wow-delay-16s{
+    visibility: hidden; animation-delay: 0.16s; animation-name: none;
+}
+.animation-delay-3s{
+    visibility: hidden; animation-delay: 0.3s; animation-name: none;
+}
+.animation-delay-4s{
+    visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;
+}
+.data-wow-delay-5s{
+    visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;
+}
+.data-wow-delay-6s{
+    visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;
+}
+.data-wow-delay-7s{
+    visibility: hidden; animation-delay: 0.7s; animation-name: none;
+}
+.data-wow-delay-9s{
+    visibility: hidden; animation-delay: 0.9s; animation-name: none;
+}
+.data-wow-delay-11s{
+    visibility: hidden; animation-delay: 0.11s; animation-name: none;
+}
+.data-wow-delay-12s{
+    visibility: hidden; animation-delay: 0.12s; animation-name: none;
+}
+.data-wow-delay-13s{
+    visibility: hidden; animation-delay: 0.13s; animation-name: none;
+}
+.data-wow-delay-15s{
+    visibility: hidden; animation-delay: 0.15s; animation-name: none;
+}
+.data-wow-delay-17s{
+    visibility: hidden; animation-delay: 0.17s; animation-name: none;
+}
+.data-wow-delay-18s{
+    visibility: hidden; animation-delay: 0.18s; animation-name: none;
+}
+.data-wow-delay-19s{
+    visibility: hidden; animation-delay: 0.19s; animation-name: none;
+}
+.element-section-width-height{
+    width: 1491px; 
+    left: -160.6px;
+}

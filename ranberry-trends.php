@@ -20,9 +20,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
-                            <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape"
-                                style="transform:translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
+                            <img class="parallax-shapenext"  data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
+                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
                             <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
@@ -78,8 +77,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                     <img decoding="async"
                                                         data-parallax="{&quot;x&quot; : 80 , &quot;y&quot; : 0 }"
                                                         src="./assest/img/icon/Untitled-3.png"
-                                                          loading="lazy"  alt=""
-                                                        style="transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
+                                                          loading="lazy"  alt="logo"
+                                                         class="parallax-logo">
 
                                                 </div>
                                             </div>
@@ -92,8 +91,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                     <img decoding="async"
                                                         data-parallax="{&quot;x&quot; : 79 , &quot;y&quot; : 0 }"
                                                         src="./assest/img/icon/Untitled-2.png"
-                                                          loading="lazy"  alt=""
-                                                        style="transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
+                                                          loading="lazy"  alt="logo"
+                                                         class="parallax-logo">
 
                                                 </div>
                                             </div>
@@ -121,91 +120,90 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-image-carousel-wrapper swiper swiper-initialized swiper-horizontal swiper-pointer-events"
                                                         dir="ltr">
-                                                        <div class="elementor-image-carousel swiper-wrapper"
+                                                        <div class="elementor-image-carousel swiper-wrapper custom-carousel-wrapper"
                                                             aria-live="off"
-                                                            style="transition-duration: 0ms; transform: translate3d(-1560px, 0px, 0px);"
                                                             id="swiper-wrapper-b7cfa3ba816aba4f">
-                                                            <div class="swiper-slide swiper-slide-duplicate"
+                                                            <div class="swiper-slide swiper-slide-duplicate width-390"
                                                                 role="group" aria-roledescription="slide"
                                                                 aria-label="5 / 7" data-swiper-slide-index="4"
-                                                                style="width: 390px;" aria-hidden="true" inert="">
+                                                                 aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/ranberry-trends/01-4.avif "
                                                                           loading="lazy"  alt="01"></figure>
                                                             </div>
-                                                            <div class="swiper-slide swiper-slide-duplicate"
+                                                            <div class="swiper-slide swiper-slide-duplicate width-390"
                                                                 role="group" aria-roledescription="slide"
                                                                 aria-label="6 / 7" data-swiper-slide-index="5"
-                                                                style="width: 390px;" aria-hidden="true" inert="">
+                                                                 aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/ranberry-trends/02-2.avif"
                                                                           loading="lazy"  alt="04"></figure>
                                                             </div>
-                                                            <div class="swiper-slide swiper-slide-duplicate"
+                                                            <div class="swiper-slide swiper-slide-duplicate width-390"
                                                                 role="group" aria-roledescription="slide"
                                                                 aria-label="7 / 7" data-swiper-slide-index="6"
-                                                                style="width: 390px;" aria-hidden="true" inert="">
+                                                                 aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/ranberry-trends/03-3.avif"
                                                                           loading="lazy"  alt="03"></figure>
                                                             </div>
-                                                            <div class="swiper-slide swiper-slide-prev" role="group"
+                                                            <div class="swiper-slide swiper-slide-prev width-390" role="group"
                                                                 aria-roledescription="slide" aria-label="1 / 7"
-                                                                data-swiper-slide-index="0" style="width: 390px;"
+                                                                data-swiper-slide-index="0" 
                                                                 aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/ranberry-trends/04-3.avif"
                                                                           loading="lazy"  alt="05"></figure>
                                                             </div>
-                                                            <div class="swiper-slide swiper-slide-active" role="group"
+                                                            <div class="swiper-slide swiper-slide-active width-390" role="group"
                                                                 aria-roledescription="slide" aria-label="2 / 7"
-                                                                data-swiper-slide-index="1" style="width: 390px;">
+                                                                data-swiper-slide-index="1" >
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/ranberry-trends/05-2.avif"
                                                                           loading="lazy"  alt="06"></figure>
                                                             </div>
-                                                            <div class="swiper-slide swiper-slide-next" role="group"
+                                                            <div class="swiper-slide swiper-slide-next width-390" role="group"
                                                                 aria-roledescription="slide" aria-label="3 / 7"
-                                                                data-swiper-slide-index="2" style="width: 390px;">
+                                                                data-swiper-slide-index="2" >
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/ranberry-trends/06-2.avif"
                                                                           loading="lazy"  alt="02"></figure>
                                                             </div>
-                                                            <div class="swiper-slide" role="group"
+                                                            <div class="swiper-slide width-390" role="group"
                                                                 aria-roledescription="slide" aria-label="4 / 7"
-                                                                data-swiper-slide-index="3" style="width: 390px;">
+                                                                data-swiper-slide-index="3" >
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/ranberry-trends/07-2.avif"
                                                                           loading="lazy"  alt="07"></figure>
                                                             </div>
-                                                            <div class="swiper-slide" role="group"
+                                                            <div class="swiper-slide width-390" role="group"
                                                                 aria-roledescription="slide" aria-label="5 / 7"
-                                                                data-swiper-slide-index="4" style="width: 390px;"
+                                                                data-swiper-slide-index="4" 
                                                                 aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/ranberry-trends/01-4.avif"
                                                                           loading="lazy"  alt="01"></figure>
                                                             </div>
-                                                            <div class="swiper-slide" role="group"
+                                                            <div class="swiper-slide width-390" role="group"
                                                                 aria-roledescription="slide" aria-label="6 / 7"
-                                                                data-swiper-slide-index="5" style="width: 390px;"
+                                                                data-swiper-slide-index="5" 
                                                                 aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/ranberry-trends/02-2.avif"
                                                                           loading="lazy"  alt="04"></figure>
                                                             </div>
-                                                            <div class="swiper-slide" role="group"
+                                                            <div class="swiper-slide width-390" role="group"
                                                                 aria-roledescription="slide" aria-label="7 / 7"
-                                                                data-swiper-slide-index="6" style="width: 390px;"
+                                                                data-swiper-slide-index="6" 
                                                                 aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
@@ -215,7 +213,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev"
                                                                 role="group" aria-roledescription="slide"
                                                                 aria-label="1 / 7" data-swiper-slide-index="0"
-                                                                style="width: 390px;" aria-hidden="true" inert="">
+                                                                 aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/ranberry-trends/04-3.avif"
@@ -224,7 +222,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active"
                                                                 role="group" aria-roledescription="slide"
                                                                 aria-label="2 / 7" data-swiper-slide-index="1"
-                                                                style="width: 390px;" aria-hidden="true" inert="">
+                                                                 aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/ranberry-trends/05-2.avif"
@@ -233,7 +231,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next"
                                                                 role="group" aria-roledescription="slide"
                                                                 aria-label="3 / 7" data-swiper-slide-index="2"
-                                                                style="width: 390px;" aria-hidden="true" inert="">
+                                                                 aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
                                                                         src="./assest/img/portfolio/ranberry-trends/06-2.avif"

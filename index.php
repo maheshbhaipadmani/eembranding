@@ -219,7 +219,7 @@ reset($myaraa);
                             <div class="elementor-widget-container">
                                 <img fetchpriority="high" decoding="async" width="512" height="512"
                                     src="./assest/img/home/icon/3-digital-Marketing.png"
-                                    class="attachment-large size-large wp-image-5646"   loading="lazy"  alt="">
+                                    class="attachment-large size-large wp-image-5646"   loading="lazy"  alt="3-digital-Marketing">
                             </div>
                         </div>
                     </div>
@@ -289,31 +289,31 @@ reset($myaraa);
                         <div class="elementor-element elementor-element-95ffdd0 elementor-widget elementor-widget-text-editor"
                             data-id="95ffdd0" data-element_type="widget" data-widget_type="text-editor.default">
                             <div class="elementor-widget-container">
-                                <p><span style="font-weight: 400;">Transform Your Business with Expert Branding,
+                                <p><span class="font-weight-400">Transform Your Business with Expert Branding,
                                         Marketing, and Design</span></p>
-                                <p><span style="font-weight: 400;">At our </span><a
+                                <p><span class="font-weight-400">At our </span><a
                                         href="services/advertising-agency-in-ahmedabad"><b>branding
-                                            and advertising agency</b></a><span style="font-weight: 400;">, we believe
+                                            and advertising agency</b></a><span class="font-weight-400">, we believe
                                         that strong branding is the cornerstone of business success. Our creative team
                                         works closely with you to craft a unique identity that reflects your values,
                                         engages your audience, and sets you apart from competitors. Whether it’s a
                                         complete brand overhaul or a new campaign launch, we deliver solutions that
                                         drive impact.</span></p>
-                                <p><span style="font-weight: 400;">In the digital age, visibility is everything.
+                                <p><span class="font-weight-400">In the digital age, visibility is everything.
                                         Our</span> <a href="services/digital-marketing-agency-ahmedabad"><b>digital
-                                            marketing services</b></a><span style="font-weight: 400;"> are designed to
+                                            marketing services</b></a><span class="font-weight-400"> are designed to
                                         help you reach the right audience through data-driven strategies. From search
                                         engine optimization (SEO) and social media marketing to pay-per-click
                                         advertising, we ensure your business gains the exposure it deserves.</span></p>
-                                <p><span style="font-weight: 400;">For businesses in the laminate industry, we offer
+                                <p><span class="font-weight-400">For businesses in the laminate industry, we offer
                                         professional</span><a href="services/catalogue-design-company-in-ahmedabad">
-                                        <b>laminate catalogue design services</b></a><span style="font-weight: 400;">
+                                        <b>laminate catalogue design services</b></a><span class="font-weight-400">
                                         that highlight the quality and variety of your products. Our catalogues are
                                         designed to be visually stunning and informative, providing your clients with a
                                         clear representation of your offerings.</span></p>
-                                <p><span style="font-weight: 400;">Your website is your digital storefront. Our
+                                <p><span class="font-weight-400">Your website is your digital storefront. Our
                                     </span><a href="services/website-design-company-in-ahmedabad"><b>website
-                                            design services</b></a><span style="font-weight: 400;"> focus on creating
+                                            design services</b></a><span class="font-weight-400"> focus on creating
                                         modern, responsive websites that offer seamless user experiences. We blend
                                         creativity with functionality to develop websites that not only look great but
                                         are also optimized for search engines and conversions.</span></p>
@@ -344,7 +344,7 @@ reset($myaraa);
                                                 <div class="elementor-widget-container">
                                                     <img fetchpriority="high" decoding="async" width="512" height="512"
                                                         src="./assest/img/home/icon/3-digital-Marketing.png"
-                                                        class="attachment-large size-large wp-image-5646"   loading="lazy"  alt="">
+                                                        class="attachment-large size-large wp-image-5646"   loading="lazy"  alt="3-digital-Marketing">
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-85d5e43 text-center elementor-widget elementor-widget-tg-heading"
@@ -353,8 +353,8 @@ reset($myaraa);
                                             
                                                 <div class="elementor-widget-container">
 		                                                <div class="section-title-two tg-heading-subheading animation-style3">
-                                                                        <span class="sub-title tg-element-title" style="perspective: 400px;"><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">C</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">R</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">E</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">A</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">T</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">I</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">V</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">E</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">S</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">O</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">L</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">U</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">T</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">I</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">O</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">N</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">S</div></div></div></span>
-                                                    <h2 class="title tg-element-title" style="perspective: 400px;"><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">Y</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">G</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">w</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">h</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">,</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">O</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">M</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">:</div></div> </div><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">L</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">a</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">d</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">g</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">D</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">g</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">a</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">l</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">M</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">a</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">k</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">g</div></div> </div><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">A</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">g</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">c</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">y</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">.</div></div></div></h2>
+                                                                        <span class="sub-title tg-element-title perspective-400" ><div class="split-line split-line-style" ><div class="position-relative-inline-block"><div class="letter-world-style">C</div><div class="letter-world-style">R</div><div class="letter-world-style">E</div><div class="letter-world-style">A</div><div class="letter-world-style">T</div><div class="letter-world-style">I</div><div class="letter-world-style">V</div><div class="letter-world-style">E</div></div> <div class="position-relative-inline-block"><div class="letter-world-style">S</div><div class="letter-world-style">O</div><div class="letter-world-style">L</div><div class="letter-world-style">U</div><div class="letter-world-style">T</div><div class="letter-world-style">I</div><div class="letter-world-style">O</div><div class="letter-world-style">N</div><div class="letter-world-style">S</div></div></div></span>
+                                                    <h2 class="title tg-element-title perspective-400" ><div class="split-line split-line-style" ><div class="position-relative-inline-block"><div class="letter-world-style">Y</div><div class="letter-world-style">o</div><div class="letter-world-style">u</div><div class="letter-world-style">r</div></div> <div class="position-relative-inline-block"><div class="letter-world-style">G</div><div class="letter-world-style">r</div><div class="letter-world-style">o</div><div class="letter-world-style">w</div><div class="letter-world-style">t</div><div class="letter-world-style">h</div><div class="letter-world-style">,</div></div> <div class="position-relative-inline-block"><div class="letter-world-style">O</div><div class="letter-world-style">u</div><div class="letter-world-style">r</div></div> <div class="position-relative-inline-block"><div class="letter-world-style">M</div><div class="letter-world-style">i</div><div class="letter-world-style">s</div><div class="letter-world-style">s</div><div class="letter-world-style">i</div><div class="letter-world-style">o</div><div class="letter-world-style">n</div><div class="letter-world-style">:</div></div> </div><div class="split-line split-line-style" ><div class="position-relative-inline-block"><div class="letter-world-style">L</div><div class="letter-world-style">e</div><div class="letter-world-style">a</div><div class="letter-world-style">d</div><div class="letter-world-style">i</div><div class="letter-world-style">n</div><div class="letter-world-style">g</div></div> <div class="position-relative-inline-block"><div class="letter-world-style">D</div><div class="letter-world-style">i</div><div class="letter-world-style">g</div><div class="letter-world-style">i</div><div class="letter-world-style">t</div><div class="letter-world-style">a</div><div class="letter-world-style">l</div></div> <div class="position-relative-inline-block"><div class="letter-world-style">M</div><div class="letter-world-style">a</div><div class="letter-world-style">r</div><div class="letter-world-style">k</div><div class="letter-world-style">e</div><div class="letter-world-style">t</div><div class="letter-world-style">i</div><div class="letter-world-style">n</div><div class="letter-world-style">g</div></div> </div><div class="split-line split-line-style" ><div class="position-relative-inline-block"><div class="letter-world-style">A</div><div class="letter-world-style">g</div><div class="letter-world-style">e</div><div class="letter-world-style">n</div><div class="letter-world-style">c</div><div class="letter-world-style">y</div><div class="letter-world-style">.</div></div></div></h2>
                                                 </div>        
 		                                    </div>  
                                             </div>
@@ -365,7 +365,7 @@ reset($myaraa);
                                                 <div class="elementor-widget-container">
                                                     <img decoding="async" width="58" height="58"
                                                         src="./assest/img/icon/Untitled-2.png"
-                                                        class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="">
+                                                        class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="logo">
                                                 </div>
                                             </div>
                                         </div>
@@ -377,8 +377,7 @@ reset($myaraa);
                                 <div class="elementor-widget-container">
                                     <div class="row justify-content-center">
                                         <div class="col-lg-4 col-md-6">
-                                            <div class="services-item-two wow fadeInUp" data-wow-delay=".0s"
-                                                style="visibility: hidden; animation-delay: 0s; animation-name: none;">
+                                            <div class="services-item-two wow fadeInUp data-wow-delay-0s" data-wow-delay=".0s">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/3-digital-Marketing.png"
@@ -399,8 +398,7 @@ reset($myaraa);
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-6">
-                                            <div class="services-item-two wow fadeInUp" data-wow-delay=".2s"
-                                                style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
+                                            <div class="services-item-two wow fadeInUp data-wow-delay-2s" data-wow-delay=".2s">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/2-creative-design.png"
@@ -420,8 +418,7 @@ reset($myaraa);
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-6">
-                                            <div class="services-item-two wow fadeInUp" data-wow-delay=".4s"
-                                                style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
+                                            <div class="services-item-two wow fadeInUp data-wow-delay-4s" data-wow-delay=".4s">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/3-digital-Marketing.png"
@@ -442,8 +439,7 @@ reset($myaraa);
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-6">
-                                            <div class="services-item-two wow fadeInUp" data-wow-delay=".6s"
-                                                style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
+                                            <div class="services-item-two wow fadeInUp data-wow-delay-6s" data-wow-delay=".6s">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/4-UIUx.png"
@@ -465,8 +461,7 @@ reset($myaraa);
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-6">
-                                            <div class="services-item-two wow fadeInUp" data-wow-delay=".8s"
-                                                style="visibility: hidden; animation-delay: 0.8s; animation-name: none;">
+                                            <div class="services-item-two wow fadeInUp data-wow-delay-8s" data-wow-delay=".8s">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/5-website-development.png"
@@ -484,8 +479,7 @@ reset($myaraa);
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-6">
-                                            <div class="services-item-two wow fadeInUp" data-wow-delay=".10s"
-                                                style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
+                                            <div class="services-item-two wow fadeInUp animation-delay-1s" data-wow-delay=".10s">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/6-mobile-app.png"
@@ -506,8 +500,7 @@ reset($myaraa);
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-6">
-                                            <div class="services-item-two wow fadeInUp" data-wow-delay=".10s"
-                                                style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
+                                            <div class="services-item-two wow fadeInUp animation-delay-1s" data-wow-delay=".10s">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/ExhibitionIcon.png"
@@ -523,8 +516,7 @@ reset($myaraa);
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-6">
-                                            <div class="services-item-two wow fadeInUp" data-wow-delay=".14s"
-                                                style="visibility: hidden; animation-delay: 0.14s; animation-name: none;">
+                                            <div class="services-item-two wow fadeInUp data-wow-delay-14s" data-wow-delay=".14s">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/8-3d-rendering.png"
@@ -544,8 +536,7 @@ reset($myaraa);
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-6">
-                                            <div class="services-item-two wow fadeInUp" data-wow-delay=".16s"
-                                                style="visibility: hidden; animation-delay: 0.16s; animation-name: none;">
+                                            <div class="services-item-two wow fadeInUp data-wow-delay-16s" data-wow-delay=".16s">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/9-outdoor-branding.png"
@@ -574,7 +565,7 @@ reset($myaraa);
                                 <div class="elementor-widget-container">
                                     <img  decoding="async" width="134" height="134"
                                         src="./assest/img/icon/Untitled-3.png"
-                                        class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="">
+                                        class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="logo">
                                 </div>
                             </div>
                         </div>
@@ -603,7 +594,7 @@ reset($myaraa);
                                                 <div class="elementor-widget-container">
                                                     <img decoding="async" width="58" height="58"
                                                         src="./assest/img/icon/Untitled-2.png"
-                                                        class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="">
+                                                        class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="logo">
                                                 </div>
                                             </div>
                                         </div>
@@ -624,9 +615,8 @@ reset($myaraa);
                                                     <div class="project-area-two">
                                                         <div class="row">
                                                             <div class="col-lg-4 col-md-6">
-                                                                <div class="project-item-two wow fadeInUp"
-                                                                    data-wow-delay=".1s"
-                                                                    style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
+                                                                <div class="project-item-two wow fadeInUp animation-delay-1s"
+                                                                    data-wow-delay=".1s">
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-8.avif"
                                                                           loading="lazy"  alt="Image">
@@ -639,9 +629,8 @@ reset($myaraa);
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-4 col-md-6">
-                                                                <div class="project-item-two wow fadeInUp"
-                                                                    data-wow-delay=".2s"
-                                                                    style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
+                                                                <div class="project-item-two wow fadeInUp data-wow-delay-2s"
+                                                                    data-wow-delay=".2s">
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-11.avif"
                                                                           loading="lazy"  alt="Image">
@@ -653,9 +642,8 @@ reset($myaraa);
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-4 col-md-6">
-                                                                <div class="project-item-two wow fadeInUp"
-                                                                    data-wow-delay=".3s"
-                                                                    style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+                                                                <div class="project-item-two wow fadeInUp animation-delay-3s"
+                                                                    data-wow-delay=".3s">
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-7.avif"
                                                                           loading="lazy"  alt="Image">
@@ -668,9 +656,8 @@ reset($myaraa);
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-4 col-md-6">
-                                                                <div class="project-item-two wow fadeInUp"
-                                                                    data-wow-delay=".4s"
-                                                                    style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                                                                <div class="project-item-two wow fadeInUp animation-delay-4s"
+                                                                    data-wow-delay=".4s">
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-12.avif"
                                                                           loading="lazy"  alt="Image">
@@ -682,9 +669,8 @@ reset($myaraa);
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-4 col-md-6">
-                                                                <div class="project-item-two wow fadeInUp"
-                                                                    data-wow-delay=".5s"
-                                                                    style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+                                                                <div class="project-item-two wow fadeInUp data-wow-delay-5s"
+                                                                    data-wow-delay=".5s">
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail.avif"
                                                                           loading="lazy"  alt="Image">
@@ -696,9 +682,8 @@ reset($myaraa);
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-4 col-md-6">
-                                                                <div class="project-item-two wow fadeInUp animated"
-                                                                    data-wow-delay=".6s"
-                                                                    style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+                                                                <div class="project-item-two wow fadeInUp animated data-wow-delay-6s"
+                                                                    data-wow-delay=".6s">
                                                                     <img decoding="async"
                                                                         src="./assest/img/home/catalogue/00-Thumbnail-3.avif"
                                                                           loading="lazy"  alt="Image">
@@ -721,10 +706,10 @@ reset($myaraa);
                                                     <div
                                                         class="section-title-two tg-heading-subheading animation-style3">
                                                         <span class="sub-title tg-element-title"
-                                                            style="perspective: 400px;">
+                                                           perspective-400  >
                                                             <h6>Our Projects</h6>
                                                         </span>
-                                                        <h2 class="title tg-element-title" style="perspective: 400px;">
+                                                        <h2 class="title tg-element-title perspective-400" >
                                                             Explore our showcased portfolio to see <br>
                                                              how we transform creative vision into captivating audio-visual masterpieces.
                                                         </h2>
@@ -734,8 +719,8 @@ reset($myaraa);
                                             <div class="elementor-element elementor-element-11624ef text-center elementor-widget__width-initial elementor-widget elementor-widget-tg-heading" data-id="11624ef" data-element_type="widget" data-widget_type="tg-heading.default">
 				                                <div class="elementor-widget-container">        
                                                  <div class="section-title-two tg-heading-subheading animation-style3">
-                                                    <span class="sub-title tg-element-title" style="perspective: 400px;"><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">O</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">P</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">j</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">c</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div></div></div></span>
-                                                        <h2 class="title tg-element-title" style="perspective: 400px;">
+                                                    <span class="sub-title tg-element-title perspective-400" ><div class="split-line split-line-style" ><div class="position-relative-inline-block"><div class="letter-world-style">O</div><div class="letter-world-style">u</div><div class="letter-world-style">r</div></div> <div class="position-relative-inline-block"><div class="letter-world-style">P</div><div class="letter-world-style">r</div><div class="letter-world-style">o</div><div class="letter-world-style">j</div><div class="letter-world-style">e</div><div class="letter-world-style">c</div><div class="letter-world-style">t</div><div class="letter-world-style">s</div></div></div></span>
+                                                        <h2 class="title tg-element-title perspective-400" >
                                                             Explore our showcased portfolio to see <br>
                                                              how we transform creative vision into captivating audio-visual masterpieces.
                                                         </h2>
@@ -749,7 +734,7 @@ reset($myaraa);
                             <div class="elementor-element elementor-element-6c14204 elementor-widget elementor-widget-tg-btn"
                                 data-id="6c14204" data-element_type="widget" data-widget_type="tg-btn.default">
                                 <div class="elementor-widget-container">
-                                    <a href="" target="_self" rel="nofollow" class="btn">
+                                    <a href="Website-Design-&-Development" target="_self" rel="nofollow" class="btn">
                                         More Projects<span></span>
                                     </a>
                                 </div>
@@ -761,7 +746,7 @@ reset($myaraa);
                                 <div class="elementor-widget-container">
                                     <img  decoding="async" width="134" height="134"
                                         src="./assest/img/icon/Untitled-3.png"
-                                        class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="">
+                                        class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="logo">
                                 </div>
                             </div>
                         </div>
@@ -824,7 +809,7 @@ reset($myaraa);
                                 <div class="elementor-widget-container">
                                     <img decoding="async" width="58" height="58"
                                         src="./assest/img/icon/Untitled-2.png"
-                                        class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="" />
+                                        class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="logo" />
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-ab09290 elementor-widget__width-initial elementor-absolute elementor-invisible elementor-widget elementor-widget-image"
@@ -834,7 +819,7 @@ reset($myaraa);
                                 <div class="elementor-widget-container">
                                     <img  decoding="async" width="134" height="134"
                                         src="./assest/img/icon/Untitled-3.png"
-                                        class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="" />
+                                        class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="logo" />
                                 </div>
                             </div>
                         </div>
@@ -913,7 +898,7 @@ reset($myaraa);
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
                                                         src="./assest/img/home/placeholder.png"
-                                                          loading="lazy"  alt="">
+                                                          loading="lazy"  alt="placeholder testimonial">
 
                                                     <div class="icon">
                                                         <img decoding="async"
@@ -937,7 +922,7 @@ reset($myaraa);
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
                                                         src="./assest/img/home/placeholder.png"
-                                                          loading="lazy"  alt="">
+                                                          loading="lazy"  alt="placeholder testimonial">
 
                                                     <div class="icon">
                                                         <img decoding="async"
@@ -963,7 +948,7 @@ reset($myaraa);
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
                                                         src="./assest/img/home/placeholder.png"
-                                                          loading="lazy"  alt="">
+                                                          loading="lazy"  alt="placeholder testimonial">
 
                                                     <div class="icon">
                                                         <img decoding="async"
@@ -987,7 +972,7 @@ reset($myaraa);
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
                                                         src="./assest/img/home/placeholder.png"
-                                                          loading="lazy"  alt="">
+                                                          loading="lazy"  alt="placeholder testimonial">
 
                                                     <div class="icon">
                                                         <img decoding="async"
@@ -1010,7 +995,7 @@ reset($myaraa);
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
                                                         src="./assest/img/home/placeholder.png"
-                                                          loading="lazy"  alt="">
+                                                          loading="lazy"  alt="placeholder testimonial">
 
                                                     <div class="icon">
                                                         <img decoding="async"
@@ -1086,7 +1071,7 @@ reset($myaraa);
                                                         href="blogs-graphic-design">
                                                         <img  decoding="async" width="1200" height="800"
                                                             src="./assest/img/blogs/Blog-Graphic-design.jpg"
-                                                            class="attachment-7100 size-7100 wp-post-image"   loading="lazy"  alt=""
+                                                            class="attachment-7100 size-7100 wp-post-image"   loading="lazy"  alt="Blog-Graphic-design.jpg"
                                                             full="" /> </a>
                                                 </div>
                                                 <div class="blog-post-content">
@@ -1113,7 +1098,7 @@ reset($myaraa);
                                                         href="blogs-powerful-branding-strategies">
                                                         <img  decoding="async" width="1200" height="800"
                                                             src="./assest/img/blogs/1banner-4.jpg"
-                                                            class="attachment-7088 size-7088 wp-post-image"   loading="lazy"  alt=""
+                                                            class="attachment-7088 size-7088 wp-post-image"   loading="lazy"  alt="1banner4"
                                                             full="" /> </a>
                                                 </div>
                                                 <div class="blog-post-content">
@@ -1140,7 +1125,7 @@ reset($myaraa);
                                                         href="blogs-rendering">
                                                         <img  decoding="async" width="1200" height="800"
                                                             src="./assest/img/blogs/2Blog-5.jpg"
-                                                            class="attachment-7075 size-7075 wp-post-image"   loading="lazy"  alt=""
+                                                            class="attachment-7075 size-7075 wp-post-image"   loading="lazy"  alt="2Blog-5"
                                                             full="" /> </a>
                                                 </div>
                                                 <div class="blog-post-content">
@@ -1167,7 +1152,7 @@ reset($myaraa);
                                                         href="blogs-best-laminate-catalogue">
                                                         <img  decoding="async" width="1200" height="800"
                                                             src="./assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
-                                                            class="attachment-7056 size-7056 wp-post-image"   loading="lazy"  alt=""
+                                                            class="attachment-7056 size-7056 wp-post-image"   loading="lazy"  alt="3banner-for-laminate-catalogue-1"
                                                             full="" /> </a>
                                                 </div>
                                                 <div class="blog-post-content">
@@ -1217,8 +1202,8 @@ reset($myaraa);
                         </div> -->
                         <div class="elementor-widget-container">
                             <div class="section-title-two tg-heading-subheading animation-style3">
-                                    <span class="sub-title tg-element-title" style="perspective: 400px;"><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">B</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">g</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">P</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div></div></div></span>
-                             <h2 class="title tg-element-title" style="perspective: 400px;"><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">I</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">g</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">A</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">r</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">c</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">U</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">p</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">d</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">a</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; opacity: 1; transform: translate(0px, 0px);">s</div></div></div></h2>
+                                    <span class="sub-title tg-element-title perspective-400" ><div class="split-line split-line-style" ><div class="position-relative-inline-block"><div class="letter-world-style">B</div><div class="letter-world-style">l</div><div class="letter-world-style">o</div><div class="letter-world-style">g</div></div> <div class="position-relative-inline-block"><div class="letter-world-style">P</div><div class="letter-world-style">o</div><div class="letter-world-style">s</div><div class="letter-world-style">t</div></div></div></span>
+                             <h2 class="title tg-element-title perspective-400" ><div class="split-line split-line-style" ><div class="position-relative-inline-block"><div class="letter-world-style">I</div><div class="letter-world-style">n</div><div class="letter-world-style">t</div><div class="letter-world-style">e</div><div class="letter-world-style">r</div><div class="letter-world-style">e</div><div class="letter-world-style">s</div><div class="letter-world-style">t</div><div class="letter-world-style">i</div><div class="letter-world-style">n</div><div class="letter-world-style">g</div></div> <div class="position-relative-inline-block"><div class="letter-world-style">A</div><div class="letter-world-style">r</div><div class="letter-world-style">t</div><div class="letter-world-style">i</div><div class="letter-world-style">c</div><div class="letter-world-style">l</div><div class="letter-world-style">e</div></div> <div class="position-relative-inline-block"><div class="letter-world-style">U</div><div class="letter-world-style">p</div><div class="letter-world-style">d</div><div class="letter-world-style">a</div><div class="letter-world-style">t</div><div class="letter-world-style">e</div><div class="letter-world-style">s</div></div></div></h2>
                         </div>
 		                </div>
                     </div>

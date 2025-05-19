@@ -931,14 +931,7 @@ class SMTP
     }
 
     /**
-     * Send an SMTP SAML command.
-     * Starts a mail transaction from the email address specified in $from.
-     * Returns true if successful or false otherwise. If True
-     * the mail transaction is started and then one or more recipient
-     * commands may be called followed by a data command. This command
-     * will send the message to the users terminal if they are logged
-     * in and send them an email.
-     * Implements rfc 821: SAML <SP> FROM:<reverse-path> <CRLF>
+
      * @param string $from The address the message is from
      * @access public
      * @return boolean
@@ -960,8 +953,6 @@ class SMTP
     }
 
     /**
-     * Send an SMTP NOOP command.
-     * Used to keep keep-alives alive, doesn't actually do anything
      * @access public
      * @return boolean
      */
@@ -971,11 +962,6 @@ class SMTP
     }
 
     /**
-     * Send an SMTP TURN command.
-     * This is an optional command for SMTP that this class does not support.
-     * This method is here to make the RFC821 Definition complete for this class
-     * and _may_ be implemented in future
-     * Implements from rfc 821: TURN <CRLF>
      * @access public
      * @return boolean
      */
@@ -1022,21 +1008,6 @@ class SMTP
     }
 
     /**
-     * A multipurpose method
-     * The method works in three ways, dependent on argument value and current state
-     *   1. HELO/EHLO was not sent - returns null and set up $this->error
-     *   2. HELO was sent
-     *     $name = 'HELO': returns server name
-     *     $name = 'EHLO': returns boolean false
-     *     $name = any string: returns null and set up $this->error
-     *   3. EHLO was sent
-     *     $name = 'HELO'|'EHLO': returns server name
-     *     $name = any string: if extension $name exists, returns boolean True
-     *       or its options. Otherwise returns boolean False
-     * In other words, one can use this method to detect 3 conditions:
-     *  - null returned: handshake was not or we don't know about ext (refer to $this->error)
-     *  - false returned: the requested feature exactly not exists
-     *  - positive value returned: the requested feature exists
      * @param string $name Name of SMTP extension or 'HELO'|'EHLO'
      * @return mixed
      */

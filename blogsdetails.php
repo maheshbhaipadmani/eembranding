@@ -51,7 +51,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="blog-thumb">
                                     <img fetchpriority="high" width="1200" height="800"
                                         src="<?php echo $singleBlog['Thumbnail']; ?>"
-                                        class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async">
+                                        class="img-responsive wp-post-image"   loading="lazy"  alt="blogdetail logo" decoding="async">
                                 </div>
 
                                 <div class="blog-details-content">
@@ -131,10 +131,10 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             </div>
                             <div id="comments" class="blog-post-comment">
                                 <div id="respond" class="comment-respond">
-                                    <h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a
+                                    <h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a class="d-none"
                                                 rel="nofollow" id="cancel-comment-reply-link"
                                                 href="/blogs-best-laminate-catalogue-design-company-in-ahmedabad-services-in-india/#respond"
-                                                style="display:none;">Cancel reply</a></small></h3>
+                                                >Cancel reply</a></small></h3>
                                     <form action="wp-comments-post.php" method="post"
                                         id="commentform" class="comment-form">
                                         <p class="comment-notes"><span id="email-notes">Your email address will not be

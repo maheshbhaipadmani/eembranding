@@ -23,9 +23,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
-                            <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape"
-                                style="transform:translate3d(0px, 42.023px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 42.023px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
+                            <img class="parallax-shape"  data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
+                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
                             <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
@@ -77,12 +76,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     data-id="b765a09" data-element_type="widget" data-widget_type="genix-image.default">
                                     <div class="elementor-widget-container">
                                         <div class="about-img text-end">
-                                            <img class="wow fadeInLeft" data-wow-delay=".5s"
+                                            <img class="wow fadeInLeft d-rendering-styl" data-wow-delay=".5s"
                                                 src="./assest/img/service/advertising-agency/Advertising-Agency.avif"
-                                                  loading="lazy"  alt=""
-                                                style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
-
-                                           
+                                                  loading="lazy"  alt="Advertising-Agency">
                                         </div>
                                     </div>
                                 </div>

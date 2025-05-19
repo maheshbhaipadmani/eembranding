@@ -53,7 +53,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div
                                                             class="section-title-two tg-heading-subheading animation-style3">
 
-                                                            <h3 class="title tg-element-title" style="perspective: 400px; font-weight: 500;">
+                                                            <h3 class="title tg-element-title perspective-400 font-weight-500">
                                                             About EEM Branding – Designing Ideas, Delivering Impact
                                                             </h3>
                                                         </div>
@@ -63,19 +63,19 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                     data-id="af589fc" data-element_type="widget"
                                                     data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        <p><span style="font-weight: 400;">At </span><b> EEM
-                                                                Branding,</b><span style="font-weight: 400;">we believe great brands aren’t just seen—they’re remembered. As a full-service <a
+                                                        <p><span class="font-weight-400">At </span><b> EEM
+                                                                Branding,</b><span class="font-weight-400">we believe great brands aren’t just seen—they’re remembered. As a full-service <a
                                                                 href="services/creative-design-agency-in-ahmedabad"><span
-                                                                    style="font-weight: 400;"> branding and creative agency based in Ahmedabad,</span></a> we help businesses across <b>India</b> transform their vision into powerful brand experiences. </span>
+                                                                    class="font-weight-400"> branding and creative agency based in Ahmedabad,</span></a> we help businesses across <b>India</b> transform their vision into powerful brand experiences. </span>
                                                                 <span
-                                                                style="font-weight: 400;">.</span></p>
+                                                                class="font-weight-400">.</span></p>
                                                        
-                                                        <p><span style="font-weight: 400;">We specialize in building brands from the ground up and elevating existing identities with bold design, clear messaging, and digital innovation. Whether it’s a product launch, a rebrand, or a complete marketing overhaul, we’re the <b>creative branding company</b> that brings your ideas to life with impact and intention.</span></p>
-                                                        <p><b>Vision</b><span style="font-weight: 400;">: To be the
+                                                        <p><span class="font-weight-400">We specialize in building brands from the ground up and elevating existing identities with bold design, clear messaging, and digital innovation. Whether it’s a product launch, a rebrand, or a complete marketing overhaul, we’re the <b>creative branding company</b> that brings your ideas to life with impact and intention.</span></p>
+                                                        <p><b>Vision</b><span class="font-weight-400">: To be the
                                                                 go-to agency for innovative and impactful creative
                                                                 solutions, driving growth and success for brands
                                                                 worldwide.</span></p>
-                                                        <p><b>Mission</b><span style="font-weight: 400;">:To deliver
+                                                        <p><b>Mission</b><span class="font-weight-400">:To deliver
                                                                 tailored creative and marketing services that empower
                                                                 businesses, inspire audiences, and achieve measurable
                                                                 results.</span></p>
@@ -94,7 +94,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div
                                                             class="section-title-two tg-heading-subheading animation-style3">
 
-                                                            <h3 class="title tg-element-title" style="perspective: 400px; font-weight: 500;">
+                                                            <h3 class="title tg-element-title perspective-400 font-weight-500">
                                                             What Drives Us
                                                             </h3>
                                                         </div>
@@ -104,7 +104,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                     data-id="af589fc" data-element_type="widget"
                                                     data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        <p><span style="font-weight: 400;">Our passion is creating stories that speak. Design is our language, strategy is our backbone, and growth is our goal—for every brand we work with. <b>At EEM</b>, creativity meets clarity, helping businesses stand out in cluttered markets with consistency and confidence.
+                                                        <p><span class="font-weight-400">Our passion is creating stories that speak. Design is our language, strategy is our backbone, and growth is our goal—for every brand we work with. <b>At EEM</b>, creativity meets clarity, helping businesses stand out in cluttered markets with consistency and confidence.
                                                         </span></p>
                                                     </div>
                                                 </div>
@@ -205,7 +205,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div
                                                             class="section-title-two tg-heading-subheading animation-style3">
 
-                                                            <h3 class="title tg-element-title" style="perspective: 400px; font-weight: 500;">
+                                                            <h3 class="title tg-element-title perspective-400 font-weight-500" >
                                                             Why Choose EEM Branding?
                                                             </h3>
                                                         </div>

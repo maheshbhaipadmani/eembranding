@@ -72,10 +72,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     data-id="b765a09" data-element_type="widget" data-widget_type="genix-image.default">
                                     <div class="elementor-widget-container">
                                         <div class="about-img text-end">
-                                            <img class="wow fadeInLeft" data-wow-delay=".5s"
+                                            <img class="wow fadeInLeft d-rendering-style" data-wow-delay=".5s"
                                                 src="./assest/img/service/creative-design-agency/Creative-Designing.avif"
-                                                  loading="lazy"  alt=""
-                                                style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
+                                                  loading="lazy"  alt="Creative-Designing">
 
                                            
                                         </div>
