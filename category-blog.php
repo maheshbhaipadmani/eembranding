@@ -23,8 +23,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
-                            <img class="shape-parallax-img"  data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
+                            <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
+                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape"
+                                style="transform:translate3d(0px, 11.902px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 11.902px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
                             <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
@@ -50,7 +51,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         href="blogs-graphic-design">
                                         <img fetchpriority="high" width="1200" height="800"
                                             src="./assest/img/blogs/Blog-Graphic-design.jpg"
-                                            class="img-responsive wp-post-image"   loading="lazy"  alt="blog img" decoding="async"> </a>
+                                            class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
                                 </div>
 
                                 <div class="blog-content">
@@ -99,7 +100,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         href="blogs-powerful-branding-strategies">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/1banner-4.jpg"
-                                            class="img-responsive wp-post-image"   loading="lazy"  alt="1banner" decoding="async"> </a>
+                                            class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
                                 </div>
 
                                 <div class="blog-content">
@@ -148,7 +149,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         href="blogs-rendering">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/2Blog-5.jpg"
-                                            class="img-responsive wp-post-image"   loading="lazy"  alt="1banner2" decoding="async"> </a>
+                                            class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
                                 </div>
 
                                 <div class="blog-content">
@@ -198,7 +199,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         href="blogs-best-laminate-catalogue">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
-                                            class="img-responsive wp-post-image"   loading="lazy"  alt="banner3" decoding="async"> </a>
+                                            class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
                                 </div>
 
                                 <div class="blog-content">
@@ -248,7 +249,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         href="blogs-grow-your-business">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/4banner-3-1.jpg"
-                                            class="img-responsive wp-post-image"   loading="lazy"  alt="banner3" decoding="async"> </a>
+                                            class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
                                 </div>
 
                                 <div class="blog-content">
@@ -298,7 +299,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         href="blogs-creative-design-agency-in-ahmedabad">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/5banner-2-1.jpg"
-                                            class="img-responsive wp-post-image"   loading="lazy"  alt="banner3" decoding="async"> </a>
+                                            class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
                                 </div>
 
                                 <div class="blog-content">
@@ -348,7 +349,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         href="blogs-branding-vs-advertising">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/6banner.jpg"
-                                            class="img-responsive wp-post-image"   loading="lazy"  alt="banner3" decoding="async"> </a>
+                                            class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
                                 </div>
 
                                 <div class="blog-content">

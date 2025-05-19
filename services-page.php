@@ -25,7 +25,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-widget-container">
                                     <img decoding="async" width="58" height="58"
                                         src="./assest/img/icon/Untitled-2.png"
-                                        class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="logo">
+                                        class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="">
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-950eff0 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image animated zoomIn"
@@ -35,7 +35,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-widget-container">
                                     <img decoding="async" width="134" height="134"
                                         src="./assest/img/icon/Untitled-3.png"
-                                        class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="logo">
+                                        class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="">
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-c600c56 elementor-widget elementor-widget-heading"
@@ -73,7 +73,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-widget-container">
                                     <img  decoding="async" width="500" height="500"
                                         src="./assest/img/service/main/branding_and_designing_Services.png"
-                                        class="attachment-full size-full wp-image-6148"   loading="lazy"  alt="logo">
+                                        class="attachment-full size-full wp-image-6148"   loading="lazy"  alt="">
                                 </div>
                             </div>
                         </div>
@@ -118,13 +118,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-widget-container">
                                     <img  decoding="async" width="512" height="512"
                                         src="./assest/img/service/main/2-creative-design.png"
-                                        class="attachment-full size-full wp-image-5654"   loading="lazy"  alt="logo">
+                                        class="attachment-full size-full wp-image-5654"   loading="lazy"  alt="">
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-6415dad elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-tg-servicesBox"
                                 data-id="6415dad" data-element_type="widget" data-widget_type="tg-servicesBox.default">
                                 <div class="elementor-widget-container">
-                                    <div class="row justify-content-center ml-0 mr-0"></div>
+                                    <div class="row justify-content-center" style="margin-left: 0; margin-right: 0;"></div>
                                 </div>
                             </div>
                         </div>
@@ -138,9 +138,10 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="elementor-element elementor-element-0a20103 services-icon elementor-widget elementor-widget-tg-servicesBox"
                         data-id="0a20103" data-element_type="widget" data-widget_type="tg-servicesBox.default">
                         <div class="elementor-widget-container">
-                            <div class="row justify-content-center ml-0 mr-0">
+                            <div class="row justify-content-center" style="margin-left: 0; margin-right: 0;">
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="services-item-two wow fadeInUp data-wow-delay-0s" data-wow-delay=".0s">
+                                    <div class="services-item-two wow fadeInUp" data-wow-delay=".0s"
+                                        style="visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async" src="./assest/img/service/main/icon/1-catalog.png"
                                                   loading="lazy"  alt="Icon">
@@ -159,7 +160,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="services-item-two wow fadeInUp data-wow-delay-2s" data-wow-delay=".2s">
+                                    <div class="services-item-two wow fadeInUp" data-wow-delay=".2s"
+                                        style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async"
                                                 src="./assest/img/service/main/icon/2-creative-design.png"   loading="lazy"  alt="Icon">
@@ -177,7 +179,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="services-item-two wow fadeInUp animation-delay-4s" data-wow-delay=".4s">
+                                    <div class="services-item-two wow fadeInUp" data-wow-delay=".4s"
+                                        style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async"
                                                 src="./assest/img/service/main/icon/3-digital-Marketing.png"   loading="lazy"  alt="Icon">
@@ -196,7 +199,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="services-item-two wow fadeInUp data-wow-delay-6s" data-wow-delay=".6s">
+                                    <div class="services-item-two wow fadeInUp" data-wow-delay=".6s"
+                                        style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async" src="./assest/img/service/main/icon/4-UIUx.png"
                                                   loading="lazy"  alt="Icon">
@@ -216,7 +220,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="services-item-two wow fadeInUp data-wow-delay-8s" data-wow-delay=".8s">
+                                    <div class="services-item-two wow fadeInUp" data-wow-delay=".8s"
+                                        style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async"
                                                 src="./assest/img/service/main/icon/5-website-development.png"
@@ -234,7 +239,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="services-item-two wow fadeInUp animation-delay-1s" data-wow-delay=".10s">
+                                    <div class="services-item-two wow fadeInUp" data-wow-delay=".10s"
+                                        style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async" src="./assest/img/service/main/icon/6-mobile-app.png"
                                                   loading="lazy"  alt="Icon">
@@ -253,7 +259,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                            <div class="services-item-two wow fadeInUp animation-delay-1s" data-wow-delay=".10s">
+                                            <div class="services-item-two wow fadeInUp" data-wow-delay=".10s"
+                                                style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
                                                         src="./assest/img/home/icon/ExhibitionIcon.png"
@@ -269,7 +276,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                         </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="services-item-two wow fadeInUp data-wow-delay-14s" data-wow-delay=".14s">
+                                    <div class="services-item-two wow fadeInUp" data-wow-delay=".14s"
+                                        style="visibility: visible; animation-delay: 0.14s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async"
                                                 src="./assest/img/service/main/icon/8-3d-rendering.png"   loading="lazy"  alt="Icon">
@@ -287,7 +295,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
-                                    <div class="services-item-two wow fadeInUp data-wow-delay-16s" data-wow-delay=".16s">
+                                    <div class="services-item-two wow fadeInUp" data-wow-delay=".16s"
+                                        style="visibility: visible; animation-delay: 0.16s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async"
                                                 src="./assest/img/service/main/icon/9-outdoor-branding.png"   loading="lazy"  alt="Icon">

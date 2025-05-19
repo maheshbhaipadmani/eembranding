@@ -67,13 +67,15 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                         <div class="about-img text-end">
-                                            <img decoding="async" class="wow fadeInLeft d-rendering-style delay-05s" data-wow-delay=".5s"
+                                            <img decoding="async" class="wow fadeInLeft" data-wow-delay=".5s"
                                                 src="./assest/img/service/event-management-company-in-ahmedabad/event-management-company-in-ahmedabad.jpeg"
-                                                  loading="lazy"  alt="event management">
+                                                  loading="lazy"  alt="event management"
+                                                style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
 
                                             <img decoding="async" class="wow zoomIn" data-wow-delay=".2s"
                                                 src="./assest/img/service/event-management-company-in-ahmedabad/event-management-company-in-ahmedabad-proffesional.jpeg"
-                                                  loading="lazy"  alt="event management">
+                                                  loading="lazy"  alt="event management"
+                                                style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
                                         </div>
 
 
@@ -82,20 +84,20 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-element elementor-element-93a84f9 elementor-widget elementor-widget-text-editor"
                                     data-id="93a84f9" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
-                                        <p><span class="font-weight-400">At our </span><b>event management
-                                                company</b><span class="font-weight-400">, we believe every event
+                                        <p><span style="font-weight: 400;">At our </span><b>event management
+                                                company</b><span style="font-weight: 400;">, we believe every event
                                                 tells a story. Whether it’s a corporate seminar, a product launch, or a
                                                 personal celebration, we bring creativity and professionalism to every
                                                 project we undertake.</span></p>
-                                        <p><span class="font-weight-400">Our comprehensive </span><b>event management
-                                                services</b><span class="font-weight-400"> include everything from
+                                        <p><span style="font-weight: 400;">Our comprehensive </span><b>event management
+                                                services</b><span style="font-weight: 400;"> include everything from
                                                 concept creation and budget planning to vendor coordination and
                                                 execution. As one of the most reliable </span><b>event planning
-                                                companies</b><span class="font-weight-400">, we pride ourselves on
+                                                companies</b><span style="font-weight: 400;">, we pride ourselves on
                                                 delivering events that are seamless, memorable, and uniquely tailored to
                                                 our clients’ needs.</span></p>
-                                        <p><span class="font-weight-400">As your trusted </span><b>event organizer
-                                                company</b><span class="font-weight-400">, we are committed to turning
+                                        <p><span style="font-weight: 400;">As your trusted </span><b>event organizer
+                                                company</b><span style="font-weight: 400;">, we are committed to turning
                                                 your vision into reality. Let’s create an event that exceeds
                                                 expectations and leaves your guests in awe.</span></p>
                                     </div>
@@ -106,7 +108,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         <p><strong>From concept to execution, we handle every aspect of event management
                                                 with precision and flair. Whether it’s corporate conferences or private
                                                 parties, we turn your vision into reality.</strong></p>
-                                        <p><span class="font-weight-400">From corporate conferences to product
+                                        <p><span style="font-weight: 400;">From corporate conferences to product
                                                 launches, our event management services are designed to take the stress
                                                 out of planning and executing memorable events. With years of experience
                                                 and a passion for creating exceptional experiences, our team will work
@@ -115,7 +117,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 selection, logistics, vendor coordination, and on-site management, so
                                                 you can focus on what matters most – your guests and your
                                                 message.</span></p>
-                                        <p><span class="font-weight-400">Whether you’re hosting a small intimate
+                                        <p><span style="font-weight: 400;">Whether you’re hosting a small intimate
                                                 gathering or a large-scale conference, we’ll ensure that every detail is
                                                 taken care of and that your event runs smoothly from start to finish.
                                                 With our creative approach and attention to detail, we’ll help you

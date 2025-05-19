@@ -41,7 +41,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 data-id="289888e" data-element_type="widget" data-widget_type="contact-info.default">
                                 <div class="elementor-widget-container">
 
-                                    <div class="row justify-content-center ml-0 mr-0">
+                                    <div class="row justify-content-center" style="margin-left: 0; margin-right: 0;">
                                         <div class="col-lg-4 col-md-6">
                                             <div class="contact-info-item">
                                                 <div class="icon">
@@ -96,8 +96,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         data-id="c399357" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <section
-                                class="mt-3rem elementor-section elementor-inner-section elementor-element elementor-element-70f6d47 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default"
-                                data-id="70f6d47" data-element_type="section"
+                                class="elementor-section elementor-inner-section elementor-element elementor-element-70f6d47 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default"
+                                data-id="70f6d47" data-element_type="section" style="margin-top:3rem;"
                                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                 <div class="elementor-container elementor-column-gap-no">
                                     <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ec2eac5"
@@ -109,7 +109,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="elementor-widget-container">
                                                     <img fetchpriority="high" decoding="async" width="514" height="481"
                                                         src="./assest/img/contact/contact_img.png"
-                                                        class="attachment-full size-full wp-image-1081"   loading="lazy"  alt="contact img">
+                                                        class="attachment-full size-full wp-image-1081"   loading="lazy"  alt="">
                                                 </div>
                                             </div>
                                         </div>
@@ -138,15 +138,15 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <ul></ul>
                                                             </div>
                                                             <form class="contact-form"  id="contact-form">
-                                                              <div class="d-flex gap-10 mb-10px" >
+                                                              <div style="display: flex; gap:10px; margin-bottom: 10px;">
                                                                 <input type="text" id="name" placeholder="Your Name">
                                                                 <input type="email" id="email" placeholder="Email address">
                                                               </div>
-                                                              <div class="d-flex gap-10 mb-10px">
+                                                              <div style="display: flex; gap:10px; margin-bottom: 10px;">
                                                                 <input type="text" id="number" placeholder="Phone number">
                                                                 <input type="text" id="subject" placeholder="Subject">
                                                               </div>
-                                                              <textarea placeholder="Write message" id="message" rows="4" class="message-height"></textarea>
+                                                              <textarea placeholder="Write message" id="message" rows="4" style="height:180px"></textarea>
                                                                <button type="submit" class="btn">Send a message <span></span></button>
                                                                <!-- Feedback -->
                                                              <div id="feedback-container" class="fixed top-0 end-0 p-3 z-[1050]">
@@ -170,7 +170,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 data-id="69c46e7" data-element_type="widget" data-widget_type="google_maps.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-custom-embed">
-                                        <iframe class="border-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.7717053808174!2d72.50066869999999!3d22.995421000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b2673181487%3A0xea3aa6a29eeb1d58!2sEEM%20Branding%20-%20Branding%20%26%20Advertising%20Agency%20-%20Digital%20Marketing%20Agency!5e0!3m2!1sen!2sin!4v1742357263878!5m2!1sen!2sin" width="500" height="650"  allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.7717053808174!2d72.50066869999999!3d22.995421000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b2673181487%3A0xea3aa6a29eeb1d58!2sEEM%20Branding%20-%20Branding%20%26%20Advertising%20Agency%20-%20Digital%20Marketing%20Agency!5e0!3m2!1sen!2sin!4v1742357263878!5m2!1sen!2sin" width="500" height="650" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
                                     </div>
                                 </div>
                             </div>

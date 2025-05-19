@@ -67,7 +67,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             <img decoding="async" width="58" height="58"
                                                                 src="./assest/img/icon/Untitled-2.png"
                                                                 class="attachment-large size-large wp-image-5080"
-                                                                  loading="lazy"  alt="logo">
+                                                                  loading="lazy"  alt="">
                                                         </div>
                                                     </div>
                                                     <div class="elementor-element elementor-element-1783f56 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image animated zoomIn"
@@ -78,7 +78,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             <img decoding="async" width="134" height="134"
                                                                 src="./assest/img/icon/Untitled-3.png"
                                                                 class="attachment-large size-large wp-image-5081"
-                                                                  loading="lazy"  alt="logo">
+                                                                  loading="lazy"  alt="">
                                                         </div>
                                                     </div>
                                                 </div>
@@ -93,7 +93,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             <img  decoding="async" width="1024"
                                                                 height="1024"
                                                                 src="./assest/img/portfolio/Porfolio-Designer.png"
-                                                                class="attachment-full size-full wp-image-6143"   loading="lazy"  alt="Porfolio-Designer">
+                                                                class="attachment-full size-full wp-image-6143"   loading="lazy"  alt="">
                                                         </div>
                                                     </div>
                                                 </div>
@@ -281,8 +281,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             <div class="project-area-two">
                                                                 <div class="row">
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp animation-delay-1s"
-                                                                            data-wow-delay=".1s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".1s"
+                                                                            style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-1-scaled.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -295,8 +296,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-2s"
-                                                                            data-wow-delay=".2s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".2s"
+                                                                            style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/00-Thumbnail-8.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -309,8 +311,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp animation-delay-3s"
-                                                                            data-wow-delay=".3s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".3s"
+                                                                            style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/00-Thumbnail-7.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -323,8 +326,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-4s"
-                                                                            data-wow-delay=".4s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".4s"
+                                                                            style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/00-Thumbnail-9.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -337,8 +341,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-5s"
-                                                                            data-wow-delay=".5s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".5s"
+                                                                            style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-16.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -351,8 +356,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-6s"
-                                                                            data-wow-delay=".6s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".6s"
+                                                                            style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -365,8 +371,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-7s"
-                                                                            data-wow-delay=".7s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".7s"
+                                                                            style="visibility: hidden; animation-delay: 0.7s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-6.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -378,8 +385,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-8s"
-                                                                            data-wow-delay=".8s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".8s"
+                                                                            style="visibility: hidden; animation-delay: 0.8s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-5.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -391,8 +399,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-9s"
-                                                                            data-wow-delay=".9s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".9s"
+                                                                            style="visibility: hidden; animation-delay: 0.9s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/00-Thumbnail-6.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -405,8 +414,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp animation-delay-1s"
-                                                                            data-wow-delay=".10s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".10s"
+                                                                            style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/00-Thumbnail-5.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -419,8 +429,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-11s"
-                                                                            data-wow-delay=".11s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".11s"
+                                                                            style="visibility: hidden; animation-delay: 0.11s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-9.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -433,8 +444,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-12s"
-                                                                            data-wow-delay=".12s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".12s"
+                                                                            style="visibility: hidden; animation-delay: 0.12s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-14.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -447,8 +459,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-13s"
-                                                                            data-wow-delay=".13s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".13s"
+                                                                            style="visibility: hidden; animation-delay: 0.13s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-8.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -461,8 +474,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-14s"
-                                                                            data-wow-delay=".14s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".14s"
+                                                                            style="visibility: hidden; animation-delay: 0.14s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-18.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -474,8 +488,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-15s"
-                                                                            data-wow-delay=".15s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".15s"
+                                                                            style="visibility: hidden; animation-delay: 0.15s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/00-Thumbnail-10.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -488,8 +503,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-16s"
-                                                                            data-wow-delay=".16s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".16s"
+                                                                            style="visibility: hidden; animation-delay: 0.16s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-19.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -502,8 +518,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-17s"
-                                                                            data-wow-delay=".17s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".17s"
+                                                                            style="visibility: hidden; animation-delay: 0.17s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-17.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -516,8 +533,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-18s"
-                                                                            data-wow-delay=".18s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".18s"
+                                                                            style="visibility: hidden; animation-delay: 0.18s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-13.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -529,8 +547,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-19s"
-                                                                            data-wow-delay=".19s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".19s"
+                                                                            style="visibility: hidden; animation-delay: 0.19s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-8.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -543,8 +562,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         </div>
                                                                     </div>
                                                                     <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp data-wow-delay-2s"
-                                                                            data-wow-delay=".20s">
+                                                                        <div class="project-item-two wow fadeInUp"
+                                                                            data-wow-delay=".20s"
+                                                                            style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/Catalogue/01-12.avif"
                                                                                   loading="lazy"  alt="Image">
@@ -597,8 +617,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                     <div class="project-area-two">
                                                         <div class="row">
                                                             <div class="col-lg-4 col-md-6">
-                                                                <div class="project-item-two wow fadeInUp data-wow-delay-2"
-                                                                    data-wow-delay=".2s">
+                                                                <div class="project-item-two wow fadeInUp"
+                                                                    data-wow-delay=".2s"
+                                                                    style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                           loading="lazy"  alt="Image">
@@ -610,8 +631,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-4 col-md-6">
-                                                                <div class="project-item-two wow fadeInUp animation-delay-3s"
-                                                                    data-wow-delay=".3s">
+                                                                <div class="project-item-two wow fadeInUp"
+                                                                    data-wow-delay=".3s"
+                                                                    style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
                                                                           loading="lazy"  alt="Image">
@@ -662,8 +684,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                     <div class="project-area-two">
                                                         <div class="row">
                                                             <div class="col-lg-4 col-md-6">
-                                                                <div class="project-item-two wow fadeInUp animation-delay-1s"
-                                                                    data-wow-delay=".1s">
+                                                                <div class="project-item-two wow fadeInUp"
+                                                                    data-wow-delay=".1s"
+                                                                    style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/portfolio/Catalogue/01-5.jpg"
                                                                           loading="lazy"  alt="Image">
@@ -675,8 +698,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 </div>
                                                             </div>
                                                             <div class="col-lg-4 col-md-6">
-                                                                <div class="project-item-two wow fadeInUp data-wow-delay-2s"
-                                                                    data-wow-delay=".2s">
+                                                                <div class="project-item-two wow fadeInUp"
+                                                                    data-wow-delay=".2s"
+                                                                    style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                           loading="lazy"  alt="Image">
@@ -691,8 +715,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                                             <div class="col-lg-4 col-md-6">
-                                                                <div class="project-item-two wow fadeInUp animation-delay-3s"
-                                                                    data-wow-delay=".3s">
+                                                                <div class="project-item-two wow fadeInUp"
+                                                                    data-wow-delay=".3s"
+                                                                    style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
                                                                           loading="lazy"  alt="Image">
@@ -708,8 +733,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                                             <div class="col-lg-4 col-md-6">
-                                                                <div class="project-item-two wow fadeInUp animation-delay-4s"
-                                                                    data-wow-delay=".4s">
+                                                                <div class="project-item-two wow fadeInUp"
+                                                                    data-wow-delay=".4s"
+                                                                    style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
                                                                     <img decoding="async"
                                                                         src="./assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
                                                                           loading="lazy"  alt="Image">
