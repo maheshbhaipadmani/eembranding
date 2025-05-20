@@ -265,6 +265,49 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
 
+        <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What services does your digital marketing agency offer?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We offer SEO, social media marketing, Google Ads, content marketing, and full digital branding solutions."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do you handle both B2B and B2C campaigns?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we design targeted digital strategies for both B2B and B2C businesses across various industries."
+    }
+  },{
+    "@type": "Question",
+    "name": "How long before I see results from digital marketing?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "SEO results usually take 2–3 months, while PPC and social media campaigns can deliver quicker visibility and engagement."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can you manage my brand’s entire online presence?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we offer 360° digital marketing solutions, including website optimization, ad management, and social media growth."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do you work with startups and small businesses?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Of course! We build cost-effective, scalable strategies for startups, SMEs, and growing brands."
+    }
+  }]
+}
+</script>
+
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
 ?>

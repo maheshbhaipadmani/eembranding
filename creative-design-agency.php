@@ -296,6 +296,48 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What does a creative designing agency do?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We create visual content like branding, packaging, brochures, and digital designs that effectively communicate your brand's message."
+    }
+  },{
+    "@type": "Question",
+    "name": "Which industries do you serve?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We work across various sectors, including FMCG, interior, fashion, healthcare, tech, and lifestyle."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do you offer logo and brand identity design?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we specialize in professional logo creation and complete brand identity design."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do you design for digital and print?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we create high-quality designs for both print and digital media including social media, websites, and ads."
+    }
+  },{
+    "@type": "Question",
+    "name": "What makes EEM Branding different from other design agencies?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Our team blends strategy with creativity, offering customized design solutions aligned with your business goals."
+    }
+  }]
+}
+</script>
 
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';

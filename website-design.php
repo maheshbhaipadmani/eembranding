@@ -275,6 +275,49 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
 
+        <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What types of websites do you design?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We design corporate websites, eCommerce stores, landing pages, portfolio sites, and custom business portals."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do you offer both design and development services?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we handle everything from UI/UX design to full-stack web development under one roof."
+    }
+  },{
+    "@type": "Question",
+    "name": "Is the website mobile responsive?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Absolutely! Every website we build is fully responsive and optimized for all devices."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do you offer website redesign services?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Absolutely! Every website we build is fully responsive and optimized for all devices."
+    }
+  },{
+    "@type": "Question",
+    "name": "Will my website be SEO-friendly?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Definitely! All our websites follow SEO best practices, including fast loading, mobile optimization, and on-page SEO setup."
+    }
+  }]
+}
+</script>
+
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
 ?>

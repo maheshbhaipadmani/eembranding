@@ -87,8 +87,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             src="./assest/img/service/catalogue-design/Laminate-catalouge-design-mordern.avif"
                                               loading="lazy"  alt=""
                                             style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
-
-
                                     </div>
                                 </div>
                             </div>
@@ -294,6 +292,49 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </div>
     </section>
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is catalogue design?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Catalogue design is the process of creating structured, branded layouts to showcase products or services in print or digital format."
+    }
+  },{
+    "@type": "Question",
+    "name": "What types of catalogues do you design?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We design laminate, product, corporate, fashion, interior, digital, and B2B catalogues."
+    }
+  },{
+    "@type": "Question",
+    "name": "What is laminate catalogue design?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It’s the process of creating professional catalogues to display laminate designs, textures, and product specs for marketing and sales."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do you provide 3D laminate visuals or mockups?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we can include 3D renderings and room setups to showcase laminate usage."
+    }
+  },{
+    "@type": "Question",
+    "name": "What makes a good catalogue design?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A great catalogue is clean, well-organised, visually appealing, and aligned with your brand. It should guide customers through your offerings easily and inspire them to take action."
+    }
+  }]
+}
+</script>
 
     <?php
     include __DIR__ . '/A_Layout/Footer/footer.php';

@@ -204,6 +204,48 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is UI/UX design?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "UI (User Interface) focuses on the look of your app or website, while UX (User Experience) ensures ease of use and smooth navigation."
+    }
+  },{
+    "@type": "Question",
+    "name": "Why is UI/UX important for my business?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Great UI/UX improves user engagement, builds trust, and increases conversions by making digital experiences intuitive and enjoyable."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can you redesign my existing website or app?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Absolutely! We audit and revamp outdated interfaces to improve usability and visual appeal."
+    }
+  },{
+    "@type": "Question",
+    "name": "Will the design be responsive across all devices?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Absolutely! All our UI/UX designs are fully responsive and optimized for mobile, tablet, and desktop."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can you design an admin panel or dashboard UI?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we specialize in clean and functional UI/UX for dashboards, CRMs, and admin interfaces."
+    }
+  }]
+}
+</script>
 
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';

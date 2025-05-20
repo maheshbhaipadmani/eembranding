@@ -218,6 +218,49 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
 
+        <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What types of mobile apps do you develop?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We build Android, iOS, hybrid, and cross-platform apps for businesses, startups, and enterprises."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do you provide both design and development?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we offer end-to-end services — from UI/UX design to full app development and deployment."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can you create apps for both Android and iOS?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Absolutely! We develop native and cross-platform apps using Flutter, React Native, Kotlin, and Swift."
+    }
+  },{
+    "@type": "Question",
+    "name": "Will you help with publishing the app to Play Store & App Store?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we handle complete app submission, listing, and approvals for both Android and iOS platforms."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can you redesign or upgrade my existing app?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Definitely! We help modernize outdated apps with better UI, new features, and improved performance."
+    }
+  }]
+}
+</script>
+
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
 ?>
