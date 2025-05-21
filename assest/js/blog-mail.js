@@ -19,7 +19,7 @@ contactform.addEventListener("submit", function (event) {
     "SMTPSecure": "ssl", 
         "SenderEmail": "hitixa.bhuva@uniqueconsumerservices.com",
         "SenderEmailPassword": "EWE1{@1@^9cE",
-        "ReciverEmail": "eembranding@gmail.com",
+        "ReciverEmail": "patelhitixa4439@gmail.com",
         "Subject": subject,   
         "Body": `Name: ${fullName}
         Number: ${phone}

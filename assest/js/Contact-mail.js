@@ -22,7 +22,7 @@ console.log("Collected form data:", { name, email, number, subject, message });
         "SMTPSecure": "ssl",
         "SenderEmail": "hitixa.bhuva@uniqueconsumerservices.com",
         "SenderEmailPassword": "1f1UOc{3U*64",  
-        "ReciverEmail": "eembranding@gmail.com",
+        "ReciverEmail": "patelhitixa4439@gmail.com",
         "Subject": subject,
         "Body": `
    <!DOCTYPE html>
