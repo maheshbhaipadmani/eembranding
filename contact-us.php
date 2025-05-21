@@ -147,7 +147,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <input type="text" id="subject" placeholder="Subject">
                                                               </div>
                                                               <textarea placeholder="Write message" id="message" rows="4" style="height:180px"></textarea>
-                                                               <button type="submit" class="btn">Send a message <span></span></button>
+                                                               <button type="submit" class="btn" id="submit-button">Send a message <span></span></button>
                                                                <!-- Feedback -->
                                                              <div id="feedback-container" class="fixed top-0 end-0 p-3 z-[1050]">
                                                                <div id="feedback" class="hidden alert" role="alert"></div>

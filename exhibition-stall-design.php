@@ -286,6 +286,50 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
 
+        <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What types of exhibition stalls do you design?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We create custom stalls, modular designs, 3D stalls, and space-efficient layouts tailored to your brand and booth size."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can you design stalls for events outside Ahmedabad?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Absolutely! We serve clients across India including Delhi, Mumbai, Bangalore, and other major cities."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do you offer 3D visualizations before finalizing the stall design?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we provide detailed 3D renders and mockups so you can preview the stall layout, branding, and structure before execution."
+    }
+  },{
+    "@type": "Question",
+    "name": "How early should I book exhibition stall design services?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ideally, 3–4 weeks in advance to ensure enough time for design, approvals, and production — especially for large-scale exhibitions."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do you also manage international exhibition stall projects?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we coordinate and deliver stall designs and execution for overseas exhibitions through our trusted global partners."
+    }
+  }]
+}
+</script>
+
+
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
 ?>

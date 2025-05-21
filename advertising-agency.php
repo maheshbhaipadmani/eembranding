@@ -260,6 +260,49 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
 
+        <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What advertising services do you offer?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We provide comprehensive services including branding, print advertising, digital marketing, outdoor advertising, TV and radio ads, and more."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do you offer outdoor advertising services in Ahmedabad?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Absolutely! We design and manage hoarding advertising and other outdoor campaigns tailored to reach a large audience effectively."
+    }
+  },{
+    "@type": "Question",
+    "name": "How do you develop an advertising strategy?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We begin with understanding your business goals and target audience, then craft a custom advertising plan that includes creative concepts, media planning, and execution."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can you create a brand identity from scratch?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we offer complete branding services, including logo design, messaging, and visual elements that reflect your brand's vision and values."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do you handle both small and large-scale campaigns?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we manage campaigns of all sizes—whether you're a startup looking to make your mark or an established business aiming for broader reach."
+    }
+  }]
+}
+</script>
+
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
 ?>

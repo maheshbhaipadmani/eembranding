@@ -347,6 +347,11 @@ Made with
     }
 
     console.log("Sending email request...");
+
+    const submitButton = document.getElementById("submit-button");
+submitButton.disabled = true;
+submitButton.innerHTML = 'Sending... <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>'; // Optional: show loading indicator
+
     // Sending the email using fetch
     fetch(apiUrl, {
         method: "POST",
@@ -355,6 +360,8 @@ Made with
     })
         .then((response) => response.json()) // Ensure we parse the JSON response
         .then((data) => {
+             submitButton.disabled = false;
+    submitButton.innerHTML = 'Send a message <span></span>'; // Reset button text
             if (data.status) {
                 console.log(data);
                 console.log("Message sent successfully");
@@ -372,6 +379,10 @@ Made with
             }
         })
         .catch((error) => {
+            clearForm()
+            submitButton.disabled = false;
+    submitButton.innerHTML = 'Send a message <span></span>';
+
             showFeedback(
                 // "An error occurred while sending the message. Please try again later.",
                 "Message sent successfully",

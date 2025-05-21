@@ -261,6 +261,49 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
 
+        <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What are 3D rendering services?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "3D rendering services create realistic visualizations of architectural designs, interiors, products, and more, bringing concepts to life before physical production."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do you provide 3D rendering for both interiors and exteriors?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we specialize in both 3D interior rendering and 3D exterior rendering to showcase every detail of your design."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can you create 3D models of existing products?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Absolutely! We offer product modeling services to create accurate, high-quality 3D representations of your products."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can you create 360° views for my product or design?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we offer 360° views that allow you to display products from every angle, ideal for marketing and online stores."
+    }
+  },{
+    "@type": "Question",
+    "name": "Do you offer 3D walkthroughs for interior designs?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we provide 3D interior walkthroughs, allowing clients to virtually explore and interact with the space before finalizing designs."
+    }
+  }]
+}
+</script>
+
     <?php
     include __DIR__ . '/A_Layout/Footer/footer.php';
     ?>
