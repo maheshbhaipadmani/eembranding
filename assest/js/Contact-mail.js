@@ -22,7 +22,7 @@ console.log("Collected form data:", { name, email, number, subject, message });
         "SMTPSecure": "ssl",
         "SenderEmail": "hitixa.bhuva@uniqueconsumerservices.com",
         "SenderEmailPassword": "1f1UOc{3U*64",  
-        "ReciverEmail": "patelhitixa4439@gmail.com",
+        "ReciverEmail": "eembranding@gmail.com",
         "Subject": subject,
         "Body": `
    <!DOCTYPE html>
@@ -289,7 +289,6 @@ console.log("Collected form data:", { name, email, number, subject, message });
     </center>
 </body>
 </html>
-Made with
 
     `,
     };
@@ -353,42 +352,40 @@ submitButton.disabled = true;
 submitButton.innerHTML = 'Sending... <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>'; // Optional: show loading indicator
 
     // Sending the email using fetch
-    fetch(apiUrl, {
+     fetch(apiUrl, {
         method: "POST",
         headers: headers,
         body: JSON.stringify(emailData),
     })
-        .then((response) => response.json()) // Ensure we parse the JSON response
-        .then((data) => {
-             submitButton.disabled = false;
-    submitButton.innerHTML = 'Send a message <span></span>'; // Reset button text
-            if (data.status) {
-                console.log(data);
-                console.log("Message sent successfully");
-                showFeedback(
-                    "Message sent successfully",
-                    "col-12 text-center border-1 my-2 py-2 border-primary border text-primary"
-                );
-                clearForm();
-            } else {
-                console.log(data);
-                showFeedback(
-                    "Message sending failed. Please try again later.",
-                    "col-12 text-center border-1 py-2 border-danger border text-danger"
-                );
-            }
-        })
-        .catch((error) => {
-            clearForm()
-            submitButton.disabled = false;
-    submitButton.innerHTML = 'Send a message <span></span>';
+    .then((response) => response.json())
+    .then((data) => {
+        submitButton.disabled = false;
+        submitButton.innerHTML = 'Send a message <span></span>';
 
+        if (data.status) {
+            console.log("Message sent successfully", data);
             showFeedback(
-                // "An error occurred while sending the message. Please try again later.",
                 "Message sent successfully",
-                "col-12 text-center border-1 error"
+                "col-12 text-center border-1 my-2 py-2 border-primary border text-primary"
             );
-        });
+            clearForm();
+        } else {
+            console.log("Server returned an error", data);
+            showFeedback(
+                "Message sending failed. Please try again later.",
+                "col-12 text-center border-1 py-2 border-danger border text-danger"
+            );
+        }
+    })
+    .catch((error) => {
+        console.error("Error while sending request:", error);
+        submitButton.disabled = false;
+        submitButton.innerHTML = 'Send a message <span></span>';
+        showFeedback(
+            "An error occurred while sending the message. Please try again later.",
+            "col-12 text-center border-1 py-2 border-danger border text-danger"
+        );
+    });
 });
 
 function isValidEmail(email) {

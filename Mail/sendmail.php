@@ -5,7 +5,7 @@ class SendMail
 {
     public $SenderEmail = "hitixa.bhuva@uniqueconsumerservices.com";
     public $SenderEmailPassword = "1f1UOc{3U*64";
-    public $ReciverEmail = "patelhitixa4439@gmail.com";
+    public $ReciverEmail = "eembranding@gmail.com";
     public $Subject = "";
     public $Body = "hello";
 
@@ -69,5 +69,5 @@ class SendMail
 
 // Instantiate the class and call the method
 $mailer = new SendMail();
-$mailer->sendMail();
+// $mailer->sendMail();
 ?>
