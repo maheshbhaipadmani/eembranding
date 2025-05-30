@@ -1,6 +1,6 @@
 <?php
-$Title = "Laminate Catalogue Design Services by Top Agency Ahmedabad";
-$MetaDescription = "Get high-quality laminate catalogue design services from a top catalogue design company in Ahmedabad. Expert brochure &amp; catalogue designing for your brand.";
+$Title = "Creative Catalogue & Brochure Design Services Ahmedabad";
+$MetaDescription = "Get expert catalogue and brochure design services in Ahmedabad. We offer custom laminate catalogue design services that elevate your brand's presentation.";
 $MetaKeywords = "laminate catalogue design, catalogue design Ahmedabad, brochure design services, professional catalogue designing, branding and catalogue design, creative catalogue design, best catalogue design company, print design services, corporate brochure design, product catalogue design, premium catalogue design, custom brochure design, high-quality catalogue printing.";
 ?>
 
