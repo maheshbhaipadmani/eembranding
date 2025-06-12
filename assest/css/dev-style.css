@@ -1,22 +1,22 @@
 
-:root :where(.wp-block-pullquote) {
+/* :root :where(.wp-block-pullquote) {
     font-size: 1.5em;
     line-height: 1.6;
-}
+} */
 
-.wp-block-file__button {
+/* .wp-block-file__button {
     background: #32373c;
     color: #fff;
     text-decoration: none;
-}
+} */
 img:is([sizes="auto" i], [sizes^="auto," i]) {
     contain-intrinsic-size: 3000px 1500px
 }
-.breadcrumb-shape img[data-parallax] {
+/* .breadcrumb-shape img[data-parallax] {
     position: absolute;
     right: 35%;
     top: -13%;
-}
+} */
 .bg-pink .contact-info-item {
     background: #fdf3f3;
 }
@@ -298,63 +298,48 @@ body {
 .text-light a {
     color: #ffffff;
 }
-
-
 .navbar-wrap ul {
     margin: 0 0 0 auto !important;
 }
-
 .services-item-two {
     min-height: 500px;
 }
-
 .testimonial-avatar {
     display: none;
 }
-
-
-.project-details-subtitle {
+/* .project-details-subtitle {
     font-size: 28px;
-}
-
+} */
 .project-details-custom-slider .swiper-slide {
     margin: 0 10px;
 }
-
 .project-details-custom-slider .swiper-slide figure img {
     border-radius: 10px;
     box-shadow: 0 6px 11px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
-
 .z-index-plus {
     z-index: 9999;
 }
-
 .swiper-pagination-bullet-active {
     background: #de202a !important;
 }
-
 
 /* Slider */
 .banner-slider .accordion-portfolio-lists li {
     border: 7px solid #FFF;
 }
-
 .services-icon p {
     max-height: 120px;
     -webkit-box-orient: vertical;
     overflow: hidden;
     display: -webkit-box;
 }
-
 .services-item-two {
     min-height: 400px !important;
 }
-
 .services-item-two:hover {
     border-bottom: 8px solid #de202a;
 }
-
 .services-icon a.link-btn {
     background: var(--tg-primary-color) none repeat scroll 0 0;
     border: medium none;
@@ -378,22 +363,17 @@ body {
     overflow: hidden;
     z-index: 1;
 }
-
 .services-icon a.link-btn:hover {
     color: #fff;
 }
-
 .breadcrumb-area-two {
     overflow: hidden;
     padding: 90px 0 90px !important;
     background-color: #DADADA;
 }
-
 .leftside-sec .row.justify-content-center {
     justify-content: left !important;
 }
-
-
 .fal, .far {
     font-family: 'FontAwesome' !important;
 }
@@ -401,15 +381,12 @@ body {
     font-family: 'FontAwesome' !important;
     font-weight: 900;
 }
-
-:where(.is-layout-flex) {
+/* :where(.is-layout-flex) {
     gap: 0.5em;
 }
-
 body .is-layout-flex {
     display: flex;
 }
-
 .is-layout-flex {
     flex-wrap: wrap;
     align-items: center;
@@ -422,7 +399,7 @@ body .is-layout-flex {
 
 :where(.wp-block-post-template.is-layout-flex) {
     gap: 1.25em;
-}
+} */
 
 .contact-icon img {
     width: 50px;
@@ -809,12 +786,12 @@ body {
     background-color: #1d1d1d !important
 }
 
-.accrdion-portfolio-area,
+/* .accrdion-portfolio-area,
 .accrdion-portfolio-area div {
     height: 100%;
     min-height: 100vh
-}
-
+} */
+/* 
 .accordion-portfolio-lists li {
     overflow: hidden;
     border: 7px solid #1d1d1d;
@@ -1072,7 +1049,7 @@ body {
 .text-light span,
 .text-light a {
     color: #fff
-}
+} */
 
 .elementor-495 .elementor-element.elementor-element-cb5e0db .title {
     font-size: 36px;
@@ -1080,9 +1057,9 @@ body {
 .P-0{
     padding: 0 !important;
 }
-.custom-mt-5{
+/* .custom-mt-5{
     margin-top: 1.5rem !important
-}
+} */
 
 .elementor-214 .elementor-element.elementor-element-c399357 {
     width: 130% !important;
@@ -1095,4 +1072,29 @@ body {
       width: 100%;
       height: 50px;
     }
-    
+/* Add this to your main CSS file */
+.mobile-menu.menu-open {
+    -webkit-transform: translateX(0%) !important; 
+    -ms-transform: translateX(0%)!important ;
+    transform: translateX(0%) !important;
+}
+
+
+body.mobile-menu-active {
+    overflow: hidden !important;
+}
+
+@media (max-width: 991.98px) {
+    .menu-area .mobile-nav-toggler {
+        display: block !important ; 
+    }
+    .navbar-wrap.main-menu { 
+        display: none !important ;
+    }
+}
+
+@media (min-width: 992px) {
+    .mobile-menu {
+        display: none !important ;
+    }
+}

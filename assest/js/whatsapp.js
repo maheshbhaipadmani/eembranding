@@ -1,7 +1,7 @@
 // whatsapp
 function redirectToWhatsApp() {
-    var phoneNumber = "+919081813238"; // Replace with your WhatsApp number
-    var message = ""; // Optional: Replace with your default message
+    var phoneNumber = "+919081813238";
+    var message = ""; 
     var url =
       "https://api.whatsapp.com/send?phone=" +
       encodeURIComponent(phoneNumber) +
