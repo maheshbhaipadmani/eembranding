@@ -154,7 +154,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         </li>
                                         <li itemscope="itemscope"
                                             itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6720"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6720 nav-item  ' ?><?php if ($page == "blogs.php" || $page == "blogs-2.php" || $page == "blogs-graphic-design.php" || $page == "blogs-best-laminate-catalogue.php" || $page == "blogs-grow-your-business.php" || $page == "blogs-powerful-branding-strategies.php" || $page == "blogs-how-a-creative-design-agency-in-ahmedabad.php" || $page == "blogs-branding-vs-advertising.php" || $page == "blogs-how-3d-rendering.php" || $page == "category-blog.php") {
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6720 nav-item  ' ?><?php if ($page == "blogs.php" || $page == "blogs-2.php" || $page == "blogs-graphic-design.php" || $page == "blogs-best-laminate-catalogue.php" || $page == "blogs-grow-your-business.php" || $page == "blogs-powerful-branding-strategies.php" || $page == "blogs-how-a-creative-design-agency-in-ahmedabad.php" || $page == "blogs-branding-vs-advertising.php" || $page == "blogs-how-3d-rendering.php") {
                                     echo 'active';
                                 } ?><?php echo '">
                                             <a title="Blogs" href="blogs" class="nav-links">Blogs</a>

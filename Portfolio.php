@@ -458,7 +458,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             </a>
                                                                         </div>
                                                                     </div>
-                                                                    <div class="col-lg-4 col-md-6">
+                                                                    <!-- <div class="col-lg-4 col-md-6">
                                                                         <div class="project-item-two wow fadeInUp"
                                                                             data-wow-delay=".13s"
                                                                             style="visibility: hidden; animation-delay: 0.13s; animation-name: none;">
@@ -472,7 +472,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                       loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
-                                                                    </div>
+                                                                    </div> -->
                                                                     <div class="col-lg-4 col-md-6">
                                                                         <div class="project-item-two wow fadeInUp"
                                                                             data-wow-delay=".14s"
@@ -546,7 +546,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             </a>
                                                                         </div>
                                                                     </div>
-                                                                    <div class="col-lg-4 col-md-6">
+                                                                    <!-- <div class="col-lg-4 col-md-6">
                                                                         <div class="project-item-two wow fadeInUp"
                                                                             data-wow-delay=".19s"
                                                                             style="visibility: hidden; animation-delay: 0.19s; animation-name: none;">
@@ -560,7 +560,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                       loading="lazy"  alt="Icon">
                                                                             </a>
                                                                         </div>
-                                                                    </div>
+                                                                    </div> -->
                                                                     <div class="col-lg-4 col-md-6">
                                                                         <div class="project-item-two wow fadeInUp"
                                                                             data-wow-delay=".20s"

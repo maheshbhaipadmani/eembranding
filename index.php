@@ -13,7 +13,7 @@ $limit = 3;
 $myaraa = $testOBJ->selectblog($page, $limit);
 $total = $testOBJ->getBlogCount();
 $totalPages = ceil($total / $limit);
-// Reset the array pointer just in case
+
 reset($myaraa);
 ?>
 
@@ -195,23 +195,6 @@ reset($myaraa);
                 <div class="e-con-inner">
                     <div class="elementor-element elementor-element-d7fb0ec e-con-full e-flex e-con e-child"
                         data-id="d7fb0ec" data-element_type="container">
-                        <div class="elementor-element elementor-element-9d75e8c elementor-widget elementor-widget-video"
-                            data-id="9d75e8c" data-element_type="widget"
-                            data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=YyXAiHejnVk&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}"
-                            data-widget_type="video.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-wrapper elementor-open-inline">
-                                    <!-- <iframe class="elementor-video"
-                                        frameborder="0" allowfullscreen=""
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        referrerpolicy="strict-origin-when-cross-origin"
-                                        title="EEM Branding – audio + visual + publicity. A creative digital marketing agency!"
-                                        width="640" height="360"
-                                        src="https://www.youtube.com/embed/YyXAiHejnVk?controls=1&amp;rel=0&amp;playsinline=0&amp;modestbranding=0&amp;autoplay=1&amp;enablejsapi=1&amp;origin=https%3A%2F%2Feembranding.com&amp;widgetid=1&amp;forigin=https%3A%2F%2Feembranding.com%2F&amp;aoriginsup=1&amp;vf=1"
-                                        id="widget2" data-gtm-yt-inspected-9="true"></iframe> -->
-                                    </div>
-                            </div>
-                        </div>
                         <div class="elementor-element elementor-element-d816505 elementor-widget__width-initial elementor-absolute elementor-invisible elementor-widget elementor-widget-image"
                             data-id="d816505" data-element_type="widget"
                             data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;zoomIn&quot;}"
@@ -268,7 +251,9 @@ reset($myaraa);
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --
+           
+            <!-- Branding Agency In Ahmedabad -->
             <div class="elementor-element elementor-element-b41f9b7 e-flex e-con-boxed e-con e-parent" data-id="b41f9b7"
                 data-element_type="container">
                 <div class="e-con-inner">
@@ -322,6 +307,7 @@ reset($myaraa);
                     </div>
                 </div>
             </div>
+            <!-- CREATIVE SOLUTIONS -->
             <section
                 class="elementor-section elementor-top-section elementor-element elementor-element-87de0e2 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                 data-id="87de0e2" data-element_type="section"
@@ -581,6 +567,7 @@ reset($myaraa);
                     </div>
                 </div>
             </section>
+            <!-- Our Projects -->
             <section
                 class="elementor-section elementor-top-section elementor-element elementor-element-ffe4d1e elementor-section-full_width elementor-section-height-default elementor-section-height-default"
                 data-id="ffe4d1e" data-element_type="section"
@@ -767,7 +754,8 @@ reset($myaraa);
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> 
+            <!-- Testimonial -->
             <section
                 class="elementor-section elementor-top-section elementor-element elementor-element-236c1cb elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                 data-id="236c1cb" data-element_type="section"
@@ -787,8 +775,6 @@ reset($myaraa);
                                                 data-id="1f63193" data-element_type="widget"
                                                 data-widget_type="tg-heading.default">
                                                 <div class="elementor-widget-container">
-
-
                                                     <div
                                                         class="section-title-two tg-heading-subheading animation-style3">
                                                         <span class="sub-title tg-element-title">Testimonial</span>
@@ -796,9 +782,6 @@ reset($myaraa);
                                                         <h2 class="title tg-element-title">Sincere Remarks
                                                         </h2>
                                                     </div>
-
-
-
                                                 </div>
                                             </div>
                                         </div>
@@ -1033,14 +1016,14 @@ reset($myaraa);
 
                                 </div>
                             </div>
-                            <div class="elementor-element elementor-element-19896c7 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-text-editor"
+                            <!-- <div class="elementor-element elementor-element-19896c7 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-text-editor"
                                 data-id="19896c7" data-element_type="widget" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus
                                         nec ullamcorper mattis, pulvinar dapibus leo.</p>
                                 </div>
-                            </div>
-                            <section
+                            </div> -->
+                            <!-- <section
                                 class="elementor-section elementor-inner-section elementor-element elementor-element-b6a4f93 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                 data-id="b6a4f93" data-element_type="section"
                                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -1052,8 +1035,6 @@ reset($myaraa);
                                                 data-id="f3d437d" data-element_type="widget"
                                                 data-widget_type="tg-heading.default">
                                                 <div class="elementor-widget-container">
-
-
                                                     <div
                                                         class="section-title-two tg-heading-subheading animation-style3">
                                                         <span class="sub-title tg-element-title">Blog Post</span>
@@ -1061,23 +1042,15 @@ reset($myaraa);
                                                         <h2 class="title tg-element-title">Interesting Articles Updated
                                                             Daily</h2>
                                                     </div>
-
-
-
                                                 </div>
                                             </div>
-                                            
                                         </div>
                                     </div>
                                 </div>
-                            </section>
-                            <div class="elementor-element elementor-element-a0e1c86 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-blogpost"
+                            </section> -->
+                            <!-- <div class="elementor-element elementor-element-a0e1c86 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-blogpost"
                                 data-id="a0e1c86" data-element_type="widget" data-widget_type="blogpost.default">
                                 <div class="elementor-widget-container">
-
-
-
-
                                     <div class="row justify-content-center">
                                         <div class="col-xl-6 col-lg-10 col-sm-10">
                                             <div class="blog-post-item-two">
@@ -1188,16 +1161,13 @@ reset($myaraa);
                                             </div>
                                         </div>
                                     </div>
-
-
-
-
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
             </section>
+            <!-- blogs  -->
             <div class="elementor-element elementor-element-319dc0b e-flex e-con-boxed e-con e-parent e-lazyloaded"
                 data-id="319dc0b" data-element_type="container">
                 <div class="e-con-inner">
@@ -1241,168 +1211,67 @@ reset($myaraa);
                                 <div data-title="Loading ..."
                                     class="rt-row rt-content-loader grid-layout4 grid-behaviour tpg-full-height grid_layout_wrapper">
                                     <?php
-while ($item = current($myaraa)) {
-    ?>
-    <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item" data-id="7100">
-        <div class="rt-holder tpg-post-holder">
-            <div class="rt-detail rt-el-content-wrapper">
-                <div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-                    <a data-id="7100" href="<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">
-                        <img fetchpriority="high" decoding="async" src="<?php echo $item['Thumbnail']; ?>"
-                             class="rt-img-responsive" width="1200" height="800"
-                               loading="lazy"  alt="The Power of Graphic Design in Brand Identity Building">
-                    </a>
-                    <div class="overlay grid-hover-content"></div>
-                </div>
-
-                <div class="entry-title-wrapper">
-                    <div class="tpg-separate-category style1 top_left cat-above-title">
-                        <span class="categories-links">
-                            <a class="blogs" href="category-blog">Blogs</a>
-                        </span>
-                    </div>
-                    <h3 class="entry-title">
-                        <a data-id="7100" href="<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">
-                        <?php echo $item["BlogTitle"]; ?>
-
-                        </a>
-                    </h3>
-                </div>
-
-                <div class="tpg-excerpt tpg-el-excerpt">
-                    <div class="tpg-excerpt-inner">
-                    <?php 
-        if (!empty($item["BlogContent"])) {
-            $decodedContent = html_entity_decode($item["BlogContent"]);
-            $plainTextContent = strip_tags($decodedContent);
-            $excerpt = mb_substr(trim($plainTextContent), 0, 150, 'UTF-8');
-            $lastSpace = mb_strrpos($excerpt, ' ', 0, 'UTF-8');
-            if ($lastSpace !== false) {
-                $excerpt = mb_substr($excerpt, 0, $lastSpace, 'UTF-8');
-            }
-            echo $excerpt . '...';
-        } else {
-            echo 'No content available...';
-        }
-        ?>
-                    </div>
-                </div>
-
-                <div class="post-footer">
-                    <div class="read-more">
-                        <a data-id="7100" href="<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">Read More...</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <?php
-    // Move to next item
-    next($myaraa);
-}
-?>
-                                    <!-- <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item"
-                                        data-id="7075">
-                                        <div class="rt-holder tpg-post-holder">
-                                            <div class="rt-detail rt-el-content-wrapper">
-                                                <div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-                                                    <a data-id="7075" href="blogs-rendering"
-                                                        class="tpg-post-link" target="_self"> <img 
-                                                            decoding="async" src="./assest/img/blogs/2Blog-5.jpg"
-                                                            class="rt-img-responsive" width="1200" height="800"
-                                                              loading="lazy"  alt="How 3D Rendering Can Help Brands Stand Out in a Competitive Market">
-                                                    </a>
-                                                    <div class="overlay grid-hover-content"></div>
-                                                </div>
-                                                <div class="entry-title-wrapper">
-                                                    <div class="tpg-separate-category style1 top_left cat-above-title">
-                                                        <span class="categories-links"><a class="blogs"
-                                                                href="category-blog">Blogs</a>
-                                                        </span>
-                                                    </div>
-                                                    <h3 class="entry-title"><a data-id="7075"
-                                                            href="blogs-rendering" class="tpg-post-link"
-                                                            target="_self">How 3D Rendering Can
-                                                            Help Brands Stand Out in a Competitive Market</a></h3>
-                                                </div>
-                                                <div class="post-meta-tags rt-el-post-meta">
-                                                    <span class="date">
-                                                        <i class="far fa-calendar-alt "></i> <a href="home">
-                                                            March 7, 2025 </a>
-                                                    </span>
-                                                    <span class="categories-links">
-                                                        <i class="fas fa-folder-open "></i><a class="blogs"
-                                                            href="category-blog">Blogs</a>
-                                                    </span>
-                                                </div>
-                                                <div class="tpg-excerpt tpg-el-excerpt">
-                                                    <div class="tpg-excerpt-inner">
-                                                        In today’s rapidly evolving digital landscape, brands must adopt
-                                                        innovative approaches to capture...</div>
-                                                </div>
-                                                <div class="post-footer">
-                                                    <div class="post-footer">
-                                                        <div class="read-more">
-                                                            <a data-id="7075" href="blogs-rendering"
-                                                                class="tpg-post-link" target="_self">Read More...</a>
+                                        while ($item = current($myaraa)) {
+                                            ?>
+                                            <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item" data-id="7100">
+                                                <div class="rt-holder tpg-post-holder">
+                                                    <div class="rt-detail rt-el-content-wrapper">
+                                                        <div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
+                                                            <a data-id="7100" href="<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">
+                                                                <img fetchpriority="high" decoding="async" src="<?php echo $item['Thumbnail']; ?>"
+                                                                     class="rt-img-responsive" width="1200" height="800"
+                                                                       loading="lazy"  alt="The Power of Graphic Design in Brand Identity Building">
+                                                            </a>
+                                                            <div class="overlay grid-hover-content"></div>
+                                                        </div>
+                                                    
+                                                        <div class="entry-title-wrapper">
+                                                            <div class="tpg-separate-category style1 top_left cat-above-title">
+                                                                <span class="categories-links">
+                                                                    <a class="blogs" href="blogs">Blogs</a>
+                                                                </span>
+                                                            </div>
+                                                            <h3 class="entry-title">
+                                                                <a data-id="7100" href="<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">
+                                                                <?php echo $item["BlogTitle"]; ?>
+                                                                
+                                                                </a>
+                                                            </h3>
+                                                        </div>
+                                                    
+                                                        <div class="tpg-excerpt tpg-el-excerpt">
+                                                            <div class="tpg-excerpt-inner">
+                                                            <?php 
+                                                              if (!empty($item["BlogContent"])) {
+                                                                  $decodedContent = html_entity_decode($item["BlogContent"]);
+                                                                  $plainTextContent = strip_tags($decodedContent);
+                                                                  $excerpt = mb_substr(trim($plainTextContent), 0, 150, 'UTF-8');
+                                                                  $lastSpace = mb_strrpos($excerpt, ' ', 0, 'UTF-8');
+                                                                  if ($lastSpace !== false) {
+                                                                      $excerpt = mb_substr($excerpt, 0, $lastSpace, 'UTF-8');
+                                                                  }
+                                                                  echo $excerpt . '...';
+                                                              } else {
+                                                                  echo 'No content available...';
+                                                              }
+                                                              ?>
+                                                            </div>
+                                                        </div>
+                                                    
+                                                        <div class="post-footer">
+                                                            <div class="read-more">
+                                                                <a data-id="7100" href="<?php echo $item["URL"]; ?>" class="tpg-post-link" target="_self">Read More...</a>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                            <?php
+                                            // Move to next item
+                                            next($myaraa);
+                                        }
+                                        ?>
                                     </div>
-                                    <div class="rt-col-md-4 rt-col-sm-6 rt-col-xs-12 default rt-grid-item"
-                                        data-id="7056">
-                                        <div class="rt-holder tpg-post-holder">
-                                            <div class="rt-detail rt-el-content-wrapper">
-                                                <div class="rt-img-holder tpg-el-image-wrap has-thumbnail">
-                                                    <a data-id="7056" href="blogs-best-laminate-catalogue"
-                                                        class="tpg-post-link" target="_self"> <img 
-                                                            decoding="async"
-                                                            src="./assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
-                                                            class="rt-img-responsive" width="1200" height="800"
-                                                              loading="lazy"  alt="Best Laminate Catalogue Design Services in India">
-                                                    </a>
-                                                    <div class="overlay grid-hover-content"></div>
-                                                </div>
-                                                <div class="entry-title-wrapper">
-                                                    <div class="tpg-separate-category style1 top_left cat-above-title">
-                                                        <span class="categories-links"><a class="blogs"
-                                                                href="category-blog">Blogs</a>
-                                                        </span>
-                                                    </div>
-                                                    <h3 class="entry-title"><a data-id="7056"
-                                                            href="blogs-best-laminate-catalogue"
-                                                            class="tpg-post-link" target="_self">Best Laminate Catalogue
-                                                            Design Services in India</a></h3>
-                                                </div>
-                                                <div class="post-meta-tags rt-el-post-meta">
-                                                    <span class="date">
-                                                        <i class="far fa-calendar-alt "></i> <a href="home">
-                                                            February 28, 2025 </a>
-                                                    </span>
-                                                    <span class="categories-links">
-                                                        <i class="fas fa-folder-open "></i><a class="blogs"
-                                                            href="category-blog">Blogs</a>
-                                                    </span>
-                                                </div>
-                                                <div class="tpg-excerpt tpg-el-excerpt">
-                                                    <div class="tpg-excerpt-inner">
-                                                        Why We Are the Best Laminate Catalogue Designing Firm in India
-                                                        An Effectively designed laminates...</div>
-                                                </div>
-                                                <div class="post-footer">
-                                                    <div class="post-footer">
-                                                        <div class="read-more">
-                                                            <a data-id="7056" href="blogs-best-laminate-catalogue"
-                                                                class="tpg-post-link" target="_self">Read More...</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div> -->
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -1416,7 +1285,7 @@ while ($item = current($myaraa)) {
                     </div>
                 </div>
             </div>
-            
+            <!-- Ready to elevate your brand's digital -->
             <section
                 class="elementor-section elementor-top-section elementor-element elementor-element-08773b0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                 data-id="08773b0" data-element_type="section">
@@ -1454,6 +1323,7 @@ while ($item = current($myaraa)) {
                     </div>
                 </div>
             </section>
+             <!-- Brand Logo Slider -->
             <section
                 class="elementor-section elementor-top-section elementor-element elementor-element-f79ea92 elementor-section-boxed elementor-section-height-default elementor-section-height-default custom-bottom-paddign"
                 data-id="f79ea92" data-element_type="section">
@@ -1464,8 +1334,6 @@ while ($item = current($myaraa)) {
                             <div class="elementor-element elementor-element-655bd03 elementor-widget elementor-widget-brand"
                                 data-id="655bd03" data-element_type="widget" data-widget_type="brand.default">
                                 <div class="elementor-widget-container">
-
-                                    <!-- Brand Logo Slider -->
                                     <div class="brand-slider protfolio-slider">
                                         <div><img src="./assest/img/portfolio/logo/liventa.png"   loading="lazy"  alt="Brand 1"></div>
                                         <div><img src="./assest/img/portfolio/logo/nalisha.png"   loading="lazy"  alt="Brand 2"></div>    

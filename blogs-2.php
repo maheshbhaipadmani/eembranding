@@ -95,7 +95,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                                                                     <a class="blogs"
-                                                                                        href="category-blog">Blogs</a>
+                                                                                        href="">Blogs</a>
                                                                                 </span>
                                                                             </div>
                                                                             <h3 class="entry-title"><a data-id="6955"

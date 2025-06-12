@@ -97,7 +97,7 @@ while ($item = current($myaraa)) {
                 <div class="entry-title-wrapper">
                     <div class="tpg-separate-category style1 top_left cat-above-title">
                         <span class="categories-links">
-                            <a class="blogs" href="category-blog">Blogs</a>
+                            <a class="blogs" href="blogs">Blogs</a>
                         </span>
                     </div>
                     <h3 class="entry-title">

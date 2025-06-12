@@ -9,8 +9,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
     <main class="main-area">
-
-        
         <section class="breadcrumb-area-two ">
             <div class="container">
                 <div class="row align-items-center">
@@ -48,8 +46,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                     data-id="87e2663" data-element_type="widget"
                                                     data-widget_type="tg-heading.default">
                                                     <div class="elementor-widget-container">
-
-
                                                         <div
                                                             class="section-title-two tg-heading-subheading animation-style3">
 
@@ -82,7 +78,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                     </div>
                                                 </div>
                                             </div>
-                                            
                                         </div>
                                         <div class="e-con-inner p-0">
                                         <div class="elementor-element elementor-element-cba0fa5 e-con-full e-flex e-con e-child"

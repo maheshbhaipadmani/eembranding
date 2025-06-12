@@ -66,7 +66,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                             <li class="comments"><i class="far fa-comments"></i> <a
-                                                    href="Blogs-Best-Laminate-Catalogue#respond">No
+                                                    href="Blogs-Best-Laminate-Catalogue">No
                                                     Comments</a></li>
 
                                         </ul>
@@ -133,7 +133,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div id="respond" class="comment-respond">
                                     <h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a
                                                 rel="nofollow" id="cancel-comment-reply-link"
-                                                href="/blogs-best-laminate-catalogue-design-company-in-ahmedabad-services-in-india/#respond"
+                                                href="/blogs-best-laminate-catalogue-design-company-in-ahmedabad-services-in-india/"
                                                 style="display:none;">Cancel reply</a></small></h3>
                                     <form action="wp-comments-post.php" method="post"
                                         id="commentform" class="comment-form">
