@@ -349,7 +349,6 @@ console.log("Collected form data:", { name, email, number, subject, message });
 
     const submitButton = document.getElementById("submit-button");
 submitButton.disabled = true;
-// submitButton.innerHTML = 'Sending... <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>'; // Optional: show loading indicator
 
     // Sending the email using fetch
      fetch(apiUrl, {

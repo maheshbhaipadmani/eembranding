@@ -11,18 +11,17 @@ include __DIR__ . '/A_Layout/Header/header.php';
    
     <main class="main-area">
         <div class="tg-page-area pb-120">
-            <div class="container">
+            <div class="container-fluid p-0">
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="tg-page-content xotric-page-content">
                             <div class="tp-page-post">
                                 <div data-elementor-type="wp-page" data-elementor-id="6939"
                                     class="elementor elementor-6939">
-                                    <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-9b93f3e elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                        data-id="9b93f3e" data-element_type="section"
-                                        data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}"
-                                        style="width: 1491px; left: -160.6px;">
+                                    <section style="background-image: url(./assest/img/about/breadcrumb_bg.jpg) !important;"
+                                        class="elementor-section elementor-top-section elementor-element elementor-element-c59cb04 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                        data-id="c59cb04" data-element_type="section"
+                                         data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" >
                                         <div class="elementor-container elementor-column-gap-no">
                                             <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8ac0dc2"
                                                 data-id="8ac0dc2" data-element_type="column">

@@ -178,8 +178,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="elementor-element elementor-element-804d946 elementor-widget elementor-widget-genix-faq"
                                 data-id="804d946" data-element_type="widget" data-widget_type="genix-faq.default">
                                 <div class="elementor-widget-container">
-
-
+                                    
                                     <div class="services-faq-wrap">
                                         <div class="accordion" id="accordionExample">
                                             <div class="elementor-element elementor-element-5637943 elementor-widget elementor-widget-heading"
@@ -270,7 +269,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                         </div>
                                     </div>
-
                                 </div>
                             </div>
                         </div>
@@ -292,6 +290,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </div>
     </section>
+
 
     <script type="application/ld+json">
 {

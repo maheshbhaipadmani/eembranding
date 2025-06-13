@@ -249,32 +249,32 @@ echo
                                                                     <ul id="menu-1-211b1c4" class="hfe-nav-menu">
                                                                         <li id="menu-item-6847"
                                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-495 current_page_item parent hfe-creative-menu">
-                                                                            <a href="https://eembranding.com/"
+                                                                            <a class="text-muted" href="https://eembranding.com/"
                                                                                 class="hfe-menu-item">Home</a>
                                                                         </li>
                                                                         <li id="menu-item-6849"
                                                                             class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-                                                                            <a href="about-us"
+                                                                            <a class="text-muted" href="about-us"
                                                                                 class="hfe-menu-item">About Us</a>
                                                                         </li>
                                                                         <li id="menu-item-6857"
                                                                             class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-                                                                            <a href="services-page"
+                                                                            <a class="text-muted" href="services-page"
                                                                                 class="hfe-menu-item">Services</a>
                                                                         </li>
                                                                         <li id="menu-item-6990"
                                                                             class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-                                                                            <a href="\"
+                                                                            <a class="text-muted" href="\"
                                                                                 class="hfe-menu-item">Portfolio</a>
                                                                         </li>
                                                                         <li id="menu-item-6850"
                                                                             class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-                                                                            <a href="blogs"
+                                                                            <a class="text-muted" href="blogs"
                                                                                 class="hfe-menu-item">Blogs</a>
                                                                         </li>
                                                                         <li id="menu-item-6852"
                                                                             class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-                                                                            <a href="contact-us"
+                                                                            <a class="text-muted" href="contact-us"
                                                                                 class="hfe-menu-item">Contact Us</a>
                                                                         </li>
                                                                     </ul>
@@ -376,8 +376,10 @@ echo
                                                                 <li class="elementor-icon-list-item">
                                                                     <a href="mailto:info@eembranding.com"><span
                                                                             class="elementor-icon-list-icon">
-                                                                            <i aria-hidden="true"
-                                                                                class="fal fa-envelope"></i> </span>
+                                                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail">
+                                                                                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                                                                                <polyline points="22,6 12,13 2,6"></polyline>
+                                                                            </svg> </span>
                                                                         <span
                                                                             class="elementor-icon-list-text">info@eembranding.com</span>
                                                                     </a>
@@ -385,8 +387,10 @@ echo
                                                                 <li class="elementor-icon-list-item">
                                                                     <a href="mailto:eembranding@gmail.com"><span
                                                                             class="elementor-icon-list-icon">
-                                                                            <i aria-hidden="true"
-                                                                                class="fal fa-envelope"></i> </span>
+                                                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail">
+                                                                                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                                                                                <polyline points="22,6 12,13 2,6"></polyline>
+                                                                            </svg> </span>
                                                                         <span
                                                                             class="elementor-icon-list-text">eembranding@gmail.com</span>
                                                                     </a>

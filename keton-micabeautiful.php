@@ -9,8 +9,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
    
-    <main class="main-area">
-        
+    <main class="main-area">   
         <section class="breadcrumb-area-two ">
             <div class="container">
                 <div class="row align-items-center">
@@ -31,7 +30,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
                 <section class="project-details-area">
-            <div class="container">
+                    <div class="container-fluid p-0">
                 <div class="row">
                     <div class="col-12">
                         <div data-elementor-type="wp-post" data-elementor-id="4980" class="elementor elementor-4980">
@@ -39,7 +38,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 class="elementor-section elementor-top-section elementor-element elementor-element-23ec5b3 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                 data-id="23ec5b3" data-element_type="section"
                                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}"
-                               style="width: 1550px; left: -180px;">
+                               >
                                 <div class="elementor-background-overlay"></div>
                                 <div class="elementor-container elementor-column-gap-no">
                                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6b5b917"
@@ -60,7 +59,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
                                                     <p class="elementor-heading-title elementor-size-default">
-                                                        Modern and Abstract Elements Incorporated in sleek geometric patterns and fluid shapes to convey a contemporary aesthetic. Use of abstract forms to hint at the versatility and elegance of laminate products. Utilizing various shades of brown to create depth and warmth, evoking a sense of sophistication and natural beauty. Highlight contrasts to add visual interest and draw attention to the title. "Bright and Beautiful" prominently in a stylish, modern font. Integrate subtle gradients or shadows to enhance readability and make the title stand out against the abstract background, reinforcing the theme of elegance and modernity.                                            </div>
+                                                        Modern and Abstract Elements Incorporated in sleek geometric patterns and fluid shapes to convey a contemporary aesthetic. Use of abstract forms to hint at the versatility and elegance of laminate products. Utilizing various shades of brown to create depth and warmth, evoking a sense of sophistication and natural beauty. Highlight contrasts to add visual interest and draw attention to the title. "Bright and Beautiful" prominently in a stylish, modern font. Integrate subtle gradients or shadows to enhance readability and make the title stand out against the abstract background, reinforcing the theme of elegance and modernity.</div>
+                                            </div>
                                             <div class="elementor-element elementor-element-13f087a elementor-widget__width-auto elementor-absolute elementor-hidden-mobile z-index-plus elementor-widget elementor-widget-bg-shapes animated slideInRight"
                                                 data-id="13f087a" data-element_type="widget"
                                                 data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;slideInRight&quot;}"
@@ -93,6 +93,15 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </div>
                                 </div>
                             </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+             <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div data-elementor-type="wp-post" data-elementor-id="4980" class="elementor elementor-4980">
+                            
                             <section
                                 class="elementor-section elementor-top-section elementor-element elementor-element-8778eb1 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                 data-id="8778eb1" data-element_type="section"

@@ -31,7 +31,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
                 <section class="project-details-area">
-            <div class="container">
+                    <div class="container-fluid p-0">
                 <div class="row">
                     <div class="col-12">
                         <div data-elementor-type="wp-post" data-elementor-id="4980" class="elementor elementor-4980">
@@ -39,7 +39,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 class="elementor-section elementor-top-section elementor-element elementor-element-23ec5b3 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                 data-id="23ec5b3" data-element_type="section"
                                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}"
-                               style="width: 1550px; left: -180px;">
+                               >
                                 <div class="elementor-background-overlay"></div>
                                 <div class="elementor-container elementor-column-gap-no">
                                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6b5b917"
@@ -50,7 +50,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
                                                     <h2 class="elementor-heading-title elementor-size-default">
-                                                        MORBI KING <br>
+                                                       MORBI KING<br>
                                                         <span>In Star</span>
                                                     </h2>
                                                 </div>
@@ -60,7 +60,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
                                                     <p class="elementor-heading-title elementor-size-default">
-                                                        Conceptual Inspiration that conveys a sense of sophistication and modern elegance with a blend of bold and soft color palettes. Visual Elements utilizes a rich royal blue background to exude luxury and depth, contrasting with pastel color boxes to add a contemporary and fresh touch. Typography and Highlighting design the word "Instar" with clean, stylish typography, enhanced by strategically placed pastel color boxes to highlight and draw attention to the title.                                            </div>
+                                                        Conceptual Inspiration that conveys a sense of sophistication and modern elegance with a blend of bold and soft color palettes. Visual Elements utilizes a rich royal blue background to exude luxury and depth, contrasting with pastel color boxes to add a contemporary and fresh touch. Typography and Highlighting design the word "Instar" with clean, stylish typography, enhanced by strategically placed pastel color boxes to highlight and draw attention to the title</div>
+                                            </div>
                                             <div class="elementor-element elementor-element-13f087a elementor-widget__width-auto elementor-absolute elementor-hidden-mobile z-index-plus elementor-widget elementor-widget-bg-shapes animated slideInRight"
                                                 data-id="13f087a" data-element_type="widget"
                                                 data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;slideInRight&quot;}"
@@ -93,6 +94,15 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </div>
                                 </div>
                             </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div data-elementor-type="wp-post" data-elementor-id="4980" class="elementor elementor-4980">
+                            
                             <section
                                 class="elementor-section elementor-top-section elementor-element elementor-element-8778eb1 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                 data-id="8778eb1" data-element_type="section"
