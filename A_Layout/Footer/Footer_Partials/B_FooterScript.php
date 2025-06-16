@@ -8,6 +8,7 @@ echo
 
     <!-- Slick Slider -->
     <script src="https://cdn.jsdelivr.net/npm/slick-carousel/slick/slick.min.js"></script>
+     <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 
     <!-- swiper -->
      <script src="https://eembranding.com/assest/js/slider.js"></script>
