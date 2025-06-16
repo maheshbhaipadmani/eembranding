@@ -1166,7 +1166,7 @@ reset($myaraa);
                 </div>
             </section>
             <section
-                class="custom-displayblock d-none d-md-block elementor-section elementor-top-section elementor-element elementor-element-7a336c0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                class="custom-displayblock d-none  elementor-section elementor-top-section elementor-element elementor-element-7a336c0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                 data-id="7a336c0" data-element_type="section"
                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-background-overlay"></div>
