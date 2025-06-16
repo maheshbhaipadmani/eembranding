@@ -21,9 +21,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                             <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape"
+                                src="https://eembranding.com/assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape"
                                 style="transform:translate3d(0px, 100px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 100px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                            <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
+                            <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
                 </div>
@@ -75,7 +75,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="elementor-widget-container">
                                         <div class="about-img text-end">
                                             <img class="wow fadeInLeft" data-wow-delay=".5s"
-                                                src="./assest/img/service/mobile-app-development/mobile-app.avif"
+                                                src="https://eembranding.com/assest/img/service/mobile-app-development/mobile-app.avif"
                                                   loading="lazy"  alt=""
                                                 style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
 

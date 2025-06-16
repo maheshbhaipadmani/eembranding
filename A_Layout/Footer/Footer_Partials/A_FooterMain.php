@@ -81,7 +81,7 @@ echo
                                                                     <div class="hfe-site-logo-set">
                                                                         <div class="hfe-site-logo-container">
                                                                             <img class="hfe-site-logo-img elementor-animation-"
-                                                                                src="./assest/img/logo/logo-small-white.png"
+                                                                                src="https://eembranding.com/assest/img/logo/logo-small-white.png"
                                                                                 loading="lazy"  alt="logo-small-white">
                                                                         </div>
                                                                     </div>

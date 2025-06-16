@@ -22,8 +22,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                             <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
-                            <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
+                                src="https://eembranding.com/assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
+                            <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
                 </div>
@@ -75,7 +75,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="elementor-widget-container">
                                         <div class="about-img text-end">
                                             <img class="wow fadeInLeft" data-wow-delay=".5s"
-                                                src="./assest/img/service/website-design/Website-Design-&-Development.avif"
+                                                src="https://eembranding.com/assest/img/service/website-design/Website-Design-&-Development.avif"
                                                   loading="lazy"  alt=""
                                                 style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
                                         </div>
@@ -113,7 +113,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <ul class="list-wrap">
                                                 <li>
                                                     <img decoding="async"
-                                                        src="./assest/img/service/check.svg"
+                                                        src="https://eembranding.com/assest/img/service/check.svg"
                                                           loading="lazy"  alt="Icon">
 
                                                     Custom Web Design – We don’t use cookie-cutter templates. Each
@@ -121,7 +121,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </li>
                                                 <li>
                                                     <img decoding="async"
-                                                        src="./assest/img/service/check.svg"
+                                                        src="https://eembranding.com/assest/img/service/check.svg"
                                                           loading="lazy"  alt="Icon">
 
                                                     SEO-Friendly Development – Our websites are optimized for search
@@ -129,7 +129,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </li>
                                                 <li>
                                                     <img decoding="async"
-                                                        src="./assest/img/service/check.svg"
+                                                        src="https://eembranding.com/assest/img/service/check.svg"
                                                           loading="lazy"  alt="Icon">
 
                                                     Mobile Responsiveness – We guarantee that your site will look and
@@ -137,7 +137,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </li>
                                                 <li>
                                                     <img decoding="async"
-                                                        src="./assest/img/service/check.svg"
+                                                        src="https://eembranding.com/assest/img/service/check.svg"
                                                           loading="lazy"  alt="Icon">
 
                                                     Ongoing Support – Our relationship doesn’t end at launch. We offer
@@ -145,7 +145,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 </li>
                                                 <li>
                                                     <img decoding="async"
-                                                        src="./assest/img/service/check.svg"
+                                                        src="https://eembranding.com/assest/img/service/check.svg"
                                                           loading="lazy"  alt="Icon">
 
                                                     Conversion Focused – Our designs are not just about aesthetics. We

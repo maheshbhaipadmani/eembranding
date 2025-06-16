@@ -35,8 +35,8 @@ reset($myaraa);
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                                 <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
-                            <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
+                                src="https://eembranding.com/assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
+                            <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
                 </div>

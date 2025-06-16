@@ -38,7 +38,7 @@ reset($myaraa);
                                 <div class="row">
                                     <ul class="accordion-portfolio-lists text-light" id="accordion">
                                         <li
-                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/01-LAMINATE-CATALOGUE-DESIGN.avif');">
+                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('https://eembranding.com/assest/img/home/hero/01-LAMINATE-CATALOGUE-DESIGN.avif');">
                                             <h3>Laminate Catalogue Design</h3>
                                             <span>01</span>
                                             <div class="accordion-overlay">
@@ -55,7 +55,7 @@ reset($myaraa);
                                             </div>
                                         </li>
                                         <li class="out"
-                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/02-CREATIVE-DESIGNING.avif');">
+                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('https://eembranding.com/assest/img/home/hero/02-CREATIVE-DESIGNING.avif');">
                                             <h3>Creative Designing</h3>
                                             <span>02</span>
                                             <div class="accordion-overlay">
@@ -70,7 +70,7 @@ reset($myaraa);
                                             </div>
                                         </li>
                                         <li
-                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/03-DIGITAL-MARKETING.avif');">
+                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('https://eembranding.com/assest/img/home/hero/03-DIGITAL-MARKETING.avif');">
                                             <h3>Digital Marketing</h3>
                                             <span>03</span>
                                             <div class="accordion-overlay">
@@ -86,7 +86,7 @@ reset($myaraa);
                                             </div>
                                         </li>
                                         <li
-                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/04-WEBSITE-MOBILE.avif');">
+                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('https://eembranding.com/assest/img/home/hero/04-WEBSITE-MOBILE.avif');">
                                             <h3>Website &amp; Mobile</h3>
                                             <span>04</span>
                                             <div class="accordion-overlay">
@@ -115,7 +115,7 @@ reset($myaraa);
                                 <div class="row">
                                     <ul class="accordion-portfolio-lists text-light" id="accordion">
                                         <li
-                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('./assest/img/home/hero/01-LAMINATE-catalogue-design-company-in-ahmedabad.avif');">
+                                            style="background-size:cover; background:linear-gradient(0deg, rgba(255, 0, 150, 0.3), rgba(255, 0, 150, 0.3)), url('https://eembranding.com/assest/img/home/hero/01-LAMINATE-catalogue-design-company-in-ahmedabad.avif');">
                                             <h3>Laminate Catalogue Design</h3>
                                             <span>01</span>
                                             <div class="accordion-overlay">
@@ -133,7 +133,7 @@ reset($myaraa);
                                             </div>
                                         </li>
                                         <li class="out"
-                                            style="background-image: url('./assest/img/home/hero/02-CREATIVE-DESIGNING.avif');">
+                                            style="background-image: url('https://eembranding.com/assest/img/home/hero/02-CREATIVE-DESIGNING.avif');">
                                             <h3>Creative Designing</h3>
                                             <span>02</span>
                                             <div class="accordion-overlay">
@@ -149,7 +149,7 @@ reset($myaraa);
                                             </div>
                                         </li>
                                         <li
-                                            style="background-image: url('./assest/img/home/hero/03-DIGITAL-MARKETING.avif');">
+                                            style="background-image: url('https://eembranding.com/assest/img/home/hero/03-DIGITAL-MARKETING.avif');">
                                             <h3>Digital Marketing</h3>
                                             <span>03</span>
                                             <div class="accordion-overlay">
@@ -166,7 +166,7 @@ reset($myaraa);
                                             </div>
                                         </li>
                                         <li
-                                            style="background-image: url('./assest/img/home/hero/04-WEBSITE-MOBILE.avif');">
+                                            style="background-image: url('https://eembranding.com/assest/img/home/hero/04-WEBSITE-MOBILE.avif');">
                                             <h3>Website &amp; Mobile</h3>
                                             <span>04</span>
                                             <div class="accordion-overlay">
@@ -201,7 +201,7 @@ reset($myaraa);
                             data-widget_type="image.default">
                             <div class="elementor-widget-container">
                                 <img fetchpriority="high" decoding="async" width="512" height="512"
-                                    src="./assest/img/home/icon/3-digital-Marketing.png"
+                                    src="https://eembranding.com/assest/img/home/icon/3-digital-Marketing.png"
                                     class="attachment-large size-large wp-image-5646"   loading="lazy"  alt="">
                             </div>
                         </div>
@@ -328,7 +328,7 @@ reset($myaraa);
                                                 data-widget_type="image.default">
                                                 <div class="elementor-widget-container">
                                                     <img fetchpriority="high" decoding="async" width="512" height="512"
-                                                        src="./assest/img/home/icon/3-digital-Marketing.png"
+                                                        src="https://eembranding.com/assest/img/home/icon/3-digital-Marketing.png"
                                                         class="attachment-large size-large wp-image-5646"   loading="lazy"  alt="">
                                                 </div>
                                             </div>
@@ -349,7 +349,7 @@ reset($myaraa);
                                                 data-widget_type="image.default">
                                                 <div class="elementor-widget-container">
                                                     <img decoding="async" width="58" height="58"
-                                                        src="./assest/img/icon/Untitled-2.png"
+                                                        src="https://eembranding.com/assest/img/icon/Untitled-2.png"
                                                         class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="">
                                                 </div>
                                             </div>
@@ -366,7 +366,7 @@ reset($myaraa);
                                                 style="visibility: hidden; animation-delay: 0s; animation-name: none;">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/icon/3-digital-Marketing.png"
+                                                        src="https://eembranding.com/assest/img/home/icon/3-digital-Marketing.png"
                                                           loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
@@ -388,7 +388,7 @@ reset($myaraa);
                                                 style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/icon/2-creative-design.png"
+                                                        src="https://eembranding.com/assest/img/home/icon/2-creative-design.png"
                                                           loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
@@ -409,7 +409,7 @@ reset($myaraa);
                                                 style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/icon/3-digital-Marketing.png"
+                                                        src="https://eembranding.com/assest/img/home/icon/3-digital-Marketing.png"
                                                           loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
@@ -431,7 +431,7 @@ reset($myaraa);
                                                 style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/icon/4-UIUx.png"
+                                                        src="https://eembranding.com/assest/img/home/icon/4-UIUx.png"
                                                           loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
@@ -454,7 +454,7 @@ reset($myaraa);
                                                 style="visibility: hidden; animation-delay: 0.8s; animation-name: none;">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/icon/5-website-development.png"
+                                                        src="https://eembranding.com/assest/img/home/icon/5-website-development.png"
                                                           loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
@@ -473,7 +473,7 @@ reset($myaraa);
                                                 style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/icon/6-mobile-app.png"
+                                                        src="https://eembranding.com/assest/img/home/icon/6-mobile-app.png"
                                                           loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
@@ -495,7 +495,7 @@ reset($myaraa);
                                                 style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/icon/ExhibitionIcon.png"
+                                                        src="https://eembranding.com/assest/img/home/icon/ExhibitionIcon.png"
                                                           loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
@@ -512,7 +512,7 @@ reset($myaraa);
                                                 style="visibility: hidden; animation-delay: 0.14s; animation-name: none;">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/icon/8-3d-rendering.png"
+                                                        src="https://eembranding.com/assest/img/home/icon/8-3d-rendering.png"
                                                           loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
@@ -533,7 +533,7 @@ reset($myaraa);
                                                 style="visibility: hidden; animation-delay: 0.16s; animation-name: none;">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/icon/9-outdoor-branding.png"
+                                                        src="https://eembranding.com/assest/img/home/icon/9-outdoor-branding.png"
                                                           loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
@@ -558,7 +558,7 @@ reset($myaraa);
                                 data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <img  decoding="async" width="134" height="134"
-                                        src="./assest/img/icon/Untitled-3.png"
+                                        src="https://eembranding.com/assest/img/icon/Untitled-3.png"
                                         class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="">
                                 </div>
                             </div>
@@ -588,7 +588,7 @@ reset($myaraa);
                                                 data-widget_type="image.default">
                                                 <div class="elementor-widget-container">
                                                     <img decoding="async" width="58" height="58"
-                                                        src="./assest/img/icon/Untitled-2.png"
+                                                        src="https://eembranding.com/assest/img/icon/Untitled-2.png"
                                                         class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="">
                                                 </div>
                                             </div>
@@ -614,12 +614,12 @@ reset($myaraa);
                                                                     data-wow-delay=".1s"
                                                                     style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                                     <img decoding="async"
-                                                                        src="./assest/img/home/catalogue/00-Thumbnail-8.avif"
+                                                                        src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-8.avif"
                                                                           loading="lazy"  alt="Image">
                                                                     <a href="portfolio/moonshineenchanting"
                                                                         class="link-icon">
                                                                         <img decoding="async"
-                                                                            src="./assest/img/home/icon/arrow-right.svg"
+                                                                            src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                                                               loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
@@ -629,11 +629,11 @@ reset($myaraa);
                                                                     data-wow-delay=".2s"
                                                                     style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                     <img decoding="async"
-                                                                        src="./assest/img/home/catalogue/00-Thumbnail-11.avif"
+                                                                        src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-11.avif"
                                                                           loading="lazy"  alt="Image">
                                                                     <a href="portfolio/fabrino-fabric" class="link-icon">
                                                                         <img decoding="async"
-                                                                            src="./assest/img/home/icon/arrow-right.svg"
+                                                                            src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                                                               loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
@@ -643,12 +643,12 @@ reset($myaraa);
                                                                     data-wow-delay=".3s"
                                                                     style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
                                                                     <img decoding="async"
-                                                                        src="./assest/img/home/catalogue/00-Thumbnail-7.avif"
+                                                                        src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-7.avif"
                                                                           loading="lazy"  alt="Image">
                                                                     <a href="portfolio/dazzle-berryenpastel"
                                                                         class="link-icon">
                                                                         <img decoding="async"
-                                                                            src="./assest/img/home/icon/arrow-right.svg"
+                                                                            src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                                                               loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
@@ -658,11 +658,11 @@ reset($myaraa);
                                                                     data-wow-delay=".4s"
                                                                     style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
                                                                     <img decoding="async"
-                                                                        src="./assest/img/home/catalogue/00-Thumbnail-12.avif"
+                                                                        src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-12.avif"
                                                                           loading="lazy"  alt="Image">
                                                                     <a href="portfolio/ranwood-rega" class="link-icon">
                                                                         <img decoding="async"
-                                                                            src="./assest/img/home/icon/arrow-right.svg"
+                                                                            src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                                                               loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
@@ -672,11 +672,11 @@ reset($myaraa);
                                                                     data-wow-delay=".5s"
                                                                     style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
                                                                     <img decoding="async"
-                                                                        src="./assest/img/home/catalogue/00-Thumbnail.avif"
+                                                                        src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail.avif"
                                                                           loading="lazy"  alt="Image">
                                                                     <a href="portfolio/kooyoo-enchanting" class="link-icon">
                                                                         <img decoding="async"
-                                                                            src="./assest/img/home/icon/arrow-right.svg"
+                                                                            src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                                                               loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
@@ -686,12 +686,12 @@ reset($myaraa);
                                                                     data-wow-delay=".6s"
                                                                     style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
                                                                     <img decoding="async"
-                                                                        src="./assest/img/home/catalogue/00-Thumbnail-3.avif"
+                                                                        src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-3.avif"
                                                                           loading="lazy"  alt="Image">
                                                                     <a href="portfolio/kiana"
                                                                         class="link-icon">
                                                                         <img decoding="async"
-                                                                            src="./assest/img/home/icon/arrow-right.svg"
+                                                                            src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                                                               loading="lazy"  alt="Icon">
                                                                     </a>
                                                                 </div>
@@ -746,7 +746,7 @@ reset($myaraa);
                                 data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <img  decoding="async" width="134" height="134"
-                                        src="./assest/img/icon/Untitled-3.png"
+                                        src="https://eembranding.com/assest/img/icon/Untitled-3.png"
                                         class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="">
                                 </div>
                             </div>
@@ -805,7 +805,7 @@ reset($myaraa);
                                 data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <img decoding="async" width="58" height="58"
-                                        src="./assest/img/icon/Untitled-2.png"
+                                        src="https://eembranding.com/assest/img/icon/Untitled-2.png"
                                         class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="" />
                                 </div>
                             </div>
@@ -815,7 +815,7 @@ reset($myaraa);
                                 data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <img  decoding="async" width="134" height="134"
-                                        src="./assest/img/icon/Untitled-3.png"
+                                        src="https://eembranding.com/assest/img/icon/Untitled-3.png"
                                         class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="" />
                                 </div>
                             </div>
@@ -894,12 +894,12 @@ reset($myaraa);
                                             <div class="testimonial-item">
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/placeholder.png"
+                                                        src="https://eembranding.com/assest/img/home/placeholder.png"
                                                           loading="lazy"  alt="">
 
                                                     <div class="icon">
                                                         <img decoding="async"
-                                                            src="./assest/img/home/placeholder.png"
+                                                            src="https://eembranding.com/assest/img/home/placeholder.png"
                                                               loading="lazy"  alt="Icon">
                                                     </div>
                                                 </div>
@@ -918,12 +918,12 @@ reset($myaraa);
                                             <div class="testimonial-item">
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/placeholder.png"
+                                                        src="https://eembranding.com/assest/img/home/placeholder.png"
                                                           loading="lazy"  alt="">
 
                                                     <div class="icon">
                                                         <img decoding="async"
-                                                            src="./assest/img/home/placeholder.png"
+                                                            src="https://eembranding.com/assest/img/home/placeholder.png"
                                                               loading="lazy"  alt="Icon">
                                                     </div>
                                                 </div>
@@ -944,12 +944,12 @@ reset($myaraa);
                                             <div class="testimonial-item">
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/placeholder.png"
+                                                        src="https://eembranding.com/assest/img/home/placeholder.png"
                                                           loading="lazy"  alt="">
 
                                                     <div class="icon">
                                                         <img decoding="async"
-                                                            src="./assest/img/home/placeholder.png"
+                                                            src="https://eembranding.com/assest/img/home/placeholder.png"
                                                               loading="lazy"  alt="Icon">
                                                     </div>
                                                 </div>
@@ -968,12 +968,12 @@ reset($myaraa);
                                             <div class="testimonial-item">
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/placeholder.png"
+                                                        src="https://eembranding.com/assest/img/home/placeholder.png"
                                                           loading="lazy"  alt="">
 
                                                     <div class="icon">
                                                         <img decoding="async"
-                                                            src="./assest/img/home/placeholder.png"
+                                                            src="https://eembranding.com/assest/img/home/placeholder.png"
                                                               loading="lazy"  alt="Icon">
                                                     </div>
                                                 </div>
@@ -991,12 +991,12 @@ reset($myaraa);
                                             <div class="testimonial-item">
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/placeholder.png"
+                                                        src="https://eembranding.com/assest/img/home/placeholder.png"
                                                           loading="lazy"  alt="">
 
                                                     <div class="icon">
                                                         <img decoding="async"
-                                                            src="./assest/img/home/placeholder.png"
+                                                            src="https://eembranding.com/assest/img/home/placeholder.png"
                                                               loading="lazy"  alt="Icon">
                                                     </div>
                                                 </div>
@@ -1057,7 +1057,7 @@ reset($myaraa);
                                                     <a
                                                         href="blogs-graphic-design">
                                                         <img  decoding="async" width="1200" height="800"
-                                                            src="./assest/img/blogs/Blog-Graphic-design.jpg"
+                                                            src="https://eembranding.com/assest/img/blogs/Blog-Graphic-design.jpg"
                                                             class="attachment-7100 size-7100 wp-post-image"   loading="lazy"  alt=""
                                                             full="" /> </a>
                                                 </div>
@@ -1084,7 +1084,7 @@ reset($myaraa);
                                                     <a
                                                         href="blogs-powerful-branding-strategies">
                                                         <img  decoding="async" width="1200" height="800"
-                                                            src="./assest/img/blogs/1banner-4.jpg"
+                                                            src="https://eembranding.com/assest/img/blogs/1banner-4.jpg"
                                                             class="attachment-7088 size-7088 wp-post-image"   loading="lazy"  alt=""
                                                             full="" /> </a>
                                                 </div>
@@ -1111,7 +1111,7 @@ reset($myaraa);
                                                     <a
                                                         href="blogs-rendering">
                                                         <img  decoding="async" width="1200" height="800"
-                                                            src="./assest/img/blogs/2Blog-5.jpg"
+                                                            src="https://eembranding.com/assest/img/blogs/2Blog-5.jpg"
                                                             class="attachment-7075 size-7075 wp-post-image"   loading="lazy"  alt=""
                                                             full="" /> </a>
                                                 </div>
@@ -1138,7 +1138,7 @@ reset($myaraa);
                                                     <a
                                                         href="blogs-best-laminate-catalogue">
                                                         <img  decoding="async" width="1200" height="800"
-                                                            src="./assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
+                                                            src="https://eembranding.com/assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
                                                             class="attachment-7056 size-7056 wp-post-image"   loading="lazy"  alt=""
                                                             full="" /> </a>
                                                 </div>
@@ -1311,7 +1311,7 @@ reset($myaraa);
                                         </div>
                                         <div class="newsletter-img">
                                             <img decoding="async"
-                                                src="./assest/img/home/newslettar_img.png"
+                                                src="https://eembranding.com/assest/img/home/newslettar_img.png"
                                                   loading="lazy"  alt="Image" class="wow fadeInRight wp-content-newslettar"
                                                 data-wow-delay=".2s">
                                         </div>
@@ -1334,24 +1334,24 @@ reset($myaraa);
                                 data-id="655bd03" data-element_type="widget" data-widget_type="brand.default">
                                 <div class="elementor-widget-container">
                                     <div class="brand-slider protfolio-slider">
-                                        <div><img src="./assest/img/portfolio/logo/liventa.png"   loading="lazy"  alt="Brand 1"></div>
-                                        <div><img src="./assest/img/portfolio/logo/nalisha.png"   loading="lazy"  alt="Brand 2"></div>    
-                                        <div><img src="./assest/img/portfolio/logo/nelson.png"   loading="lazy"  alt="Brand 3"></div>
-                                        <div><img src="./assest/img/portfolio/logo/sun-touch.png"   loading="lazy"  alt="Brand 4"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bite-bazzar.png"   loading="lazy"  alt="Brand 5"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bravio.png"   loading="lazy"  alt="Brand 6"></div>
-                                        <div><img src="./assest/img/portfolio/logo/durian.png"   loading="lazy"  alt="Brand 7"></div>
-                                        <div><img src="./assest/img/portfolio/logo/edicon.png"   loading="lazy"  alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/iscon.png"   loading="lazy"  alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/liventa.png"   loading="lazy"  alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/nalisha.png"   loading="lazy"  alt="Brand 2"></div>
-                                        <div><img src="./assest/img/portfolio/logo/nelson.png"   loading="lazy"  alt="Brand 3"></div>
-                                        <div><img src="./assest/img/portfolio/logo/sun-touch.png"   loading="lazy"  alt="Brand 4"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bite-bazzar.png"   loading="lazy"  alt="Brand 5"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bravio.png"   loading="lazy"  alt="Brand 6"></div>
-                                        <div><img src="./assest/img/portfolio/logo/durian.png"   loading="lazy"  alt="Brand 7"></div>
-                                        <div><img src="./assest/img/portfolio/logo/edicon.png"   loading="lazy"  alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/iscon.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/liventa.png"   loading="lazy"  alt="Brand 1"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png"   loading="lazy"  alt="Brand 2"></div>    
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/nelson.png"   loading="lazy"  alt="Brand 3"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png"   loading="lazy"  alt="Brand 4"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png"   loading="lazy"  alt="Brand 5"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/bravio.png"   loading="lazy"  alt="Brand 6"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/durian.png"   loading="lazy"  alt="Brand 7"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/edicon.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/iscon.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/liventa.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png"   loading="lazy"  alt="Brand 2"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/nelson.png"   loading="lazy"  alt="Brand 3"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png"   loading="lazy"  alt="Brand 4"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png"   loading="lazy"  alt="Brand 5"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/bravio.png"   loading="lazy"  alt="Brand 6"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/durian.png"   loading="lazy"  alt="Brand 7"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/edicon.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/iscon.png"   loading="lazy"  alt="Brand 8"></div>
                                     </div>
                                 </div>
                             </div>

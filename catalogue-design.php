@@ -22,8 +22,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="col-lg-5">
                     <div class="breadcrumb-shape">
                         <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                            src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
-                        <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
+                            src="https://eembranding.com/assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
+                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                     </div>
                 </div>
             </div>
@@ -84,7 +84,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-widget-container">
                                     <div class="about-img text-end">
                                         <img class="wow fadeInLeft" data-wow-delay=".5s"
-                                            src="./assest/img/service/catalogue-design/Laminate-catalouge-design-mordern.avif"
+                                            src="https://eembranding.com/assest/img/service/catalogue-design/Laminate-catalouge-design-mordern.avif"
                                               loading="lazy"  alt=""
                                             style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
                                     </div>
@@ -103,17 +103,17 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="about-list">
                                         <ul class="list-wrap">
                                             <li>
-                                                <img decoding="async" src="./assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
 
                                                 Showcases products effectively
                                             </li>
                                             <li>
-                                                <img decoding="async" src="./assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
 
                                                 Enhances brand image
                                             </li>
                                             <li>
-                                                <img decoding="async" src="./assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
 
                                                 Increases sales and customer engagement
                                             </li>
@@ -157,17 +157,17 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="about-list">
                                         <ul class="list-wrap">
                                             <li>
-                                                <img decoding="async" src="./assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
 
                                                 Showcases products effectively
                                             </li>
                                             <li>
-                                                <img decoding="async" src="./assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
 
                                                 Enhances brand image
                                             </li>
                                             <li>
-                                                <img decoding="async" src="./assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
 
                                                 Increases sales and customer engagement
                                             </li>

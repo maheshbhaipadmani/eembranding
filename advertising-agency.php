@@ -24,9 +24,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                             <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape"
+                                src="https://eembranding.com/assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape"
                                 style="transform:translate3d(0px, 42.023px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 42.023px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                            <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
+                            <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
                 </div>
@@ -78,7 +78,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="elementor-widget-container">
                                         <div class="about-img text-end">
                                             <img class="wow fadeInLeft" data-wow-delay=".5s"
-                                                src="./assest/img/service/advertising-agency/Advertising-Agency.avif"
+                                                src="https://eembranding.com/assest/img/service/advertising-agency/Advertising-Agency.avif"
                                                   loading="lazy"  alt=""
                                                 style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
 
@@ -108,23 +108,23 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         <div class="about-list">
                                             <ul class="list-wrap">
                                                 <li>
-                                                    <img decoding="async" src="./assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                    <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
 
                                                     Ad Campaigns –  Creative campaigns that capture attention and generate leads.
 
                                                 </li>
                                                 <li>
-                                                    <img decoding="async" src="./assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                    <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
 
                                                     Branding Solutions –  Building a strong, memorable brand that resonates with your audience.
                                                 </li>
                                                 <li>
-                                                    <img decoding="async" src="./assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                    <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
 
                                                     Outdoor Advertising in Ahmedabad –  Large-scale, impactful advertising through billboards and hoardings.
                                                 </li>
                                                 <li>
-                                                    <img decoding="async" src="./assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                    <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
 
                                                     Targeted Digital Ads –  Data-driven online campaigns that maximize your reach and ROI.
                                                 </li>

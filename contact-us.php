@@ -21,8 +21,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                             <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
-                            <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
+                                src="https://eembranding.com/assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
+                            <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
                 </div>
@@ -46,7 +46,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="contact-info-item">
                                                 <div class="icon">
                                                     <img decoding="async"
-                                                        src="./assest/img/contact/phone.png"
+                                                        src="https://eembranding.com/assest/img/contact/phone.png"
                                                           loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="content">
@@ -58,7 +58,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="contact-info-item">
                                                 <div class="icon">
                                                     <img decoding="async"
-                                                        src="./assest/img/contact/email.png"
+                                                        src="https://eembranding.com/assest/img/contact/email.png"
                                                           loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="content">
@@ -70,7 +70,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             <div class="contact-info-item">
                                                 <div class="icon">
                                                     <img decoding="async"
-                                                        src="./assest/img/contact/address.png"
+                                                        src="https://eembranding.com/assest/img/contact/address.png"
                                                           loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="content">
@@ -108,7 +108,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 data-widget_type="image.default">
                                                 <div class="elementor-widget-container">
                                                     <img fetchpriority="high" decoding="async" width="514" height="481"
-                                                        src="./assest/img/contact/contact_img.png"
+                                                        src="https://eembranding.com/assest/img/contact/contact_img.png"
                                                         class="attachment-full size-full wp-image-1081"   loading="lazy"  alt="">
                                                 </div>
                                             </div>
@@ -180,7 +180,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </section>
         </div>
 
-<script src="./assest/js/Contact-mail.js"></script>
+<script src="https://eembranding.com/assest/js/Contact-mail.js"></script>
 
 <style>
     .form-error {

@@ -24,7 +24,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <img decoding="async" width="58" height="58"
-                                        src="./assest/img/icon/Untitled-2.png"
+                                        src="https://eembranding.com/assest/img/icon/Untitled-2.png"
                                         class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="">
                                 </div>
                             </div>
@@ -34,7 +34,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <img decoding="async" width="134" height="134"
-                                        src="./assest/img/icon/Untitled-3.png"
+                                        src="https://eembranding.com/assest/img/icon/Untitled-3.png"
                                         class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="">
                                 </div>
                             </div>
@@ -72,7 +72,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 data-id="3ba1cb7" data-element_type="widget" data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <img  decoding="async" width="500" height="500"
-                                        src="./assest/img/service/main/branding_and_designing_Services.png"
+                                        src="https://eembranding.com/assest/img/service/main/branding_and_designing_Services.png"
                                         class="attachment-full size-full wp-image-6148"   loading="lazy"  alt="">
                                 </div>
                             </div>
@@ -117,7 +117,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 data-widget_type="image.default">
                                 <div class="elementor-widget-container">
                                     <img  decoding="async" width="512" height="512"
-                                        src="./assest/img/service/main/2-creative-design.png"
+                                        src="https://eembranding.com/assest/img/service/main/2-creative-design.png"
                                         class="attachment-full size-full wp-image-5654"   loading="lazy"  alt="">
                                 </div>
                             </div>
@@ -143,7 +143,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="services-item-two wow fadeInUp" data-wow-delay=".0s"
                                         style="visibility: visible; animation-delay: 0s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
-                                            <img decoding="async" src="./assest/img/service/main/icon/1-catalog.png"
+                                            <img decoding="async" src="https://eembranding.com/assest/img/service/main/icon/1-catalog.png"
                                                   loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
@@ -164,7 +164,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async"
-                                                src="./assest/img/service/main/icon/2-creative-design.png"   loading="lazy"  alt="Icon">
+                                                src="https://eembranding.com/assest/img/service/main/icon/2-creative-design.png"   loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
                                             <h2 class="title">
@@ -183,7 +183,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async"
-                                                src="./assest/img/service/main/icon/3-digital-Marketing.png"   loading="lazy"  alt="Icon">
+                                                src="https://eembranding.com/assest/img/service/main/icon/3-digital-Marketing.png"   loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
                                             <h2 class="title">
@@ -202,7 +202,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="services-item-two wow fadeInUp" data-wow-delay=".6s"
                                         style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
-                                            <img decoding="async" src="./assest/img/service/main/icon/4-UIUx.png"
+                                            <img decoding="async" src="https://eembranding.com/assest/img/service/main/icon/4-UIUx.png"
                                                   loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
@@ -224,7 +224,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async"
-                                                src="./assest/img/service/main/icon/5-website-development.png"
+                                                src="https://eembranding.com/assest/img/service/main/icon/5-website-development.png"
                                                   loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
@@ -242,7 +242,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="services-item-two wow fadeInUp" data-wow-delay=".10s"
                                         style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
-                                            <img decoding="async" src="./assest/img/service/main/icon/6-mobile-app.png"
+                                            <img decoding="async" src="https://eembranding.com/assest/img/service/main/icon/6-mobile-app.png"
                                                   loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
@@ -263,7 +263,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                 <div class="services-icon-two">
                                                     <img decoding="async"
-                                                        src="./assest/img/home/icon/ExhibitionIcon.png"
+                                                        src="https://eembranding.com/assest/img/home/icon/ExhibitionIcon.png"
                                                           loading="lazy"  alt="Icon">
                                                 </div>
                                                 <div class="services-content-two">
@@ -280,7 +280,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         style="visibility: visible; animation-delay: 0.14s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async"
-                                                src="./assest/img/service/main/icon/8-3d-rendering.png"   loading="lazy"  alt="Icon">
+                                                src="https://eembranding.com/assest/img/service/main/icon/8-3d-rendering.png"   loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
                                             <h2 class="title">
@@ -299,7 +299,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         style="visibility: visible; animation-delay: 0.16s; animation-name: fadeInUp;">
                                         <div class="services-icon-two">
                                             <img decoding="async"
-                                                src="./assest/img/service/main/icon/9-outdoor-branding.png"   loading="lazy"  alt="Icon">
+                                                src="https://eembranding.com/assest/img/service/main/icon/9-outdoor-branding.png"   loading="lazy"  alt="Icon">
                                         </div>
                                         <div class="services-content-two">
                                             <h2 class="title">
@@ -345,7 +345,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         </div>
                                         <div class="newsletter-img">
                                             <img decoding="async"
-                                                src="./assest/img/home/newslettar_img.png"
+                                                src="https://eembranding.com/assest/img/home/newslettar_img.png"
                                                   loading="lazy"  alt="Image" class="wow fadeInRight wp-content-newslettar"
                                                 data-wow-delay=".2s">
                                         </div>
@@ -370,24 +370,24 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                     <!-- Brand Logo Slider -->
                                     <div class="brand-slider protfolio-slider">
-                                        <div><img src="./assest/img/portfolio/logo/liventa.png"   loading="lazy"  alt="Brand 1"></div>
-                                        <div><img src="./assest/img/portfolio/logo/nalisha.png"   loading="lazy"  alt="Brand 2"></div>
-                                        <div><img src="./assest/img/portfolio/logo/nelson.png"   loading="lazy"  alt="Brand 3"></div>
-                                        <div><img src="./assest/img/portfolio/logo/sun-touch.png"   loading="lazy"  alt="Brand 4"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bite-bazzar.png"   loading="lazy"  alt="Brand 5"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bravio.png"   loading="lazy"  alt="Brand 6"></div>
-                                        <div><img src="./assest/img/portfolio/logo/durian.png"   loading="lazy"  alt="Brand 7"></div>
-                                        <div><img src="./assest/img/portfolio/logo/edicon.png"   loading="lazy"  alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/iscon.png"   loading="lazy"  alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/liventa.png"   loading="lazy"  alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/nalisha.png"   loading="lazy"  alt="Brand 2"></div>
-                                        <div><img src="./assest/img/portfolio/logo/nelson.png"   loading="lazy"  alt="Brand 3"></div>
-                                        <div><img src="./assest/img/portfolio/logo/sun-touch.png"   loading="lazy"  alt="Brand 4"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bite-bazzar.png"   loading="lazy"  alt="Brand 5"></div>
-                                        <div><img src="./assest/img/portfolio/logo/bravio.png"   loading="lazy"  alt="Brand 6"></div>
-                                        <div><img src="./assest/img/portfolio/logo/durian.png"   loading="lazy"  alt="Brand 7"></div>
-                                        <div><img src="./assest/img/portfolio/logo/edicon.png"   loading="lazy"  alt="Brand 8"></div>
-                                        <div><img src="./assest/img/portfolio/logo/iscon.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/liventa.png"   loading="lazy"  alt="Brand 1"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png"   loading="lazy"  alt="Brand 2"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/nelson.png"   loading="lazy"  alt="Brand 3"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png"   loading="lazy"  alt="Brand 4"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png"   loading="lazy"  alt="Brand 5"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/bravio.png"   loading="lazy"  alt="Brand 6"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/durian.png"   loading="lazy"  alt="Brand 7"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/edicon.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/iscon.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/liventa.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png"   loading="lazy"  alt="Brand 2"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/nelson.png"   loading="lazy"  alt="Brand 3"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png"   loading="lazy"  alt="Brand 4"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png"   loading="lazy"  alt="Brand 5"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/bravio.png"   loading="lazy"  alt="Brand 6"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/durian.png"   loading="lazy"  alt="Brand 7"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/edicon.png"   loading="lazy"  alt="Brand 8"></div>
+                                        <div><img src="https://eembranding.com/assest/img/portfolio/logo/iscon.png"   loading="lazy"  alt="Brand 8"></div>
                                     </div>
                                 </div>
                             </div>
