@@ -1392,6 +1392,13 @@ reset($myaraa);
     <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png" alt="Bite Bazzar"></div>
     <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/bravio.png" alt="Bravio"></div>
     <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/durian.png" alt="Durian"></div>
+    <!-- Repeating again for infinite feel -->
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png" alt="Nalisha"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/nelson.png" alt="Nelson"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png" alt="Sun Touch"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png" alt="Bite Bazzar"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/bravio.png" alt="Bravio"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/durian.png" alt="Durian"></div>
   </div>
 </div>
         <!-- Slick JS -->
