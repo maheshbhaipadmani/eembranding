@@ -48108,9 +48108,10 @@ label {
     box-shadow: 0 10px 15px rgb(25 25 25/.1)
 }
 
+
 #header-fixed-height.active-height {
-    display: block;
-    height: 96px
+    display: block !important;
+    height: 96px !important;
 }
 
 .menu-area.menu-area-two .navbar-wrap>ul {
@@ -53634,9 +53635,11 @@ ul .comment-respond {
     }
 
     .menu-area {
-        padding: 25px 0
+        padding: 24px 0
     }
-
+    .sticky-menu{
+        width: 25% !important;
+    }
     .menu-nav {
         justify-content: space-between
     }
@@ -53659,7 +53662,7 @@ ul .comment-respond {
     .section-title .title br {
         display: none
     }
-
+    
     .banner-area {
         padding: 140px 0 110px
     }
