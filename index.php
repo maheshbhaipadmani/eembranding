@@ -824,14 +824,14 @@ reset($myaraa);
                 </div>
             </section>
             <section
-                class=" elementor-section elementor-top-section elementor-element elementor-element-7a336c0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                class="custom-displaynone elementor-section elementor-top-section elementor-element elementor-element-7a336c0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                 data-id="7a336c0" data-element_type="section"
                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-background-overlay"></div>
                 <div class="elementor-container elementor-column-gap-no">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a63ca7e"
                         data-id="a63ca7e" data-element_type="column">
-                        <div class="custom-displaynone elementor-widget-wrap elementor-element-populated">
+                        <div class=" elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-77f1b1d test-bg elementor-widget elementor-widget-testimonial"
                                 data-id="77f1b1d" data-element_type="widget" data-widget_type="testimonial.default">
                                 <div class="elementor-widget-container">
@@ -1161,7 +1161,19 @@ reset($myaraa);
                                 </div>
                             </div> -->
                         </div>
-                        <div class="custom-displayblock secondphoneview-container">
+                        
+                    </div>
+                </div>
+            </section>
+            <section
+                class="custom-displayblock d-none d-md-block elementor-section elementor-top-section elementor-element elementor-element-7a336c0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                data-id="7a336c0" data-element_type="section"
+                data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="elementor-background-overlay"></div>
+                <div class="elementor-container elementor-column-gap-no">
+                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a63ca7e"
+                        data-id="a63ca7e" data-element_type="column">
+                        <div class=" secondphoneview-container">
                              <div class="secondphoneview-testimonials-slider" id="secondphoneview-slider">
                                  <div class="secondphoneview-testimonials-track" id="secondphoneview-track">
                                      <div class="secondphoneview-testimonial-card">
@@ -1198,6 +1210,7 @@ reset($myaraa);
                                  <button class="secondphoneview-nav-btn" id="secondphoneview-nextBtn">›</button>
                              </div>
                          </div>
+                        
                     </div>
                 </div>
             </section>
@@ -1359,7 +1372,7 @@ reset($myaraa);
                 </div>
             </section>
              <!-- Brand Logo Slider -->
-            <section
+            <!-- <section
                 class="elementor-section elementor-top-section elementor-element elementor-element-f79ea92 elementor-section-boxed elementor-section-height-default elementor-section-height-default custom-bottom-paddign"
                 data-id="f79ea92" data-element_type="section">
                 <div class="elementor-container elementor-column-gap-no">
@@ -1394,7 +1407,7 @@ reset($myaraa);
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
         </div>
 
         <!-- Slick JS -->

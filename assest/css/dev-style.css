@@ -1021,7 +1021,7 @@ body.mobile-menu-active {
     display: none !important; /* Hide this element by default */
 }
 
-@media (min-width: 768px) { /* Applies to screens 768px and wider */
+@media (max-width: 768px) { /* Applies to screens 768px and wider */
     .custom-displayblock {
         display: block !important; /* Show this element on larger screens */
     }

@@ -5,7 +5,7 @@ echo
 <html lang="en">
 
 <head>
-<base href="https://localhost/eembranding/eembranding/">
+<base href="https://eembranding.com/">
 
 <meta charset="utf-8" />
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
