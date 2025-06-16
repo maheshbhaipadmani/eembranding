@@ -14,7 +14,8 @@ echo
     <link rel="apple-touch-icon"
         href="https://eembranding.com/assest/img/logo/cropped-cropped-logo-small-180x180.png">
     <!-- favicon -->
-
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://eembranding.com/assest/css/dev-style.css">
     <link rel="stylesheet" href="https://eembranding.com/assest/css/responsive.css">
     <link rel="stylesheet" href="https://eembranding.com/assest/css/whatsapp.css">
@@ -22,6 +23,7 @@ echo
     <!-- font awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" id="min-header-0-css"  href="https://eembranding.com/assest/css/minify-header-1986386b.min.css"  type="text/css" media="all">
+   
      <!-- Google Tag Manager -->
     <script>
         (function(w,d,s,l,i){

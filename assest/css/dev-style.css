@@ -792,3 +792,237 @@ body.mobile-menu-active {
     }
 }
 
+
+ .secondphoneview-container {
+            max-width: 900px;
+            width: 100%;
+            position: relative;
+        }
+
+        .secondphoneview-testimonials-slider {
+            position: relative;
+            overflow: hidden;
+            border-radius: 24px;
+        }
+
+        .secondphoneview-testimonials-track {
+            display: flex;
+            transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            width: 300%; /* 3 cards * 100% */
+        }
+
+        .secondphoneview-testimonial-card {
+            flex: 0 0 33.333%; /* Each card takes 1/3 of track width */
+            background: rgba(255, 192, 203, 0.3);
+            backdrop-filter: blur(10px);
+            border-radius: 24px;
+            padding: 40px 32px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            position: relative;
+            overflow: hidden;
+            min-height: 280px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .secondphoneview-testimonial-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+        }
+
+        .secondphoneview-testimonial-text {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #6b7280;
+            font-style: italic;
+            margin-bottom: 32px;
+            text-align: center;
+        }
+
+        .secondphoneview-company-name {
+            font-size: 24px;
+            font-weight: 700;
+            color: #1f2937;
+            text-align: center;
+            letter-spacing: -0.025em;
+        }
+
+        .secondphoneview-navigation {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 32px;
+            width: 100%;
+        }
+
+        .secondphoneview-nav-btn {
+            background: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            width: 48px;
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            color: #374151;
+            font-size: 18px;
+            user-select: none;
+        }
+
+        .secondphoneview-nav-btn:hover {
+            background: rgba(255, 255, 255, 0.4);
+            transform: scale(1.05);
+        }
+
+        .secondphoneview-nav-btn:active {
+            transform: scale(0.95);
+        }
+
+        .secondphoneview-nav-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .secondphoneview-pagination {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .secondphoneview-pagination-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .secondphoneview-pagination-dot.active {
+            background: #ef4444;
+            transform: scale(1.2);
+        }
+
+        .secondphoneview-pagination-dot:hover {
+            background: rgba(239, 68, 68, 0.6);
+        }
+
+        /* Phone specific styles */
+        @media (max-width: 768px) {
+            body {
+                padding: 16px;
+            }
+
+            .secondphoneview-testimonial-card {
+                padding: 32px 24px;
+                border-radius: 20px;
+                min-height: 320px;
+            }
+
+            .secondphoneview-testimonial-text {
+                font-size: 16px;
+                margin-bottom: 24px;
+            }
+
+            .secondphoneview-company-name {
+                font-size: 20px;
+            }
+
+            .secondphoneview-nav-btn {
+                width: 44px;
+                height: 44px;
+                font-size: 16px;
+            }
+
+            .secondphoneview-navigation {
+                margin-top: 24px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .secondphoneview-testimonial-card {
+                padding: 28px 20px;
+                min-height: 300px;
+            }
+
+            .secondphoneview-testimonial-text {
+                font-size: 15px;
+                line-height: 1.5;
+            }
+
+            .secondphoneview-company-name {
+                font-size: 18px;
+            }
+
+            .secondphoneview-nav-btn {
+                width: 40px;
+                height: 40px;
+                font-size: 14px;
+            }
+        }
+
+        /* Touch swipe indicator */
+        .secondphoneview-touch-indicator {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            color: rgba(107, 114, 128, 0.6);
+            font-size: 12px;
+            pointer-events: none;
+        }
+
+        /* Animation classes */
+        .secondphoneview-slide-enter {
+            opacity: 0;
+            transform: translateX(20px);
+        }
+
+        .secondphoneview-slide-enter-active {
+            opacity: 1;
+            transform: translateX(0);
+            transition: all 0.3s ease;
+        }
+
+        @media (max-width: 768px) {
+            .secondphoneview-touch-indicator {
+                display: block;
+            }
+        }
+
+        @media (min-width: 769px) {
+            .secondphoneview-touch-indicator {
+                display: none;
+            }
+        }
+
+
+.custom-displaynone {
+    display: block; /* Or whatever default display you need */
+}
+
+@media (max-width: 767px) { /* Applies to screens smaller than 768px */
+    .custom-displaynone {
+        display: none !important; /* Hide this element on small screens */
+    }
+}
+
+/* By default, elements with custom-displayblock are hidden, and then shown on screens 768px and up */
+.custom-displayblock {
+    display: none !important; /* Hide this element by default */
+}
+
+@media (min-width: 768px) { /* Applies to screens 768px and wider */
+    .custom-displayblock {
+        display: block !important; /* Show this element on larger screens */
+    }
+}

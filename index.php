@@ -824,14 +824,14 @@ reset($myaraa);
                 </div>
             </section>
             <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-7a336c0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                class=" elementor-section elementor-top-section elementor-element elementor-element-7a336c0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                 data-id="7a336c0" data-element_type="section"
                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-background-overlay"></div>
                 <div class="elementor-container elementor-column-gap-no">
                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a63ca7e"
                         data-id="a63ca7e" data-element_type="column">
-                        <div class="elementor-widget-wrap elementor-element-populated">
+                        <div class="custom-displaynone elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-77f1b1d test-bg elementor-widget elementor-widget-testimonial"
                                 data-id="77f1b1d" data-element_type="widget" data-widget_type="testimonial.default">
                                 <div class="elementor-widget-container">
@@ -890,7 +890,7 @@ reset($myaraa);
                                     </script>
 
                                     <div class="row testimonial-active">
-                                        <div class="col-lg-6">
+                                        <div class="col-lg-6 custom-sider-width">
                                             <div class="testimonial-item">
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
@@ -914,7 +914,7 @@ reset($myaraa);
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-6">
+                                        <div class="col-lg-6 custom-sider-width">
                                             <div class="testimonial-item">
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
@@ -940,7 +940,7 @@ reset($myaraa);
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-6">
+                                        <div class="col-lg-6 custom-sider-width">
                                             <div class="testimonial-item">
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
@@ -964,7 +964,7 @@ reset($myaraa);
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-6">
+                                        <div class="col-lg-6 custom-sider-width">
                                             <div class="testimonial-item">
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
@@ -987,7 +987,7 @@ reset($myaraa);
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-6">
+                                        <div class="col-lg-6 custom-sider-width">
                                             <div class="testimonial-item">
                                                 <div class="testimonial-avatar">
                                                     <img decoding="async"
@@ -1011,8 +1011,6 @@ reset($myaraa);
                                             </div>
                                         </div>
                                     </div>
-
-
                                 </div>
                             </div>
                             <!-- <div class="elementor-element elementor-element-19896c7 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-text-editor"
@@ -1163,9 +1161,47 @@ reset($myaraa);
                                 </div>
                             </div> -->
                         </div>
+                        <div class="custom-displayblock secondphoneview-container">
+                             <div class="secondphoneview-testimonials-slider" id="secondphoneview-slider">
+                                 <div class="secondphoneview-testimonials-track" id="secondphoneview-track">
+                                     <div class="secondphoneview-testimonial-card">
+                                         <p class="secondphoneview-testimonial-text">
+                                             On time Delivery, with a clear thought process to deliver what we wanted with our collaterals.
+                                         </p>
+                                         <h3 class="secondphoneview-company-name">Nalisha Valves And Automation LTD.</h3>
+                                     </div>
+
+                                     <div class="secondphoneview-testimonial-card">
+                                         <p class="secondphoneview-testimonial-text">
+                                             Designing a producing excellent creative Laminate Catalogues for us to make our brand identity unique.
+                                         </p>
+                                         <h3 class="secondphoneview-company-name">Nelson Laminate</h3>
+                                     </div>
+
+                                     <div class="secondphoneview-testimonial-card">
+                                         <p class="secondphoneview-testimonial-text">
+                                             Outstanding service quality and professional approach. They exceeded our expectations in every aspect.
+                                         </p>
+                                         <h3 class="secondphoneview-company-name">Creative Solutions Inc.</h3>
+                                     </div>
+                                 </div>
+                                 <div class="secondphoneview-touch-indicator">Swipe →</div>
+                             </div>
+
+                             <div class="secondphoneview-navigation">
+                                 <button class="secondphoneview-nav-btn" id="secondphoneview-prevBtn">‹</button>
+                                 <div class="secondphoneview-pagination">
+                                     <div class="secondphoneview-pagination-dot active" data-slide="0"></div>
+                                     <div class="secondphoneview-pagination-dot" data-slide="1"></div>
+                                     <div class="secondphoneview-pagination-dot" data-slide="2"></div>
+                                 </div>
+                                 <button class="secondphoneview-nav-btn" id="secondphoneview-nextBtn">›</button>
+                             </div>
+                         </div>
                     </div>
                 </div>
             </section>
+
             <!-- blogs  -->
             <div class="elementor-element elementor-element-319dc0b e-flex e-con-boxed e-con e-parent e-lazyloaded"
                 data-id="319dc0b" data-element_type="container">
@@ -1360,7 +1396,172 @@ reset($myaraa);
                 </div>
             </section>
         </div>
+
+        <!-- Slick JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+
         
+       <script>
+        class SecondPhoneViewTestimonialSlider {
+            constructor() {
+                this.currentSlide = 0;
+                this.totalSlides = 3;
+                this.track = document.getElementById('secondphoneview-track');
+                this.dots = document.querySelectorAll('.secondphoneview-pagination-dot');
+                this.prevBtn = document.getElementById('secondphoneview-prevBtn');
+                this.nextBtn = document.getElementById('secondphoneview-nextBtn');
+                this.slider = document.getElementById('secondphoneview-slider');
+                
+                this.init();
+            }
+
+            init() {
+                this.bindEvents();
+                this.updateSlider();
+                this.setupTouchEvents();
+            }
+
+            bindEvents() {
+                this.prevBtn.addEventListener('click', () => this.prevSlide());
+                this.nextBtn.addEventListener('click', () => this.nextSlide());
+                
+                this.dots.forEach((dot, index) => {
+                    dot.addEventListener('click', () => this.goToSlide(index));
+                });
+
+                // Keyboard navigation
+                document.addEventListener('keydown', (e) => {
+                    if (e.key === 'ArrowLeft') this.prevSlide();
+                    if (e.key === 'ArrowRight') this.nextSlide();
+                });
+            }
+
+            setupTouchEvents() {
+                let startX = 0;
+                let endX = 0;
+                let isDragging = false;
+
+                this.slider.addEventListener('touchstart', (e) => {
+                    startX = e.touches[0].clientX;
+                    isDragging = true;
+                });
+
+                this.slider.addEventListener('touchmove', (e) => {
+                    if (!isDragging) return;
+                    e.preventDefault();
+                    endX = e.touches[0].clientX;
+                });
+
+                this.slider.addEventListener('touchend', () => {
+                    if (!isDragging) return;
+                    isDragging = false;
+                    
+                    const diff = startX - endX;
+                    const threshold = 50;
+
+                    if (Math.abs(diff) > threshold) {
+                        if (diff > 0) {
+                            this.nextSlide();
+                        } else {
+                            this.prevSlide();
+                        }
+                    }
+                });
+
+                // Mouse events for desktop
+                this.slider.addEventListener('mousedown', (e) => {
+                    startX = e.clientX;
+                    isDragging = true;
+                    this.slider.style.cursor = 'grabbing';
+                });
+
+                document.addEventListener('mousemove', (e) => {
+                    if (!isDragging) return;
+                    e.preventDefault();
+                    endX = e.clientX;
+                });
+
+                document.addEventListener('mouseup', () => {
+                    if (!isDragging) return;
+                    isDragging = false;
+                    this.slider.style.cursor = 'grab';
+                    
+                    const diff = startX - endX;
+                    const threshold = 50;
+
+                    if (Math.abs(diff) > threshold) {
+                        if (diff > 0) {
+                            this.nextSlide();
+                        } else {
+                            this.prevSlide();
+                        }
+                    }
+                });
+            }
+
+            goToSlide(index) {
+                this.currentSlide = index;
+                this.updateSlider();
+            }
+
+            nextSlide() {
+                this.currentSlide = (this.currentSlide + 1) % this.totalSlides;
+                this.updateSlider();
+            }
+
+            prevSlide() {
+                this.currentSlide = (this.currentSlide - 1 + this.totalSlides) % this.totalSlides;
+                this.updateSlider();
+            }
+
+            updateSlider() {
+                const translateX = -this.currentSlide * 33.333;
+                this.track.style.transform = `translateX(${translateX}%)`;
+
+                // Update dots
+                this.dots.forEach((dot, index) => {
+                    dot.classList.toggle('active', index === this.currentSlide);
+                });
+
+                // Update navigation buttons
+                this.prevBtn.disabled = this.currentSlide === 0;
+                this.nextBtn.disabled = this.currentSlide === this.totalSlides - 1;
+            }
+        }
+
+        // Initialize slider when DOM is loaded
+        document.addEventListener('DOMContentLoaded', () => {
+            new SecondPhoneViewTestimonialSlider();
+        });
+
+        // Auto-play functionality (optional)
+        let secondPhoneViewAutoPlayInterval;
+        const startSecondPhoneViewAutoPlay = () => {
+            secondPhoneViewAutoPlayInterval = setInterval(() => {
+                const slider = window.secondPhoneViewTestimonialSlider || new SecondPhoneViewTestimonialSlider();
+                slider.nextSlide();
+            }, 5000);
+        };
+
+        const stopSecondPhoneViewAutoPlay = () => {
+            clearInterval(secondPhoneViewAutoPlayInterval);
+        };
+
+        // Start auto-play after 3 seconds of inactivity
+        let secondPhoneViewInactivityTimer;
+        const resetSecondPhoneViewInactivityTimer = () => {
+            clearTimeout(secondPhoneViewInactivityTimer);
+            stopSecondPhoneViewAutoPlay();
+            secondPhoneViewInactivityTimer = setTimeout(startSecondPhoneViewAutoPlay, 3000);
+        };
+
+        document.addEventListener('click', resetSecondPhoneViewInactivityTimer);
+        document.addEventListener('touchstart', resetSecondPhoneViewInactivityTimer);
+        document.addEventListener('keydown', resetSecondPhoneViewInactivityTimer);
+
+        // Store slider instance globally
+        window.secondPhoneViewTestimonialSlider = new SecondPhoneViewTestimonialSlider();
+    </script>
     <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
 ?>

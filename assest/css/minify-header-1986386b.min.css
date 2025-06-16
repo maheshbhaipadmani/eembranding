@@ -53111,7 +53111,9 @@ ul .comment-respond {
     .sticky-menu .logo {
         padding: 0
     }
-
+    .custom-sider-width{
+        width: 100px;
+    }
 
     .pagination-wrap ul {
         justify-content: center
@@ -54685,5 +54687,4 @@ ul .comment-respond {
 .fas {
     font-weight: 900
 }
-
 
