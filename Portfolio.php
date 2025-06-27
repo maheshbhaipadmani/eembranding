@@ -1552,68 +1552,32 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                             </div>
                                         </div>
                                     </section>
-                                    <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-f79ea92 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                        data-id="f79ea92" data-element_type="section">
-                                        <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8b0cce8"
-                                                data-id="8b0cce8" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-655bd03 elementor-widget elementor-widget-brand"
-                                                        data-id="655bd03" data-element_type="widget"
-                                                        data-widget_type="brand.default">
-                                                        <div class="elementor-widget-container">
+                                    <div class="newbrand-slider-wrapper">
+  <div class="newbrand-slide-track">
+    <!-- Repeat logos to simulate infinite loop -->
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png" alt="Nalisha"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/nelson.png" alt="Nelson"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png" alt="Sun Touch"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png" alt="Bite Bazzar"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/bravio.png" alt="Bravio"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/durian.png" alt="Durian"></div>
 
-
-                                                            <!-- Brand Logo Slider -->
-                                                            <div class="brand-slider protfolio-slider">
-                                                                <div><img src="https://eembranding.com/assest/img/portfolio/logo/liventa.png"
-                                                                          loading="lazy"  alt="Brand 1"></div>
-                                                                <div><img src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png"
-                                                                          loading="lazy"  alt="Brand 2"></div>
-                                                                <div><img src="https://eembranding.com/assest/img/portfolio/logo/nelson.png"
-                                                                          loading="lazy"  alt="Brand 3"></div>
-                                                                <div><img
-                                                                        src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png"
-                                                                          loading="lazy"  alt="Brand 4"></div>
-                                                                <div><img
-                                                                        src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png"
-                                                                          loading="lazy"  alt="Brand 5"></div>
-                                                                <div><img src="https://eembranding.com/assest/img/portfolio/logo/bravio.png"
-                                                                          loading="lazy"  alt="Brand 6"></div>
-                                                                <div><img src="https://eembranding.com/assest/img/portfolio/logo/durian.png"
-                                                                          loading="lazy"  alt="Brand 7"></div>
-                                                                <div><img src="https://eembranding.com/assest/img/portfolio/logo/edicon.png"
-                                                                          loading="lazy"  alt="Brand 8"></div>
-                                                                <div><img src="https://eembranding.com/assest/img/portfolio/logo/iscon.png"
-                                                                          loading="lazy"  alt="Brand 8"></div>
-                                                                <div><img src="https://eembranding.com/assest/img/portfolio/logo/liventa.png"
-                                                                          loading="lazy"  alt="Brand 8"></div>
-                                                                <div><img src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png"
-                                                                          loading="lazy"  alt="Brand 2"></div>
-                                                                <div><img src="https://eembranding.com/assest/img/portfolio/logo/nelson.png"
-                                                                          loading="lazy"  alt="Brand 3"></div>
-                                                                <div><img
-                                                                        src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png"
-                                                                          loading="lazy"  alt="Brand 4"></div>
-                                                                <div><img
-                                                                        src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png"
-                                                                          loading="lazy"  alt="Brand 5"></div>
-                                                                <div><img src="https://eembranding.com/assest/img/portfolio/logo/bravio.png"
-                                                                          loading="lazy"  alt="Brand 6"></div>
-                                                                <div><img src="https://eembranding.com/assest/img/portfolio/logo/durian.png"
-                                                                          loading="lazy"  alt="Brand 7"></div>
-                                                                <div><img src="https://eembranding.com/assest/img/portfolio/logo/edicon.png"
-                                                                          loading="lazy"  alt="Brand 8"></div>
-                                                                <div><img src="https://eembranding.com/assest/img/portfolio/logo/iscon.png"
-                                                                          loading="lazy"  alt="Brand 8"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
+    <!-- Repeating again for infinite feel -->
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png" alt="Nalisha"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/nelson.png" alt="Nelson"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png" alt="Sun Touch"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png" alt="Bite Bazzar"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/bravio.png" alt="Bravio"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/durian.png" alt="Durian"></div>
+    <!-- Repeating again for infinite feel -->
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png" alt="Nalisha"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/nelson.png" alt="Nelson"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png" alt="Sun Touch"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png" alt="Bite Bazzar"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/bravio.png" alt="Bravio"></div>
+    <div class="newbrand-slide"><img src="https://eembranding.com/assest/img/portfolio/logo/durian.png" alt="Durian"></div>
+  </div>
+</div>
                                 </div>
                             </div>
                         </div>
