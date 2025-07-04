@@ -1107,6 +1107,9 @@ body.mobile-menu-active {
       .newbrand-slide {
         width: 120px;
       }
+      .custom-icon-img{
+        display: none !important;
+      }
     }
 
     @media (max-width: 400px) {

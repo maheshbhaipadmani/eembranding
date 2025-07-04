@@ -25,7 +25,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-widget-container">
                                     <img decoding="async" width="58" height="58"
                                         src="https://eembranding.com/assest/img/icon/Untitled-2.png"
-                                        class="attachment-large size-large wp-image-5080"   loading="lazy"  alt="">
+                                        class="attachment-large size-large wp-image-5080 custom-icon-img"   loading="lazy"  alt="">
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-950eff0 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image animated zoomIn"
@@ -35,7 +35,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-widget-container">
                                     <img decoding="async" width="134" height="134"
                                         src="https://eembranding.com/assest/img/icon/Untitled-3.png"
-                                        class="attachment-large size-large wp-image-5081"   loading="lazy"  alt="">
+                                        class="attachment-large size-large wp-image-5081 custom-icon-img"   loading="lazy"  alt="">
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-c600c56 elementor-widget elementor-widget-heading"

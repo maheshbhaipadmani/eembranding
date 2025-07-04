@@ -264,7 +264,7 @@ echo
                                                                         </li>
                                                                         <li id="menu-item-6990"
                                                                             class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-                                                                            <a class="text-muted" href="\"
+                                                                            <a class="text-muted" href="Portfolio"
                                                                                 class="hfe-menu-item">Portfolio</a>
                                                                         </li>
                                                                         <li id="menu-item-6850"

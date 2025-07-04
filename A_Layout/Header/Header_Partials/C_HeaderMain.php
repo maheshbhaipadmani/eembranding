@@ -260,7 +260,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <li itemscope="itemscope"
                                             itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6989"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6989 nav-item">
-                                            <a title="Portfolio" href="\" class="nav-links">Portfolio</a>
+                                            <a title="Portfolio" href="Portfolio" class="nav-links">Portfolio</a>
                                         </li>
                                         <li itemscope="itemscope"
                                             itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6720"
