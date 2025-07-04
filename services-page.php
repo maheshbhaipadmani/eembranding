@@ -41,14 +41,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="elementor-element elementor-element-c600c56 elementor-widget elementor-widget-heading"
                                 data-id="c600c56" data-element_type="widget" data-widget_type="heading.default">
                                 <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default P-0">Services Built
+                                    <h2 class="elementor-heading-title elementor-size-default P-0 custom-top">Services Built
                                         Specifically for your Business</h2>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-345de28 elementor-widget__width-initial elementor-widget elementor-widget-heading"
                                 data-id="345de28" data-element_type="widget" data-widget_type="heading.default">
                                 <div class="elementor-widget-container">
-                                    <p class="elementor-heading-title elementor-size-default P-0">We offer customized
+                                    <p class="elementor-heading-title elementor-size-default P-0 custom-top">We offer customized
                                         services tailored to your business needs, ensuring your brand's unique story is
                                         told with precision and creativity. Our bespoke solutions are designed to
                                         elevate your brand and engage your target audience effectively.</p>
@@ -56,7 +56,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             </div>
                             <div class="elementor-element elementor-element-3541418 elementor-widget elementor-widget-tg-btn"
                                 data-id="3541418" data-element_type="widget" data-widget_type="tg-btn.default">
-                                <div class="elementor-widget-container">
+                                <div class="elementor-widget-container custom-top">
                                     <a href="contact-us" target="_self" rel="nofollow"
                                         class="btn">
                                         Get Started<span></span>
@@ -111,6 +111,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     </div>
                                 </div>
                             </section>
+
                             <div class="elementor-element elementor-element-9e0abde elementor-absolute elementor-hidden-mobile elementor-widget elementor-widget-image"
                                 data-id="9e0abde" data-element_type="widget"
                                 data-settings="{&quot;_position&quot;:&quot;absolute&quot;}"
@@ -118,7 +119,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="elementor-widget-container">
                                     <img  decoding="async" width="512" height="512"
                                         src="https://eembranding.com/assest/img/service/main/2-creative-design.png"
-                                        class="attachment-full size-full wp-image-5654"   loading="lazy"  alt="">
+                                        class="attachment-full size-full wp-image-5654 custom-icon-img"   loading="lazy"  alt="">
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-6415dad elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-tg-servicesBox"

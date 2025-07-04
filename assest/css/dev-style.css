@@ -1111,7 +1111,15 @@ body.mobile-menu-active {
         display: none !important;
       }
     }
+   @media (max-width: 770px) {
 
+      .custom-icon-img{
+        display: none !important;
+      }
+      .custom-top{
+        margin-top: 10px;
+      }
+    }
     @media (max-width: 400px) {
       .newbrand-slide {
         width: 100px;
