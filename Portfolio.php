@@ -10,10 +10,10 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
    
     <main class="main-area">
-        <div class="tg-page-area pb-120">
+        <div class="tg-page-area pb-120 custom-padding-sm p-0">
             <div class="container-fluid p-0">
                 <div class="row">
-                    <div class="col-xl-12">
+                    <div class="col-xl-12 custom-padding-sm">
                         <div class="tg-page-content xotric-page-content">
                             <div class="tp-page-post">
                                 <div data-elementor-type="wp-page" data-elementor-id="6939"
@@ -44,7 +44,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 and inspired audiences.</p>
                                                         </div>
                                                     </div>
-                                                    <div class="elementor-element elementor-element-a8974c5 elementor-widget elementor-widget-tg-btn"
+                                                    <div class="p-4 elementor-element elementor-element-a8974c5 elementor-widget elementor-widget-tg-btn"
                                                         data-id="a8974c5" data-element_type="widget"
                                                         data-widget_type="tg-btn.default">
                                                         <div class="elementor-widget-container">
@@ -65,7 +65,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div class="elementor-widget-container">
                                                             <img decoding="async" width="58" height="58"
                                                                 src="https://eembranding.com/assest/img/icon/Untitled-2.png"
-                                                                class="attachment-large size-large wp-image-5080"
+                                                                class="attachment-large size-large wp-image-5080 custom-icon-img"
                                                                   loading="lazy"  alt="">
                                                         </div>
                                                     </div>
@@ -76,7 +76,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                         <div class="elementor-widget-container">
                                                             <img decoding="async" width="134" height="134"
                                                                 src="https://eembranding.com/assest/img/icon/Untitled-3.png"
-                                                                class="attachment-large size-large wp-image-5081"
+                                                                class="attachment-large size-large wp-image-5081 custom-icon-img"
                                                                   loading="lazy"  alt="">
                                                         </div>
                                                     </div>

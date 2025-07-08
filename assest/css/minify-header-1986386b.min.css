@@ -35263,7 +35263,7 @@ body.rtl .e-con {
 .elementor-heading-title {
     margin: 0;
     line-height: 1;
-    padding: 20px 0
+    padding: 20px 10px;
 }
 
 .elementor-button {

@@ -1105,13 +1105,16 @@ body.mobile-menu-active {
 
     @media (max-width: 576px) {
       .newbrand-slide {
-        width: 120px;
+        width: 120px;   
       }
       .custom-icon-img{
         display: none !important;
       }
+      .custom-padding-sm{
+        padding: 0 !important;
+      }
     }
-   @media (max-width: 770px) {
+   @media (max-width: 1030px) {
 
       .custom-icon-img{
         display: none !important;
