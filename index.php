@@ -1,7 +1,7 @@
 <?php
 include_once __DIR__ . '/A_Models/BLOG_Blog.php';
-$Title = "Best Branding Agency in Ahmedabad for Business Growth";
-$MetaDescription = "EEM Branding is a trusted branding &amp; advertising agency in Ahmedabad, specialising in digital marketing, logo design, 3D rendering, and brochure design solutions.";
+$Title = "Branding Agency in Ahmedabad | Shaping Brand Futures";
+$MetaDescription = "As a trusted branding agency in Ahmedabad, we deliver innovative solutions that combine creativity, strategy, and design to elevate your brand.";
 $MetaKeywords = "branding agency in Ahmedabad, best branding agency, advertising agency Ahmedabad, logo design Ahmedabad, digital marketing agency Ahmedabad, SEO services Ahmedabad, social media marketing Ahmedabad, PPC advertising Ahmedabad, 3D rendering company, brochure design Ahmedabad, creative design agency, website development Ahmedabad, mobile app development Ahmedabad, UI UX design Ahmedabad, branding solutions, business branding services, corporate branding Ahmedabad, brand identity design, best digital marketing agency, content marketing services";
 ?>
 
