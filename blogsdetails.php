@@ -1,6 +1,5 @@
 <?php
 include_once __DIR__ . '/A_Models/BLOG_Blog.php';
-$MetaKeywords = "laminate catalogue design, catalogue design services, best laminate catalogue, creative catalogue design, branding catalogue, professional catalogue design, Ahmedabad design services, print marketing materials, custom catalogue design, high-quality catalogue design.";
 ?>
  
 <?php
