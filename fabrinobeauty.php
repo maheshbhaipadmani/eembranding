@@ -288,3 +288,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 </div>
             </div>
         </section>
+        <?php
+include __DIR__ . '/A_Layout/Footer/footer.php';
+?>
