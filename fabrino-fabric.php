@@ -104,7 +104,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
             </div>
-            <h1>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel fugiat ut iure.</h1>
             <div class="container">
                 <div class="row">
                     <div class="col-12">
