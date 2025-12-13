@@ -163,39 +163,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         src="./assest/img/portfolio/websitecc/Eco-Wood/04.jpg"
                                                                           loading="lazy"  alt="05"></figure>
                                                             </div>
-                                                            <div class="swiper-slide swiper-slide-active" role="group"
-                                                                aria-roledescription="slide" aria-label="2 / 7"
-                                                                data-swiper-slide-index="1" style="width: 390px;">
-                                                                <figure class="swiper-slide-inner"><img decoding="async"
-                                                                        class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc/Eco-Wood//05-2.avif"
-                                                                          loading="lazy"  alt="06"></figure>
-                                                            </div>
-                                                            <div class="swiper-slide swiper-slide-next" role="group"
-                                                                aria-roledescription="slide" aria-label="3 / 7"
-                                                                data-swiper-slide-index="2" style="width: 390px;">
-                                                                <figure class="swiper-slide-inner"><img decoding="async"
-                                                                        class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc/Eco-Wood//06-2.avif"
-                                                                          loading="lazy"  alt="02"></figure>
-                                                            </div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="4 / 7"
-                                                                data-swiper-slide-index="3" style="width: 390px;">
-                                                                <figure class="swiper-slide-inner"><img decoding="async"
-                                                                        class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc/Eco-Wood//07-2.avif"
-                                                                          loading="lazy"  alt="07"></figure>
-                                                            </div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="5 / 7"
-                                                                data-swiper-slide-index="4" style="width: 390px;"
-                                                                aria-hidden="true" inert="">
-                                                                <figure class="swiper-slide-inner"><img decoding="async"
-                                                                        class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc/Eco-Wood//01-4.avif"
-                                                                          loading="lazy"  alt="01"></figure>
-                                                            </div>
+                                                          
                                                         </div>
                                                         <div class="elementor-swiper-button elementor-swiper-button-prev"
                                                             role="button" tabindex="0" aria-label="Previous slide"

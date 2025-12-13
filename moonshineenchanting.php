@@ -197,15 +197,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         src="./assest/img/portfolio/websitecc/Moonshine/08.jpg"
                                                                           loading="lazy"  alt="01"></figure>
                                                             </div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="6 / 7"
-                                                                data-swiper-slide-index="5" style="width: 390px;"
-                                                                aria-hidden="true" inert="">
-                                                                <figure class="swiper-slide-inner"><img decoding="async"
-                                                                        class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc/Moonshine/"
-                                                                          loading="lazy"  alt="04"></figure>
-                                                            </div>
+                                                           
                                                             <div class="swiper-slide" role="group"
                                                                 aria-roledescription="slide" aria-label="7 / 7"
                                                                 data-swiper-slide-index="6" style="width: 390px;"

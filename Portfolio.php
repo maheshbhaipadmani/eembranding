@@ -518,21 +518,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             </a>
                                                                         </div>
                                                                     </div> -->
-                                                                    <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp"
-                                                                            data-wow-delay=".20s"
-                                                                            style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
-                                                                            <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//01-12.avif"
-                                                                                  loading="lazy"  alt="Image">
-                                                                            <a href="portfolio/crysta-line"
-                                                                                class="link-icon">
-                                                                                <img decoding="async"
-                                                                                    src="https://eembranding.com/assest/img/icon/arrow-right.svg"
-                                                                                      loading="lazy"  alt="Icon">
-                                                                            </a>
-                                                                        </div>
-                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
