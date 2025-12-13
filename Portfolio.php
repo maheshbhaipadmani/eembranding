@@ -114,9 +114,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             Laminate Catalogue Design<span></span>
                                                         </a>
                                                     </div>
-
-
-
                                                 </div>
                                             </div>
                                              <div class="elementor-element elementor-element-6ba64d2 elementor-widget elementor-widget-tg-btn"
@@ -148,9 +145,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             Digital Marketing<span></span>
                                                         </a>
                                                     </div>
-
-
-
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-347d766 elementor-widget elementor-widget-tg-btn"
@@ -284,7 +278,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".1s"
                                                                             style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/01-1-scaled.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/ranberry-trends"
                                                                                 class="link-icon">
@@ -299,7 +293,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".2s"
                                                                             style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/00-Thumbnail-8.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Moonshine/00Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/moonshineenchanting"
                                                                                 class="link-icon">
@@ -314,7 +308,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".3s"
                                                                             style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/00-Thumbnail-7.avif"
+                                                                                src="./assest/img/portfolio/websitecc//00-Thumbnail-7.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/dazzle-berryenpastel"
                                                                                 class="link-icon">
@@ -329,7 +323,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".4s"
                                                                             style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/00-Thumbnail-9.avif"
+                                                                                src="./assest/img/portfolio/websitecc//00-Thumbnail-9.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/nelsonenchanting"
                                                                                 class="link-icon">
@@ -344,7 +338,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".5s"
                                                                             style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/01-16.avif"
+                                                                                src="./assest/img/portfolio/websitecc//01-16.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/ranwood-rega"
                                                                                 class="link-icon">
@@ -359,7 +353,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".6s"
                                                                             style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/01.avif"
+                                                                                src="./assest/img/portfolio/websitecc//01.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/kooyoo-enchanting"
                                                                                 class="link-icon">
@@ -374,7 +368,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".7s"
                                                                             style="visibility: hidden; animation-delay: 0.7s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/01-6.avif"
+                                                                                src="./assest/img/portfolio/websitecc//01-6.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/central" class="link-icon">
                                                                                 <img decoding="async"
@@ -388,7 +382,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".8s"
                                                                             style="visibility: hidden; animation-delay: 0.8s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/01-5.avif"
+                                                                                src="./assest/img/portfolio/websitecc//01-5.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/bliss" class="link-icon">
                                                                                 <img decoding="async"
@@ -402,7 +396,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".9s"
                                                                             style="visibility: hidden; animation-delay: 0.9s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/00-Thumbnail-6.avif"
+                                                                                src="./assest/img/portfolio/websitecc//00-Thumbnail-6.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/keton-micabeautiful"
                                                                                 class="link-icon">
@@ -417,7 +411,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".10s"
                                                                             style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/00-Thumbnail-5.avif"
+                                                                                src="./assest/img/portfolio/websitecc//00-Thumbnail-5.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/eco-woodamaurosis"
                                                                                 class="link-icon">
@@ -432,7 +426,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".11s"
                                                                             style="visibility: hidden; animation-delay: 0.11s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/01-9.avif"
+                                                                                src="./assest/img/portfolio/websitecc//01-9.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/bravio-pastel-laminate"
                                                                                 class="link-icon">
@@ -447,7 +441,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".12s"
                                                                             style="visibility: hidden; animation-delay: 0.12s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/01-14.avif"
+                                                                                src="./assest/img/portfolio/websitecc//01-14.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/fabrino-fabric"
                                                                                 class="link-icon">
@@ -462,7 +456,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".13s"
                                                                             style="visibility: hidden; animation-delay: 0.13s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/01-8.avif"
+                                                                                src="./assest/img/portfolio/websitecc//01-8.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/fabrinobeauty"
                                                                                 class="link-icon">
@@ -477,7 +471,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".14s"
                                                                             style="visibility: hidden; animation-delay: 0.14s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/01-18.avif"
+                                                                                src="./assest/img/portfolio/websitecc//01-18.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/vanshlam" class="link-icon">
                                                                                 <img decoding="async"
@@ -491,7 +485,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".15s"
                                                                             style="visibility: hidden; animation-delay: 0.15s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/00-Thumbnail-10.avif"
+                                                                                src="./assest/img/portfolio/websitecc//00-Thumbnail-10.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/evershine-color-trendenchanting"
                                                                                 class="link-icon">
@@ -506,7 +500,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".16s"
                                                                             style="visibility: hidden; animation-delay: 0.16s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/01-19.avif"
+                                                                                src="./assest/img/portfolio/websitecc//01-19.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/lammartcolor"
                                                                                 class="link-icon">
@@ -521,7 +515,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".17s"
                                                                             style="visibility: hidden; animation-delay: 0.17s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/01-17.avif"
+                                                                                src="./assest/img/portfolio/websitecc//01-17.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/picsartelegance"
                                                                                 class="link-icon">
@@ -536,7 +530,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".18s"
                                                                             style="visibility: hidden; animation-delay: 0.18s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/01-13.avif"
+                                                                                src="./assest/img/portfolio/websitecc//01-13.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/morbi-king" class="link-icon">
                                                                                 <img decoding="async"
@@ -550,7 +544,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".19s"
                                                                             style="visibility: hidden; animation-delay: 0.19s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/01-8.avif"
+                                                                                src="./assest/img/portfolio/websitecc//01-8.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/fabrinobeauty"
                                                                                 class="link-icon">
@@ -565,7 +559,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".20s"
                                                                             style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="https://eembranding.com/assest/img/portfolio/Catalogue/01-12.avif"
+                                                                                src="./assest/img/portfolio/websitecc//01-12.avif"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/crysta-line"
                                                                                 class="link-icon">
@@ -620,7 +614,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     data-wow-delay=".2s"
                                                                     style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                     <img decoding="async"
-                                                                        src="https://eembranding.com/assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
+                                                                        src="./assest/img/portfolio/websitecc//100-Thumbnail-6.jpg"
                                                                           loading="lazy"  alt="Image">
                                                                     <a href="portfolio/atina" class="link-icon">
                                                                         <img decoding="async"
@@ -634,7 +628,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     data-wow-delay=".3s"
                                                                     style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
                                                                     <img decoding="async"
-                                                                        src="https://eembranding.com/assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
+                                                                        src="./assest/img/portfolio/websitecc//00-Thumbnail-10.jpg"
                                                                           loading="lazy"  alt="Image">
                                                                     <a href="portfolio/evershine-color-trendenchanting"
                                                                         class="link-icon">
@@ -687,7 +681,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     data-wow-delay=".1s"
                                                                     style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                                     <img decoding="async"
-                                                                        src="https://eembranding.com/assest/img/portfolio/Catalogue/01-5.jpg"
+                                                                        src="./assest/img/portfolio/websitecc//01-5.jpg"
                                                                           loading="lazy"  alt="Image">
                                                                     <a href="portfolio/bliss" class="link-icon">
                                                                         <img decoding="async"
@@ -701,7 +695,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     data-wow-delay=".2s"
                                                                     style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                                                                     <img decoding="async"
-                                                                        src="https://eembranding.com/assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
+                                                                        src="./assest/img/portfolio/websitecc//100-Thumbnail-6.jpg"
                                                                           loading="lazy"  alt="Image">
                                                                     <a href="portfolio/atina" class="link-icon">
                                                                         <img decoding="async"
@@ -718,7 +712,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     data-wow-delay=".3s"
                                                                     style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
                                                                     <img decoding="async"
-                                                                        src="https://eembranding.com/assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
+                                                                        src="./assest/img/portfolio/websitecc//00-Thumbnail-10.jpg"
                                                                           loading="lazy"  alt="Image">
                                                                     <a href="portfolio/evershine-color-trendenchanting"
                                                                         class="link-icon">
@@ -736,7 +730,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                     data-wow-delay=".4s"
                                                                     style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
                                                                     <img decoding="async"
-                                                                        src="https://eembranding.com/assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
+                                                                        src="./assest/img/portfolio/websitecc//100-Thumbnail-6.jpg"
                                                                           loading="lazy"  alt="Image">
                                                                     <a href="portfolio/atina" class="link-icon">
                                                                         <img decoding="async"
@@ -793,7 +787,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/bliss">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/01-5.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//01-5.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -816,7 +810,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//100-Thumbnail-6.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -839,7 +833,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/evershine-color-trendenchanting">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//00-Thumbnail-10.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -864,7 +858,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//100-Thumbnail-6.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -927,7 +921,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/bliss">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/01-5.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//01-5.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -950,7 +944,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//100-Thumbnail-6.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -973,7 +967,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/evershine-color-trendenchanting">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//00-Thumbnail-10.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -998,7 +992,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//100-Thumbnail-6.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -1061,7 +1055,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/bliss">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/01-5.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//01-5.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -1084,7 +1078,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//100-Thumbnail-6.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -1107,7 +1101,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/evershine-color-trendenchanting">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//00-Thumbnail-10.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -1132,7 +1126,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//100-Thumbnail-6.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -1195,7 +1189,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/bliss">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/01-5.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//01-5.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -1218,7 +1212,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//100-Thumbnail-6.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -1241,7 +1235,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/evershine-color-trendenchanting">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//00-Thumbnail-10.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -1266,7 +1260,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//100-Thumbnail-6.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -1329,7 +1323,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/bliss">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/01-5.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//01-5.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -1352,7 +1346,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//100-Thumbnail-6.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -1376,7 +1370,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/evershine-color-trendenchanting">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/00-Thumbnail-10.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//00-Thumbnail-10.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -1401,7 +1395,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//100-Thumbnail-6.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -1464,7 +1458,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/bliss">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/01-5.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//01-5.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>
@@ -1487,7 +1481,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 <div class="project-thumb">
                                                                     <a href="portfolio/atina">
                                                                         <img decoding="async"
-                                                                            src="https://eembranding.com/assest/img/portfolio/Catalogue/100-Thumbnail-6.jpg"
+                                                                            src="./assest/img/portfolio/websitecc//100-Thumbnail-6.jpg"
                                                                               loading="lazy"  alt="Image">
                                                                     </a>
                                                                 </div>

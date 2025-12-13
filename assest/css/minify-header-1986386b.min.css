@@ -6912,17 +6912,7 @@ blockquote cite a {
         min-height: 700px
     }
 
-    .project-thumb {
-        border-radius: 30px
-    }
 
-    div.project-thumb img {
-        height: 393px
-    }
-
-    div.project-item-two>img {
-        height: 275px
-    }
 
 }
 
@@ -7102,15 +7092,8 @@ blockquote cite a {
     }
 
 
-    div.project-item-two>img {
-        min-height: 250px;
-        object-fit: cover
-    }
+   
 
-    .project-item-two .link-icon {
-        width: 80px;
-        height: 80px
-    }
 
     .blog-post-item-two .blog-post-thumb img {
         min-height: auto
@@ -12220,10 +12203,6 @@ ul {
         height: 393px
     }
 
-    div.project-item-two>img {
-        height: 275px
-    }
-
 }
 
 @media (max-width:1199.98px) {
@@ -12401,15 +12380,8 @@ ul {
         width: 90%
     }
 
-    div.project-item-two>img {
-        min-height: 250px;
-        object-fit: cover
-    }
+   
 
-    .project-item-two .link-icon {
-        width: 80px;
-        height: 80px
-    }
 
     .blog-post-item-two .blog-post-thumb img {
         min-height: auto
@@ -17829,17 +17801,7 @@ screen and (max-height:300px) {
         margin: 0-15px
     }
 
-    .project-thumb {
-        border-radius: 30px
-    }
 
-    div.project-thumb img {
-        height: 393px
-    }
-
-    div.project-item-two>img {
-        height: 275px
-    }
 
 }
 
@@ -18019,15 +17981,8 @@ screen and (max-height:300px) {
     }
 
 
-    div.project-item-two>img {
-        min-height: 250px;
-        object-fit: cover
-    }
+   
 
-    .project-item-two .link-icon {
-        width: 80px;
-        height: 80px
-    }
 
     .blog-post-item-two .blog-post-thumb img {
         min-height: auto
@@ -23180,17 +23135,7 @@ screen and (max-height:300px) {
         margin: 0-15px
     }
 
-    .project-thumb {
-        border-radius: 30px
-    }
 
-    div.project-thumb img {
-        height: 393px
-    }
-
-    div.project-item-two>img {
-        height: 275px
-    }
 
 }
 
@@ -23371,15 +23316,8 @@ screen and (max-height:300px) {
     }
 
 
-    div.project-item-two>img {
-        min-height: 250px;
-        object-fit: cover
-    }
+   
 
-    .project-item-two .link-icon {
-        width: 80px;
-        height: 80px
-    }
 
     .blog-post-item-two .blog-post-thumb img {
         min-height: auto
@@ -29059,17 +28997,7 @@ screen and (max-height:300px) {
         margin: 0-15px
     }
 
-    .project-thumb {
-        border-radius: 30px
-    }
 
-    div.project-thumb img {
-        height: 393px
-    }
-
-    div.project-item-two>img {
-        height: 275px
-    }
 
 }
 
@@ -29257,15 +29185,8 @@ screen and (max-height:300px) {
         width: 90%
     }
 
-    div.project-item-two>img {
-        min-height: 250px;
-        object-fit: cover
-    }
+   
 
-    .project-item-two .link-icon {
-        width: 80px;
-        height: 80px
-    }
 
     .blog-post-item-two .blog-post-thumb img {
         min-height: auto
@@ -49763,7 +49684,6 @@ label {
 div.project-item-two>img,
 div.project-thumb img {
     width: 100%;
-    object-fit: cover
 }
 
 div.project-thumb img {
@@ -49852,7 +49772,7 @@ div.project-thumb img {
 }
 
 div.project-item-two>img {
-    height: 362px
+    height: 100% !important
 }
 
 .project-item-two .link-icon {
@@ -53287,17 +53207,7 @@ ul .comment-respond {
         margin: 0-15px
     }
 
-    .project-thumb {
-        border-radius: 30px
-    }
 
-    div.project-thumb img {
-        height: 393px
-    }
-
-    div.project-item-two>img {
-        height: 275px
-    }
 
 }
 
@@ -53487,11 +53397,9 @@ ul .comment-respond {
 
 
     div.project-item-two>img {
-        min-height: 250px;
-        object-fit: cover
+        min-height: 100%;
     }
-
-    .project-item-two .link-icon {
+     .project-item-two .link-icon {
         width: 80px;
         height: 80px
     }

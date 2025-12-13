@@ -133,7 +133,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 style="width: 390px;" aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="https://eembranding.com/assest/img/portfolio/dazzle-berryenpastel/01-24.avif"
+                                                                        src="./assest/img/portfolio/websitecc/Dazzle-Berry/01.jpg"
                                                                           loading="lazy"  alt="01"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-duplicate"
@@ -142,7 +142,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 style="width: 390px;" aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="https://eembranding.com/assest/img/portfolio/dazzle-berryenpastel/02-21.avif"
+                                                                        src="./assest/img/portfolio/websitecc/Dazzle-Berry/02.jpg"
                                                                           loading="lazy"  alt="04"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-duplicate"
@@ -151,7 +151,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 style="width: 390px;" aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="https://eembranding.com/assest/img/portfolio/dazzle-berryenpastel/03-22.avif"
+                                                                        src="./assest/img/portfolio/websitecc/Dazzle-Berry/03.jpg"
                                                                           loading="lazy"  alt="03"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-prev" role="group"
@@ -160,7 +160,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="https://eembranding.com/assest/img/portfolio/dazzle-berryenpastel/04-20.avif"
+                                                                        src="./assest/img/portfolio/websitecc/Dazzle-Berry/04.jpg"
                                                                           loading="lazy"  alt="05"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-active" role="group"
@@ -168,7 +168,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 data-swiper-slide-index="1" style="width: 390px;">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="https://eembranding.com/assest/img/portfolio/dazzle-berryenpastel/05-16.avif"
+                                                                        src="./assest/img/portfolio/websitecc/Dazzle-Berry/05.jpg"
                                                                           loading="lazy"  alt="06"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-next" role="group"
@@ -176,7 +176,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 data-swiper-slide-index="2" style="width: 390px;">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="https://eembranding.com/assest/img/portfolio/dazzle-berryenpastel/06-9.avif"
+                                                                        src="./assest/img/portfolio/websitecc/Dazzle-Berry/06.jpg"
                                                                           loading="lazy"  alt="02"></figure>
                                                             </div>
                                                             <div class="swiper-slide" role="group"
@@ -184,7 +184,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 data-swiper-slide-index="3" style="width: 390px;">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="https://eembranding.com/assest/img/portfolio/dazzle-berryenpastel/07-8.avif"
+                                                                        src="./assest/img/portfolio/websitecc/Dazzle-Berry/07.jpg"
                                                                           loading="lazy"  alt="07"></figure>
                                                             </div>
                                                             <div class="swiper-slide" role="group"
@@ -193,7 +193,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="https://eembranding.com/assest/img/portfolio/dazzle-berryenpastel/08-3.avif"
+                                                                        src="./assest/img/portfolio/websitecc/Dazzle-Berry/08.jpg"
                                                                           loading="lazy"  alt="01"></figure>
                                                             </div>
                                                             <div class="swiper-slide" role="group"
@@ -202,58 +202,10 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="https://eembranding.com/assest/img/portfolio/dazzle-berryenpastel/09-1.avif"
+                                                                        src="./assest/img/portfolio/websitecc/Dazzle-Berry/09.jpg"
                                                                           loading="lazy"  alt="04"></figure>
                                                             </div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="7 / 7"
-                                                                data-swiper-slide-index="6" style="width: 390px;"
-                                                                aria-hidden="true" inert="">
-                                                                <figure class="swiper-slide-inner"><img decoding="async"
-                                                                        class="swiper-slide-image"
-                                                                        src="https://eembranding.com/assest/img/portfolio/dazzle-berryenpastel/01-24.avif"
-                                                                          loading="lazy"  alt="03"></figure>
-                                                            </div>
-                                                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev"
-                                                                role="group" aria-roledescription="slide"
-                                                                aria-label="1 / 7" data-swiper-slide-index="0"
-                                                                style="width: 390px;" aria-hidden="true" inert="">
-                                                                <figure class="swiper-slide-inner"><img decoding="async"
-                                                                        class="swiper-slide-image"
-                                                                        src="https://eembranding.com/assest/img/portfolio/dazzle-berryenpastel/02-21.avif"
-                                                                          loading="lazy"  alt="05"></figure>
-                                                            </div>
-                                                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active"
-                                                                role="group" aria-roledescription="slide"
-                                                                aria-label="2 / 7" data-swiper-slide-index="1"
-                                                                style="width: 390px;" aria-hidden="true" inert="">
-                                                                <figure class="swiper-slide-inner"><img decoding="async"
-                                                                        class="swiper-slide-image"
-                                                                        src="https://eembranding.com/assest/img/portfolio/dazzle-berryenpastel/03-22.avif"
-                                                                          loading="lazy"  alt="06"></figure>
-                                                            </div>
-                                                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next"
-                                                                role="group" aria-roledescription="slide"
-                                                                aria-label="3 / 7" data-swiper-slide-index="2"
-                                                                style="width: 390px;" aria-hidden="true" inert="">
-                                                                <figure class="swiper-slide-inner"><img decoding="async"
-                                                                        class="swiper-slide-image"
-                                                                        src="https://eembranding.com/assest/img/portfolio/dazzle-berryenpastel/04-20.avif"
-                                                                          loading="lazy"  alt="02"></figure>
-                                                            </div>
-                                                        </div>
-                                                        <div class="elementor-swiper-button elementor-swiper-button-prev"
-                                                            role="button" tabindex="0" aria-label="Previous slide"
-                                                            aria-controls="swiper-wrapper-b7cfa3ba816aba4f">
-                                                            <svg aria-hidden="true"
-                                                                class="e-font-icon-svg e-eicon-chevron-left"
-                                                                viewBox="0 0 1000 1000"
-                                                                xmlns="http://www.w3.org/2000/svg">
-                                                                <path
-                                                                    d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z">
-                                                                </path>
-                                                            </svg>
-                                                        </div>
+                                                         
                                                         <div class="elementor-swiper-button elementor-swiper-button-next"
                                                             role="button" tabindex="0" aria-label="Next slide"
                                                             aria-controls="swiper-wrapper-b7cfa3ba816aba4f">
