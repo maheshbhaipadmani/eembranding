@@ -120,24 +120,18 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 data-id="6ba64d2" data-element_type="widget"
                                                 data-widget_type="tg-btn.default">
                                                 <div class="elementor-widget-container">
-
-
                                                     <div class="newsletter-btn">
                                                         <a href="#cd2" target="_blank" rel="nofollow"
                                                             class="btn btn-three">
                                                             Creative Designing<span></span>
                                                         </a>
                                                     </div>
-
-
-
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-f8f08b4 elementor-widget elementor-widget-tg-btn"
                                                 data-id="f8f08b4" data-element_type="widget"
                                                 data-widget_type="tg-btn.default">
                                                 <div class="elementor-widget-container">
-
 
                                                     <div class="newsletter-btn">
                                                         <a href="#dm3" target="_blank" rel="nofollow"
@@ -151,51 +145,36 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 data-id="347d766" data-element_type="widget"
                                                 data-widget_type="tg-btn.default">
                                                 <div class="elementor-widget-container">
-
-
                                                     <div class="newsletter-btn">
                                                         <a href="#uu4" target="_blank" rel="nofollow"
                                                             class="btn btn-three">
                                                             UI/UX Designing<span></span>
                                                         </a>
                                                     </div>
-
-
-
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-7c38f76 elementor-widget elementor-widget-tg-btn"
                                                 data-id="7c38f76" data-element_type="widget"
                                                 data-widget_type="tg-btn.default">
                                                 <div class="elementor-widget-container">
-
-
                                                     <div class="newsletter-btn">
                                                         <a href="#wd5" target="_blank" rel="nofollow"
                                                             class="btn btn-three">
                                                             Website Development<span></span>
                                                         </a>
                                                     </div>
-
-
-
                                                 </div>
                                             </div>
                                             <div class="elementor-element elementor-element-0a0c9da elementor-widget elementor-widget-tg-btn"
                                                 data-id="0a0c9da" data-element_type="widget"
                                                 data-widget_type="tg-btn.default">
                                                 <div class="elementor-widget-container">
-
-
                                                     <div class="newsletter-btn">
                                                         <a href="#md6" target="_blank" rel="nofollow"
                                                             class="btn btn-three">
                                                             Mobile app design &amp; Development<span></span>
                                                         </a>
                                                     </div>
-
-
-
                                                 </div>
                                             </div>
 
@@ -308,7 +287,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".3s"
                                                                             style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//00-Thumbnail-7.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Dazzle-Berry/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/dazzle-berryenpastel"
                                                                                 class="link-icon">
@@ -323,7 +302,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".4s"
                                                                             style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//00-Thumbnail-9.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Nelson/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/nelsonenchanting"
                                                                                 class="link-icon">
@@ -338,7 +317,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".5s"
                                                                             style="visibility: hidden; animation-delay: 0.5s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//01-16.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/ranwood-rega"
                                                                                 class="link-icon">
@@ -353,7 +332,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".6s"
                                                                             style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//01.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/kooyoo-enchanting"
                                                                                 class="link-icon">
@@ -368,7 +347,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".7s"
                                                                             style="visibility: hidden; animation-delay: 0.7s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//01-6.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Bliss/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/central" class="link-icon">
                                                                                 <img decoding="async"
@@ -382,7 +361,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".8s"
                                                                             style="visibility: hidden; animation-delay: 0.8s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//01-5.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Keton-Mica/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/bliss" class="link-icon">
                                                                                 <img decoding="async"
