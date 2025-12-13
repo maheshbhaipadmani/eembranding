@@ -58,17 +58,15 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 data-id="0641f35" data-element_type="widget"
                                                 data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
-                                                    <p class="elementor-heading-title elementor-size-default">
-                                                          Conceptual inspiration highlights the intricate and delicate nature
+                                                    <p class="elementor-heading-title elementor-size-default">  Conceptual inspiration highlights the intricate and delicate nature
                                                     of fabric textures and patterns with a fresh, modern approach.
                                                     Visual Elements utilizes a soothing pastel blue background to create
                                                     a serene and inviting atmosphere, allowing the design to feel both
                                                     contemporary and elegant. Imagery and typography that feature the
                                                     word "FABRIC" prominently with vertical images in pastel colors,
                                                     symbolizing fabric, emphasizing the attention to detail and
-                                                    craftsmanship in the laminate designs.
-                                                    </p>
-                                                    </div>
+                                                    craftsmanship in the laminate designs.</p>
+                                                                                                </div>
                                             </div>
                                             <div class="elementor-element elementor-element-13f087a elementor-widget__width-auto elementor-absolute elementor-hidden-mobile z-index-plus elementor-widget elementor-widget-bg-shapes animated slideInRight"
                                                 data-id="13f087a" data-element_type="widget"
@@ -162,7 +160,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         src="./assest/img/portfolio/websitecc/Fabrino/03.jpg"
                                                                           loading="lazy"  alt="03"></figure>
                                                             </div>
-                                                           
                                                         </div>
                                                         <div class="elementor-swiper-button elementor-swiper-button-prev"
                                                             role="button" tabindex="0" aria-label="Previous slide"
