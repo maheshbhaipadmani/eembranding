@@ -375,7 +375,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".9s"
                                                                             style="visibility: hidden; animation-delay: 0.9s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//00-Thumbnail-6.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Eco-Wood/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/keton-micabeautiful"
                                                                                 class="link-icon">
@@ -390,7 +390,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".10s"
                                                                             style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//00-Thumbnail-5.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Bravio/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/eco-woodamaurosis"
                                                                                 class="link-icon">
@@ -405,7 +405,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".11s"
                                                                             style="visibility: hidden; animation-delay: 0.11s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//01-9.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Fabrino/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/bravio-pastel-laminate"
                                                                                 class="link-icon">
@@ -420,7 +420,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".12s"
                                                                             style="visibility: hidden; animation-delay: 0.12s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//01-14.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Vansh/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/fabrino-fabric"
                                                                                 class="link-icon">
@@ -430,27 +430,12 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             </a>
                                                                         </div>
                                                                     </div>
-                                                                    <!-- <div class="col-lg-4 col-md-6">
-                                                                        <div class="project-item-two wow fadeInUp"
-                                                                            data-wow-delay=".13s"
-                                                                            style="visibility: hidden; animation-delay: 0.13s; animation-name: none;">
-                                                                            <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//01-8.avif"
-                                                                                  loading="lazy"  alt="Image">
-                                                                            <a href="portfolio/fabrinobeauty"
-                                                                                class="link-icon">
-                                                                                <img decoding="async"
-                                                                                    src="https://eembranding.com/assest/img/icon/arrow-right.svg"
-                                                                                      loading="lazy"  alt="Icon">
-                                                                            </a>
-                                                                        </div>
-                                                                    </div> -->
                                                                     <div class="col-lg-4 col-md-6">
                                                                         <div class="project-item-two wow fadeInUp"
                                                                             data-wow-delay=".14s"
                                                                             style="visibility: hidden; animation-delay: 0.14s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//01-18.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Evershine-Color-Trend/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/vanshlam" class="link-icon">
                                                                                 <img decoding="async"
@@ -464,7 +449,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".15s"
                                                                             style="visibility: hidden; animation-delay: 0.15s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//00-Thumbnail-10.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Lamart/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/evershine-color-trendenchanting"
                                                                                 class="link-icon">
@@ -479,7 +464,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".16s"
                                                                             style="visibility: hidden; animation-delay: 0.16s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//01-19.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Crystaline/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/lammartcolor"
                                                                                 class="link-icon">
@@ -494,7 +479,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".17s"
                                                                             style="visibility: hidden; animation-delay: 0.17s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//01-17.avif"
+                                                                                src="./assest/img/portfolio/websitecc/Morbi-King-IN-STAR/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/picsartelegance"
                                                                                 class="link-icon">
@@ -509,7 +494,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             data-wow-delay=".18s"
                                                                             style="visibility: hidden; animation-delay: 0.18s; animation-name: none;">
                                                                             <img decoding="async"
-                                                                                src="./assest/img/portfolio/websitecc//01-13.avif"
+                                                                                src="./assest/img/portfolio/websitecc/PicsArt/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
                                                                             <a href="portfolio/morbi-king" class="link-icon">
                                                                                 <img decoding="async"

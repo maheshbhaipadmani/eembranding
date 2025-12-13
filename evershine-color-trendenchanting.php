@@ -133,7 +133,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 style="width: 390px;" aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc//01-4.avif "
+                                                                        src="./assest/img/portfolio/websitecc/Evershine-Color-Trend/01.jpg"
                                                                           loading="lazy"  alt="01"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-duplicate"
@@ -142,7 +142,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 style="width: 390px;" aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc//02-2.avif"
+                                                                        src="./assest/img/portfolio/websitecc/Evershine-Color-Trend/02.jpg"
                                                                           loading="lazy"  alt="04"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-duplicate"
@@ -151,7 +151,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 style="width: 390px;" aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc//03-3.avif"
+                                                                        src="./assest/img/portfolio/websitecc/Evershine-Color-Trend/03.jpg"
                                                                           loading="lazy"  alt="03"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-prev" role="group"
@@ -160,7 +160,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc//04-3.avif"
+                                                                        src="./assest/img/portfolio/websitecc/Evershine-Color-Trend/04.jpg"
                                                                           loading="lazy"  alt="05"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-active" role="group"
@@ -168,7 +168,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 data-swiper-slide-index="1" style="width: 390px;">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc//05-2.avif"
+                                                                        src="./assest/img/portfolio/websitecc/Evershine-Color-Trend/05.jpg"
                                                                           loading="lazy"  alt="06"></figure>
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-next" role="group"
@@ -176,7 +176,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 data-swiper-slide-index="2" style="width: 390px;">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc//06-2.avif"
+                                                                        src="./assest/img/portfolio/websitecc/Evershine-Color-Trend/06.jpg"
                                                                           loading="lazy"  alt="02"></figure>
                                                             </div>
                                                             <div class="swiper-slide" role="group"
@@ -184,63 +184,10 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 data-swiper-slide-index="3" style="width: 390px;">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc//07-2.avif"
+                                                                        src="./assest/img/portfolio/websitecc/Evershine-Color-Trend/07.jpg"
                                                                           loading="lazy"  alt="07"></figure>
                                                             </div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="5 / 7"
-                                                                data-swiper-slide-index="4" style="width: 390px;"
-                                                                aria-hidden="true" inert="">
-                                                                <figure class="swiper-slide-inner"><img decoding="async"
-                                                                        class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc//01-4.avif"
-                                                                          loading="lazy"  alt="01"></figure>
-                                                            </div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="6 / 7"
-                                                                data-swiper-slide-index="5" style="width: 390px;"
-                                                                aria-hidden="true" inert="">
-                                                                <figure class="swiper-slide-inner"><img decoding="async"
-                                                                        class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc//02-2.avif"
-                                                                          loading="lazy"  alt="04"></figure>
-                                                            </div>
-                                                            <div class="swiper-slide" role="group"
-                                                                aria-roledescription="slide" aria-label="7 / 7"
-                                                                data-swiper-slide-index="6" style="width: 390px;"
-                                                                aria-hidden="true" inert="">
-                                                                <figure class="swiper-slide-inner"><img decoding="async"
-                                                                        class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc//03-3.avif"
-                                                                          loading="lazy"  alt="03"></figure>
-                                                            </div>
-                                                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev"
-                                                                role="group" aria-roledescription="slide"
-                                                                aria-label="1 / 7" data-swiper-slide-index="0"
-                                                                style="width: 390px;" aria-hidden="true" inert="">
-                                                                <figure class="swiper-slide-inner"><img decoding="async"
-                                                                        class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc//04-3.avif"
-                                                                          loading="lazy"  alt="05"></figure>
-                                                            </div>
-                                                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active"
-                                                                role="group" aria-roledescription="slide"
-                                                                aria-label="2 / 7" data-swiper-slide-index="1"
-                                                                style="width: 390px;" aria-hidden="true" inert="">
-                                                                <figure class="swiper-slide-inner"><img decoding="async"
-                                                                        class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc//05-2.avif"
-                                                                          loading="lazy"  alt="06"></figure>
-                                                            </div>
-                                                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next"
-                                                                role="group" aria-roledescription="slide"
-                                                                aria-label="3 / 7" data-swiper-slide-index="2"
-                                                                style="width: 390px;" aria-hidden="true" inert="">
-                                                                <figure class="swiper-slide-inner"><img decoding="async"
-                                                                        class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/websitecc//06-2.avif"
-                                                                          loading="lazy"  alt="02"></figure>
-                                                            </div>
+                                                            
                                                         </div>
                                                         <div class="elementor-swiper-button elementor-swiper-button-prev"
                                                             role="button" tabindex="0" aria-label="Previous slide"
