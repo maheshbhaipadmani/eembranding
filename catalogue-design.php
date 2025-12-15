@@ -136,7 +136,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                 </div>
                   <section class="collection-section">
-                    <h2>Servises</h2>
                     <div class="collection-grid">
 
                         <!-- CARD 1 -->
