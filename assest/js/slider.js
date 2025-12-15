@@ -1,6 +1,6 @@
 new Swiper(".catalog-slider", {
   slidesPerView: "auto",
-  spaceBetween: 40,
+  spaceBetween: 20,
   centeredSlides: true,
   loop: true,
   autoplay: {
