@@ -11,9 +11,9 @@ echo
      <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 
     <!-- swiper -->
+     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
      <script src="https://eembranding.com/assest/js/slider.js"></script>
     <script src="https://eembranding.com/assest/js/nav.js"></script>
-     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
 
      <script src="https://eembranding.com/assest/js/whatsapp.js"></script>
     <script type="text/javascript" src="https://eembranding.com/assest/js/minify-footer-2ef81eaa.min.js"  id="min-footer-1-js" defer></script>
