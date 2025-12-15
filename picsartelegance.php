@@ -138,7 +138,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-duplicate"
                                                                 role="group" aria-roledescription="slide"
-                                                                aria-label="6 / 7" data-swiper-slide-index="5"
+                                                                aria-label="4 / 7" data-swiper-slide-index="3"
                                                                 style="width: 390px;" aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
@@ -147,7 +147,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             </div>
                                                             <div class="swiper-slide swiper-slide-duplicate"
                                                                 role="group" aria-roledescription="slide"
-                                                                aria-label="7 / 7" data-swiper-slide-index="6"
+                                                                aria-label="3 / 7" data-swiper-slide-index="2"
                                                                 style="width: 390px;" aria-hidden="true" inert="">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
