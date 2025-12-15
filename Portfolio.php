@@ -407,7 +407,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <img decoding="async"
                                                                                 src="./assest/img/portfolio/websitecc/Fabrino/00-Thumbnail.jpg"
                                                                                   loading="lazy"  alt="Image">
-                                                                            <a href="portfolio/bravio-pastel-laminate"
+                                                                            <a href="portfolio/fabrino-fabric"
                                                                                 class="link-icon">
                                                                                 <img decoding="async"
                                                                                     src="https://eembranding.com/assest/img/icon/arrow-right.svg"
