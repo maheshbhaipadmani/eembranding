@@ -54596,3 +54596,78 @@ ul .comment-respond {
     font-weight: 900
 }
 
+
+.collection-card {
+  background: #fff;
+  border-radius: 16px;
+  padding: 15px;
+  text-decoration: none;
+  color: #fff;
+  transition: all 0.3s ease;
+}
+
+.collection-card:hover {
+  transform: translateY(-6px);
+}
+
+.img-box {
+  position: relative;
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.img-box img {
+  width: 100%;
+  display: block;
+  border-radius: 14px;
+}
+
+.img-box::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 55%;
+  background: linear-gradient(
+    to top,
+    rgba(0,0,0,0.65),
+    rgba(0,0,0,0)
+  );
+}
+
+.card-title {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  z-index: 2;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 0;
+}
+
+.collection-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 60px 20px;
+}
+
+.collection-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+
+@media (max-width: 991px) {
+  .collection-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 575px) {
+  .collection-grid {
+    grid-template-columns: 1fr;
+  }
+}
+

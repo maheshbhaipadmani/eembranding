@@ -22,8 +22,10 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="col-lg-5">
                     <div class="breadcrumb-shape">
                         <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                            src="https://eembranding.com/assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
-                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
+                            src="https://eembranding.com/assest/img/icon/Untitled-2.png"
+                            loading="lazy" alt="Shape">
+                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"
+                            loading="lazy" alt="Shape">
                     </div>
                 </div>
             </div>
@@ -85,7 +87,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="about-img text-end">
                                         <img class="wow fadeInLeft" data-wow-delay=".5s"
                                             src="https://eembranding.com/assest/img/service/catalogue-design/Laminate-catalouge-design-mordern.avif"
-                                              loading="lazy"  alt=""
+                                            loading="lazy" alt=""
                                             style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
                                     </div>
                                 </div>
@@ -103,17 +105,23 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="about-list">
                                         <ul class="list-wrap">
                                             <li>
-                                                <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                <img decoding="async"
+                                                    src="https://eembranding.com/assest/img/service/check.svg"
+                                                    loading="lazy" alt="Icon">
 
                                                 Showcases products effectively
                                             </li>
                                             <li>
-                                                <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                <img decoding="async"
+                                                    src="https://eembranding.com/assest/img/service/check.svg"
+                                                    loading="lazy" alt="Icon">
 
                                                 Enhances brand image
                                             </li>
                                             <li>
-                                                <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                <img decoding="async"
+                                                    src="https://eembranding.com/assest/img/service/check.svg"
+                                                    loading="lazy" alt="Icon">
 
                                                 Increases sales and customer engagement
                                             </li>
@@ -157,17 +165,23 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="about-list">
                                         <ul class="list-wrap">
                                             <li>
-                                                <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                <img decoding="async"
+                                                    src="https://eembranding.com/assest/img/service/check.svg"
+                                                    loading="lazy" alt="Icon">
 
                                                 Showcases products effectively
                                             </li>
                                             <li>
-                                                <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                <img decoding="async"
+                                                    src="https://eembranding.com/assest/img/service/check.svg"
+                                                    loading="lazy" alt="Icon">
 
                                                 Enhances brand image
                                             </li>
                                             <li>
-                                                <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                                                <img decoding="async"
+                                                    src="https://eembranding.com/assest/img/service/check.svg"
+                                                    loading="lazy" alt="Icon">
 
                                                 Increases sales and customer engagement
                                             </li>
@@ -178,7 +192,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             <div class="elementor-element elementor-element-804d946 elementor-widget elementor-widget-genix-faq"
                                 data-id="804d946" data-element_type="widget" data-widget_type="genix-faq.default">
                                 <div class="elementor-widget-container">
-                                    
+
                                     <div class="services-faq-wrap">
                                         <div class="accordion" id="accordionExample">
                                             <div class="elementor-element elementor-element-5637943 elementor-widget elementor-widget-heading"
@@ -199,7 +213,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div id="collapseOne-1" class="accordion-collapse collapse "
                                                     aria-labelledby="headingOne-1" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Catalogue design is the process of creating structured, branded layouts to showcase products or services in print or digital format.</p>
+                                                        <p>Catalogue design is the process of creating structured,
+                                                            branded layouts to showcase products or services in print or
+                                                            digital format.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -215,7 +231,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div id="collapseOne-3" class="accordion-collapse collapse "
                                                     aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>We design laminate, product, corporate, fashion, interior, digital, and B2B catalogues.</p>
+                                                        <p>We design laminate, product, corporate, fashion, interior,
+                                                            digital, and B2B catalogues.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -231,7 +248,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div id="collapseOne-4" class="accordion-collapse collapse "
                                                     aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>It’s the process of creating professional catalogues to display laminate designs, textures, and product specs for marketing and sales.</p>
+                                                        <p>It’s the process of creating professional catalogues to
+                                                            display laminate designs, textures, and product specs for
+                                                            marketing and sales.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -247,7 +266,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div id="collapseOne-5" class="accordion-collapse collapse "
                                                     aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>Yes, we can include 3D renderings and room setups to showcase laminate usage.</p>
+                                                        <p>Yes, we can include 3D renderings and room setups to showcase
+                                                            laminate usage.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -263,7 +283,10 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div id="collapseOne-6" class="accordion-collapse collapse "
                                                     aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
                                                     <div class="accordion-body">
-                                                        <p>A great catalogue is clean, well-organized, visually appealing, and aligned with your brand. It should guide customers through your offerings easily and inspire them to take action.</p>
+                                                        <p>A great catalogue is clean, well-organized, visually
+                                                            appealing, and aligned with your brand. It should guide
+                                                            customers through your offerings easily and inspire them to
+                                                            take action.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -274,22 +297,47 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-920aeb1 e-flex e-con-boxed e-con e-parent"
-                    data-id="920aeb1" data-element_type="container">
-                    <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-33dfcb9 elementor-widget elementor-widget-spacer"
-                            data-id="33dfcb9" data-element_type="widget" data-widget_type="spacer.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-spacer">
-                                    <div class="elementor-spacer-inner"></div>
-                                </div>
+
+                <section class="collection-section">
+                    <h2>Servises</h2>
+                    <div class="collection-grid">
+
+                        <!-- CARD 1 -->
+                        <a href="portfolio/ranberry-trends" class="collection-card">
+                            <div class="img-box">
+                                <img src="./assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg" alt="Ela">
+                                <h3 class="card-title">Ranberry Trends</h3>
                             </div>
-                        </div>
+                        </a>
+                         <a href="portfolio/dazzle-berryenpastel" class="collection-card">
+                            <div class="img-box">
+                                <img src="./assest/img/portfolio/websitecc/Dazzle-Berry/00-Thumbnail.jpg" alt="Ela">
+                                <h3 class="card-title">Dazzle Berry Pastel</h3>
+                            </div>
+                        </a>
+                         <a href="portfolio/central" class="collection-card">
+                            <div class="img-box">
+                                <img src="./assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg" alt="Ela">
+                                <h3 class="card-title">Central Mesmerized Touch</h3>
+                            </div>
+                        </a>
+                         <a href="portfolio/kooyoo-enchanting" class="collection-card">
+                            <div class="img-box">
+                                <img src="./assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg" alt="Ela">
+                                <h3 class="card-title">Kooyoo Enchanting</h3>
+                            </div>
+                        </a>
                     </div>
-                </div>
+                    <div class="elementor-widget-container mt-3 d-flex justify-content-center">
+                        <a href="Portfolio" target="_self" rel="nofollow" class="btn">
+                            View All<span></span>
+                        </a>
+                    </div>
+                </section>
             </div>
         </div>
     </section>
+
 
 
     <script type="application/ld+json">
