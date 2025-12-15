@@ -135,6 +135,42 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
 
                 </div>
+                  <section class="collection-section">
+                    <h2>Servises</h2>
+                    <div class="collection-grid">
+
+                        <!-- CARD 1 -->
+                        <a href="portfolio/ranberry-trends" class="collection-card">
+                            <div class="img-box">
+                                <img src="./assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg" alt="Ela">
+                                <h3 class="card-title">Ranberry Trends</h3>
+                            </div>
+                        </a>
+                         <a href="portfolio/dazzle-berryenpastel" class="collection-card">
+                            <div class="img-box">
+                                <img src="./assest/img/portfolio/websitecc/Dazzle-Berry/00-Thumbnail.jpg" alt="Ela">
+                                <h3 class="card-title">Dazzle Berry Pastel</h3>
+                            </div>
+                        </a>
+                         <a href="portfolio/central" class="collection-card">
+                            <div class="img-box">
+                                <img src="./assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg" alt="Ela">
+                                <h3 class="card-title">Central Mesmerized Touch</h3>
+                            </div>
+                        </a>
+                         <a href="portfolio/kooyoo-enchanting" class="collection-card">
+                            <div class="img-box">
+                                <img src="./assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg" alt="Ela">
+                                <h3 class="card-title">Kooyoo Enchanting</h3>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="elementor-widget-container mt-3 d-flex justify-content-center">
+                        <a href="Portfolio" target="_self" rel="nofollow" class="btn">
+                            View All<span></span>
+                        </a>
+                    </div>
+                </section>
                 <div class="elementor-element elementor-element-2cdeb1c e-flex e-con-boxed e-con e-parent e-lazyloaded"
                     data-id="2cdeb1c" data-element_type="container">
                     <div class="e-con-inner">
@@ -298,42 +334,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     </div>
                 </div>
 
-                <section class="collection-section">
-                    <h2>Servises</h2>
-                    <div class="collection-grid">
-
-                        <!-- CARD 1 -->
-                        <a href="portfolio/ranberry-trends" class="collection-card">
-                            <div class="img-box">
-                                <img src="./assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg" alt="Ela">
-                                <h3 class="card-title">Ranberry Trends</h3>
-                            </div>
-                        </a>
-                         <a href="portfolio/dazzle-berryenpastel" class="collection-card">
-                            <div class="img-box">
-                                <img src="./assest/img/portfolio/websitecc/Dazzle-Berry/00-Thumbnail.jpg" alt="Ela">
-                                <h3 class="card-title">Dazzle Berry Pastel</h3>
-                            </div>
-                        </a>
-                         <a href="portfolio/central" class="collection-card">
-                            <div class="img-box">
-                                <img src="./assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg" alt="Ela">
-                                <h3 class="card-title">Central Mesmerized Touch</h3>
-                            </div>
-                        </a>
-                         <a href="portfolio/kooyoo-enchanting" class="collection-card">
-                            <div class="img-box">
-                                <img src="./assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg" alt="Ela">
-                                <h3 class="card-title">Kooyoo Enchanting</h3>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="elementor-widget-container mt-3 d-flex justify-content-center">
-                        <a href="Portfolio" target="_self" rel="nofollow" class="btn">
-                            View All<span></span>
-                        </a>
-                    </div>
-                </section>
+              
             </div>
         </div>
     </section>
