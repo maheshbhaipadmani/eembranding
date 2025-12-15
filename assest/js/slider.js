@@ -1,7 +1,5 @@
 new Swiper(".catalog-slider", {
-  slidesPerView: "auto",
   spaceBetween: 20,
-  centeredSlides: true,
   loop: true,
   autoplay: {
     delay: 2500,
@@ -12,4 +10,10 @@ new Swiper(".catalog-slider", {
     clickable: true,
   },
   speed: 800,
+  breakpoints: {
+    320: { slidesPerView: 1.2 },
+    576: { slidesPerView: 2.2 },
+    768: { slidesPerView: 3.2 },
+    1024:{ slidesPerView: 4.5 }
+  }
 });

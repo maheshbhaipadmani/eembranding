@@ -106,8 +106,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 </div>
             </div>
             <div class="container">
-                <div class="catalog-slider swiper my-5">
-                      <div class="swiper-wrapper">
+                <div class="catalog-slider-wrapper">
+                  <div class="catalog-slider swiper">
+                    <div class="swiper-wrapper">
                         <div class="swiper-slide">
                           <img src="./assest/img/portfolio/websitecc/Ranberry/01.jpg" alt="">
                         </div>
@@ -130,8 +131,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                           <img src="./assest/img/portfolio/websitecc/Ranberry/07.jpg" alt="">
                         </div>
                       </div>
-                      <div class="swiper-pagination"></div>
-                    </div>
+                  </div>
+                
+                  <!-- pagination OUTSIDE slider -->
+                  <div class="swiper-pagination"></div>
+                </div>
             </div>
         </section>
 
