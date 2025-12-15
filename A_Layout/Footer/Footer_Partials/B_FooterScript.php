@@ -13,7 +13,8 @@ echo
     <!-- swiper -->
      <script src="https://eembranding.com/assest/js/slider.js"></script>
     <script src="https://eembranding.com/assest/js/nav.js"></script>
-     <script src="https://eembranding.com/assest/js/swiper.min.js"></script>
+     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+
      <script src="https://eembranding.com/assest/js/whatsapp.js"></script>
     <script type="text/javascript" src="https://eembranding.com/assest/js/minify-footer-2ef81eaa.min.js"  id="min-footer-1-js" defer></script>
    <script type="text/javascript" src="https://eembranding.com/assest/js/minify-footer-fa3d8e1c.min.js"  id="min-footer-2-js" defer></script>
