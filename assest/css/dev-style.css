@@ -461,14 +461,3 @@ body.mobile-menu-active {
   margin-top: 25px;
   text-align: center;
 }
-.hero-banner{
-    width:100%;
-    height:100vh;
-    overflow:hidden;
-}
-
-.hero-banner img{
-    width:100%;
-    height:100%;
-    object-fit:cover;
-}
