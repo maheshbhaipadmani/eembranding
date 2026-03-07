@@ -54796,3 +54796,545 @@ ul .comment-respond {
             outline-offset: 3px;
         }
  /* <!-- end Testimonial --> */
+ /* start home page hero after section */
+ /* Hero Introduction Section - Clean CSS */
+
+.hero-intro-section {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.hero-intro-container {
+    width: 100%;
+}
+
+.hero-intro-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.hero-intro-heading {
+    margin-bottom: 30px;
+}
+
+.hero-intro-heading h1 {
+    margin: 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--tg-heading-font-color, #141714);
+}
+
+.hero-intro-text {
+    font-size: 16px;
+    line-height: 1.8;
+    color: var(--tg-paragraph-color, #757589);
+}
+
+.hero-intro-text p {
+    margin-bottom: 20px;
+}
+
+.hero-intro-text p:last-child {
+    margin-bottom: 0;
+}
+
+.text-normal {
+    font-weight: 400;
+}
+
+.hero-intro-text a {
+    color: var(--tg-primary-color, #de202a);
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.hero-intro-text a:hover {
+    text-decoration: underline;
+    opacity: 0.8;
+}
+
+/* Responsive Design */
+@media (max-width: 992px) {
+    .hero-intro-heading h1 {
+        font-size: 36px;
+    }
+    
+    .hero-intro-text {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 768px) {
+    .hero-intro-heading h1 {
+        font-size: 28px;
+    }
+    
+    .hero-intro-text {
+        font-size: 14px;
+        line-height: 1.6;
+    }
+}
+
+@media (max-width: 576px) {
+    .hero-intro-section {
+        padding: 0 15px;
+    }
+    
+    .hero-intro-heading h1 {
+        font-size: 24px;
+    }
+    
+    .hero-intro-heading {
+        margin-bottom: 20px;
+    }
+    
+    .hero-intro-text {
+        font-size: 13px;
+    }
+    
+    .hero-intro-text p {
+        margin-bottom: 15px;
+    }
+}
+
+ /* end home page hero after section */
+
+ /* start cta seciton  */
+ /* Container and Section Setup */
+.cta-section {
+    padding: 100px 20px;
+    background-color: #ffffff; /* Or match your site background */
+    display: flex;
+    justify-content: center;
+}
+
+.cta-container {
+    width: 100%;
+    max-width: 1100px;
+}
+
+/* The Red Card */
+.cta-card {
+    background-color: #de202a; /* The red color from your image */
+    border-radius: 50px; /* Highly rounded corners */
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding: 60px 80px;
+    min-height: 300px;
+    overflow: visible; /* Allows the character to pop out */
+}
+
+/* Text Content */
+.cta-content {
+    flex: 1;
+    color: #ffffff;
+    z-index: 2;
+}
+
+.cta-heading h6 {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 15px;
+    opacity: 0.9;
+}
+
+.cta-heading h2 {
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 30px;
+}
+
+/* The Button */
+.cta-button {
+    background-color: #ffffff !important;
+    color: #333 !important;
+    padding: 12px 35px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    display: inline-block;
+    transition: transform 0.2s ease;
+}
+
+.cta-button:hover {
+    transform: scale(1.05);
+}
+
+/* The 3D Image Positioning */
+.cta-image {
+    position: absolute;
+    right: -20px; /* Pulls image to the right edge */
+    bottom: -20px; /* Makes image overlap the bottom */
+    width: 45%;
+    z-index: 3;
+}
+
+.cta-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Responsive Fixes */
+@media (max-width: 992px) {
+    .cta-card {
+        flex-direction: column;
+        text-align: center;
+        padding: 40px;
+        margin-top: 100px;
+    }
+    
+    .cta-image {
+        position: relative;
+        width: 80%;
+        right: 0;
+        bottom: 0;
+        margin: 0 auto;
+        order: -1; /* Puts image on top for mobile */
+    }
+
+    .cta-heading h2 {
+        font-size: 32px;
+    }
+}
+ /* end cta seciton  */
+ /* start blog card section  */
+ /* Grid Layout */
+.blog-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns like the image */
+    gap: 30px;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Individual Card */
+.blog-card {
+    background: transparent;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Image Styling */
+.blog-image {
+    width: 100%;
+    margin-bottom: 20px;
+    overflow: hidden;
+    border-radius: 4px; /* Optional slight roundness */
+}
+
+.blog-image img {
+    width: 100%;
+    height: 220px; /* Fixed height for uniformity */
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+.blog-card:hover .blog-image img {
+    transform: scale(1.05);
+}
+
+/* Body & Typography */
+.blog-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.blog-title {
+    margin: 0 0 15px 0;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.4;
+}
+
+.blog-title a {
+    color: #333333;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.blog-title a:hover {
+    color: #de202a; /* Your primary red color */
+}
+
+.blog-excerpt {
+    font-size: 15px;
+    color: #666666;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    /* Limit to 3 lines for a clean look */
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Read More Link */
+.blog-read-more {
+    font-size: 14px;
+    color: #add8e6; /* Match the light blue color in your image */
+    text-decoration: none;
+    font-weight: 500;
+    width: fit-content;
+}
+
+.blog-read-more:hover {
+    text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 992px) {
+    .blog-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .blog-grid {
+        grid-template-columns: 1fr;
+    }
+}
+ /* end blog card section  */
+ /* start our product section */
+ .products-section {
+    padding: 80px 0;
+    background-color: #f9f9f9;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+/* The Grid */
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 Columns */
+    gap: 30px;
+}
+
+/* Image Wrapper */
+.product-image-wrapper {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    background: #fff;
+    aspect-ratio: 4 / 5; /* Matches the catalogue book shape */
+}
+
+.product-image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+/* The Hover Overlay */
+.product-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2); /* Soft dark tint on hover */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+}
+
+/* The Red Circular Button (Same as Morbi King UI) */
+.view-btn {
+    width: 80px;
+    height: 80px;
+    background-color: #de202a; /* Your primary red */
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: scale(0.5); /* Starts small */
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.view-btn img {
+    width: 30px !important;
+    height: 30px !important;
+    filter: brightness(0) invert(1); /* Makes arrow white */
+}
+
+/* Hover States */
+.product-item:hover .product-overlay {
+    opacity: 1;
+    visibility: visible;
+}
+
+.product-item:hover .view-btn {
+    transform: scale(1); /* Pops up on hover */
+}
+
+.product-item:hover .product-image-wrapper > img {
+    transform: scale(1.1); /* Slight zoom on background image */
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+    .product-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 576px) {
+    .product-grid { grid-template-columns: 1fr; }
+}
+/* The Circle Background */
+.hover-circle-btn {
+    width: 70px;
+    height: 70px;
+    background-color: rgba(222, 32, 42, 0.7); /* Starts slightly transparent red */
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    transition: all 0.4s ease;
+    overflow: hidden; /* Clips the arrow if it moves too far */
+}
+
+/* The Arrow Icon */
+.arrow-icon {
+    width: 24px;
+    height: auto;
+    filter: brightness(0) invert(1); /* Makes arrow white */
+    
+    /* INITIAL STATE: Rotated -45 degrees (pointing up-right/cross) */
+    transform: rotate(-45deg) translateX(0);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* HOVER EFFECTS */
+.product-item:hover .hover-circle-btn {
+    background-color: #de202a; /* Changes to solid red */
+    box-shadow: 0 0 20px rgba(222, 32, 42, 0.4);
+}
+
+.product-item:hover .arrow-icon {
+    /* HOVER STATE: Rotates to 0 (straight right) and moves right */
+    transform: rotate(0deg) translateX(5px);
+}
+
+/* Background Overlay Tint */
+.product-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.product-item:hover .product-overlay {
+    opacity: 1;
+}
+ /* end our product section */
+ /* start our services  */
+ /* Section Header Decor */
+.line {
+    height: 2px;
+    width: 50px;
+    background-color: #de202a;
+}
+
+/* Icon Animation - Left to Right & Rotation */
+.service-icon-box {
+    width: 60px;
+    height: 60px;
+    transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.service-icon {
+    width: 100%;
+    transition: all 0.5s ease;
+}
+.service-card{
+    position: relative;
+    background: var(--tg-white);
+    border-radius: 16px;
+    box-shadow: 0 0 50px rgb(255 255 255 / .7%);
+    padding: 50px 32px 45px;
+    margin-bottom: 30px;
+    transition: .3s ease-in-out;
+    overflow: hidden;
+}
+
+/* Bottom border line */
+.service-card::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0%;
+    height: 4px;
+    background: #de202a;
+    transition: width 0.4s ease;
+}
+
+/* Hover effect */
+.service-card:hover::after{
+    width: 100%;
+}
+
+/* Card Lift */
+.service-card:hover{
+    transform: translateY(-10px);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+}
+/* Button style adjustment */
+.read-more-btn {
+    background-color: #de202a;
+    border-color: #de202a;
+    border-radius: 5px;
+    padding: 8px 20px;
+}
+
+ /* end our services  */
+ /* start all button style */
+ .new-all-button{
+display:inline-block;
+background:#de202a;
+color:#fff;
+padding:12px 28px;
+border-radius:8px;
+font-size:16px;
+font-weight:600;
+text-decoration:none;
+transition:all .3s ease;
+}
+
+.new-all-button:hover{
+background:#b81820;
+color:#fff;
+transform:translateY(-2px);
+box-shadow:0 6px 15px rgba(0,0,0,0.15);
+}
+ /* end all button style */
