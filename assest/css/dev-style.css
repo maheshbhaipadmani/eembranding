@@ -4,7 +4,6 @@ img:is([sizes="auto" i], [sizes^="auto," i]) {
 }
 
 * {
-    -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
 
@@ -60,9 +59,9 @@ html, body {
 
 .services-icon p {
     max-height: 120px;
-    -webkit-box-orient: vertical;
     overflow: hidden;
     display: -webkit-box;
+    -webkit-box-orient: vertical;
 }
 
 .services-item-two {
@@ -74,7 +73,7 @@ html, body {
 }
 
 .services-icon a.link-btn {
-    background: var(--tg-primary-color) none repeat scroll 0 0;
+    background: var(--tg-primary-color);
     border: medium none;
     border-radius: 10px;
     color: var(--tg-white);
@@ -103,7 +102,7 @@ html, body {
 
 .breadcrumb-area-two {
     overflow: hidden;
-    padding: 90px 0 90px;
+    padding: 90px 0;
     background-color: #DADADA;
 }
 
@@ -131,8 +130,6 @@ html, body {
 
 /* Mobile Menu */
 .mobile-menu.menu-open {
-    -webkit-transform: translateX(0%);
-    -ms-transform: translateX(0%);
     transform: translateX(0%);
 }
 
@@ -301,6 +298,13 @@ body.mobile-menu-active {
     transition: all 0.3s ease;
 }
 
+/* Mobile Testimonial Slider - Responsive */
+@media (max-width: 768px) {
+    .secondphoneview-touch-indicator {
+        display: block;
+    }
+}
+
 @media (max-width: 480px) {
     body {
         padding: 12px;
@@ -348,116 +352,113 @@ body.mobile-menu-active {
     }
 }
 
-@media (max-width: 768px) {
-    .secondphoneview-touch-indicator {
-        display: block;
-    }
-}
-
 @media (min-width: 769px) {
     .secondphoneview-touch-indicator {
         display: none;
     }
 }
 
+/* Brand Slider */
+.newbrand-slider-wrapper {
+    overflow: hidden;
+    padding: 30px 0;
+    background-color: #fff;
+}
 
-        .newbrand-slider-wrapper {
-      overflow: hidden;
-      padding: 30px 0;
-      background-color: #fff;
-    }
+.newbrand-slide-track {
+    display: flex;
+    width: calc(200px * 18);
+    animation: scroll 20s linear infinite;
+}
 
-    .newbrand-slide-track {
-      display: flex;
-      width: calc(200px * 18); /* Assuming 18 logos, adjust as needed */
-      animation: scroll 20s linear infinite;
-    }
+.newbrand-slide {
+    flex: 0 0 auto;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+}
 
-    .newbrand-slide {
-      flex: 0 0 auto;
-      width: 200px;
-      text-align: center;
-      padding: 10px;
-    }
+.newbrand-slide img {
+    max-width: 120px;
+    height: auto;
+    transition: transform 0.3s ease;
+}
 
-    .newbrand-slide img {
-      max-width: 120px;
-      height: auto;
-      transition: transform 0.3s ease;
-    }
+.newbrand-slide img:hover {
+    transform: scale(1.05);
+}
 
-    .newbrand-slide img:hover {
-      transform: scale(1.05);
-    }
-
-    @keyframes scroll {
-      0% {
+@keyframes scroll {
+    0% {
         transform: translateX(0);
-      }
-      100% {
+    }
+    100% {
         transform: translateX(-50%);
-      }
     }
+}
 
-    /* Responsive Adjustments */
-    @media (max-width: 1200px) {
-      .newbrand-slide {
+/* Brand Slider - Responsive */
+@media (max-width: 1200px) {
+    .newbrand-slide {
         width: 160px;
-      }
     }
+}
 
-    @media (max-width: 768px) {
-      .newbrand-slide {
-        width: 140px;
-      }
-    }
-
-    @media (max-width: 576px) {
-      .newbrand-slide {
-        width: 120px;   
-      }
-      .custom-icon-img{
+@media (max-width: 1030px) {
+    .custom-icon-img {
         display: none !important;
-      }
-      .custom-padding-sm{
-        padding: 0 !important;
-      }
     }
-   @media (max-width: 1030px) {
-
-      .custom-icon-img{
-        display: none !important;
-      }
-      .custom-top{
+    .custom-top {
         margin-top: 10px !important;
-      }
     }
-    @media (max-width: 400px) {
-      .newbrand-slide {
+}
+
+@media (max-width: 768px) {
+    .newbrand-slide {
+        width: 140px;
+    }
+}
+
+@media (max-width: 576px) {
+    .newbrand-slide {
+        width: 120px;
+    }
+    .custom-icon-img {
+        display: none !important;
+    }
+    .custom-padding-sm {
+        padding: 0 !important;
+    }
+}
+
+@media (max-width: 400px) {
+    .newbrand-slide {
         width: 100px;
-      }
     }
+}
+
+/* Catalog Slider */
 .catalog-slider-wrapper {
-  width: 100%;
-  padding-bottom: 50px; 
+    width: 100%;
+    padding-bottom: 50px;
 }
 
 .catalog-slider {
-  overflow: hidden;
+    overflow: hidden;
 }
 
 .catalog-slider .swiper-slide {
-  width: calc(100% / 4.5);
+    width: calc(100% / 4.5);
 }
 
 .catalog-slider .swiper-slide img {
-  width: 100%;
-  border-radius: 14px;
-  display: block;
+    width: 100%;
+    border-radius: 14px;
+    display: block;
 }
 
 .swiper-pagination {
-  position: relative;
-  margin-top: 25px;
-  text-align: center;
+    position: relative;
+    margin-top: 25px;
+    text-align: center;
 }

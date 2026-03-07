@@ -21,9 +21,9 @@ reset($myaraa);
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css" />
-<main class="main-area">
-    <div data-elementor-type="wp-page" data-elementor-id="495" class="elementor elementor-495">
-        <section class="hero-banner">
+<main>
+    <!-- start hero banner    -->
+    <section class="hero-banner">
             <picture>
                 <!-- Large screens -->
                 <source media="(min-width: 1921px)" srcset="eem-2560x1440.jpg">
@@ -38,6 +38,12 @@ reset($myaraa);
                 <img src="eem-480x800.jpg" alt="Hero Banner">
             </picture>
         </section>
+    <!-- start hero banner    -->
+</main>
+<main class="main-area">
+    <div data-elementor-type="wp-page" data-elementor-id="495" class="elementor elementor-495">
+    
+
         <!-- Branding Agency In Ahmedabad -->
         <div class="elementor-element elementor-element-b41f9b7 e-flex e-con-boxed e-con e-parent" data-id="b41f9b7"
             data-element_type="container">

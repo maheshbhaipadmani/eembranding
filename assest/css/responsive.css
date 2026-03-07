@@ -1,25 +1,7 @@
-/* Responsive Styles for Bootstrap Layout */
-
-/* Extra Large Devices (1200px and up) */
-@media (min-width: 1200px) {
-    .hero-section, .services-section, .projects-section, .testimonials-section, .blog-section, .cta-section {
-        padding: 80px 0;
-    }
-}
-
-/* Large Devices (992px to 1199px) */
-@media (max-width: 1199px) {
-    .hero-section, .services-section, .projects-section, .testimonials-section, .blog-section, .cta-section {
-        padding: 60px 0;
-    }
-}
+/* Responsive Styles for Bootstrap Layout - OPTIMIZED */
 
 /* Tablets (768px to 991px) */
 @media (max-width: 991px) {
-    .hero-section, .services-section, .projects-section, .testimonials-section, .blog-section, .cta-section {
-        padding: 50px 0;
-    }
-    
     .services-icon a.link-btn {
         padding: 10px 16px;
         font-size: 14px;
@@ -32,10 +14,6 @@
 
 /* Small Devices (576px to 767px) */
 @media (max-width: 767px) {
-    .hero-section, .services-section, .projects-section, .testimonials-section, .blog-section, .cta-section {
-        padding: 40px 0;
-    }
-    
     .cta-section .row {
         flex-direction: column;
     }
@@ -44,10 +22,7 @@
         font-size: 28px;
     }
     
-    .services-card {
-        margin-bottom: 20px;
-    }
-    
+    .services-card,
     .project-card {
         margin-bottom: 20px;
     }
@@ -57,10 +32,6 @@
 @media (max-width: 575px) {
     body {
         padding: 0 12px;
-    }
-    
-    .hero-section, .services-section, .projects-section, .testimonials-section, .blog-section, .cta-section {
-        padding: 30px 0;
     }
     
     h1, .h1 {
@@ -99,8 +70,11 @@
         margin-bottom: 15px;
     }
 }
+
+
+/* Portfolio Accordion Responsive Adjustments */
 @media only screen and (min-width: 1000px) and (max-width: 1400px) {
-.accordion-portfolio-lists li{
+    .accordion-portfolio-lists li {
         min-height: 100vh;
     }
 
@@ -111,7 +85,6 @@
 }
 
 @media (max-width: 991px) {
-    /* Error Box */
     .error-box {
         padding-top: 0;
     }
@@ -126,6 +99,8 @@
         font-size: 36px;
     }
 }
+
+/* Testimonial Mobile Responsive */
 @media screen and (max-width: 480px) {
     .testimonial-content p {
         font-size: 15px;
