@@ -12,7 +12,7 @@ echo
 
 <meta name="description" content="'.$MetaDescription.'" />
 <meta name="keywords" content="'.$MetaKeywords.'" />
-<meta name="author" content="eembranding Team" />
+<meta name="author" content="eembranding Team" />   
 <meta name="robots" content="index, follow" />
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 

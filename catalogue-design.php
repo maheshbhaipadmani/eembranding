@@ -8,9 +8,7 @@ $MetaKeywords = "laminate catalogue design, catalogue design Ahmedabad, brochure
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-
-<main class="main-area">
-
+<main>
     <section class="breadcrumb-area-two ">
         <div class="container">
             <div class="row align-items-center">
@@ -22,325 +20,154 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="col-lg-5">
                     <div class="breadcrumb-shape">
                         <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                            src="https://eembranding.com/assest/img/icon/Untitled-2.png"
-                            loading="lazy" alt="Shape">
-                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"
-                            loading="lazy" alt="Shape">
+                            src="https://eembranding.com/assest/img/icon/Untitled-2.png" loading="lazy" alt="Shape">
+                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png" loading="lazy" alt="Shape">
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="services-details-area">
+    <section class="intro-section py-5 pt-5 mt-5">
         <div class="container">
-            <div data-elementor-type="wp-post" data-elementor-id="4372" class="elementor elementor-4372">
-                <div class="elementor-element elementor-element-9189992 e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                    data-id="9189992" data-element_type="container">
-                    <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-50438b8 elementor-widget elementor-widget-spacer"
-                            data-id="50438b8" data-element_type="widget" data-widget_type="spacer.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-spacer">
-                                    <div class="elementor-spacer-inner"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+            <div class="row align-items-center g-5">
+                <div class="col-lg-7">
+                    <h2 class="display-5 fw-bold mb-4">Transform Your Product Presentation with <span
+                            class="text-danger">Expert Catalogue Design</span></h2>
+                    <p class=" text-muted mb-4">Looking to make a lasting impression with your product catalogues? Our
+                        <b>laminate catalogue design</b> services are crafted to captivate and engage your audience. A
+                        well-designed catalogue does more than just display products – it tells a story, highlights your
+                        brand’s uniqueness, and drives sales.</p>
+                    <p class="text-muted">As a leading <b>catalogue design agency in Ahmedabad</b> , we specialize in
+                        creating visually appealing and strategically crafted catalogues that reflect your brand’s
+                        identity. Whether you need a sleek and modern design or something more classic and
+                        sophisticated, our team of experienced designers works closely with you to ensure every detail
+                        aligns with your vision.</p>
                 </div>
-
-                <div class="elementor-element elementor-element-2cdeb1c e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                    data-id="2cdeb1c" data-element_type="container">
-                    <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
-                            data-id="2348a4d" data-element_type="container">
-                            <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
-                                data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
-
-                                <div class="elementor-element elementor-element-16ab348 elementor-widget elementor-widget-heading"
-                                    data-id="16ab348" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Transform Your
-                                            Product Presentation with Expert Catalogue Design
-                                        </h5>
-                                    </div>
-                                </div>
-                                <div class="elementor-widget-container">
-                                    <p>Looking to make a lasting impression with your product catalogues? Our <b>
-                                            laminate catalogue design services </b> are crafted to captivate and engage
-                                        your audience. A well-designed catalogue does more than just display products –
-                                        it tells a story, highlights your brand’s uniqueness, and drives sales.</p>
-                                    <p>As a leading <b> catalogue design agency </b> in Ahmedabad, we specialize in
-                                        creating visually appealing and strategically crafted catalogues that reflect
-                                        your brand’s identity. Whether you need a sleek and modern design or something
-                                        more classic and sophisticated, our team of experienced designers works closely
-                                        with you to ensure every detail aligns with your vision.</p>
-
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
-                            data-id="2348a4d" data-element_type="container">
-                            <div class="elementor-element elementor-element-b765a09 elementor-widget__width-inherit elementor-widget elementor-widget-genix-image"
-                                data-id="b765a09" data-element_type="widget" data-widget_type="genix-image.default">
-                                <div class="elementor-widget-container">
-                                    <div class="about-img text-end">
-                                        <img class="wow fadeInLeft" data-wow-delay=".5s"
-                                            src="https://eembranding.com/assest/img/service/catalogue-design/Laminate-catalouge-design-mordern.avif"
-                                            loading="lazy" alt=""
-                                            style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-da5c1c1 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-heading"
-                                data-id="da5c1c1" data-element_type="widget" data-widget_type="heading.default">
-                                <div class="elementor-widget-container">
-                                    <h5 class="elementor-heading-title elementor-size-default">Benefits</h5>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-e5a510c elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-iconlist"
-                                data-id="e5a510c" data-element_type="widget" data-widget_type="iconlist.default">
-                                <div class="elementor-widget-container">
-
-                                    <div class="about-list">
-                                        <ul class="list-wrap">
-                                            <li>
-                                                <img decoding="async"
-                                                    src="https://eembranding.com/assest/img/service/check.svg"
-                                                    loading="lazy" alt="Icon">
-
-                                                Showcases products effectively
-                                            </li>
-                                            <li>
-                                                <img decoding="async"
-                                                    src="https://eembranding.com/assest/img/service/check.svg"
-                                                    loading="lazy" alt="Icon">
-
-                                                Enhances brand image
-                                            </li>
-                                            <li>
-                                                <img decoding="async"
-                                                    src="https://eembranding.com/assest/img/service/check.svg"
-                                                    loading="lazy" alt="Icon">
-
-                                                Increases sales and customer engagement
-                                            </li>
-                                        </ul>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
+                <div class="col-lg-5 text-center">
+                    <img src="assest/img/service/catalogue-design/Laminate-catalouge-design-mordern.avif"
+                        class="img-fluid  shadow-lg" alt="Main Service Image">
                 </div>
-                  <section class="collection-section">
-                    <div class="collection-grid">
-
-                        <!-- CARD 1 -->
-                        <a href="portfolio/ranberry-trends" class="collection-card">
-                            <div class="img-box">
-                                <img src="./assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg" alt="Ela">
-                                <h3 class="card-title">Ranberry Trends</h3>
-                            </div>
-                        </a>
-                         <a href="portfolio/dazzle-berryenpastel" class="collection-card">
-                            <div class="img-box">
-                                <img src="./assest/img/portfolio/websitecc/Dazzle-Berry/00-Thumbnail.jpg" alt="Ela">
-                                <h3 class="card-title">Dazzle Berry Pastel</h3>
-                            </div>
-                        </a>
-                         <a href="portfolio/central" class="collection-card">
-                            <div class="img-box">
-                                <img src="./assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg" alt="Ela">
-                                <h3 class="card-title">Central Mesmerized Touch</h3>
-                            </div>
-                        </a>
-                         <a href="portfolio/kooyoo-enchanting" class="collection-card">
-                            <div class="img-box">
-                                <img src="./assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg" alt="Ela">
-                                <h3 class="card-title">Kooyoo Enchanting</h3>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="elementor-widget-container mt-3 d-flex justify-content-center">
-                        <a href="Portfolio" target="_self" rel="nofollow" class="btn">
-                            View All<span></span>
-                        </a>
-                    </div>
-                </section>
-                <div class="elementor-element elementor-element-2cdeb1c e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                    data-id="2cdeb1c" data-element_type="container">
-                    <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
-                            data-id="2348a4d" data-element_type="container">
-
-                            <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
-                                data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
-                                <div class="elementor-widget-container">
-                                    <p>At our <b> catalogue design company in Ahmedabad, </b> we understand that every
-                                        business is unique. That’s why we offer customized solutions that showcase your
-                                        products in the best light. From laminate product catalogues to multi-industry
-                                        portfolios, we ensure high-quality layouts, striking visuals, and a seamless
-                                        blend of creativity and functionality.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-da5c1c1 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-heading"
-                                data-id="da5c1c1" data-element_type="widget" data-widget_type="heading.default">
-                                <div class="elementor-widget-container">
-                                    <h5 class="elementor-heading-title elementor-size-default">Benefits</h5>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-e5a510c elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-iconlist"
-                                data-id="e5a510c" data-element_type="widget" data-widget_type="iconlist.default">
-                                <div class="elementor-widget-container">
-
-                                    <div class="about-list">
-                                        <ul class="list-wrap">
-                                            <li>
-                                                <img decoding="async"
-                                                    src="https://eembranding.com/assest/img/service/check.svg"
-                                                    loading="lazy" alt="Icon">
-
-                                                Showcases products effectively
-                                            </li>
-                                            <li>
-                                                <img decoding="async"
-                                                    src="https://eembranding.com/assest/img/service/check.svg"
-                                                    loading="lazy" alt="Icon">
-
-                                                Enhances brand image
-                                            </li>
-                                            <li>
-                                                <img decoding="async"
-                                                    src="https://eembranding.com/assest/img/service/check.svg"
-                                                    loading="lazy" alt="Icon">
-
-                                                Increases sales and customer engagement
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-804d946 elementor-widget elementor-widget-genix-faq"
-                                data-id="804d946" data-element_type="widget" data-widget_type="genix-faq.default">
-                                <div class="elementor-widget-container">
-
-                                    <div class="services-faq-wrap">
-                                        <div class="accordion" id="accordionExample">
-                                            <div class="elementor-element elementor-element-5637943 elementor-widget elementor-widget-heading"
-                                                data-id="5637943" data-element_type="widget"
-                                                data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <h5 class="elementor-heading-title elementor-size-default">FAQ's
-                                                    </h5>
-                                                </div>
-                                            </div>
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingOne-1">
-                                                    <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-1"
-                                                        aria-expanded="true" aria-controls="collapseOne-1">
-                                                        What is catalogue design? </button>
-                                                </h2>
-                                                <div id="collapseOne-1" class="accordion-collapse collapse "
-                                                    aria-labelledby="headingOne-1" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p>Catalogue design is the process of creating structured,
-                                                            branded layouts to showcase products or services in print or
-                                                            digital format.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingOne-2">
-                                                    <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-3"
-                                                        aria-expanded="true" aria-controls="collapseOne-3">
-                                                        What types of catalogues do you design?
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseOne-3" class="accordion-collapse collapse "
-                                                    aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p>We design laminate, product, corporate, fashion, interior,
-                                                            digital, and B2B catalogues.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingOne-2">
-                                                    <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-4"
-                                                        aria-expanded="true" aria-controls="collapseOne-4">
-                                                        What is laminate catalogue design?
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseOne-4" class="accordion-collapse collapse "
-                                                    aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p>It’s the process of creating professional catalogues to
-                                                            display laminate designs, textures, and product specs for
-                                                            marketing and sales.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingOne-2">
-                                                    <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-5"
-                                                        aria-expanded="true" aria-controls="collapseOne-5">
-                                                        Do you provide 3D laminate visuals or mockups?
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseOne-5" class="accordion-collapse collapse "
-                                                    aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p>Yes, we can include 3D renderings and room setups to showcase
-                                                            laminate usage.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingOne-2">
-                                                    <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-6"
-                                                        aria-expanded="true" aria-controls="collapseOne-6">
-                                                        What makes a good catalogue design?
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseOne-6" class="accordion-collapse collapse "
-                                                    aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p>A great catalogue is clean, well-organized, visually
-                                                            appealing, and aligned with your brand. It should guide
-                                                            customers through your offerings easily and inspire them to
-                                                            take action.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-              
             </div>
         </div>
     </section>
 
+    <section class="portfolio-grid py-5 bg-light">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-3">
+                    <a href="portfolio/ranberry-trends" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg" alt="Ranberry">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Ranberry Trends</h3>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-3">
+                    <a href="portfolio/dazzle-berryenpastel" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Dazzle-Berry/00-Thumbnail.jpg" alt="Dazzle">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Dazzle Berry Pastel</h3>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-3">
+                    <a href="portfolio/central" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg" alt="Central">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Central Mesmerized</h3>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-3">
+                    <a href="portfolio/kooyoo-enchanting" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg" alt="Kooyoo">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Kooyoo Enchanting</h3>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="text-center mt-5">
+                <a href="Portfolio" class="btn btn-dark btn-lg px-5 rounded-pill shadow">View All <span></span></a>
+            </div>
+
+            <div>
+                <p class="text-muted">At our catalogue design company in Ahmedabad, we understand that every business is
+                    unique. That’s why we offer customized solutions that showcase your products in the best light. From
+                    laminate product catalogues to multi-industry portfolios, we ensure high-quality layouts, striking
+                    visuals, and a seamless blend of creativity and functionality.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="details-faq py-5">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-12">
+                    <h5 class="fw-bold mb-4 text-uppercase letter-spacing-1">Frequently Asked Questions</h5>
+                    <div class="accordion accordion-flush shadow-sm border rounded" id="catalogueFaq">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q1">What is catalogue design?</button>
+                            </h2>
+                            <div id="q1" class="accordion-collapse collapse show" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">Catalogue design is the process of creating structured,
+                                    branded layouts to showcase products or services in print or digital format.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q2">What types of catalogues do you design?</button>
+                            </h2>
+                            <div id="q2" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">We design laminate, product, corporate, fashion, interior,
+                                    digital, and B2B catalogues.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q3">What is laminate catalogue design?</button>
+                            </h2>
+                            <div id="q3" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">It’s the process of creating professional catalogues to
+                                    display laminate designs, textures, and product specs for marketing and sales.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q4">Do you provide 3D laminate visuals or mockups?</button>
+                            </h2>
+                            <div id="q4" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">Yes, we can include 3D renderings and room setups to
+                                    showcase laminate usage.</div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q5">What makes a good catalogue design?</button>
+                            </h2>
+                            <div id="q5" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">A great catalogue is clean, well-organized, visually
+                                    appealing, and aligned with your brand. It should guide customers through your
+                                    offerings easily and inspire them to take action.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
 
 
-    <script type="application/ld+json">
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -383,6 +210,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
 }
 </script>
 
-    <?php
-    include __DIR__ . '/A_Layout/Footer/footer.php';
-    ?>
+<?php
+include __DIR__ . '/A_Layout/Footer/footer.php';
+?>
