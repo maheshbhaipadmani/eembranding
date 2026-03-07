@@ -7,97 +7,57 @@ $MetaKeywords = "Keton Mica, bright and beautiful laminates, modern abstract des
 <?php
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
-
-   
-    <main class="main-area">   
-        <section class="breadcrumb-area-two ">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-7">
-                        <div class="breadcrumb-content-two">
-                            <h1 class="title">Keton <span> MicaBeautiful</span></h1>
-                        </div>
+<main>
+    <section class="breadcrumb-area-two ">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7">
+                    <div class="breadcrumb-content-two">
+                        <h1 class="title">Keton <span> MicaBeautiful</span></h1>
                     </div>
-                    <div class="col-lg-5">
-                        <div class="breadcrumb-shape">
-                            <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="https://eembranding.com/assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape"
-                                style="transform:translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                            <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
-                        </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="breadcrumb-shape">
+                        <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
+                            src="https://eembranding.com/assest/img/icon/Untitled-2.png"
+                            loading="lazy" alt="Shape"
+                            style="transform:translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
+                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"
+                            loading="lazy" alt="Shape">
                     </div>
                 </div>
             </div>
-        </section>
-                <section class="project-details-area">
-                    <div class="container-fluid p-0">
-                <div class="row">
-                    <div class="col-12">
-                        <div data-elementor-type="wp-post" data-elementor-id="4980" class="elementor elementor-4980">
-                            <section
-                                class="elementor-section elementor-top-section elementor-element elementor-element-23ec5b3 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                data-id="23ec5b3" data-element_type="section"
-                                data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}"
-                               >
-                                <div class="elementor-background-overlay"></div>
-                                <div class="elementor-container elementor-column-gap-no">
-                                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6b5b917"
-                                        data-id="6b5b917" data-element_type="column">
-                                        <div class="elementor-widget-wrap elementor-element-populated">
-                                            <div class="elementor-element elementor-element-c70ccb1 elementor-widget elementor-widget-heading"
-                                                data-id="c70ccb1" data-element_type="widget"
-                                                data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <h2 class="elementor-heading-title elementor-size-default">
-                                                        KETON MICA <br>
-                                                        <span>Bright & Beautiful</span>
-                                                    </h2>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-0641f35 elementor-widget__width-initial elementor-widget elementor-widget-heading"
-                                                data-id="0641f35" data-element_type="widget"
-                                                data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <p class="elementor-heading-title elementor-size-default">
-                                                        Modern and Abstract Elements Incorporated in sleek geometric patterns and fluid shapes to convey a contemporary aesthetic. Use of abstract forms to hint at the versatility and elegance of laminate products. Utilizing various shades of brown to create depth and warmth, evoking a sense of sophistication and natural beauty. Highlight contrasts to add visual interest and draw attention to the title. "Bright and Beautiful" prominently in a stylish, modern font. Integrate subtle gradients or shadows to enhance readability and make the title stand out against the abstract background, reinforcing the theme of elegance and modernity.</div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-13f087a elementor-widget__width-auto elementor-absolute elementor-hidden-mobile z-index-plus elementor-widget elementor-widget-bg-shapes animated slideInRight"
-                                                data-id="13f087a" data-element_type="widget"
-                                                data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;slideInRight&quot;}"
-                                                data-widget_type="bg-shapes.default">
-                                                <div class="elementor-widget-container">
+        </div>
+    </section>
 
-                                                    <img decoding="async"
-                                                        data-parallax="{&quot;x&quot; : 80 , &quot;y&quot; : 0 }"
-                                                        src="https://eembranding.com/assest/img/icon/Untitled-3.png"
-                                                          loading="lazy"  alt=""
-                                                        style="transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
+    <!-- start seciton -->
+    <section class="bravio-section py-5 position-relative bg-gray overflow-hidden">
+        <div class="container">
+            <div class="row align-items-center">
 
-                                                </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-eb0505f elementor-widget__width-auto elementor-absolute elementor-hidden-mobile elementor-widget elementor-widget-bg-shapes animated zoomInLeft"
-                                                data-id="eb0505f" data-element_type="widget"
-                                                data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;zoomInLeft&quot;}"
-                                                data-widget_type="bg-shapes.default">
-                                                <div class="elementor-widget-container">
-
-                                                    <img decoding="async"
-                                                        data-parallax="{&quot;x&quot; : 79 , &quot;y&quot; : 0 }"
-                                                        src="https://eembranding.com/assest/img/icon/Untitled-2.png"
-                                                          loading="lazy"  alt=""
-                                                        style="transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0.029px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
+                <div class="col-lg-9">
+                    <div class="bravio-content-box">
+                        <h2 class="display-3 fw-bold mb-0">KETON MICA </h2>
+                        <h3 class="display-4 text-secondary mb-4">Bright & Beautiful</h3>
+                        <p class="text-muted lh-base">
+                            Modern and Abstract Elements Incorporated in sleek geometric patterns and fluid shapes to convey a contemporary aesthetic. Use of abstract forms to hint at the versatility and elegance of laminate products. Utilizing various shades of brown to create depth and warmth, evoking a sense of sophistication and natural beauty. Highlight contrasts to add visual interest and draw attention to the title. "Bright and Beautiful" prominently in a stylish, modern font. Integrate subtle gradients or shadows to enhance readability and make the title stand out against the abstract background, reinforcing the theme of elegance and modernity.
+                        </p>
                     </div>
                 </div>
+
+                <div class="col-lg-3 position-relative" style="min-height: 400px;">
+
+                    <div class="round-red"></div>
+                    <div class="round-grey shadow-sm"></div>
+                </div>
+
             </div>
-              <div class="container my-5">
+        </div>
+    </section>
+    <!-- end seciton -->
+
+    <!-- start slider  -->
+    <div class="container my-5">
                 <div class="catalog-slider-wrapper">
                   <div class="catalog-slider swiper">
                     <div class="swiper-wrapper">
@@ -128,7 +88,10 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 
                 </div>
             </div>
-        </section>
+    <!-- emnd slider  -->
+
+</main>
+
 
         <?php
 include __DIR__ . '/A_Layout/Footer/footer.php';

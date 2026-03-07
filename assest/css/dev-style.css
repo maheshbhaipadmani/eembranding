@@ -1,6 +1,3 @@
-
-
-
 html, body {
     height: 100%;
 }
@@ -26,13 +23,8 @@ html, body {
     background: #de202a !important;
 }
 
-.fal, .far, .fa, .fas {
+.far, .fa, .fas {
     font-family: 'FontAwesome' !important;
-}
-
-/* Utility Classes */
-.transition-all {
-    transition: all 0.3s ease;
 }
 
 .mobile-menu .menu-box:nth-child(n+2) {
@@ -40,10 +32,6 @@ html, body {
 }
 
 /* Contact & Services Page Styles */
-.contact-icon img {
-    width: 50px;
-}
-
 .services-icon img {
     width: 60px;
 }
@@ -95,10 +83,6 @@ html, body {
     overflow: hidden;
     padding: 90px 0;
     background-color: #DADADA;
-}
-
-.bg-pink .contact-info-item {
-    background: #fdf3f3;
 }
 
 /* Home Page & General Styles */
@@ -200,12 +184,6 @@ body.mobile-menu-active {
     .newbrand-slide {
         width: 120px;
     }
-    .custom-icon-img {
-        display: none !important;
-    }
-    .custom-padding-sm {
-        padding: 0 !important;
-    }
 }
 
 @media (max-width: 400px) {
@@ -239,3 +217,4 @@ body.mobile-menu-active {
     margin-top: 25px;
     text-align: center;
 }
+

@@ -21,11 +21,6 @@
     h2, .h2 {
         font-size: 20px;
     }
-
-    .services-card,
-    .project-card {
-        margin-bottom: 20px;
-    }
 }
 
 /* Extra Small Devices (up to 575px) */
@@ -38,17 +33,9 @@
         font-size: 24px;
     }
 
-    h2, .h2 {
-        font-size: 20px;
-    }
-
     .container {
         padding-left: 0;
         padding-right: 0;
-    }
-
-    .brand-slider-section {
-        padding: 30px 0;
     }
 }
 
@@ -64,43 +51,5 @@
 
     .lead {
         font-size: 16px;
-    }
-
-    .slick-slider {
-        margin-bottom: 15px;
-    }
-}
-
-
-/* Portfolio Accordion Responsive Adjustments */
-@media only screen and (min-width: 1000px) and (max-width: 1400px) {
-    .accordion-portfolio-lists li {
-        min-height: 100vh;
-    }
-
-    .accrdion-portfolio-area div {
-        height: auto !important;
-        min-height: unset !important;
-    }
-}
-
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-    .accordion-portfolio-lists li.out {
-        padding-top: 280px;
-    }
-
-    .accrdion-portfolio-area .out .accordion-overlay h2 {
-        font-size: 36px;
-    }
-}
-
-/* Testimonial Mobile Responsive */
-@media screen and (max-width: 480px) {
-    .testimonial-content p {
-        font-size: 15px;
-    }
-
-    .testimonial-content .content-bottom .title {
-        font-size: 18px;
     }
 }
