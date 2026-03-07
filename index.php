@@ -262,9 +262,13 @@ reset($myaraa);
     <!--4. star Our product -->
     <section class="products-section">
         <div class="container">
-            <div class="section-title">
-                <h6>Our Premium Collections</h6>
-                <h2>Explore Our Products</h2>
+             <div class="text-center mb-5">
+                <div class="blog-small-title d-flex align-items-center justify-content-center mb-3">
+                    <span class="line"></span>
+                    <span class="mx-3 blog-text text-uppercase fw-bold text-danger">Our Premium Collections</span>
+                    <span class="line"></span>
+                </div>
+                <h2 class="blog-main-title fw-bold">Explore Our Products</h2>
             </div>
 
             <div class="product-grid">
@@ -346,6 +350,7 @@ reset($myaraa);
         </div>
     </section>
     <!--4. end Our product -->
+
     <!-- 5. start Our Projects -->
     <div class="blog-title-section py-5 text-center">
         <div class="container">
@@ -373,7 +378,7 @@ reset($myaraa);
         <div class="container">
 
             <div class="section-label">Testimonial</div>
-            <h2 class="section-title">Sincere Remarks</h2>
+            <h2 class="section-title text-start">Sincere Remarks</h2>
 
             <div class="slider-wrapper">
 
