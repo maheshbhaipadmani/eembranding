@@ -8,34 +8,6 @@
     }
 }
 
-@keyframes blink {
-
-    0%,
-    to {
-        opacity: 0
-    }
-
-    50% {
-        opacity: 1
-    }
-}
-
-@keyframes ball-scale-multiple {
-    0% {
-        opacity: 0;
-        transform: scale(0)
-    }
-
-    5% {
-        opacity: .75
-    }
-
-    to {
-        opacity: 0;
-        transform: scale(1)
-    }
-}
-
 @keyframes ball-clip-rotate {
     0% {
         transform: rotate(0deg)
@@ -67,18 +39,6 @@
 
     to {
         transform: rotate(360deg)
-    }
-}
-
-@-webkit-keyframes progress-bar-stripes {
-    0% {
-        background-position-x: 1rem
-    }
-}
-
-@keyframes progress-bar-stripes {
-    0% {
-        background-position-x: 1rem
     }
 }
 
@@ -2912,18 +2872,6 @@
     67% {
         border-radius: 100% 60% 60% 100%/100% 100% 60% 60%;
         transform: translate3d(0, -3px, 0) rotateZ(.01deg)
-    }
-}
-
-@-webkit-keyframes dash_animation {
-    to {
-        stroke-dashoffset: 0
-    }
-}
-
-@keyframes dash_animation {
-    to {
-        stroke-dashoffset: 0
     }
 }
 
@@ -54909,7 +54857,7 @@ ul .comment-respond {
  /* Container and Section Setup */
 .cta-section {
     padding: 100px 20px;
-    background-color: #ffffff; /* Or match your site background */
+    background-color: #ffffff;
     display: flex;
     justify-content: center;
 }
@@ -54921,14 +54869,14 @@ ul .comment-respond {
 
 /* The Red Card */
 .cta-card {
-    background-color: #de202a; /* The red color from your image */
+    background-color: #de202a;
     border-radius: 50px; /* Highly rounded corners */
     display: flex;
     align-items: center;
     position: relative;
     padding: 60px 80px;
     min-height: 300px;
-    overflow: visible; /* Allows the character to pop out */
+    overflow: visible;
 }
 
 /* Text Content */
@@ -54971,8 +54919,8 @@ ul .comment-respond {
 /* The 3D Image Positioning */
 .cta-image {
     position: absolute;
-    right: -20px; /* Pulls image to the right edge */
-    bottom: -20px; /* Makes image overlap the bottom */
+    right: -20px;
+    bottom: -20px;
     width: 45%;
     z-index: 3;
 }
@@ -54998,7 +54946,7 @@ ul .comment-respond {
         right: 0;
         bottom: 0;
         margin: 0 auto;
-        order: -1; /* Puts image on top for mobile */
+        order: -1;
     }
 
     .cta-heading h2 {
@@ -55010,7 +54958,7 @@ ul .comment-respond {
  /* Grid Layout */
 .blog-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 columns like the image */
+    grid-template-columns: repeat(3, 1fr);
     gap: 30px;
     padding: 20px;
     max-width: 1200px;
@@ -55064,7 +55012,7 @@ ul .comment-respond {
 }
 
 .blog-title a:hover {
-    color: #de202a; /* Your primary red color */
+    color: #de202a;
 }
 
 .blog-excerpt {
@@ -55082,7 +55030,7 @@ ul .comment-respond {
 /* Read More Link */
 .blog-read-more {
     font-size: 14px;
-    color: #add8e6; /* Match the light blue color in your image */
+    color: #add8e6;
     text-decoration: none;
     font-weight: 500;
     width: fit-content;
@@ -55136,7 +55084,7 @@ ul .comment-respond {
     border-radius: 8px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
     background: #fff;
-    aspect-ratio: 4 / 5; /* Matches the catalogue book shape */
+    aspect-ratio: 4 / 5;
 }
 
 .product-image-wrapper img {
@@ -55166,12 +55114,12 @@ ul .comment-respond {
 .view-btn {
     width: 80px;
     height: 80px;
-    background-color: #de202a; /* Your primary red */
+    background-color: #de202a;
     border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
-    transform: scale(0.5); /* Starts small */
+    transform: scale(0.5);
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
@@ -55188,11 +55136,11 @@ ul .comment-respond {
 }
 
 .product-item:hover .view-btn {
-    transform: scale(1); /* Pops up on hover */
+    transform: scale(1);
 }
 
 .product-item:hover .product-image-wrapper > img {
-    transform: scale(1.1); /* Slight zoom on background image */
+    transform: scale(1.1);
 }
 
 /* Responsive */
@@ -55206,14 +55154,14 @@ ul .comment-respond {
 .hover-circle-btn {
     width: 70px;
     height: 70px;
-    background-color: rgba(222, 32, 42, 0.7); /* Starts slightly transparent red */
+    background-color: rgba(222, 32, 42, 0.7);
     border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
     text-decoration: none;
     transition: all 0.4s ease;
-    overflow: hidden; /* Clips the arrow if it moves too far */
+    overflow: hidden;
 }
 
 /* The Arrow Icon */
