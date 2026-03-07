@@ -7,189 +7,154 @@ $MetaKeywords = "contact EEM Branding, branding services Ahmedabad, marketing co
 <?php
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
-   
-    <main class="main-area">
-        
-        <section class="breadcrumb-area-two ">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-7">
-                        <div class="breadcrumb-content-two">
-                            <h1 class="title">Contact Us</h1>
-                        </div>
+
+<main>
+
+    <section class="breadcrumb-area-two ">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7">
+                    <div class="breadcrumb-content-two">
+                        <h1 class="title">Contact Us</h1>
                     </div>
-                    <div class="col-lg-5">
-                        <div class="breadcrumb-shape">
-                            <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="https://eembranding.com/assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
-                            <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
+                </div>
+                <div class="col-lg-5">
+                    <div class="breadcrumb-shape">
+                        <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
+                            src="https://eembranding.com/assest/img/icon/Untitled-2.png"
+                            loading="lazy" alt="Shape">
+                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"
+                            loading="lazy" alt="Shape">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="container py-5">
+        <div class="row g-4 justify-content-center">
+            <div class="col-lg-4 col-md-6">
+                <div class="card h-100 text-center border-0 shadow-sm p-4">
+                    <div class="mb-3">
+                        <img src="https://eembranding.com/assest/img/contact/phone.png" alt="Phone"
+                            width="50" height="50">
+                    </div>
+                    <div class="card-body p-0">
+                        <p class="mb-0">+91 9081813238</p>
+                        <p class="mb-0">+91 9913535550</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="card h-100 text-center border-0 shadow-sm p-4">
+                    <div class="mb-3">
+                        <img src="https://eembranding.com/assest/img/contact/email.png" alt="Email"
+                            width="50" height="50">
+                    </div>
+                    <div class="card-body p-0">
+                        <p class="mb-0">info@eembranding.com</p>
+                        <p class="mb-0">eembranding@gmail.com</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="card h-100 text-center border-0 shadow-sm p-4">
+                    <div class="mb-3">
+                        <img src="https://eembranding.com/assest/img/contact/address.png"
+                            alt="Address" width="50" height="50">
+                    </div>
+                    <div class="card-body p-0">
+                        <p class="mb-0 text-muted">KP Epitome, A-1116, near Dav Intl. School, Makarba Ahmedabad - 380051
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<section class="py-5 bg-light">
+    <div class="container-fluid px-4">
+        <div class="row g-4 align-items-stretch">
+            
+            <div class="col-lg-3 d-none d-lg-flex align-items-center justify-content-center">
+                <div class="p-3">
+                    <img src="https://eembranding.com/assest/img/contact/contact_img.png" 
+                         class="img-fluid rounded shadow-sm" 
+                         alt="Contact Illustration"
+                         style="max-height: 400px; object-fit: contain;">
+                </div>
+            </div>
+
+            <div class="col-lg-5">
+                <div class="card border-0 shadow-sm h-100">
+                    <div class="card-body p-4 p-md-5">
+                        <div class="mb-4">
+                            <h2 class="fw-bold mb-1">Get in Touch</h2>
+                            <p class="text-muted">Fill out the form and our team will reach out.</p>
+                        </div>
+                        
+                        <form id="contact-form">
+                            <div class="row g-3 mb-3">
+                                <div class="col-md-6">
+                                    <input type="text" class="form-control py-2" id="name" placeholder="Full Name" required>
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="email" class="form-control py-2" id="email" placeholder="Email Address" required>
+                                </div>
+                            </div>
+                            <div class="row g-3 mb-3">
+                                <div class="col-md-6">
+                                    <input type="text" class="form-control py-2" id="number" placeholder="Phone Number">
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="text" class="form-control py-2" id="subject" placeholder="Subject">
+                                </div>
+                            </div>
+                            <div class="mb-4">
+                                <textarea class="form-control" id="message" rows="6" placeholder="Your Message" style="resize: none;"></textarea>
+                            </div>
+                            <div class="d-inline-block">
+                                <button type="submit" class="btn btn-primary w-100 py-2 fw-bold" id="submit-button">
+                                Send Message
+                            </button>
+                            </div>
+                        </form>
+
+                        <div id="feedback-container" class="mt-3">
+                            <div id="feedback" class="alert d-none small" role="alert"></div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
 
-                <div data-elementor-type="wp-page" data-elementor-id="214" class="elementor elementor-214">
-            <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-13d933e elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                data-id="13d933e" data-element_type="section">
-                <div class="elementor-container elementor-column-gap-no">
-                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-39ed24c"
-                        data-id="39ed24c" data-element_type="column">
-                        <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-289888e contact-icon bg-pink elementor-widget elementor-widget-contact-info"
-                                data-id="289888e" data-element_type="widget" data-widget_type="contact-info.default">
-                                <div class="elementor-widget-container">
-
-                                    <div class="row justify-content-center" style="margin-left: 0; margin-right: 0;">
-                                        <div class="col-lg-4 col-md-6">
-                                            <div class="contact-info-item">
-                                                <div class="icon">
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/contact/phone.png"
-                                                          loading="lazy"  alt="Icon">
-                                                </div>
-                                                <div class="content">
-                                                    <p>+91 9081813238 <br> &nbsp;+91 9913535550</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-4 col-md-6">
-                                            <div class="contact-info-item">
-                                                <div class="icon">
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/contact/email.png"
-                                                          loading="lazy"  alt="Icon">
-                                                </div>
-                                                <div class="content">
-                                                    <p>info@eembranding.com <br> eembranding@gmail.com</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-4 col-md-6">
-                                            <div class="contact-info-item">
-                                                <div class="icon">
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/contact/address.png"
-                                                          loading="lazy"  alt="Icon">
-                                                </div>
-                                                <div class="content">
-                                                    <p> KP Epitome, A-1116, near Dav Intl. School, Makarba Ahmedabad -
-                                                        380051<br> </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+            <div class="col-lg-4">
+                <div class="h-100 rounded shadow-sm overflow-hidden border bg-white">
+                    <iframe 
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.633513360677!2d72.5029497!3d23.0005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b33a7556f8f%3A0x7d6b412e8b0b5362!2sKP%20Epitome!5e0!3m2!1sen!2sin!4v1709820000000" 
+                        width="100%" 
+                        height="100%" 
+                        style="border:0; min-height: 450px;" 
+                        allowfullscreen="" 
+                        loading="lazy">
+                    </iframe>
                 </div>
-            </section>
-            <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-d0422a7 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default"
-                data-id="d0422a7" data-element_type="section"
-                data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                <div class="elementor-container elementor-column-gap-no">
-                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c399357"
-                        data-id="c399357" data-element_type="column">
-                        <div class="elementor-widget-wrap elementor-element-populated">
-                            <section
-                                class="elementor-section elementor-inner-section elementor-element elementor-element-70f6d47 elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default"
-                                data-id="70f6d47" data-element_type="section" style="margin-top:3rem;"
-                                data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                <div class="elementor-container elementor-column-gap-no">
-                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ec2eac5"
-                                        data-id="ec2eac5" data-element_type="column">
-                                        <div class="elementor-widget-wrap elementor-element-populated">
-                                            <div class="elementor-element elementor-element-2a4a9fa elementor-widget elementor-widget-image"
-                                                data-id="2a4a9fa" data-element_type="widget"
-                                                data-widget_type="image.default">
-                                                <div class="elementor-widget-container">
-                                                    <img fetchpriority="high" decoding="async" width="514" height="481"
-                                                        src="https://eembranding.com/assest/img/contact/contact_img.png"
-                                                        class="attachment-full size-full wp-image-1081"   loading="lazy"  alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-20eaf75"
-                                        data-id="20eaf75" data-element_type="column">
-                                        <div class="elementor-widget-wrap elementor-element-populated">
-                                            <div class="elementor-element elementor-element-dd5388d elementor-widget elementor-widget-heading"
-                                                data-id="dd5388d" data-element_type="widget"
-                                                data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <h2 class="elementor-heading-title elementor-size-default">Send a
-                                                        Message</h2>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-element elementor-element-f02b63c elementor-widget elementor-widget-shortcode"
-                                                data-id="f02b63c" data-element_type="widget"
-                                                data-widget_type="shortcode.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-shortcode">
-                                                        <div class="wpcf7 js" id="wpcf7-f1342-p214-o1" lang="en-US"
-                                                            dir="ltr" data-wpcf7-id="1342">
-                                                            <div class="screen-reader-response">
-                                                                <p role="status" aria-live="polite" aria-atomic="true">
-                                                                </p>
-                                                                <ul></ul>
-                                                            </div>
-                                                            <form class="contact-form"  id="contact-form">
-                                                              <div style="display: flex; gap:10px; margin-bottom: 10px;">
-                                                                <input type="text" id="name" placeholder="Your Name">
-                                                                <input type="email" id="email" placeholder="Email address">
-                                                              </div>
-                                                              <div style="display: flex; gap:10px; margin-bottom: 10px;">
-                                                                <input type="text" id="number" placeholder="Phone number">
-                                                                <input type="text" id="subject" placeholder="Subject">
-                                                              </div>
-                                                              <textarea placeholder="Write message" id="message" rows="4" style="height:180px"></textarea>
-                                                               <button type="submit" class="btn" id="submit-button">Send a message <span></span></button>
-                                                               <!-- Feedback -->
-                                                             <div id="feedback-container" class="fixed top-0 end-0 p-3 z-[1050]">
-                                                               <div id="feedback" class="hidden alert" role="alert"></div>
-                                                             </div>
-                                                            </form>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                    </div>
-                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-65a13e2"
-                        data-id="65a13e2" data-element_type="column">
-                        <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-69c46e7 elementor-widget elementor-widget-google_maps"
-                                data-id="69c46e7" data-element_type="widget" data-widget_type="google_maps.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-custom-embed">
-                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.7717053808174!2d72.50066869999999!3d22.995421000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9b2673181487%3A0xea3aa6a29eeb1d58!2sEEM%20Branding%20-%20Branding%20%26%20Advertising%20Agency%20-%20Digital%20Marketing%20Agency!5e0!3m2!1sen!2sin!4v1742357263878!5m2!1sen!2sin" width="500" height="650" style="border:0;" allowfullscreen=""  referrerpolicy="no-referrer-when-downgrade"></iframe>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            </div>
+
         </div>
+    </div>
+</section>
 
-<script src="https://eembranding.com/assest/js/Contact-mail.js"></script>
 
-<style>
-    .form-error {
-  margin-top: 5px;
-  color: red;
-  font-weight: 400;
-}
+    <script src="https://eembranding.com/assest/js/Contact-mail.js"></script>
 
-</style>
-        <?php
-include __DIR__ . '/A_Layout/Footer/footer.php';
-?>
+    <style>
+        .form-error {
+            margin-top: 5px;
+            color: red;
+            font-weight: 400;
+        }
+    </style>
+    <?php
+    include __DIR__ . '/A_Layout/Footer/footer.php';
+    ?>
