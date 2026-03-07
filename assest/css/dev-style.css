@@ -177,7 +177,7 @@ body.mobile-menu-active {
 
 .secondphoneview-testimonial-card {
     flex: 0 0 33.333%;
-    background: #ffdddd;
+    background: #ffdddd !important;
     backdrop-filter: blur(10px);
     border-radius: 24px;
     padding: 40px 32px;
