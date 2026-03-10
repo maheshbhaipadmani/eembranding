@@ -16,30 +16,27 @@ $totalPages = ceil($total / $limit);
 
 reset($myaraa);
 ?>
-<!-- Slick CSS -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
 
 <main>
     <!--1. start hero banner    -->
-    <section class="hero-banner">
-        <picture>
-            <!-- Large screens -->
-            <source media="(min-width: 1921px)" srcset="eem-2560x1440.jpg">
+<section class="hero-banner w-full overflow-hidden leading-[0]">
+    <picture>
+        <source media="(min-width: 1921px)" srcset="./assest/img/home/hero/eem-2560×1440.webp">
 
-            <!-- Desktop -->
-            <source media="(min-width: 1024px)" srcset="eem-1920x1080.jpg">
+        <source media="(min-width: 1024px)" srcset="./assest/img/home/hero/eem-1920×1080.webp">
 
-            <!-- Tablet -->
-            <source media="(min-width: 600px)" srcset="eem-768x1024.jpg">
+        <source media="(min-width: 640px)" srcset="./assest/img/home/hero/eem-768×1024.webp">
 
-            <!-- Mobile -->
-            <img src="eem-480x800.jpg" alt="Hero Banner">
-        </picture>
-    </section>
+        <img src="./assest/img/home/hero/eem-480×800.webp" 
+             alt="Rollence Ceramic Tiles Collection" 
+             class="w-full  object-cover">
+    </picture>
+</section>
     <!-- start hero banner    -->
 
     <!--2. start Branding Agency In Ahmedabad -->
-    <div class="container">
+    <div class="container mt-4">
         <div class="row d-flex justify-content-center">
             <div class="col-10">
                 <div class="hero-intro-section ">
@@ -104,7 +101,7 @@ reset($myaraa);
             </div>
 
             <div class="row d-flex justify-content-center">
-                <dic class="col-10">
+                <dic class="col-12">
                     <div class="row g-4 justify-content-center">
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">

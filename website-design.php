@@ -8,274 +8,235 @@ $MetaKeywords = "website design company Ahmedabad, web development services, inn
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-   
-     <main class="main-area">
-        
-        <section class="breadcrumb-area-two ">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-7">
-                        <div class="breadcrumb-content-two">
-                            <h1 class="title">Website Design &amp; Development Company In Ahmedabad</h1>
-                        </div>
+
+<main>
+
+    <section class="breadcrumb-area-two ">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7">
+                    <div class="breadcrumb-content-two">
+                        <h1 class="title">Website Design &amp; Development Company In Ahmedabad</h1>
                     </div>
-                    <div class="col-lg-5">
-                        <div class="breadcrumb-shape">
-                            <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="https://eembranding.com/assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
-                            <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
-                        </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="breadcrumb-shape">
+                        <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
+                            src="https://eembranding.com/assest/img/icon/Untitled-2.png"
+                            loading="lazy" alt="Shape">
+                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"
+                            loading="lazy" alt="Shape">
                     </div>
                 </div>
             </div>
-        </section>
-        
-        <section class="services-details-area">
-            <div class="container">
-                <div data-elementor-type="wp-post" data-elementor-id="4372" class="elementor elementor-4372">
-                    <div class="elementor-element elementor-element-9189992 e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="9189992" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-50438b8 elementor-widget elementor-widget-spacer"
-                                data-id="50438b8" data-element_type="widget" data-widget_type="spacer.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-spacer">
-                                        <div class="elementor-spacer-inner"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+        </div>
+    </section>
 
-                    <div class="elementor-element elementor-element-2cdeb1c e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="2cdeb1c" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
-                                data-id="2348a4d" data-element_type="container">
-                                <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
-                                    data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
-                                    
-                                    <div class="elementor-element elementor-element-16ab348 elementor-widget elementor-widget-heading"
-                                    data-id="16ab348" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Professional Website Design and Development for Businesses in Ahmedabad</h5>
-                                    </div>
-                                </div>
-                                    <div class="elementor-widget-container">
-                                        <p>Need a website that stands out? Our <b> web design company in Ahmedabad </b>offers end-to-end solutions to craft unique, performance-driven websites that elevate your brand. From sleek, minimalist designs to bold, dynamic layouts, we create websites that captivate audiences and enhance user experience.</p>
-                                        <p>As the best <b>website designer in Ahmedabad,</b> we ensure that each website we build is responsive, SEO-friendly, and aligned with your business objectives. Our team of expert designers and developers is committed to delivering digital solutions that help you stay ahead of the competition.</p>
-                                        
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
-                                data-id="2348a4d" data-element_type="container">
-                                <div class="elementor-element elementor-element-b765a09 elementor-widget__width-inherit elementor-widget elementor-widget-genix-image"
-                                    data-id="b765a09" data-element_type="widget" data-widget_type="genix-image.default">
-                                    <div class="elementor-widget-container">
-                                        <div class="about-img text-end">
-                                            <img class="wow fadeInLeft" data-wow-delay=".5s"
-                                                src="https://eembranding.com/assest/img/service/website-design/Website-Design-&-Development.avif"
-                                                  loading="lazy"  alt=""
-                                                style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                    </div>
-                    <div class="elementor-element elementor-element-2cdeb1c e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="2cdeb1c" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
-                                data-id="2348a4d" data-element_type="container">
-                                              
-                                <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
-                                    data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
-                                    <div class="elementor-widget-container">
-                                    <p>Looking for a reliable <b>website design and development company in Ahmedabad?</b> Let us create a custom website that helps your business grow and thrive in the digital landscape.</p>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-49bc419 elementor-widget elementor-widget-heading"
-                                    data-id="49bc419" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">What Makes Us the
-                                            Go-To Web Design Company?
-                                        </h5>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-cfb6579 elementor-widget elementor-widget-iconlist"
-                                    data-id="cfb6579" data-element_type="widget" data-widget_type="iconlist.default">
-                                    <div class="elementor-widget-container">
+    <section class="intro-section py-5 pt-5 mt-5">
+        <div class="container">
+            <div class="row align-items-center g-5">
+                <div class="col-lg-7">
 
-                                        <div class="about-list">
-                                            <ul class="list-wrap">
-                                                <li>
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/service/check.svg"
-                                                          loading="lazy"  alt="Icon">
+                    <h2 class="display-5 fw-bold mb-4">
+                        Professional <span class="text-danger">Website Design & Development</span> for Businesses in
+                        Ahmedabad
+                    </h2>
 
-                                                    Custom Web Design – We don’t use cookie-cutter templates. Each
-                                                    design is created from scratch to meet your unique needs.
-                                                </li>
-                                                <li>
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/service/check.svg"
-                                                          loading="lazy"  alt="Icon">
+                    <p class="text-muted mb-4">
+                        Need a website that stands out? Our <b>web design company in Ahmedabad</b> offers end-to-end
+                        solutions to craft
+                        unique, performance-driven websites that elevate your brand. From sleek, minimalist designs to
+                        bold and
+                        dynamic layouts, we build websites that captivate visitors and deliver exceptional user
+                        experiences.
+                    </p>
 
-                                                    SEO-Friendly Development – Our websites are optimized for search
-                                                    engines, ensuring higher visibility and more traffic.
-                                                </li>
-                                                <li>
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/service/check.svg"
-                                                          loading="lazy"  alt="Icon">
+                    <p class="text-muted">
+                        As the <b>best website designer in Ahmedabad</b>, we ensure every website we create is
+                        responsive, SEO-friendly,
+                        and aligned with your business goals. Our expert designers and developers work together to
+                        deliver digital
+                        solutions that help your brand stay ahead of the competition.
+                    </p>
 
-                                                    Mobile Responsiveness – We guarantee that your site will look and
-                                                    function flawlessly on all devices.
-                                                </li>
-                                                <li>
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/service/check.svg"
-                                                          loading="lazy"  alt="Icon">
+                    <p class="text-muted">
+                        Looking for a trusted <b>website design and development company in Ahmedabad</b>? Let us create
+                        a custom
+                        website that helps your business grow and thrive in the digital world.
+                    </p>
 
-                                                    Ongoing Support – Our relationship doesn’t end at launch. We offer
-                                                    ongoing maintenance and updates to keep your site running smoothly.
-                                                </li>
-                                                <li>
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/service/check.svg"
-                                                          loading="lazy"  alt="Icon">
+                </div>
 
-                                                    Conversion Focused – Our designs are not just about aesthetics. We
-                                                    ensure that each website is built to convert visitors into paying
-                                                    customers.
-                                                </li>
-                                            </ul>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-5637943 elementor-widget elementor-widget-heading"
-                                    data-id="5637943" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">FAQ'S</h5>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-ca652ca elementor-widget elementor-widget-genix-faq"
-                                    data-id="ca652ca" data-element_type="widget" data-widget_type="genix-faq.default">
-                                    <div class="elementor-widget-container">
-
-
-                                        <div class="services-faq-wrap">
-                                            <div class="accordion" id="accordionExample">
-
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-0">
-                                                        <button class="accordion-button " type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-0"
-                                                            aria-expanded="true" aria-controls="collapseOne-0">
-                                                            What types of websites do you design? </button>
-                                                    </h2>
-                                                    <div id="collapseOne-0" class="accordion-collapse collapse show"
-                                                        aria-labelledby="headingOne-0"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>We design corporate websites, eCommerce stores, landing pages, portfolio sites, and custom business portals.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-1">
-                                                        <button class="accordion-button collapsed" type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-2"
-                                                            aria-expanded="true" aria-controls="collapseOne-2">
-                                                            Do you offer both design and development services? </button>
-                                                    </h2>
-                                                    <div id="collapseOne-2" class="accordion-collapse collapse "
-                                                        aria-labelledby="headingOne-1"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>Yes, we handle everything from UI/UX design to full-stack web development under one roof.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-1">
-                                                        <button class="accordion-button collapsed" type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-3"
-                                                            aria-expanded="true" aria-controls="collapseOne-3">
-                                                            Is the website mobile responsive? </button>
-                                                    </h2>
-                                                    <div id="collapseOne-3" class="accordion-collapse collapse "
-                                                        aria-labelledby="headingOne-1"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>Absolutely! Every website we build is fully responsive and optimized for all devices.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-1">
-                                                        <button class="accordion-button collapsed" type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-4"
-                                                            aria-expanded="true" aria-controls="collapseOne-4">
-                                                            Do you offer website redesign services? </button>
-                                                    </h2>
-                                                    <div id="collapseOne-4" class="accordion-collapse collapse "
-                                                        aria-labelledby="headingOne-1"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>Yes, we can refresh your existing website to improve performance, usability, and appearance.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-1">
-                                                        <button class="accordion-button collapsed" type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-5"
-                                                            aria-expanded="true" aria-controls="collapseOne-5">
-                                                            Will my website be SEO-friendly? </button>
-                                                    </h2>
-                                                    <div id="collapseOne-5" class="accordion-collapse collapse "
-                                                        aria-labelledby="headingOne-1"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>Definitely! All our websites follow SEO best practices, including fast loading, mobile optimization, and on-page SEO setup.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="elementor-element elementor-element-920aeb1 e-flex e-con-boxed e-con e-parent"
-                        data-id="920aeb1" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-33dfcb9 elementor-widget elementor-widget-spacer"
-                                data-id="33dfcb9" data-element_type="widget" data-widget_type="spacer.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-spacer">
-                                        <div class="elementor-spacer-inner"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-lg-5 text-center">
+                    <img src="https://eembranding.com/assest/img/service/website-design/Website-Design-&-Development.avif"
+                        class="img-fluid shadow-lg" alt="Website Design Services">
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <script type="application/ld+json">
+    <section class="portfolio-grid py-5 bg-light">
+        <div class="container">
+
+            <div class="row g-4">
+                <div class="col-3">
+                    <a href="portfolio/ranberry-trends" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg" alt="Ranberry">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Ranberry Trends</h3>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-3">
+                    <a href="portfolio/dazzle-berryenpastel" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Dazzle-Berry/00-Thumbnail.jpg" alt="Dazzle">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Dazzle Berry Pastel</h3>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-3">
+                    <a href="portfolio/central" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg" alt="Central">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Central Mesmerized</h3>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-3">
+                    <a href="portfolio/kooyoo-enchanting" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg" alt="Kooyoo">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Kooyoo Enchanting</h3>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="text-center mt-5">
+                <a href="Portfolio" class="btn btn-dark btn-lg px-5 rounded-pill shadow">View All</a>
+            </div>
+
+            <div class="mt-4">
+                <p class="text-muted">
+                    <b>What Makes Us the Go-To Web Design Company?</b><br><br>
+
+                    ✔ <b>Custom Web Design</b> – We create unique designs tailored specifically to your brand instead of
+                    using generic templates.<br>
+
+                    ✔ <b>SEO-Friendly Development</b> – Our websites are optimized for search engines to improve
+                    visibility and attract more visitors.<br>
+
+                    ✔ <b>Mobile Responsiveness</b> – Every website works seamlessly across mobiles, tablets, and
+                    desktops.<br>
+
+                    ✔ <b>Ongoing Support</b> – We provide continuous maintenance and updates to ensure your website
+                    performs smoothly.<br>
+
+                    ✔ <b>Conversion-Focused Design</b> – Our websites are designed to turn visitors into leads and
+                    customers.
+                </p>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="details-faq py-5">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-12">
+
+                    <h5 class="fw-bold mb-4 text-uppercase letter-spacing-1">Frequently Asked Questions</h5>
+
+                    <div class="accordion accordion-flush shadow-sm border rounded" id="catalogueFaq">
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q1">
+                                    What types of websites do you design?
+                                </button>
+                            </h2>
+                            <div id="q1" class="accordion-collapse collapse show" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">
+                                    We design corporate websites, eCommerce stores, landing pages, portfolio websites,
+                                    and custom business portals.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q2">
+                                    Do you offer both design and development services?
+                                </button>
+                            </h2>
+                            <div id="q2" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">
+                                    Yes, we handle everything from UI/UX design to complete web development
+                                    under one roof.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q3">
+                                    Is the website mobile responsive?
+                                </button>
+                            </h2>
+                            <div id="q3" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">
+                                    Yes, every website we build is fully responsive and optimized
+                                    for all screen sizes and devices.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q4">
+                                    Do you offer website redesign services?
+                                </button>
+                            </h2>
+                            <div id="q4" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">
+                                    Yes, we can redesign your existing website to improve usability,
+                                    performance, and overall visual appeal.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q5">
+                                    Will my website be SEO-friendly?
+                                </button>
+                            </h2>
+                            <div id="q5" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">
+                                    Yes, all our websites follow SEO best practices including fast loading speed,
+                                    mobile optimization, and proper on-page SEO setup.
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -318,6 +279,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
 }
 </script>
 
-        <?php
+<?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
 ?>

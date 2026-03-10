@@ -8,7 +8,6 @@ $MetaKeywords = "branding agency Ahmedabad, advertising agency, digital marketin
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-<main>
     <section class="breadcrumb-area-two ">
         <div class="container">
             <div class="row align-items-center">

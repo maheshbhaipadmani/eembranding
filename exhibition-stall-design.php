@@ -9,284 +9,270 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
 
- 
-    <main class="main-area">
-        
 
-        <section class="breadcrumb-area-two ">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-7">
-                        <div class="breadcrumb-content-two">
-                            <h1 class="title">Creative & Custom Exhibition Stall Design Services in India </h1>
-                        </div>
+<main>
+
+
+    <section class="breadcrumb-area-two ">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7">
+                    <div class="breadcrumb-content-two">
+                        <h1 class="title">Creative & Custom Exhibition Stall Design Services in India </h1>
                     </div>
-                    <div class="col-lg-5">
-                        <div class="breadcrumb-shape">
-                            <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="https://eembranding.com/assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape"
-                                style="transform:translate3d(0px, 42.023px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 42.023px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                            <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
-                        </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="breadcrumb-shape">
+                        <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
+                            src="https://eembranding.com/assest/img/icon/Untitled-2.png"
+                            loading="lazy" alt="Shape"
+                            style="transform:translate3d(0px, 42.023px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 42.023px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
+                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"
+                            loading="lazy" alt="Shape">
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <section class="services-details-area">
-            <div class="container">
-                <div data-elementor-type="wp-post" data-elementor-id="4372" class="elementor elementor-4372">
-                    <div class="elementor-element elementor-element-9189992 e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="9189992" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-50438b8 elementor-widget elementor-widget-spacer"
-                                data-id="50438b8" data-element_type="widget" data-widget_type="spacer.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-spacer">
-                                        <div class="elementor-spacer-inner"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+    <section class="intro-section py-5 pt-5 mt-5">
+        <div class="container">
+            <div class="row align-items-center g-5">
+                <div class="col-lg-7">
 
-                    <div class="elementor-element elementor-element-2cdeb1c e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="2cdeb1c" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
-                                data-id="2348a4d" data-element_type="container">
-                                <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
-                                    data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
-                                    
-                                    <div class="elementor-element elementor-element-16ab348 elementor-widget elementor-widget-heading"
-                                    data-id="16ab348" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Exhibition Stall Design Company in Ahmedabad – Custom Stalls for Trade Shows Across India</h5>
-                                    </div>
-                                </div>
-                                    <div class="elementor-widget-container">
-                                        <p>Looking to make a bold impact at your next trade show or business expo? Our custom <b>exhibition stall design services in Ahmedabad, Delhi, Mumbai,</b> and across <b>India</b> help your brand shine in even the most competitive environments. Whether you're launching a new product or building brand awareness, we design exhibition stalls that capture attention and deliver real engagement.</p>
-                                        <P>As a trusted <b>exhibition stall design company in India,</b> we specialize in creating immersive brand experiences through smart layouts, stunning visuals, and functional spaces. From creative concepts and 3D visualization to fabrication and on-site installation, we manage it all with precision and professionalism.</P>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
-                                data-id="2348a4d" data-element_type="container">
-                                <div class="elementor-element elementor-element-b765a09 elementor-widget__width-inherit elementor-widget elementor-widget-genix-image"
-                                    data-id="b765a09" data-element_type="widget" data-widget_type="genix-image.default">
-                                    <div class="elementor-widget-container">
-                                        <div class="about-img text-end">
-                                            <img class="wow fadeInLeft" data-wow-delay=".5s"
-                                                src="https://eembranding.com/assest/img/service/event-management/Exhibition-Stall-Design.avif"
-                                                  loading="lazy"  alt=""
-                                                style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
+                    <h2 class="display-5 fw-bold mb-4">
+                        Exhibition Stall Design Company in Ahmedabad – <span class="text-danger">Custom Stalls for Trade
+                            Shows</span>
+                    </h2>
 
-                                           
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                    </div>
+                    <p class="text-muted mb-4">
+                        Looking to make a bold impact at your next trade show or business expo? Our
+                        <b>custom exhibition stall design services in Ahmedabad, Delhi, Mumbai, and across India</b>
+                        help your brand stand out in even the most competitive environments. Whether you're launching
+                        a new product or building brand awareness, we design exhibition stalls that capture attention
+                        and create real engagement.
+                    </p>
 
-                    <div class="elementor-element elementor-element-2cdeb1c e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="2cdeb1c" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
-                                data-id="2348a4d" data-element_type="container">
-                                            
-                                <div class="elementor-element elementor-element-16ab348 elementor-widget elementor-widget-heading" data-id="16ab348" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">What Makes Our Stall Design Services Unique?</h5>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-1b14708 elementor-widget elementor-widget-iconlist" data-id="1b14708" data-element_type="widget" data-widget_type="iconlist.default">
-                                    <div class="elementor-widget-container">
+                    <p class="text-muted">
+                        As a trusted <b>exhibition stall design company in India</b>, we specialize in building
+                        immersive
+                        brand experiences through smart layouts, creative visuals, and functional spaces. From concept
+                        design and 3D visualization to fabrication and on-site installation, our team manages the
+                        complete process with professionalism and precision.
+                    </p>
 
-                                        <div class="about-list">
-                                            <ul class="list-wrap">
-                                                <li>
-                                                    <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
+                </div>
 
-                                                    Fully Customized Designs –  Our expert designers craft each exhibition stall from scratch, tailored to your brand colors, message, product layout, and audience behavior.
-
-                                                </li>
-                                                <li>
-                                                    <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
-
-                                                    3D Visualization Before Build –  We provide realistic 3D renders of your booth so you can visualize exactly how your stall will appear before construction begins.
-                                                </li>
-                                                <li>
-                                                    <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
-
-                                                    Premium Fabrication & Finishing– From lighting and flooring to branding panels, we use quality materials and modern techniques to ensure your stall looks world-class.
-                                                </li>
-                                                <li>
-                                                    <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
-
-                                                    Portable & Modular Stalls –  For businesses attending multiple expos, we provide reusable, easy-to-transport modular stall systems with professional appeal.
-                                                </li>
-                                                <li>
-                                                    <img decoding="async" src="https://eembranding.com/assest/img/service/check.svg"   loading="lazy"  alt="Icon">
-
-                                                    Graphics & Signage Design –   Our in-house team designs impactful signage, product posters, and brand visuals that enhance visibility and create memorable experiences.
-                                                </li>
-                                            </ul>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
-                                    data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
-                                    <div class="elementor-widget-container">
-                                    <h5 class="elementor-heading-title elementor-size-default">Serving Top Business Hubs in India</h5>
-                                    <p>We offer professional exhibition design services in:</p>
-                                    <p><b>Delhi  -</b> Strategic designs for events at Pragati Maidan, India Expo Centre, and more.</p>
-                                    <p><b>Mumbai  -</b> Sleek, corporate booths for expos at BEC, NESCO, and other major venues.</p>
-                                    <p><b>Ahmedabad  -</b> Industrial and FMCG-focused stall designs for regional trade shows.</p>
-                                    <p><b>Pan India -</b> Complete coverage for national and international exhibitions.</p>
-                                    <h5 class="elementor-heading-title elementor-size-default">Why Choose Us as Your Stall Design Partner?</h5>
-                                    <ul>
-                                        <li>Over a decade of experience</li>
-                                        <li>Fully in-house design & fabrication team</li>
-                                        <li>Creative concepts with business-focused layouts</li>
-                                        <li>Reliable support for setup, logistics & event-day changes</li>
-                                        <li>Competitive pricing with no compromise on quality</li>
-                                    </ul>
-                                    <div>
-                                    <h5 class="elementor-heading-title elementor-size-default">Let's Build Something Impressive</h5>
-                                    <p>Join hundreds of businesses who trust us for their <b>exhibition stall design services in India</b>. Whether you're in <b>Ahmedabad, Delhi,</b> or <b>Mumbai</b>, we’re here to make your next event a winning experience.</p>
-                                    </div>
-                                    <div>
-                                    <p><strong><b> Contact us now </b></strong> for a custom proposal and free design consultation.</p>
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-3af6d13 elementor-widget elementor-widget-heading"
-                                    data-id="3af6d13" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">FAQ'S</h5>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-24f69d7 elementor-widget elementor-widget-genix-faq"
-                                    data-id="24f69d7" data-element_type="widget" data-widget_type="genix-faq.default">
-                                    <div class="elementor-widget-container">
-
-
-                                        <div class="services-faq-wrap">
-                                            <div class="accordion" id="accordionExample">
-
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-0">
-                                                        <button class="accordion-button " type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-0"
-                                                            aria-expanded="true" aria-controls="collapseOne-0">
-                                                            What types of exhibition stalls do you design?
-                                                        </button>
-                                                    </h2>
-                                                    <div id="collapseOne-0" class="accordion-collapse collapse show"
-                                                        aria-labelledby="headingOne-0"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>We create custom stalls, modular designs, 3D stalls, and space-efficient layouts tailored to your brand and booth size.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-1">
-                                                        <button class="accordion-button collapsed" type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-1"
-                                                            aria-expanded="true" aria-controls="collapseOne-1">
-                                                            Can you design stalls for events outside Ahmedabad?   </button>
-                                                    </h2>
-                                                    <div id="collapseOne-1" class="accordion-collapse collapse "
-                                                        aria-labelledby="headingOne-1"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>Absolutely! We serve clients across India including Delhi, Mumbai, Bangalore, and other major cities.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-1">
-                                                        <button class="accordion-button collapsed" type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-2"
-                                                            aria-expanded="true" aria-controls="collapseOne-2">
-                                                            Do you offer 3D visualizations before finalizing the stall design?
-                                                        </button>
-                                                    </h2>
-                                                    <div id="collapseOne-2" class="accordion-collapse collapse "
-                                                        aria-labelledby="headingOne-1"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>Yes, we provide detailed 3D renders and mockups so you can preview the stall layout, branding, and structure before execution.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-1">
-                                                        <button class="accordion-button collapsed" type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-3"
-                                                            aria-expanded="true" aria-controls="collapseOne-3">
-                                                            How early should I book exhibition stall design services?
-                                                        </button>
-                                                    </h2>
-                                                    <div id="collapseOne-3" class="accordion-collapse collapse "
-                                                        aria-labelledby="headingOne-1"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>Ideally, 3–4 weeks in advance to ensure enough time for design, approvals, and production — especially for large-scale exhibitions.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-1">
-                                                        <button class="accordion-button collapsed" type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-4"
-                                                            aria-expanded="true" aria-controls="collapseOne-4">
-                                                            Do you also manage international exhibition stall projects?
-                                                        </button>
-                                                    </h2>
-                                                    <div id="collapseOne-4" class="accordion-collapse collapse "
-                                                        aria-labelledby="headingOne-1"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>Yes, we coordinate and deliver stall designs and execution for overseas exhibitions through our trusted global partners.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="elementor-element elementor-element-920aeb1 e-flex e-con-boxed e-con e-parent"
-                        data-id="920aeb1" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-33dfcb9 elementor-widget elementor-widget-spacer"
-                                data-id="33dfcb9" data-element_type="widget" data-widget_type="spacer.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-spacer">
-                                        <div class="elementor-spacer-inner"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-lg-5 text-center">
+                    <img src="https://eembranding.com/assest/img/service/event-management/Exhibition-Stall-Design.avif"
+                        class="img-fluid shadow-lg" alt="Exhibition Stall Design Services">
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <script type="application/ld+json">
+
+    <section class="portfolio-grid py-5 bg-light">
+        <div class="container">
+
+            <div class="row g-4">
+                <div class="col-3">
+                    <a href="portfolio/ranberry-trends" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg" alt="Ranberry">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Ranberry Trends</h3>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-3">
+                    <a href="portfolio/dazzle-berryenpastel" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Dazzle-Berry/00-Thumbnail.jpg" alt="Dazzle">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Dazzle Berry Pastel</h3>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-3">
+                    <a href="portfolio/central" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg" alt="Central">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Central Mesmerized</h3>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-3">
+                    <a href="portfolio/kooyoo-enchanting" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg" alt="Kooyoo">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Kooyoo Enchanting</h3>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="text-center mt-5">
+                <a href="Portfolio" class="btn btn-dark btn-lg px-5 rounded-pill shadow">View All</a>
+            </div>
+
+            <div class="mt-4">
+
+                <p class="text-muted">
+                    <b>What Makes Our Stall Design Services Unique?</b><br><br>
+
+                    ✔ <b>Fully Customized Designs</b> – Each stall is designed from scratch based on your brand
+                    identity,
+                    product layout, and audience behavior.<br>
+
+                    ✔ <b>3D Visualization Before Build</b> – We provide realistic 3D renders so you can preview your
+                    stall
+                    before fabrication begins.<br>
+
+                    ✔ <b>Premium Fabrication & Finishing</b> – We use high-quality materials, lighting, flooring, and
+                    branding panels to create a world-class stall experience.<br>
+
+                    ✔ <b>Portable & Modular Stalls</b> – Reusable and easy-to-transport modular stalls designed for
+                    businesses attending multiple exhibitions.<br>
+
+                    ✔ <b>Graphics & Signage Design</b> – Impactful signage, product posters, and visual branding that
+                    enhance booth visibility.
+                </p>
+
+                <p class="text-muted">
+                    <b>Serving Top Business Hubs in India</b><br><br>
+
+                    <b>Delhi</b> – Strategic stall designs for events at Pragati Maidan, India Expo Centre, and
+                    more.<br>
+
+                    <b>Mumbai</b> – Sleek, corporate exhibition booths for expos at BEC, NESCO, and other major
+                    venues.<br>
+
+                    <b>Ahmedabad</b> – Industrial and FMCG-focused stall designs for regional trade shows.<br>
+
+                    <b>Pan India</b> – Complete design and execution support for national and international exhibitions.
+                </p>
+
+                <p class="text-muted">
+                    <b>Why Choose Us as Your Stall Design Partner?</b><br><br>
+
+                    ✔ Over a decade of experience<br>
+                    ✔ Fully in-house design & fabrication team<br>
+                    ✔ Creative concepts with business-focused layouts<br>
+                    ✔ Reliable support for setup, logistics & event-day adjustments<br>
+                    ✔ Competitive pricing with premium quality
+                </p>
+
+                <p class="text-muted">
+                    <b>Let's Build Something Impressive</b><br><br>
+
+                    Join hundreds of businesses that trust us for professional exhibition stall design services across
+                    India.
+                    Whether you're exhibiting in Ahmedabad, Delhi, or Mumbai, our team is ready to make your next event
+                    a
+                    winning experience. Contact us today for a custom proposal and free design consultation.
+                </p>
+
+            </div>
+
+        </div>
+    </section>
+
+
+    <section class="details-faq py-5">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-12">
+
+                    <h5 class="fw-bold mb-4 text-uppercase letter-spacing-1">Frequently Asked Questions</h5>
+
+                    <div class="accordion accordion-flush shadow-sm border rounded" id="catalogueFaq">
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q1">
+                                    What types of exhibition stalls do you design?
+                                </button>
+                            </h2>
+                            <div id="q1" class="accordion-collapse collapse show" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">
+                                    We design custom stalls, modular booths, 3D stall concepts, and space-efficient
+                                    exhibition layouts tailored to your booth size and brand requirements.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q2">
+                                    Can you design stalls for events outside Ahmedabad?
+                                </button>
+                            </h2>
+                            <div id="q2" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">
+                                    Yes, we serve clients across India including Delhi, Mumbai, Bangalore,
+                                    and other major exhibition cities.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q3">
+                                    Do you offer 3D visualization before finalizing the design?
+                                </button>
+                            </h2>
+                            <div id="q3" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">
+                                    Yes, we provide detailed 3D renders and mockups so you can preview the stall
+                                    structure, layout, and branding before production.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q4">
+                                    How early should I book exhibition stall design services?
+                                </button>
+                            </h2>
+                            <div id="q4" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">
+                                    Ideally 3–4 weeks in advance to allow enough time for design approval,
+                                    fabrication, and installation preparation.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q5">
+                                    Do you manage international exhibition projects?
+                                </button>
+                            </h2>
+                            <div id="q5" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">
+                                    Yes, we coordinate with trusted global partners to execute exhibition stall
+                                    projects for overseas events.
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -330,6 +316,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
 </script>
 
 
-        <?php
+<?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
 ?>

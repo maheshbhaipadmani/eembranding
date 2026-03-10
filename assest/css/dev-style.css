@@ -218,3 +218,58 @@ body.mobile-menu-active {
     text-align: center;
 }
 
+/* Responsive Styles for Bootstrap Layout - OPTIMIZED */
+
+/* Tablets (768px to 991px) */
+@media (max-width: 991px) {
+    .services-icon a.link-btn {
+        padding: 10px 16px;
+        font-size: 14px;
+    }
+
+    h1, .h1 {
+        font-size: 32px;
+    }
+}
+
+/* Small Devices (576px to 767px) */
+@media (max-width: 767px) {
+    h1, .h1 {
+        font-size: 28px;
+    }
+
+    h2, .h2 {
+        font-size: 20px;
+    }
+}
+
+/* Extra Small Devices (up to 575px) */
+@media (max-width: 575px) {
+    body {
+        padding: 0 12px;
+    }
+
+    h1, .h1 {
+        font-size: 24px;
+    }
+
+    .container {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+/* Mobile (up to 425px) */
+@media (max-width: 425px) {
+    h1, .h1 {
+        font-size: 22px;
+    }
+
+    h2, .h2 {
+        font-size: 18px;
+    }
+
+    .lead {
+        font-size: 16px;
+    }
+}

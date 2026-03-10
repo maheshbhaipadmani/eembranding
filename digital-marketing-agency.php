@@ -8,264 +8,233 @@ $MetaKeywords = "digital marketing company Ahmedabad, best SEO services, PPC adv
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-    <main class="main-area">
+<main>
 
-        <section class="breadcrumb-area-two ">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-7">
-                        <div class="breadcrumb-content-two">
-                            <h1 class="title">Digital Marketing Agency In Ahmedabad</h1>
-                        </div>
+    <section class="breadcrumb-area-two ">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7">
+                    <div class="breadcrumb-content-two">
+                        <h1 class="title">Digital Marketing Agency In Ahmedabad</h1>
                     </div>
-                    <div class="col-lg-5">
-                        <div class="breadcrumb-shape">
-                            <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="https://eembranding.com/assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape">
-                            <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
-                        </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="breadcrumb-shape">
+                        <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
+                            src="https://eembranding.com/assest/img/icon/Untitled-2.png"
+                            loading="lazy" alt="Shape">
+                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"
+                            loading="lazy" alt="Shape">
                     </div>
                 </div>
             </div>
-        </section>
-
-        <section class="services-details-area">
-            <div class="container">
-                <div data-elementor-type="wp-post" data-elementor-id="4372" class="elementor elementor-4372">
-                    <div class="elementor-element elementor-element-9189992 e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="9189992" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-50438b8 elementor-widget elementor-widget-spacer"
-                                data-id="50438b8" data-element_type="widget" data-widget_type="spacer.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-spacer">
-                                        <div class="elementor-spacer-inner"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="elementor-element elementor-element-2cdeb1c e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="2cdeb1c" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
-                                data-id="2348a4d" data-element_type="container">
-                                <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
-                                    data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
-                                    
-                                    <div class="elementor-element elementor-element-16ab348 elementor-widget elementor-widget-heading"
-                                    data-id="16ab348" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Accelerate Your Business Growth with Expert Digital Marketing Services</h5>
-                                    </div>
-                                </div>
-                                    <div class="elementor-widget-container">
-                                        <p>In today’s fast-paced, competitive market, having a strong online presence is no longer optional – it’s essential. Our <b>digital marketing services in Ahmedabad  </b> are designed to help businesses of all sizes stand out, drive traffic, and convert leads into loyal customers. Whether you’re looking to enhance brand awareness, improve search rankings, or grow your social media following, we are here to craft data-driven strategies that deliver results.</p>
-                                        <p>As a leading <b>digital marketing agency,</b> we understand that each business is unique. That’s why we don’t believe in one-size-fits-all solutions. Our tailored marketing plans align with your brand’s goals, ensuring every campaign resonates with your target audience. From SEO and PPC to content marketing and social media management, we offer comprehensive services that cover every aspect of digital growth.</p>
-                                        
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
-                                data-id="2348a4d" data-element_type="container">
-                                <div class="elementor-element elementor-element-b765a09 elementor-widget__width-inherit elementor-widget elementor-widget-genix-image"
-                                    data-id="b765a09" data-element_type="widget" data-widget_type="genix-image.default">
-                                    <div class="elementor-widget-container">
-                                        <div class="about-img text-end">
-                                            <img class="wow fadeInLeft" data-wow-delay=".5s"
-                                                src="https://eembranding.com/assest/img/service/digital-marketing-agency/Digital-Marketing.avif"
-                                                  loading="lazy"  alt=""
-                                                style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
-
-                                           
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                    </div>
-                    <div class="elementor-element elementor-element-2cdeb1c e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="2cdeb1c" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
-                                data-id="2348a4d" data-element_type="container">
-                                              
-                                <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
-                                    data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
-                                    <div class="elementor-widget-container">
-                                    <p>Why choose us? Simple – we’re recognized as the <b>best digital marketing company in Ahmedabad</b> because of our commitment to excellence and proven track record. Our team of experts leverages the latest tools and trends to craft campaigns that are not only creative but also measurable. Every decision is backed by data, allowing us to optimize performance and maximize return on investment (ROI).</p>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-aadb796 elementor-widget elementor-widget-heading"
-                                    data-id="aadb796" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Our Key Services Include:</h5>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-fb47cb6 elementor-widget elementor-widget-iconlist"
-                                    data-id="fb47cb6" data-element_type="widget" data-widget_type="iconlist.default">
-                                    <div class="elementor-widget-container">
-
-                                        <div class="about-list">
-                                            <ul class="list-wrap">
-                                                <li>
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/service/check.svg"
-                                                          loading="lazy"  alt="Icon">
-
-                                                    Search Engine Optimization (SEO): Boost your website’s visibility
-                                                    and rank higher on search engines.
-                                                </li>
-                                                <li>
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/service/check.svg"
-                                                          loading="lazy"  alt="Icon">
-
-                                                    Pay-Per-Click (PPC) Advertising: Get instant traffic and leads with
-                                                    strategic ad placements.
-                                                </li>
-                                                <li>
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/service/check.svg"
-                                                          loading="lazy"  alt="Icon">
-
-                                                    Social Media Marketing: Engage with your audience and build a loyal
-                                                    community around your brand.
-                                                </li>
-                                                <li>
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/service/check.svg"
-                                                          loading="lazy"  alt="Icon">
-
-                                                    Content Marketing: Deliver value through high-quality, engaging
-                                                    content that attracts and retains customers.
-                                                </li>
-                                            </ul>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-f3daa5d elementor-widget elementor-widget-heading"
-                                    data-id="f3daa5d" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">FAQ'S</h5>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-40afe29 elementor-widget elementor-widget-genix-faq"
-                                    data-id="40afe29" data-element_type="widget" data-widget_type="genix-faq.default">
-                                    <div class="elementor-widget-container">
+        </div>
+    </section>
 
 
-                                        <div class="services-faq-wrap">
-                                            <div class="accordion" id="accordionExample">
+    <section class="intro-section py-5 pt-5 mt-5">
+        <div class="container">
+            <div class="row align-items-center g-5">
+                <div class="col-lg-7">
 
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-0">
-                                                        <button class="accordion-button " type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-0"
-                                                            aria-expanded="true" aria-controls="collapseOne-0">
-                                                            What services does your digital marketing agency offer? </button>
-                                                    </h2>
-                                                    <div id="collapseOne-0" class="accordion-collapse collapse show"
-                                                        aria-labelledby="headingOne-0"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>We offer SEO, social media marketing, Google Ads, content marketing, and full digital branding solutions.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                    <h2 class="display-5 fw-bold mb-4">
+                        Accelerate Your Business Growth with <span class="text-danger">Expert Digital Marketing
+                            Services</span>
+                    </h2>
 
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-1">
-                                                        <button class="accordion-button collapsed" type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-1"
-                                                            aria-expanded="true" aria-controls="collapseOne-1">
-                                                            Do you handle both B2B and B2C campaigns? </button>
-                                                    </h2>
-                                                    <div id="collapseOne-1" class="accordion-collapse collapse "
-                                                        aria-labelledby="headingOne-1"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>Yes, we design targeted digital strategies for both B2B and B2C businesses across various industries.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                    <p class="text-muted mb-4">
+                        In today’s fast-paced, competitive market, having a strong online presence is no longer optional
+                        – it’s essential. Our
+                        <b>digital marketing services in Ahmedabad</b> are designed to help businesses of all sizes
+                        stand out, drive traffic, and convert leads into loyal customers.
+                        Whether you’re looking to enhance brand awareness, improve search rankings, or grow your social
+                        media following, we craft
+                        data-driven strategies that deliver real results.
+                    </p>
 
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-1">
-                                                        <button class="accordion-button collapsed" type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-2"
-                                                            aria-expanded="true" aria-controls="collapseOne-2">
-                                                            How long before I see results from digital marketing? </button>
-                                                    </h2>
-                                                    <div id="collapseOne-2" class="accordion-collapse collapse "
-                                                        aria-labelledby="headingOne-1"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>SEO results usually take 2–3 months, while PPC and social media campaigns can deliver quicker visibility and engagement.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                    <p class="text-muted">
+                        As a leading <b>digital marketing agency</b>, we understand that every business is unique.
+                        That’s why we avoid one-size-fits-all strategies.
+                        Our customized marketing plans align with your brand’s goals, ensuring every campaign connects
+                        with your target audience.
+                        From SEO and PPC to content marketing and social media management, we provide complete digital
+                        growth solutions.
+                    </p>
 
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-1">
-                                                        <button class="accordion-button collapsed" type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-3"
-                                                            aria-expanded="true" aria-controls="collapseOne-3">
-                                                            Can you manage my brand’s entire online presence? </button>
-                                                    </h2>
-                                                    <div id="collapseOne-3" class="accordion-collapse collapse "
-                                                        aria-labelledby="headingOne-1"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>Yes, we offer 360° digital marketing solutions, including website optimization, ad management, and social media growth.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                </div>
 
-                                                <div class="accordion-item">
-                                                    <h2 class="accordion-header" id="headingOne-1">
-                                                        <button class="accordion-button collapsed" type="button"
-                                                            data-bs-toggle="collapse" data-bs-target="#collapseOne-5"
-                                                            aria-expanded="true" aria-controls="collapseOne-5">
-                                                            Do you work with startups and small businesses? </button>
-                                                    </h2>
-                                                    <div id="collapseOne-5" class="accordion-collapse collapse "
-                                                        aria-labelledby="headingOne-1"
-                                                        data-bs-parent="#accordionExample">
-                                                        <div class="accordion-body">
-                                                            <p>Of course! We build cost-effective, scalable strategies for startups, SMEs, and growing brands.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="elementor-element elementor-element-920aeb1 e-flex e-con-boxed e-con e-parent"
-                        data-id="920aeb1" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-33dfcb9 elementor-widget elementor-widget-spacer"
-                                data-id="33dfcb9" data-element_type="widget" data-widget_type="spacer.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-spacer">
-                                        <div class="elementor-spacer-inner"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-lg-5 text-center">
+                    <img src="https://eembranding.com/assest/img/service/digital-marketing-agency/Digital-Marketing.avif"
+                        class="img-fluid shadow-lg" alt="Digital Marketing Services">
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <script type="application/ld+json">
+    <section class="portfolio-grid py-5 bg-light">
+        <div class="container">
+
+            <div class="row g-4">
+                <div class="col-3">
+                    <a href="portfolio/ranberry-trends" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg" alt="Ranberry">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Ranberry Trends</h3>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-3">
+                    <a href="portfolio/dazzle-berryenpastel" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Dazzle-Berry/00-Thumbnail.jpg" alt="Dazzle">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Dazzle Berry Pastel</h3>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-3">
+                    <a href="portfolio/central" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg" alt="Central">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Central Mesmerized</h3>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-3">
+                    <a href="portfolio/kooyoo-enchanting" class="collection-card">
+                        <img src="./assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg" alt="Kooyoo">
+                        <div class="backdrop-overlay">
+                            <h3 class="card-title">Kooyoo Enchanting</h3>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="text-center mt-5">
+                <a href="Portfolio" class="btn btn-dark btn-lg px-5 rounded-pill shadow">View All</a>
+            </div>
+
+            <div class="mt-4">
+                <p class="text-muted">
+                    Why choose us? We are recognized as the <b>best digital marketing company in Ahmedabad</b> because
+                    of our dedication to delivering measurable results.
+                    Our experts use the latest tools and industry trends to design campaigns that are creative,
+                    strategic, and performance-driven.
+                    Every campaign is backed by data to optimize results and maximize return on investment (ROI).
+                </p>
+
+                <p class="text-muted">
+                    <b>Our Key Services Include:</b><br>
+                    ✔ Search Engine Optimization (SEO): Improve website visibility and rank higher on search
+                    engines.<br>
+                    ✔ Pay-Per-Click (PPC) Advertising: Generate instant traffic and high-quality leads.<br>
+                    ✔ Social Media Marketing: Build brand awareness and engage with your audience.<br>
+                    ✔ Content Marketing: Create valuable content that attracts and retains customers.
+                </p>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="details-faq py-5">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-12">
+
+                    <h5 class="fw-bold mb-4 text-uppercase letter-spacing-1">Frequently Asked Questions</h5>
+
+                    <div class="accordion accordion-flush shadow-sm border rounded" id="catalogueFaq">
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q1">
+                                    What services does your digital marketing agency offer?
+                                </button>
+                            </h2>
+                            <div id="q1" class="accordion-collapse collapse show" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">
+                                    We offer SEO, social media marketing, Google Ads, content marketing, and complete
+                                    digital branding solutions.
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q2">
+                                    Do you handle both B2B and B2C campaigns?
+                                </button>
+                            </h2>
+                            <div id="q2" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">
+                                    Yes, we design targeted marketing strategies for both B2B and B2C businesses across
+                                    various industries.
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q3">
+                                    How long before I see results from digital marketing?
+                                </button>
+                            </h2>
+                            <div id="q3" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">
+                                    SEO results generally take around 2–3 months, while PPC and social media campaigns
+                                    can deliver quicker visibility and engagement.
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q4">
+                                    Can you manage my brand’s entire online presence?
+                                </button>
+                            </h2>
+                            <div id="q4" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">
+                                    Yes, we provide complete 360° digital marketing solutions including website
+                                    optimization, ad management, and social media growth.
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#q5">
+                                    Do you work with startups and small businesses?
+                                </button>
+                            </h2>
+                            <div id="q5" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                                <div class="accordion-body">
+                                    Yes, we build scalable and cost-effective marketing strategies for startups, SMEs,
+                                    and growing brands.
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -308,6 +277,6 @@ include __DIR__ . '/A_Layout/Header/header.php';
 }
 </script>
 
-        <?php
+<?php
 include __DIR__ . '/A_Layout/Footer/footer.php';
 ?>

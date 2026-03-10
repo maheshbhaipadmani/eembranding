@@ -8,7 +8,7 @@ $MetaKeywords = "graphic design company Ahmedabad, creative designing agency, lo
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 
-    <main class="main-area">
+    <main>
         <section class="breadcrumb-area-two ">
             <div class="container">
                 <div class="row align-items-center">
@@ -28,274 +28,180 @@ include __DIR__ . '/A_Layout/Header/header.php';
             </div>
         </section>
 
-             <section class="services-details-area">
-            <div class="container">
-                <div data-elementor-type="wp-post" data-elementor-id="4372" class="elementor elementor-4372">
-                    <div class="elementor-element elementor-element-9189992 e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="9189992" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-50438b8 elementor-widget elementor-widget-spacer"
-                                data-id="50438b8" data-element_type="widget" data-widget_type="spacer.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-spacer">
-                                        <div class="elementor-spacer-inner"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+           <section class="intro-section py-5 pt-5 mt-5">
+    <div class="container">
+        <div class="row align-items-center g-5">
+            <div class="col-lg-7">
+                <h2 class="display-5 fw-bold mb-4">
+                    Creative Designing that Brings Your <span class="text-danger">Brand to Life</span>
+                </h2>
 
-                    <div class="elementor-element elementor-element-2cdeb1c e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="2cdeb1c" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
-                                data-id="2348a4d" data-element_type="container">
-                                <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
-                                    data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
-                                    
-                                    <div class="elementor-element elementor-element-16ab348 elementor-widget elementor-widget-heading"
-                                    data-id="16ab348" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Creative Designing that Brings Your Brand to Life
-                                        </h5>
-                                    </div>
-                                </div>
-                                    <div class="elementor-widget-container">
-                                        <p>At our <b>creative design agency,</b> we believe that design is more than just aesthetics – it’s a powerful tool that communicates your brand’s story. From logos and brochures to full-fledged branding solutions, we help businesses stand out with designs that leave an impact.  </p>
-                                        <p>As a prominent <b>graphic design company in Ahmedabad,</b> we offer a wide range of services that cater to businesses of all sizes. Our approach is simple – listen, create, and deliver. By understanding your vision, we create designs that not only look appealing but also drive results.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
-                                data-id="2348a4d" data-element_type="container">
-                                <div class="elementor-element elementor-element-b765a09 elementor-widget__width-inherit elementor-widget elementor-widget-genix-image"
-                                    data-id="b765a09" data-element_type="widget" data-widget_type="genix-image.default">
-                                    <div class="elementor-widget-container">
-                                        <div class="about-img text-end">
-                                            <img class="wow fadeInLeft" data-wow-delay=".5s"
-                                                src="https://eembranding.com/assest/img/service/creative-design-agency/Creative-Designing.avif"
-                                                  loading="lazy"  alt=""
-                                                style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
+                <p class="text-muted mb-4">
+                    At our <b>creative design agency</b>, we believe that design is more than just aesthetics – it’s a powerful tool that communicates your brand’s story. From logos and brochures to full-fledged branding solutions, we help businesses stand out with designs that leave an impact.
+                </p>
 
-                                           
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-da5c1c1 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-heading"
-                                    data-id="da5c1c1" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Benefits</h5>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-e5a510c elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-iconlist"
-                                    data-id="e5a510c" data-element_type="widget" data-widget_type="iconlist.default">
-                                    <div class="elementor-widget-container">
+                <p class="text-muted">
+                    As a prominent <b>graphic design company in Ahmedabad</b>, we offer a wide range of services that cater to businesses of all sizes. Our approach is simple – listen, create, and deliver. By understanding your vision, we create designs that not only look appealing but also drive results.
+                </p>
 
-                                        <div class="about-list">
-                                            <ul class="list-wrap">
-                                                <li>
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/service/check.svg"
-                                                          loading="lazy"  alt="Icon">
-
-                                                    Showcases products effectively
-                                                </li>
-                                                <li>
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/service/check.svg"
-                                                          loading="lazy"  alt="Icon">
-
-                                                    Enhances brand image
-                                                </li>
-                                                <li>
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/service/check.svg"
-                                                          loading="lazy"  alt="Icon">
-
-                                                    Increases sales and customer engagement
-                                                </li>
-                                            </ul>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                
-                            </div>
-                        </div>
-                        
-                    </div>
-                    <div class="elementor-element elementor-element-2cdeb1c e-flex e-con-boxed e-con e-parent e-lazyloaded"
-                        data-id="2cdeb1c" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-2348a4d e-con-full e-flex e-con e-child"
-                                data-id="2348a4d" data-element_type="container">
-                                              
-                                <div class="elementor-element elementor-element-c155450 elementor-widget elementor-widget-text-editor"
-                                    data-id="c155450" data-element_type="widget" data-widget_type="text-editor.default">
-                                    <div class="elementor-widget-container">
-                                    <p>Need a logo that speaks volumes about your brand? Our experienced <b>logo designer in Ahmedabad</b> specializes in creating distinctive logos that embody your brand’s values and message.</p>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-16ab348 elementor-widget elementor-widget-heading"
-                                    data-id="16ab348" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <h5 class="elementor-heading-title elementor-size-default">Our Strengths:</h5>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-1b14708 elementor-widget elementor-widget-iconlist"
-                                    data-id="1b14708" data-element_type="widget" data-widget_type="iconlist.default">
-                                    <div class="elementor-widget-container">
-
-                                        <div class="about-list">
-                                            <ul class="list-wrap">
-                                                <li>
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/service/check.svg"
-                                                          loading="lazy"  alt="Icon">
-
-                                                        Creative solutions tailored to meet your business needs.
-                                                </li>
-                                                <li>
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/service/check.svg"
-                                                          loading="lazy"  alt="Icon">
-
-                                                        A strong focus on delivering high-quality visuals.
-                                                </li>
-                                                <li>
-                                                    <img decoding="async"
-                                                        src="https://eembranding.com/assest/img/service/check.svg"
-                                                          loading="lazy"  alt="Icon">
-
-                                                        Experienced designers who understand the importance of brand identity.
-
-                                                </li>
-                                            </ul>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-5637943 elementor-widget elementor-widget-heading"
-                                                data-id="5637943" data-element_type="widget"
-                                                data-widget_type="heading.default">
-                                                <div class="elementor-widget-container">
-                                                    <h5 class="elementor-heading-title elementor-size-default">FAQ's
-                                                    </h5>
-                                                </div>
-                                            </div>
-                                <div class="elementor-element elementor-element-804d946 elementor-widget elementor-widget-genix-faq"
-                                    data-id="804d946" data-element_type="widget" data-widget_type="genix-faq.default">
-                                    <div class="elementor-widget-container">
-
-
-                                    <div class="services-faq-wrap">
-                                            <div class="accordion" id="accordionExample">
-
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingOne-2">
-                                                    <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-1"
-                                                        aria-expanded="true" aria-controls="collapseOne-1">
-                                                        What does a creative designing agency do?
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseOne-1" class="accordion-collapse collapse "
-                                                    aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p>We create visual content like branding, packaging, brochures, and digital designs that effectively communicate your brand's message.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingOne-2">
-                                                    <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-2"
-                                                        aria-expanded="true" aria-controls="collapseOne-2">
-                                                        Which industries do you serve?
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseOne-2" class="accordion-collapse collapse "
-                                                    aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p>We work across various sectors including FMCG, interior, fashion, healthcare, tech, and lifestyle.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingOne-2">
-                                                    <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-3"
-                                                        aria-expanded="true" aria-controls="collapseOne-3">
-                                                        Do you offer logo and brand identity design?
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseOne-3" class="accordion-collapse collapse "
-                                                    aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p>Yes, we specialize in professional logo creation and complete brand identity design.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingOne-2">
-                                                    <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-4"
-                                                        aria-expanded="true" aria-controls="collapseOne-4">
-                                                        Do you design for digital and print?
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseOne-4" class="accordion-collapse collapse "
-                                                    aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p>Yes, we create high-quality designs for both print and digital media including social media, websites, and ads.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingOne-2">
-                                                    <button class="accordion-button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#collapseOne-5"
-                                                        aria-expanded="true" aria-controls="collapseOne-5">
-                                                        What makes EEM Branding different from other design agencies?
-                                                    </button>
-                                                </h2>
-                                                <div id="collapseOne-5" class="accordion-collapse collapse "
-                                                    aria-labelledby="headingOne-2" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
-                                                        <p>Our team blends strategy with creativity, offering customized design solutions aligned with your business goals.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="elementor-element elementor-element-920aeb1 e-flex e-con-boxed e-con e-parent"
-                        data-id="920aeb1" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-33dfcb9 elementor-widget elementor-widget-spacer"
-                                data-id="33dfcb9" data-element_type="widget" data-widget_type="spacer.default">
-                                <div class="elementor-widget-container">
-                                    <div class="elementor-spacer">
-                                        <div class="elementor-spacer-inner"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <p class="text-muted">
+                    Need a logo that speaks volumes about your brand? Our experienced <b>logo designer in Ahmedabad</b> specializes in creating distinctive logos that embody your brand’s values and message.
+                </p>
             </div>
-        </section>
 
+            <div class="col-lg-5 text-center">
+                <img src="https://eembranding.com/assest/img/service/creative-design-agency/Creative-Designing.avif"
+                    class="img-fluid shadow-lg" alt="Creative Designing Service">
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="portfolio-grid py-5 bg-light">
+    <div class="container">
+
+        <div class="row g-4">
+            <div class="col-3">
+                <a href="portfolio/ranberry-trends" class="collection-card">
+                    <img src="./assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg" alt="Ranberry">
+                    <div class="backdrop-overlay">
+                        <h3 class="card-title">Ranberry Trends</h3>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-3">
+                <a href="portfolio/dazzle-berryenpastel" class="collection-card">
+                    <img src="./assest/img/portfolio/websitecc/Dazzle-Berry/00-Thumbnail.jpg" alt="Dazzle">
+                    <div class="backdrop-overlay">
+                        <h3 class="card-title">Dazzle Berry Pastel</h3>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-3">
+                <a href="portfolio/central" class="collection-card">
+                    <img src="./assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg" alt="Central">
+                    <div class="backdrop-overlay">
+                        <h3 class="card-title">Central Mesmerized</h3>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-3">
+                <a href="portfolio/kooyoo-enchanting" class="collection-card">
+                    <img src="./assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg" alt="Kooyoo">
+                    <div class="backdrop-overlay">
+                        <h3 class="card-title">Kooyoo Enchanting</h3>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="text-center mt-5">
+            <a href="Portfolio" class="btn btn-dark btn-lg px-5 rounded-pill shadow">View All</a>
+        </div>
+
+        <div class="mt-4">
+            <p class="text-muted">
+                Our strengths lie in delivering creative solutions tailored to meet your business needs. With a strong focus on high-quality visuals and a deep understanding of brand identity, our experienced designers ensure that every project reflects professionalism, creativity, and strategic thinking.
+            </p>
+        </div>
+
+    </div>
+</section>
+
+
+<section class="details-faq py-5">
+    <div class="container">
+        <div class="row g-5">
+            <div class="col-lg-12">
+
+                <h5 class="fw-bold mb-4 text-uppercase letter-spacing-1">Frequently Asked Questions</h5>
+
+                <div class="accordion accordion-flush shadow-sm border rounded" id="catalogueFaq">
+
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#q1">
+                                What does a creative designing agency do?
+                            </button>
+                        </h2>
+                        <div id="q1" class="accordion-collapse collapse show" data-bs-parent="#catalogueFaq">
+                            <div class="accordion-body">
+                                We create visual content like branding, packaging, brochures, and digital designs that effectively communicate your brand's message.
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#q2">
+                                Which industries do you serve?
+                            </button>
+                        </h2>
+                        <div id="q2" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                            <div class="accordion-body">
+                                We work across various sectors including FMCG, interior, fashion, healthcare, tech, and lifestyle.
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#q3">
+                                Do you offer logo and brand identity design?
+                            </button>
+                        </h2>
+                        <div id="q3" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                            <div class="accordion-body">
+                                Yes, we specialize in professional logo creation and complete brand identity design.
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#q4">
+                                Do you design for digital and print?
+                            </button>
+                        </h2>
+                        <div id="q4" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                            <div class="accordion-body">
+                                Yes, we create high-quality designs for both print and digital media including social media, websites, and advertisements.
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#q5">
+                                What makes EEM Branding different from other design agencies?
+                            </button>
+                        </h2>
+                        <div id="q5" class="accordion-collapse collapse" data-bs-parent="#catalogueFaq">
+                            <div class="accordion-body">
+                                Our team blends strategy with creativity, offering customized design solutions aligned with your business goals.
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

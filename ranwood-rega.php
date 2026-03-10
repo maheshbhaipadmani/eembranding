@@ -8,7 +8,7 @@ $MetaKeywords = "Ranwood Rega, virtuosity in design, celestial inspiration, time
 include __DIR__ . '/A_Layout/Header/header.php';
 ?>
    
-    <main class="main-area">
+    <main>
         
         <section class="breadcrumb-area-two ">
             <div class="container">

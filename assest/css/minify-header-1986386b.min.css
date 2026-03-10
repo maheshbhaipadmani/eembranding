@@ -47837,7 +47837,7 @@ label {
     font-size  : 16px;
     font-weight: 500;
     color      : var(--tg-heading-font-color);
-    padding    : 40px 0;
+    padding    : 30px 0;
     display    : block
 }
 
@@ -47999,7 +47999,7 @@ label {
 
 #header-fixed-height.active-height {
     display: block !important;
-    height : 96px !important;
+    height : 76px !important;
 }
 
 .menu-area.menu-area-two .navbar-wrap>ul {
@@ -52358,7 +52358,7 @@ ul {
 }
 
 .sticky-menu .logo {
-    padding: 10px 0
+    padding: 0px 0
 }
 
 .post-text .has-background p {
@@ -54654,14 +54654,15 @@ ul .comment-respond {
 
 .hero-banner {
     width   : 100%;
-    height  : 100vh;
+    height  : auto;
     overflow: hidden;
+    margin-top: -2%;
 }
 
 .hero-banner img {
     width     : 100%;
     height    : 100%;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 .blog-small-title .line {
