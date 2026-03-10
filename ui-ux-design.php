@@ -21,9 +21,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="col-lg-5">
                     <div class="breadcrumb-shape">
                         <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                            src="https://eembranding.com/assest/img/icon/Untitled-2.png"
+                            src="./assest/img/icon/Untitled-2.png"
                             loading="lazy" alt="Shape">
-                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"
+                        <img src="./assest/img/icon/Untitled-3.png"
                             loading="lazy" alt="Shape">
                     </div>
                 </div>
@@ -64,7 +64,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 </div>
 
                 <div class="col-lg-5 text-center">
-                    <img src="https://eembranding.com/assest/img/service/ui-ux-design/ui-ux-design.avif"
+                    <img src="./assest/img/service/ui-ux-design/ui-ux-design.avif"
                         class="img-fluid shadow-lg" alt="UI UX Design Services">
                 </div>
             </div>

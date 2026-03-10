@@ -9,14 +9,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
 ?>
 <main>
     <section class="creative-showcase py-5 py-lg-100"
-        style="background-image: url(https://eembranding.com/assest/img/about/breadcrumb_bg.jpg) !important; background-size: cover; background-position: center;">
+        style="background-image: url(./assest/img/about/breadcrumb_bg.jpg) !important; background-size: cover; background-position: center;">
         <div class="container">
             <div class="row align-items-center">
 
                 <div class="col-lg-6 mb-5 mb-lg-0">
                     <div class="showcase-content position-relative">
 
-                        <img src="https://eembranding.com/assest/img/icon/Untitled-2.png"
+                        <img src="./assest/img/icon/Untitled-2.png"
                             class="floating-icon icon-small zoomIn" alt="icon">
 
                         <h2 class="display-5 fw-bold mb-4">Services Built Specifically for your Business</h2>
@@ -31,14 +31,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             </a>
                         </div>
 
-                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"
+                        <img src="./assest/img/icon/Untitled-3.png"
                             class="floating-icon icon-large zoomIn d-none d-md-block" alt="icon">
                     </div>
                 </div>
 
                 <div class="col-lg-5 ms-auto text-center">
                     <div class="showcase-img-wrap">
-                        <img src="https://eembranding.com/assest/img/service/main/branding_and_designing_Services.png"
+                        <img src="./assest/img/service/main/branding_and_designing_Services.png"
                             class="img-fluid  main-showcase-img" alt="Portfolio Designer">
                     </div>
                 </div>
@@ -66,7 +66,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">
                                 <div class="service-icon-box mb-4">
-                                    <img src="https://eembranding.com/assest/img/home/icon/3-digital-Marketing.png"
+                                    <img src="./assest/img/home/icon/3-digital-Marketing.png"
                                         alt="Icon" class="service-icon">
                                 </div>
                                 <div class="service-content">
@@ -91,7 +91,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">
                                 <div class="service-icon-box mb-4">
-                                    <img src="https://eembranding.com/assest/img/home/icon/2-creative-design.png"
+                                    <img src="./assest/img/home/icon/2-creative-design.png"
                                         alt="Icon" class="service-icon">
                                 </div>
                                 <div class="service-content">
@@ -115,7 +115,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">
                                 <div class="service-icon-box mb-4">
-                                    <img src="https://eembranding.com/assest/img/home/icon/3-digital-Marketing.png"
+                                    <img src="./assest/img/home/icon/3-digital-Marketing.png"
                                         alt="Icon" class="service-icon">
                                 </div>
                                 <div class="service-content">
@@ -141,7 +141,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">
                                 <div class="service-icon-box mb-4">
-                                    <img src="https://eembranding.com/assest/img/home/icon/4-UIUx.png"
+                                    <img src="./assest/img/home/icon/4-UIUx.png"
                                         alt="Icon" class="service-icon">
                                 </div>
                                 <div class="service-content">
@@ -167,7 +167,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">
                                 <div class="service-icon-box mb-4">
-                                    <img src="https://eembranding.com/assest/img/home/icon/5-website-development.png"
+                                    <img src="./assest/img/home/icon/5-website-development.png"
                                         alt="Icon" class="service-icon">
                                 </div>
                                 <div class="service-content">
@@ -188,7 +188,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">
                                 <div class="service-icon-box mb-4">
-                                    <img src="https://eembranding.com/assest/img/home/icon/6-mobile-app.png"
+                                    <img src="./assest/img/home/icon/6-mobile-app.png"
                                         alt="Icon" class="service-icon">
                                 </div>
                                 <div class="service-content">
@@ -215,7 +215,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">
                                 <div class="service-icon-box mb-4">
-                                    <img src="https://eembranding.com/assest/img/home/icon/ExhibitionIcon.png"
+                                    <img src="./assest/img/home/icon/ExhibitionIcon.png"
                                         alt="Icon" class="service-icon">
                                 </div>
                                 <div class="service-content">
@@ -234,7 +234,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">
                                 <div class="service-icon-box mb-4">
-                                    <img src="https://eembranding.com/assest/img/service/main/icon/8-3d-rendering.png"
+                                    <img src="./assest/img/service/main/icon/8-3d-rendering.png"
                                         alt="Icon" class="service-icon">
                                 </div>
                                 <div class="service-content">
@@ -253,7 +253,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">
                                 <div class="service-icon-box mb-4">
-                                    <img src="https://eembranding.com/assest/img/service/main/icon/9-outdoor-branding.png"
+                                    <img src="./assest/img/service/main/icon/9-outdoor-branding.png"
                                         alt="Icon" class="service-icon">
                                 </div>
                                 <div class="service-content">
@@ -288,7 +288,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <a href="contact-us" class="btn cta-button">Call Now</a>
                 </div>
                 <div class="cta-image">
-                    <img src="https://eembranding.com/assest/img/home/newslettar_img.png"
+                    <img src="./assest/img/home/newslettar_img.png"
                         alt="3D Character">
                 </div>
             </div>
@@ -301,61 +301,61 @@ include __DIR__ . '/A_Layout/Header/header.php';
         <div class="newbrand-slide-track">
             <!-- Repeat logos to simulate infinite loop -->
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png"
+                    src="./assest/img/portfolio/logo/nalisha.png"
                     alt="Nalisha"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/nelson.png" alt="Nelson">
+                    src="./assest/img/portfolio/logo/nelson.png" alt="Nelson">
             </div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png"
+                    src="./assest/img/portfolio/logo/sun-touch.png"
                     alt="Sun Touch"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png"
+                    src="./assest/img/portfolio/logo/bite-bazzar.png"
                     alt="Bite Bazzar"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/bravio.png" alt="Bravio">
+                    src="./assest/img/portfolio/logo/bravio.png" alt="Bravio">
             </div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/durian.png" alt="Durian">
+                    src="./assest/img/portfolio/logo/durian.png" alt="Durian">
             </div>
 
             <!-- Repeating again for infinite feel -->
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png"
+                    src="./assest/img/portfolio/logo/nalisha.png"
                     alt="Nalisha"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/nelson.png" alt="Nelson">
+                    src="./assest/img/portfolio/logo/nelson.png" alt="Nelson">
             </div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png"
+                    src="./assest/img/portfolio/logo/sun-touch.png"
                     alt="Sun Touch"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png"
+                    src="./assest/img/portfolio/logo/bite-bazzar.png"
                     alt="Bite Bazzar"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/bravio.png" alt="Bravio">
+                    src="./assest/img/portfolio/logo/bravio.png" alt="Bravio">
             </div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/durian.png" alt="Durian">
+                    src="./assest/img/portfolio/logo/durian.png" alt="Durian">
             </div>
             <!-- Repeating again for infinite feel -->
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png"
+                    src="./assest/img/portfolio/logo/nalisha.png"
                     alt="Nalisha"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/nelson.png" alt="Nelson">
+                    src="./assest/img/portfolio/logo/nelson.png" alt="Nelson">
             </div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png"
+                    src="./assest/img/portfolio/logo/sun-touch.png"
                     alt="Sun Touch"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png"
+                    src="./assest/img/portfolio/logo/bite-bazzar.png"
                     alt="Bite Bazzar"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/bravio.png" alt="Bravio">
+                    src="./assest/img/portfolio/logo/bravio.png" alt="Bravio">
             </div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/durian.png" alt="Durian">
+                    src="./assest/img/portfolio/logo/durian.png" alt="Durian">
             </div>
         </div>
     </div>

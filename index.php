@@ -106,7 +106,7 @@ reset($myaraa);
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">
                                 <div class="service-icon-box mb-4">
-                                    <img src="https://eembranding.com/assest/img/home/icon/3-digital-Marketing.png"
+                                    <img src="./assest/img/home/icon/3-digital-Marketing.png"
                                         alt="Icon" class="service-icon">
                                 </div>
                                 <div class="service-content">
@@ -131,7 +131,7 @@ reset($myaraa);
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">
                                 <div class="service-icon-box mb-4">
-                                    <img src="https://eembranding.com/assest/img/home/icon/2-creative-design.png"
+                                    <img src="./assest/img/home/icon/2-creative-design.png"
                                         alt="Icon" class="service-icon">
                                 </div>
                                 <div class="service-content">
@@ -155,7 +155,7 @@ reset($myaraa);
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">
                                 <div class="service-icon-box mb-4">
-                                    <img src="https://eembranding.com/assest/img/home/icon/3-digital-Marketing.png"
+                                    <img src="./assest/img/home/icon/3-digital-Marketing.png"
                                         alt="Icon" class="service-icon">
                                 </div>
                                 <div class="service-content">
@@ -181,7 +181,7 @@ reset($myaraa);
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">
                                 <div class="service-icon-box mb-4">
-                                    <img src="https://eembranding.com/assest/img/home/icon/4-UIUx.png"
+                                    <img src="./assest/img/home/icon/4-UIUx.png"
                                         alt="Icon" class="service-icon">
                                 </div>
                                 <div class="service-content">
@@ -207,7 +207,7 @@ reset($myaraa);
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">
                                 <div class="service-icon-box mb-4">
-                                    <img src="https://eembranding.com/assest/img/home/icon/5-website-development.png"
+                                    <img src="./assest/img/home/icon/5-website-development.png"
                                         alt="Icon" class="service-icon">
                                 </div>
                                 <div class="service-content">
@@ -228,7 +228,7 @@ reset($myaraa);
                         <div class="col-lg-4 col-md-6">
                             <div class="service-card h-100 p-4 shadow-sm border-0 position-relative">
                                 <div class="service-icon-box mb-4">
-                                    <img src="https://eembranding.com/assest/img/home/icon/6-mobile-app.png"
+                                    <img src="./assest/img/home/icon/6-mobile-app.png"
                                         alt="Icon" class="service-icon">
                                 </div>
                                 <div class="service-content">
@@ -271,11 +271,11 @@ reset($myaraa);
             <div class="product-grid">
                 <div class="product-item">
                     <div class="product-image-wrapper">
-                        <img src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-8.avif"
+                        <img src="./assest/img/home/catalogue/00-Thumbnail-8.avif"
                             alt="Product Image">
                         <div class="product-overlay">
                             <a href="portfolio/moonshineenchanting" class="view-btn">
-                                <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
+                                <img src="./assest/img/home/icon/arrow-right.svg"
                                     alt="Arrow">
                             </a>
                         </div>
@@ -284,11 +284,11 @@ reset($myaraa);
 
                 <div class="product-item">
                     <div class="product-image-wrapper">
-                        <img src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-11.avif"
+                        <img src="./assest/img/home/catalogue/00-Thumbnail-11.avif"
                             alt="Product Image">
                         <div class="product-overlay">
                             <a href="portfolio/fabrino-fabric" class="view-btn">
-                                <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
+                                <img src="./assest/img/home/icon/arrow-right.svg"
                                     alt="Arrow">
                             </a>
                         </div>
@@ -296,11 +296,11 @@ reset($myaraa);
                 </div>
                 <div class="product-item">
                     <div class="product-image-wrapper">
-                        <img src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-7.avif"
+                        <img src="./assest/img/home/catalogue/00-Thumbnail-7.avif"
                             alt="Product Image">
                         <div class="product-overlay">
                             <a href="portfolio/fabrino-fabric" class="view-btn">
-                                <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
+                                <img src="./assest/img/home/icon/arrow-right.svg"
                                     alt="Arrow">
                             </a>
                         </div>
@@ -308,11 +308,11 @@ reset($myaraa);
                 </div>
                 <div class="product-item">
                     <div class="product-image-wrapper">
-                        <img src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-12.avif"
+                        <img src="./assest/img/home/catalogue/00-Thumbnail-12.avif"
                             alt="Product Image">
                         <div class="product-overlay">
                             <a href="portfolio/fabrino-fabric" class="view-btn">
-                                <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
+                                <img src="./assest/img/home/icon/arrow-right.svg"
                                     alt="Arrow">
                             </a>
                         </div>
@@ -320,11 +320,11 @@ reset($myaraa);
                 </div>
                 <div class="product-item">
                     <div class="product-image-wrapper">
-                        <img src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail.avif"
+                        <img src="./assest/img/home/catalogue/00-Thumbnail.avif"
                             alt="Product Image">
                         <div class="product-overlay">
                             <a href="portfolio/fabrino-fabric" class="view-btn">
-                                <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
+                                <img src="./assest/img/home/icon/arrow-right.svg"
                                     alt="Arrow">
                             </a>
                         </div>
@@ -332,11 +332,11 @@ reset($myaraa);
                 </div>
                 <div class="product-item">
                     <div class="product-image-wrapper">
-                        <img src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-3.avif"
+                        <img src="./assest/img/home/catalogue/00-Thumbnail-3.avif"
                             alt="Product Image">
                         <div class="product-overlay">
                             <a href="portfolio/fabrino-fabric" class="view-btn">
-                                <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
+                                <img src="./assest/img/home/icon/arrow-right.svg"
                                     alt="Arrow">
                             </a>
                         </div>
@@ -514,7 +514,7 @@ reset($myaraa);
                     <a href="contact-us" class="btn cta-button">Call Now</a>
                 </div>
                 <div class="cta-image">
-                    <img src="https://eembranding.com/assest/img/home/newslettar_img.png"
+                    <img src="./assest/img/home/newslettar_img.png"
                         alt="3D Character">
                 </div>
             </div>
@@ -527,61 +527,61 @@ reset($myaraa);
         <div class="newbrand-slide-track">
             <!-- Repeat logos to simulate infinite loop -->
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png"
+                    src="./assest/img/portfolio/logo/nalisha.png"
                     alt="Nalisha"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/nelson.png" alt="Nelson">
+                    src="./assest/img/portfolio/logo/nelson.png" alt="Nelson">
             </div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png"
+                    src="./assest/img/portfolio/logo/sun-touch.png"
                     alt="Sun Touch"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png"
+                    src="./assest/img/portfolio/logo/bite-bazzar.png"
                     alt="Bite Bazzar"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/bravio.png" alt="Bravio">
+                    src="./assest/img/portfolio/logo/bravio.png" alt="Bravio">
             </div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/durian.png" alt="Durian">
+                    src="./assest/img/portfolio/logo/durian.png" alt="Durian">
             </div>
 
             <!-- Repeating again for infinite feel -->
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png"
+                    src="./assest/img/portfolio/logo/nalisha.png"
                     alt="Nalisha"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/nelson.png" alt="Nelson">
+                    src="./assest/img/portfolio/logo/nelson.png" alt="Nelson">
             </div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png"
+                    src="./assest/img/portfolio/logo/sun-touch.png"
                     alt="Sun Touch"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png"
+                    src="./assest/img/portfolio/logo/bite-bazzar.png"
                     alt="Bite Bazzar"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/bravio.png" alt="Bravio">
+                    src="./assest/img/portfolio/logo/bravio.png" alt="Bravio">
             </div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/durian.png" alt="Durian">
+                    src="./assest/img/portfolio/logo/durian.png" alt="Durian">
             </div>
             <!-- Repeating again for infinite feel -->
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png"
+                    src="./assest/img/portfolio/logo/nalisha.png"
                     alt="Nalisha"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/nelson.png" alt="Nelson">
+                    src="./assest/img/portfolio/logo/nelson.png" alt="Nelson">
             </div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png"
+                    src="./assest/img/portfolio/logo/sun-touch.png"
                     alt="Sun Touch"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png"
+                    src="./assest/img/portfolio/logo/bite-bazzar.png"
                     alt="Bite Bazzar"></div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/bravio.png" alt="Bravio">
+                    src="./assest/img/portfolio/logo/bravio.png" alt="Bravio">
             </div>
             <div class="newbrand-slide"><img
-                    src="https://eembranding.com/assest/img/portfolio/logo/durian.png" alt="Durian">
+                    src="./assest/img/portfolio/logo/durian.png" alt="Durian">
             </div>
         </div>
     </div>

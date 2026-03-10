@@ -26,9 +26,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                             <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="https://eembranding.com/assest/img/icon/Untitled-2.png"
+                                src="./assest/img/icon/Untitled-2.png"
                                 loading="lazy" alt="Shape">
-                            <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"
+                            <img src="./assest/img/icon/Untitled-3.png"
                                 loading="lazy" alt="Shape">
                         </div>
                     </div>
@@ -138,9 +138,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                             <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="https://eembranding.com/assest/img/icon/Untitled-2.png"
+                                src="./assest/img/icon/Untitled-2.png"
                                 loading="lazy" alt="Shape">
-                            <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"
+                            <img src="./assest/img/icon/Untitled-3.png"
                                 loading="lazy" alt="Shape">
                         </div>
                     </div>
@@ -149,7 +149,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
         </section>
 
     <?php } ?>
-    <script src="https://eembranding.com/assest/js/Contact-mail.js"></script>
+    <script src="../../../assest/js/pContact-mail.js"></script>
     <?php
     include __DIR__ . '/A_Layout/Footer/footer.php';
     ?>

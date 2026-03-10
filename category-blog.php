@@ -24,9 +24,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                             <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="https://eembranding.com/assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape"
+                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape"
                                 style="transform:translate3d(0px, 11.902px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 11.902px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                            <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
+                            <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
                 </div>
@@ -50,7 +50,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <a
                                         href="blogs-graphic-design">
                                         <img fetchpriority="high" width="1200" height="800"
-                                            src="https://eembranding.com/assest/img/blogs/Blog-Graphic-design.jpg"
+                                            src="./assest/img/blogs/Blog-Graphic-design.jpg"
                                             class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
                                 </div>
 
@@ -99,7 +99,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <a
                                         href="blogs-powerful-branding-strategies">
                                         <img width="1200" height="800"
-                                            src="https://eembranding.com/assest/img/blogs/1banner-4.jpg"
+                                            src="./assest/img/blogs/1banner-4.jpg"
                                             class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
                                 </div>
 
@@ -148,7 +148,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <a
                                         href="blogs-rendering">
                                         <img width="1200" height="800"
-                                            src="https://eembranding.com/assest/img/blogs/2Blog-5.jpg"
+                                            src="./assest/img/blogs/2Blog-5.jpg"
                                             class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
                                 </div>
 
@@ -198,7 +198,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <a
                                         href="blogs-best-laminate-catalogue">
                                         <img width="1200" height="800"
-                                            src="https://eembranding.com/assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
+                                            src="./assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
                                             class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
                                 </div>
 
@@ -248,7 +248,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <a
                                         href="blogs-grow-your-business">
                                         <img width="1200" height="800"
-                                            src="https://eembranding.com/assest/img/blogs/4banner-3-1.jpg"
+                                            src="./assest/img/blogs/4banner-3-1.jpg"
                                             class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
                                 </div>
 
@@ -298,7 +298,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <a
                                         href="blogs-creative-design-agency-in-ahmedabad">
                                         <img width="1200" height="800"
-                                            src="https://eembranding.com/assest/img/blogs/5banner-2-1.jpg"
+                                            src="./assest/img/blogs/5banner-2-1.jpg"
                                             class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
                                 </div>
 
@@ -348,7 +348,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <a
                                         href="blogs-branding-vs-advertising">
                                         <img width="1200" height="800"
-                                            src="https://eembranding.com/assest/img/blogs/6banner.jpg"
+                                            src="./assest/img/blogs/6banner.jpg"
                                             class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
                                 </div>
 

@@ -6610,7 +6610,7 @@ screen and (max-height:300px) {
     content      : "";
     position     : absolute;
     right        : 0;
-    bottom       : 30px;
+    bottom       : 20px;
     width        : 0;
     height       : 3px;
     border-radius: 3px;
@@ -47859,7 +47859,7 @@ label {
 
 .navbar-wrap>ul>li.active>a::before,
 .navbar-wrap>ul>li>a:hover::before {
-    width: 80%
+    width: 100%
 }
 
 .breadcrumb-content-two .breadcrumb-item a:hover,
@@ -51395,7 +51395,31 @@ blockquote p {
 .footer-style-three .footer-bottom {
     border-top: 1px solid #3a3a3a
 }
+#preloader {
+    background-color: #fff;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9999; /* Make sure this is higher than everything else */
+    opacity: 1;
+    visibility: visible;
+    transition: all 0.5s ease;
+}
 
+/* Add your keyframes if they are missing! */
+@keyframes loader-outter {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@keyframes loader-inner {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(-360deg); }
+}
 #preloader {
     background-color: #fff;
     height          : 100%;

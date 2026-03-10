@@ -33,8 +33,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="menu-wrap">
                             <nav class="menu-nav">
                                 <div class="logo">
-                                    <a class="main-logo" href="https://eembranding.com/">
-                                        <img src="https://eembranding.com/assest/img/logo/logo-small.png" style="max-height: 36px" loading="lazy"  alt="Logo">
+                                    <a class="main-logo" href="home">
+                                        <img src="./assest/img/logo/logo-small.png" style="max-height: 36px" loading="lazy"  alt="Logo">
                                     </a>
                                 </div>
                                 <div class="navbar-wrap main-menu d-none d-lg-flex">
@@ -44,7 +44,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-495 current_page_item  menu-item-5521 nav-item  ' ?><?php if ($page == "index.php") {
                                     echo 'active';
                                 } ?><?php echo '">
-                                            <a title="Home"  class="nav-links" href="https://eembranding.com/">Home</a>
+                                            <a title="Home"  class="nav-links" href="home">Home</a>
                                         </li>
                                         <li itemscope="itemscope"
                                             itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6703"
@@ -176,8 +176,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <nav class="menu-box">
                                 <div class="close-btn"><i class="fas fa-times"></i></div>
                                 <div class="nav-logo">
-                                    <a class="main-logo" href="https://eembranding.com/">
-                                        <img src="https://eembranding.com/assest/img/logo/logo-small.png" style="max-height: 36px" loading="lazy"  alt="Logo">
+                                    <a class="main-logo" href="home">
+                                        <img src="./assest/img/logo/logo-small.png" style="max-height: 36px" loading="lazy"  alt="Logo">
                                     </a>
                                 </div>
                                 <div class="">
@@ -185,7 +185,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <li itemscope="itemscope"
                                             itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-5521"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-495 current_page_item active menu-item-5521 nav-item">
-                                            <a title="Home" href="https://eembranding.com/" class="nav-links">Home</a>
+                                            <a title="Home" href="home" class="nav-links">Home</a>
                                         </li>
                                         <li itemscope="itemscope"
                                             itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6703"
@@ -287,8 +287,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <button><i class="far fa-window-close"></i></button>
             </div>
             <div class="logo-side mb-30">
-                <a class="main-logo" href="https://eembranding.com/">
-                    <img src="https://eembranding.com/assest/img/logo/logo-small.png" style="max-height: 36px" loading="lazy"  alt="Logo">
+                <a class="main-logo" href="home">
+                    <img src="./assest/img/logo/logo-small.png" style="max-height: 36px" loading="lazy"  alt="Logo">
                 </a>
             </div>
             <div class="side-info mb-30">
