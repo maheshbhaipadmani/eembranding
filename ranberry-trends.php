@@ -66,25 +66,25 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="catalog-slider swiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Ranberry/01.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Ranberry/01.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Ranberry/02.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Ranberry/02.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Ranberry/03.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Ranberry/03.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Ranberry/04.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Ranberry/04.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Ranberry/05.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Ranberry/05.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Ranberry/06.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Ranberry/06.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Ranberry/07.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Ranberry/07.jpg"  loading="lazy" alt="images">
                     </div>
                 </div>
                 <div class="swiper-pagination"></div>

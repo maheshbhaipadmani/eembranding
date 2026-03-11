@@ -48,7 +48,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="col-lg-4 col-md-6">
                 <div class="card h-100 text-center border-0 shadow-sm p-4">
                     <div class="mb-3">
-                        <img src="./assest/img/contact/email.png" alt="Email"
+                        <img src="./assest/img/contact/email.png" alt="Email"  loading="lazy"
                             width="50" height="50">
                     </div>
                     <div class="card-body p-0">
@@ -61,7 +61,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="col-lg-4 col-md-6">
                 <div class="card h-100 text-center border-0 shadow-sm p-4">
                     <div class="mb-3">
-                        <img src="./assest/img/contact/address.png"
+                        <img src="./assest/img/contact/address.png"  loading="lazy"
                             alt="Address" width="50" height="50">
                     </div>
                     <div class="card-body p-0">

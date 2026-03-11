@@ -42,7 +42,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-10">
                         <article class="blog-details-wrap">
                             <div class="blog-thumb mb-5">
-                                <img src="<?php echo $singleBlog['Thumbnail']; ?>" class="img-fluid rounded-4 shadow-sm"
+                                <img src="<?php echo $singleBlog['Thumbnail']; ?>" class="img-fluid rounded-4 shadow-sm"  loading="lazy"
                                     alt="<?php echo $singleBlog['BlogTitle']; ?>"
                                     style="width: 100%;">
                             </div>

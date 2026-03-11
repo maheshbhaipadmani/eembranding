@@ -51,7 +51,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         href="blogs-graphic-design">
                                         <img fetchpriority="high" width="1200" height="800"
                                             src="./assest/img/blogs/Blog-Graphic-design.jpg"
-                                            class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
+                                            class="img-responsive wp-post-image"   loading="lazy"  alt="images" decoding="async"> </a>
                                 </div>
 
                                 <div class="blog-content">
@@ -100,7 +100,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         href="blogs-powerful-branding-strategies">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/1banner-4.jpg"
-                                            class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
+                                            class="img-responsive wp-post-image"   loading="lazy"  alt="images" decoding="async"> </a>
                                 </div>
 
                                 <div class="blog-content">
@@ -149,7 +149,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         href="blogs-rendering">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/2Blog-5.jpg"
-                                            class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
+                                            class="img-responsive wp-post-image"   loading="lazy"  alt="images" decoding="async"> </a>
                                 </div>
 
                                 <div class="blog-content">
@@ -199,7 +199,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         href="blogs-best-laminate-catalogue">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/3banner-for-laminate-catalogue-1.jpg"
-                                            class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
+                                            class="img-responsive wp-post-image"   loading="lazy"  alt="images" decoding="async"> </a>
                                 </div>
 
                                 <div class="blog-content">
@@ -249,7 +249,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         href="blogs-grow-your-business">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/4banner-3-1.jpg"
-                                            class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
+                                            class="img-responsive wp-post-image"   loading="lazy"  alt="images" decoding="async"> </a>
                                 </div>
 
                                 <div class="blog-content">
@@ -299,7 +299,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         href="blogs-creative-design-agency-in-ahmedabad">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/5banner-2-1.jpg"
-                                            class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
+                                            class="img-responsive wp-post-image"   loading="lazy"  alt="images" decoding="async"> </a>
                                 </div>
 
                                 <div class="blog-content">
@@ -349,7 +349,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         href="blogs-branding-vs-advertising">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/6banner.jpg"
-                                            class="img-responsive wp-post-image"   loading="lazy"  alt="" decoding="async"> </a>
+                                            class="img-responsive wp-post-image"   loading="lazy"  alt="images" decoding="async"> </a>
                                 </div>
 
                                 <div class="blog-content">

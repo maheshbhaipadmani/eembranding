@@ -62,13 +62,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="catalog-slider swiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Fabrino/01.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Fabrino/01.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Fabrino/02.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Fabrino/02.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Fabrino/03.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Fabrino/03.jpg"  loading="lazy" alt="images">
                     </div>
                 </div>
                 <div class="swiper-pagination"></div>

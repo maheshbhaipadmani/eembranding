@@ -66,34 +66,34 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="catalog-slider swiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Moonshine/01.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Moonshine/01.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Moonshine/02.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Moonshine/02.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Moonshine/03.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Moonshine/03.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Moonshine/04.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Moonshine/04.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Moonshine/05.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Moonshine/05.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Moonshine/06.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Moonshine/06.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Moonshine/07.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Moonshine/07.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Moonshine/08.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Moonshine/08.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Moonshine/09.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Moonshine/09.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Moonshine/10.jpg" alt="">
+                        <img src="./assest/img/portfolio/websitecc/Moonshine/10.jpg"  loading="lazy" alt="images">
                     </div>
                 </div>
                 <div class="swiper-pagination"></div>

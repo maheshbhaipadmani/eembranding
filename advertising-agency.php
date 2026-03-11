@@ -76,7 +76,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
         <div class="row g-4">
             <div class="col-3">
                 <a href="portfolio/ranberry-trends" class="collection-card">
-                    <img src="./assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg" alt="Ranberry">
+                    <img src="./assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg"  loading="lazy" alt="Ranberry">
                     <div class="backdrop-overlay">
                         <h3 class="card-title">Ranberry Trends</h3>
                     </div>
@@ -85,7 +85,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <div class="col-3">
                 <a href="portfolio/dazzle-berryenpastel" class="collection-card">
-                    <img src="./assest/img/portfolio/websitecc/Dazzle-Berry/00-Thumbnail.jpg" alt="Dazzle">
+                    <img src="./assest/img/portfolio/websitecc/Dazzle-Berry/00-Thumbnail.jpg"  loading="lazy" alt="Dazzle">
                     <div class="backdrop-overlay">
                         <h3 class="card-title">Dazzle Berry Pastel</h3>
                     </div>
@@ -94,7 +94,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <div class="col-3">
                 <a href="portfolio/central" class="collection-card">
-                    <img src="./assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg" alt="Central">
+                    <img src="./assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg"  loading="lazy" alt="Central">
                     <div class="backdrop-overlay">
                         <h3 class="card-title">Central Mesmerized</h3>
                     </div>
@@ -103,7 +103,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
             <div class="col-3">
                 <a href="portfolio/kooyoo-enchanting" class="collection-card">
-                    <img src="./assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg" alt="Kooyoo">
+                    <img src="./assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg"  loading="lazy" alt="Kooyoo">
                     <div class="backdrop-overlay">
                         <h3 class="card-title">Kooyoo Enchanting</h3>
                     </div>

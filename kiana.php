@@ -67,31 +67,31 @@ include __DIR__ . '/A_Layout/Header/header.php';
                   <div class="catalog-slider swiper">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                          <img src="./assest/img/portfolio/keton-micabeautiful/05-15.avif" alt="">
+                          <img src="./assest/img/portfolio/keton-micabeautiful/05-15.avif"  loading="lazy" alt="images">
                         </div>
                         <div class="swiper-slide">
-                          <img src="./assest/img/portfolio/keton-micabeautiful/06-8.avif" alt="">
+                          <img src="./assest/img/portfolio/keton-micabeautiful/06-8.avif"  loading="lazy" alt="images">
                         </div>
                         <div class="swiper-slide">
-                          <img src="./assest/img/portfolio/keton-micabeautiful/07-7.avif" alt="">
+                          <img src="./assest/img/portfolio/keton-micabeautiful/07-7.avif"  loading="lazy" alt="images">
                         </div>
                         <div class="swiper-slide">
-                          <img src="./assest/img/portfolio/keton-micabeautiful/01-23.avif" alt="">
+                          <img src="./assest/img/portfolio/keton-micabeautiful/01-23.avif"  loading="lazy" alt="images">
                         </div>
                         <div class="swiper-slide">
-                          <img src="./assest/img/portfolio/keton-micabeautiful/03-21.avif" alt="">
+                          <img src="./assest/img/portfolio/keton-micabeautiful/03-21.avif"  loading="lazy" alt="images">
                         </div>
                         <div class="swiper-slide">
-                          <img src="./assest/img/portfolio/keton-micabeautiful/04-19.avif" alt="">
+                          <img src="./assest/img/portfolio/keton-micabeautiful/04-19.avif"  loading="lazy" alt="images">
                         </div>
                         <div class="swiper-slide">
-                          <img src="./assest/img/portfolio/keton-micabeautiful/01-23.avif" alt="">
+                          <img src="./assest/img/portfolio/keton-micabeautiful/01-23.avif"  loading="lazy" alt="images">
                         </div>
                         <div class="swiper-slide">
-                          <img src="./assest/img/portfolio/keton-micabeautiful/02-20.avif" alt="">
+                          <img src="./assest/img/portfolio/keton-micabeautiful/02-20.avif"  loading="lazy" alt="images">
                         </div>
                         <div class="swiper-slide">
-                          <img src="./assest/img/portfolio/keton-micabeautiful/03-21.avif" alt="">
+                          <img src="./assest/img/portfolio/keton-micabeautiful/03-21.avif"  loading="lazy" alt="images">
                         </div>
                       </div>
                       <div class="swiper-pagination"></div>

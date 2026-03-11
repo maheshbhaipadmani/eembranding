@@ -59,7 +59,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 </div>
 
                 <div class="col-lg-5 text-center">
-                    <img src="./assest/img/service/3d-rendering/3D-Rendering.avif"
+                    <img src="./assest/img/service/3d-rendering/3D-Rendering.avif"  loading="lazy"
                         class="img-fluid shadow-lg" alt="3D Rendering Services">
                 </div>
 
