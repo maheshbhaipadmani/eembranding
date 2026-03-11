@@ -22,9 +22,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="col-lg-5">
                         <div class="breadcrumb-shape">
                             <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                                src="./assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape"
+                                src="https://eembranding.com/assest/img/icon/Untitled-2.png"   loading="lazy"  alt="Shape"
                                 style="transform:translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                            <img src="./assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
+                            <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"   loading="lazy"  alt="Shape">
                         </div>
                     </div>
                 </div>
@@ -73,27 +73,27 @@ include __DIR__ . '/A_Layout/Header/header.php';
       <div class="swiper-wrapper">
 
         <div class="swiper-slide">
-          <img src="./assest/img/portfolio/websitecc/Vansh/01.jpg" alt="01">
+          <img src="https://eembranding.com/assest/img/portfolio/websitecc/Vansh/01.jpg" alt="01">
         </div>
 
         <div class="swiper-slide">
-          <img src="./assest/img/portfolio/websitecc/Vansh/02.jpg" alt="02">
+          <img src="https://eembranding.com/assest/img/portfolio/websitecc/Vansh/02.jpg" alt="02">
         </div>
 
         <div class="swiper-slide">
-          <img src="./assest/img/portfolio/websitecc/Vansh/03.jpg" alt="03">
+          <img src="https://eembranding.com/assest/img/portfolio/websitecc/Vansh/03.jpg" alt="03">
         </div>
 
         <div class="swiper-slide">
-          <img src="./assest/img/portfolio/websitecc/Vansh/04.jpg" alt="04">
+          <img src="https://eembranding.com/assest/img/portfolio/websitecc/Vansh/04.jpg" alt="04">
         </div>
 
         <div class="swiper-slide">
-          <img src="./assest/img/portfolio/websitecc/Vansh/05.jpg" alt="05">
+          <img src="https://eembranding.com/assest/img/portfolio/websitecc/Vansh/05.jpg" alt="05">
         </div>
 
         <div class="swiper-slide">
-          <img src="./assest/img/portfolio/websitecc/Vansh/06.jpg" alt="06">
+          <img src="https://eembranding.com/assest/img/portfolio/websitecc/Vansh/06.jpg" alt="06">
         </div>
       </div>
 

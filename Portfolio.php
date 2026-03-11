@@ -10,14 +10,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 <main>
     <section class="creative-showcase py-5 py-lg-100"
-        style="background-image: url(./assest/img/about/breadcrumb_bg.jpg) !important; background-size: cover; background-position: center;">
+        style="background-image: url(https://eembranding.com/assest/img/about/breadcrumb_bg.jpg) !important; background-size: cover; background-position: center;">
         <div class="container">
             <div class="row align-items-center">
 
                 <div class="col-lg-6 mb-5 mb-lg-0">
                     <div class="showcase-content position-relative">
 
-                        <img src="./assest/img/icon/Untitled-2.png"
+                        <img src="https://eembranding.com/assest/img/icon/Untitled-2.png"
                             class="floating-icon icon-small zoomIn" alt="icon">
 
                         <h2 class="display-5 fw-bold mb-4">Our Creative Showcase</h2>
@@ -33,14 +33,14 @@ include __DIR__ . '/A_Layout/Header/header.php';
                             </a>
                         </div>
 
-                        <img src="./assest/img/icon/Untitled-3.png"
+                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"
                             class="floating-icon icon-large zoomIn d-none d-md-block" alt="icon">
                     </div>
                 </div>
 
                 <div class="col-lg-5 ms-auto text-center">
                     <div class="showcase-img-wrap">
-                        <img src="./assest/img/portfolio/Porfolio-Designer.png"
+                        <img src="https://eembranding.com/assest/img/portfolio/Porfolio-Designer.png"
                             class="img-fluid  main-showcase-img" alt="Portfolio Designer">
                     </div>
                 </div>
@@ -134,11 +134,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="product-grid">
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg"
+                                <img src="https://eembranding.com/assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/ranberry-trends" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -146,11 +146,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/home/catalogue/00-Thumbnail-8.avif"
+                                <img src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-8.avif"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/moonshineenchanting" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -158,11 +158,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/home/catalogue/00-Thumbnail-7.avif"
+                                <img src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-7.avif"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/fabrino-fabric" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -170,11 +170,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/portfolio/websitecc/Nelson/00-Thumbnail.jpg"
+                                <img src="https://eembranding.com/assest/img/portfolio/websitecc/Nelson/00-Thumbnail.jpg"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/nelsonenchanting" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -182,11 +182,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg"
+                                <img src="https://eembranding.com/assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/kooyoo-enchanting"  class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -194,11 +194,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg"
+                                <img src="https://eembranding.com/assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/central" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -206,11 +206,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/portfolio/websitecc/Bliss/00-Thumbnail.jpg"
+                                <img src="https://eembranding.com/assest/img/portfolio/websitecc/Bliss/00-Thumbnail.jpg"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/bliss" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -218,11 +218,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/portfolio/websitecc/Keton-Mica/00-Thumbnail.jpg"
+                                <img src="https://eembranding.com/assest/img/portfolio/websitecc/Keton-Mica/00-Thumbnail.jpg"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/keton-micabeautiful" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -230,11 +230,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/portfolio/websitecc/Eco-Wood/00-Thumbnail.jpg"
+                                <img src="https://eembranding.com/assest/img/portfolio/websitecc/Eco-Wood/00-Thumbnail.jpg"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/eco-woodamaurosis" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -242,11 +242,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/portfolio/websitecc/Bravio/00-Thumbnail.jpg"
+                                <img src="https://eembranding.com/assest/img/portfolio/websitecc/Bravio/00-Thumbnail.jpg"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/bravio-pastel-laminate" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -254,11 +254,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/portfolio/websitecc/Fabrino/00-Thumbnail.jpg"
+                                <img src="https://eembranding.com/assest/img/portfolio/websitecc/Fabrino/00-Thumbnail.jpg"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/fabrino-fabric" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -266,11 +266,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/portfolio/websitecc/Evershine-Color-Trend/00-Thumbnail.jpg"
+                                <img src="https://eembranding.com/assest/img/portfolio/websitecc/Evershine-Color-Trend/00-Thumbnail.jpg"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/evershine-color-trendenchanting" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -278,11 +278,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/portfolio/websitecc/Lamart/00-Thumbnail.jpg"
+                                <img src="https://eembranding.com/assest/img/portfolio/websitecc/Lamart/00-Thumbnail.jpg"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/lammartcolor" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -290,11 +290,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/portfolio/websitecc/Crystaline/00-Thumbnail.jpg"
+                                <img src="https://eembranding.com/assest/img/portfolio/websitecc/Crystaline/00-Thumbnail.jpg"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/crysta-line" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -302,11 +302,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/portfolio/websitecc/Morbi-King-IN-STAR/00-Thumbnail.jpg"
+                                <img src="https://eembranding.com/assest/img/portfolio/websitecc/Morbi-King-IN-STAR/00-Thumbnail.jpg"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/morbi-king" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -314,11 +314,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/portfolio/websitecc/PicsArt/00-Thumbnail.jpg"
+                                <img src="https://eembranding.com/assest/img/portfolio/websitecc/PicsArt/00-Thumbnail.jpg"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/picsartelegance" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -332,11 +332,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <div class="product-grid">
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/home/catalogue/00-Thumbnail-8.avif"
+                                <img src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-8.avif"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/moonshineenchanting" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -345,11 +345,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/home/catalogue/00-Thumbnail-11.avif"
+                                <img src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-11.avif"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/fabrino-fabric" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -357,11 +357,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/home/catalogue/00-Thumbnail-7.avif"
+                                <img src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-7.avif"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/fabrino-fabric" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -369,11 +369,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/home/catalogue/00-Thumbnail-12.avif"
+                                <img src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-12.avif"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/fabrino-fabric" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -381,11 +381,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/home/catalogue/00-Thumbnail.avif"
+                                <img src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail.avif"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/fabrino-fabric" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -393,11 +393,11 @@ include __DIR__ . '/A_Layout/Header/header.php';
                         </div>
                         <div class="product-item">
                             <div class="product-image-wrapper">
-                                <img src="./assest/img/home/catalogue/00-Thumbnail-3.avif"
+                                <img src="https://eembranding.com/assest/img/home/catalogue/00-Thumbnail-3.avif"
                                     alt="Product Image">
                                 <div class="product-overlay">
                                     <a href="portfolio/fabrino-fabric" class="view-btn">
-                                        <img src="./assest/img/home/icon/arrow-right.svg"
+                                        <img src="https://eembranding.com/assest/img/home/icon/arrow-right.svg"
                                             alt="Arrow">
                                     </a>
                                 </div>
@@ -435,7 +435,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                     <a href="contact-us" class="btn cta-button">Call Now</a>
                 </div>
                 <div class="cta-image">
-                    <img src="./assest/img/home/newslettar_img.png"
+                    <img src="https://eembranding.com/assest/img/home/newslettar_img.png"
                         alt="3D Character">
                 </div>
             </div>
@@ -448,61 +448,61 @@ include __DIR__ . '/A_Layout/Header/header.php';
         <div class="newbrand-slide-track">
             <!-- Repeat logos to simulate infinite loop -->
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/nalisha.png"
+                    src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png"
                     alt="Nalisha"></div>
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/nelson.png" alt="Nelson">
+                    src="https://eembranding.com/assest/img/portfolio/logo/nelson.png" alt="Nelson">
             </div>
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/sun-touch.png"
+                    src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png"
                     alt="Sun Touch"></div>
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/bite-bazzar.png"
+                    src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png"
                     alt="Bite Bazzar"></div>
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/bravio.png" alt="Bravio">
+                    src="https://eembranding.com/assest/img/portfolio/logo/bravio.png" alt="Bravio">
             </div>
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/durian.png" alt="Durian">
+                    src="https://eembranding.com/assest/img/portfolio/logo/durian.png" alt="Durian">
             </div>
 
             <!-- Repeating again for infinite feel -->
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/nalisha.png"
+                    src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png"
                     alt="Nalisha"></div>
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/nelson.png" alt="Nelson">
+                    src="https://eembranding.com/assest/img/portfolio/logo/nelson.png" alt="Nelson">
             </div>
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/sun-touch.png"
+                    src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png"
                     alt="Sun Touch"></div>
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/bite-bazzar.png"
+                    src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png"
                     alt="Bite Bazzar"></div>
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/bravio.png" alt="Bravio">
+                    src="https://eembranding.com/assest/img/portfolio/logo/bravio.png" alt="Bravio">
             </div>
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/durian.png" alt="Durian">
+                    src="https://eembranding.com/assest/img/portfolio/logo/durian.png" alt="Durian">
             </div>
             <!-- Repeating again for infinite feel -->
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/nalisha.png"
+                    src="https://eembranding.com/assest/img/portfolio/logo/nalisha.png"
                     alt="Nalisha"></div>
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/nelson.png" alt="Nelson">
+                    src="https://eembranding.com/assest/img/portfolio/logo/nelson.png" alt="Nelson">
             </div>
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/sun-touch.png"
+                    src="https://eembranding.com/assest/img/portfolio/logo/sun-touch.png"
                     alt="Sun Touch"></div>
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/bite-bazzar.png"
+                    src="https://eembranding.com/assest/img/portfolio/logo/bite-bazzar.png"
                     alt="Bite Bazzar"></div>
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/bravio.png" alt="Bravio">
+                    src="https://eembranding.com/assest/img/portfolio/logo/bravio.png" alt="Bravio">
             </div>
             <div class="newbrand-slide"><img
-                    src="./assest/img/portfolio/logo/durian.png" alt="Durian">
+                    src="https://eembranding.com/assest/img/portfolio/logo/durian.png" alt="Durian">
             </div>
         </div>
     </div>

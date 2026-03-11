@@ -21,9 +21,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="col-lg-5">
                     <div class="breadcrumb-shape">
                         <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                            src="./assest/img/icon/Untitled-2.png"
+                            src="https://eembranding.com/assest/img/icon/Untitled-2.png"
                             loading="lazy" alt="Shape">
-                        <img src="./assest/img/icon/Untitled-3.png"
+                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"
                             loading="lazy" alt="Shape">
                     </div>
                 </div>
@@ -35,7 +35,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="col-lg-4 col-md-6">
                 <div class="card h-100 text-center border-0 shadow-sm p-4">
                     <div class="mb-3">
-                        <img src="./assest/img/contact/phone.png" alt="Phone"
+                        <img src="https://eembranding.com/assest/img/contact/phone.png" alt="Phone"
                             width="50" height="50">
                     </div>
                     <div class="card-body p-0">
@@ -48,7 +48,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="col-lg-4 col-md-6">
                 <div class="card h-100 text-center border-0 shadow-sm p-4">
                     <div class="mb-3">
-                        <img src="./assest/img/contact/email.png" alt="Email"  loading="lazy"
+                        <img src="https://eembranding.com/assest/img/contact/email.png" alt="Email"  loading="lazy"
                             width="50" height="50">
                     </div>
                     <div class="card-body p-0">
@@ -61,7 +61,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="col-lg-4 col-md-6">
                 <div class="card h-100 text-center border-0 shadow-sm p-4">
                     <div class="mb-3">
-                        <img src="./assest/img/contact/address.png"  loading="lazy"
+                        <img src="https://eembranding.com/assest/img/contact/address.png"  loading="lazy"
                             alt="Address" width="50" height="50">
                     </div>
                     <div class="card-body p-0">
@@ -79,7 +79,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             
             <div class="col-lg-3 d-none d-lg-flex align-items-center justify-content-center">
                 <div class="p-3">
-                    <img src="./assest/img/contact/contact_img.png" 
+                    <img src="https://eembranding.com/assest/img/contact/contact_img.png" 
                          class="img-fluid rounded shadow-sm" 
                          alt="Contact Illustration"
                          style="max-height: 400px; object-fit: contain;">
@@ -146,7 +146,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 </section>
 
 
-    <script src="../../../assest/js/pContact-mail.js"></script>
+    <script src="../../.https://eembranding.com/assest/js/pContact-mail.js"></script>
 
     <style>
         .form-error {

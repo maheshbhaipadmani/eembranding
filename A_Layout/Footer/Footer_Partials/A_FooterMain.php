@@ -58,7 +58,7 @@ echo
             <div class="col-lg-3 col-md-6 mb-4">
                 <div class="footer-logo mb-3">
                     <a href="home.php">
-                        <img src="./assest/img/logo/logo-small-white.png" alt="Rollence Logo" class="img-fluid" style="max-width: 151px;">
+                        <img src="https://eembranding.com/assest/img/logo/logo-small-white.png" alt="Rollence Logo" class="img-fluid" style="max-width: 151px;">
                     </a>
                 </div>
                 <p class="text-secondary">

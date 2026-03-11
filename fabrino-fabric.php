@@ -19,10 +19,10 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="col-lg-5">
                     <div class="breadcrumb-shape">
                         <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                            src="./assest/img/icon/Untitled-2.png"
+                            src="https://eembranding.com/assest/img/icon/Untitled-2.png"
                             loading="lazy" alt="Shape"
                             style="transform:translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                        <img src="./assest/img/icon/Untitled-3.png"
+                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"
                             loading="lazy" alt="Shape">
                     </div>
                 </div>
@@ -62,13 +62,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="catalog-slider swiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Fabrino/01.jpg"  loading="lazy" alt="images">
+                        <img src="https://eembranding.com/assest/img/portfolio/websitecc/Fabrino/01.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Fabrino/02.jpg"  loading="lazy" alt="images">
+                        <img src="https://eembranding.com/assest/img/portfolio/websitecc/Fabrino/02.jpg"  loading="lazy" alt="images">
                     </div>
                     <div class="swiper-slide">
-                        <img src="./assest/img/portfolio/websitecc/Fabrino/03.jpg"  loading="lazy" alt="images">
+                        <img src="https://eembranding.com/assest/img/portfolio/websitecc/Fabrino/03.jpg"  loading="lazy" alt="images">
                     </div>
                 </div>
                 <div class="swiper-pagination"></div>

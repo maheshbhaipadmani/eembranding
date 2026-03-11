@@ -21,10 +21,10 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="col-lg-5">
                     <div class="breadcrumb-shape">
                         <img data-parallax="{&quot;x&quot; : 0 , &quot;y&quot; : 100 }"
-                            src="./assest/img/icon/Untitled-2.png"
+                            src="https://eembranding.com/assest/img/icon/Untitled-2.png"
                             loading="lazy" alt="Shape"
                             style="transform:translate3d(0px, 100px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 100px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-                        <img src="./assest/img/icon/Untitled-3.png"
+                        <img src="https://eembranding.com/assest/img/icon/Untitled-3.png"
                             loading="lazy" alt="Shape">
                     </div>
                 </div>
@@ -65,7 +65,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 </div>
 
                 <div class="col-lg-5 text-center">
-                    <img src="./assest/img/service/mobile-app-development/mobile-app.avif"
+                    <img src="https://eembranding.com/assest/img/service/mobile-app-development/mobile-app.avif"
                         class="img-fluid shadow-lg" alt="Mobile App Development Services">
                 </div>
             </div>
@@ -79,7 +79,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
             <div class="row g-4">
                 <div class="col-3">
                     <a href="portfolio/ranberry-trends" class="collection-card">
-                        <img src="./assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg" alt="Ranberry">
+                        <img src="https://eembranding.com/assest/img/portfolio/websitecc/Ranberry/00-Thumbnail.jpg" alt="Ranberry">
                         <div class="backdrop-overlay">
                             <h3 class="card-title">Ranberry Trends</h3>
                         </div>
@@ -88,7 +88,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                 <div class="col-3">
                     <a href="portfolio/dazzle-berryenpastel" class="collection-card">
-                        <img src="./assest/img/portfolio/websitecc/Dazzle-Berry/00-Thumbnail.jpg" alt="Dazzle">
+                        <img src="https://eembranding.com/assest/img/portfolio/websitecc/Dazzle-Berry/00-Thumbnail.jpg" alt="Dazzle">
                         <div class="backdrop-overlay">
                             <h3 class="card-title">Dazzle Berry Pastel</h3>
                         </div>
@@ -97,7 +97,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                 <div class="col-3">
                     <a href="portfolio/central" class="collection-card">
-                        <img src="./assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg" alt="Central">
+                        <img src="https://eembranding.com/assest/img/portfolio/websitecc/Central/00-Thumbnail.jpg" alt="Central">
                         <div class="backdrop-overlay">
                             <h3 class="card-title">Central Mesmerized</h3>
                         </div>
@@ -106,7 +106,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                 <div class="col-3">
                     <a href="portfolio/kooyoo-enchanting" class="collection-card">
-                        <img src="./assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg" alt="Kooyoo">
+                        <img src="https://eembranding.com/assest/img/portfolio/websitecc/Kooyoo/00-Thumbnail.jpg" alt="Kooyoo">
                         <div class="backdrop-overlay">
                             <h3 class="card-title">Kooyoo Enchanting</h3>
                         </div>

@@ -32,7 +32,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <nav class="menu-nav">
                                 <div class="logo">
                                     <a class="main-logo" href="home">
-                                        <img src="./assest/img/logo/logo-small.png" style="max-height: 36px" loading="lazy"  alt="Logo">
+                                        <img src="https://eembranding.com/assest/img/logo/logo-small.png" style="max-height: 36px" loading="lazy"  alt="Logo">
                                     </a>
                                 </div>
                                 <div class="navbar-wrap main-menu d-none d-lg-flex">
@@ -175,7 +175,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="close-btn"><i class="fas fa-times"></i></div>
                                 <div class="nav-logo">
                                     <a class="main-logo" href="home">
-                                        <img src="./assest/img/logo/logo-small.png" style="max-height: 36px" loading="lazy"  alt="Logo">
+                                        <img src="https://eembranding.com/assest/img/logo/logo-small.png" style="max-height: 36px" loading="lazy"  alt="Logo">
                                     </a>
                                 </div>
                                 <div class="">
@@ -286,7 +286,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
             <div class="logo-side mb-30">
                 <a class="main-logo" href="home">
-                    <img src="./assest/img/logo/logo-small.png" style="max-height: 36px" loading="lazy"  alt="Logo">
+                    <img src="https://eembranding.com/assest/img/logo/logo-small.png" style="max-height: 36px" loading="lazy"  alt="Logo">
                 </a>
             </div>
             <div class="side-info mb-30">
