@@ -10,7 +10,14 @@ echo
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
         <!-- Preloader -->
-    
+        <div id="preloader" class="">
+            <div id="loading-center">
+                <div class="loader">
+                    <div class="loader-outter"></div>
+                    <div class="loader-inner"></div>
+                </div>
+            </div>
+        </div>
         <!-- Preloader -->
     <button class="scroll-top scroll-to-target open" data-target="html" aria-label="Scroll to top">
     <i class="fas fa-angle-up"></i>
