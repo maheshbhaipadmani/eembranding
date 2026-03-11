@@ -80,7 +80,7 @@ echo
             <div class="col-lg-3 col-md-6 mb-4">
                 <h5 class="fw-bold mb-4 text-white">Useful Links</h5>
                 <ul class="list-unstyled footer-links">
-                    <li class="mb-2"><a href="home" class="text-secondary text-decoration-none">Home</a></li>
+                    <li class="mb-2"><a href="https://eembranding.com/" class="text-secondary text-decoration-none">Home</a></li>
                     <li class="mb-2"><a href="about-us" class="text-secondary text-decoration-none">About Us</a></li>
                     <li class="mb-2"><a href="services-page" class="text-secondary text-decoration-none">Services</a></li>
                     <li class="mb-2"><a href="Portfolio" class="text-secondary text-decoration-none">Portfolio</a></li>
