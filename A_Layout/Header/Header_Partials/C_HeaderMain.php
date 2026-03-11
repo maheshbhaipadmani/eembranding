@@ -2,9 +2,7 @@
 $page = basename($_SERVER['PHP_SELF']);
 echo
     '
-<body
-    class="home page-template page-template-elementor_header_footer page page-id-495 wp-custom-logo wp-embed-responsive rttpg rttpg-7.7.17 radius-frontend rttpg-body-wrap ehf-footer ehf-template-xotric ehf-stylesheet-xotric no-sidebar elementor-default elementor-template-full-width elementor-kit-4212 elementor-page elementor-page-495 e--ua-blink e--ua-chrome e--ua-webkit cht-in-desktop cht-landscape vsc-initialized"
-    style="" data-elementor-device-mode="desktop">
+<body>
 
     
 <!-- Google Tag Manager (noscript) -->
@@ -21,9 +19,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
         <!-- Preloader -->
-    <button class="scroll-top scroll-to-target scroll-top open" data-target="html">
-        <i class="fas fa-angle-up"></i>
-    </button>
+    <button class="scroll-top scroll-to-target open" data-target="html" aria-label="Scroll to top">
+    <i class="fas fa-angle-up"></i>
+</button>
     <header>
         <div id="header-fixed-height" class="active-height"></div>
         <div id="sticky-header" class="menu-area xotric-menu-has-showing sticky-menu">
@@ -147,14 +145,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         </li>
                                         <li itemscope="itemscope"
                                             itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6989"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6989 nav-item  ' ?><?php if ($page == "Portfolio.php" || $page == "ranberry-trends.php" || $page == "moonshineenchanting.php" || $page == "dazzle-berryenpastel.php" || $page == "Nelsonlaminates.php" || $page == "ranwood-rega.php" || $page == "kooyoo-enchanting.php" || $page == "central.php" || $page == "bliss.php" || $page == "keton-micabeautiful.php" || $page == "eco-woodamaurosis.php " || $page == "bravio-pastel-laminate.php" || $page == "fabrino-fabric.php" || $page == "fabrinobeauty.php" || $page == "vanshlam.php" || $page == "evershine-color-trendenchanting.php" || $page == "lammartcolor.php" || $page == "picsartelegance.php" || $page == "morbi-king.php" || $page == "crysta-line.php"|| $page == "atina.php" || $page == "mr-velvet-ears.php") {
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6989 nav-item  ' ?><?php if ($page == "Portfolio.php" || $page == "ranberry-trends.php" || $page == "moonshineenchanting.php" || $page == "dazzle-berryenpastel.php" || $page == "Nelsonlaminates.php" || $page == "ranwood-rega.php" || $page == "kooyoo-enchanting.php" || $page == "central.php" || $page == "bliss.php" || $page == "keton-micabeautiful.php" || $page == "eco-woodamaurosis.php " || $page == "bravio-pastel-laminate.php" || $page == "fabrino-fabric.php"  || $page == "vanshlam.php" || $page == "evershine-color-trendenchanting.php" || $page == "lammartcolor.php" || $page == "picsartelegance.php" || $page == "morbi-king.php" || $page == "crysta-line.php" || $page == "mr-velvet-ears.php") {
                                          echo 'active';
                                      } ?><?php echo '">
                                             <a title="Portfolio" href="Portfolio" class="nav-links">Portfolio</a>
                                         </li>
                                         <li itemscope="itemscope"
                                             itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6720"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6720 nav-item  ' ?><?php if ($page == "blogs.php" || $page == "blogs-2.php" || $page == "blogs-graphic-design.php" || $page == "blogs-best-laminate-catalogue.php" || $page == "blogs-grow-your-business.php" || $page == "blogs-powerful-branding-strategies.php" || $page == "blogs-how-a-creative-design-agency-in-ahmedabad.php" || $page == "blogs-branding-vs-advertising.php" || $page == "blogs-how-3d-rendering.php") {
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6720 nav-item  ' ?><?php if ($page == "blogs.php"  || $page == "blogs-graphic-design.php" || $page == "blogs-best-laminate-catalogue.php" || $page == "blogs-grow-your-business.php" || $page == "blogs-powerful-branding-strategies.php" || $page == "blogs-how-a-creative-design-agency-in-ahmedabad.php" || $page == "blogs-branding-vs-advertising.php" || $page == "blogs-how-3d-rendering.php") {
                                     echo 'active';
                                 } ?><?php echo '">
                                             <a title="Blogs" href="blogs" class="nav-links">Blogs</a>
@@ -311,10 +309,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </p>
                 </div>
             </div>
-            <div class="social-icon-right mt-30"><a href="#"><i class="fab fa-facebook-f"></i></a>
-                <a href="#"><i class="fab fa-twitter"></i></a>
-                <a href="#"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-pinterest-p"></i></a>
+            <div class="social-icon-right mt-30"><a href="https://www.facebook.com/eembranding"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://x.com/eembranding"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.instagram.com/eembranding"><i class="fab fa-instagram"></i></a>
+                <a href="https://in.pinterest.com/eembranding/"><i class="fab fa-pinterest-p"></i></a>
             </div>
         </div>
         <div class="offcanvas-overly"></div>

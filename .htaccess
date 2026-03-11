@@ -1,28 +1,102 @@
 RewriteEngine On
-RewriteCond %{HTTPS} !=on
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
+
+# Force HTTPS
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Security
 Header always set Content-Security-Policy "upgrade-insecure-requests"
 
+# -----------------------------
+# GZIP Compression
+# -----------------------------
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+AddOutputFilterByType DEFLATE application/json
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE font/woff
+AddOutputFilterByType DEFLATE font/woff2
+</IfModule>
 
-# Define custom error pages
-ErrorDocument 404 /error-404.html	
+# -----------------------------
+# Browser Caching
+# -----------------------------
+<IfModule mod_expires.c>
+ExpiresActive On
 
-# Rewrite rules for clean URLs
+# HTML
+ExpiresByType text/html "access plus 1 hour"
+
+# CSS
+ExpiresByType text/css "access plus 1 year"
+
+# JavaScript
+ExpiresByType application/javascript "access plus 1 year"
+
+# Images
+ExpiresByType image/jpg "access plus 1 year"
+ExpiresByType image/jpeg "access plus 1 year"
+ExpiresByType image/png "access plus 1 year"
+ExpiresByType image/gif "access plus 1 year"
+ExpiresByType image/webp "access plus 1 year"
+ExpiresByType image/avif "access plus 1 year"
+ExpiresByType image/svg+xml "access plus 1 year"
+
+# Fonts
+ExpiresByType font/woff "access plus 1 year"
+ExpiresByType font/woff2 "access plus 1 year"
+ExpiresByType application/font-woff "access plus 1 year"
+
+</IfModule>
+
+# -----------------------------
+# Cache Control Headers
+# -----------------------------
+<IfModule mod_headers.c>
+
+# Static files cache
+<FilesMatch "\.(css|js|jpg|jpeg|png|gif|webp|avif|svg|woff|woff2)$">
+Header set Cache-Control "public, max-age=31536000, immutable"
+</FilesMatch>
+
+# HTML no long cache
+<FilesMatch "\.(html|php)$">
+Header set Cache-Control "public, max-age=3600"
+</FilesMatch>
+
+</IfModule>
+
+# Custom error page
+ErrorDocument 404 /error-404.html
+
+# Clean URLs
+RewriteRule ^home$ index.php [L,NC]
 RewriteRule ^about-us$ about-us.php [L,NC]
-RewriteRule ^portfolio/bliss$ bliss.php [L,NC]
+
+RewriteRule ^services-page$ services-page.php [L,NC]
 RewriteRule ^services/creative-design-agency-in-ahmedabad/?$ creative-design-agency.php [L,NC]
 RewriteRule ^services/digital-marketing-agency-ahmedabad/?$ digital-marketing-agency.php [L,NC]
+RewriteRule ^services/website-design-company-in-ahmedabad/?$ website-design.php [L,NC]
+RewriteRule ^services/advertising-agency-in-ahmedabad/?$ advertising-agency.php [L,NC]
+RewriteRule ^services/ui-ux-design-company-in-ahmedabad/?$ ui-ux-design.php [L,NC]
+RewriteRule ^services/3d-rendering-company-in-ahmedabad/?$ 3d-rendering.php [L,NC]
+RewriteRule ^services/catalogue-design-company-in-ahmedabad/?$ catalogue-design.php [L,NC]
+RewriteRule ^services/mobile-app-development-company-ahmedabad/?$ mobile-app-development.php [L,NC]
+RewriteRule ^services/exhibition-stall-design-company-ahmedabad/?$ exhibition-stall-design.php [L,NC]
+
+RewriteRule ^portfolio$ Portfolio.php [L,NC]
+RewriteRule ^portfolio/bliss$ bliss.php [L,NC]
 RewriteRule ^portfolio/evershine-color-trendenchanting$ evershine-color-trendenchanting.php [L,NC]
-RewriteRule ^home$ index.php [L,NC]
 RewriteRule ^portfolio/kooyoo-enchanting$ kooyoo-enchanting.php [L,NC]
 RewriteRule ^portfolio/moonshineenchanting$ moonshineenchanting.php [L,NC]
 RewriteRule ^portfolio/nelsonenchanting$ Nelsonlaminates.php [L,NC]
 RewriteRule ^portfolio/ranberry-trends$ ranberry-trends.php [L,NC]
-RewriteRule ^services-page$ services-page.php [L,NC]
-RewriteRule ^services/website-design-company-in-ahmedabad/?$ website-design.php [L,NC]
-RewriteRule ^services/advertising-agency-in-ahmedabad/?$ advertising-agency.php [L,NC]
-RewriteRule ^blogs$ blogs.php [L,NC]
-RewriteRule ^blogs/$ blogs.php [L,NC]
 RewriteRule ^portfolio/bravio-pastel-laminate$ bravio-pastel-laminate.php [L,NC]
 RewriteRule ^portfolio/central$ central.php [L,NC]
 RewriteRule ^portfolio/crysta-line$ crysta-line.php [L,NC]
@@ -32,21 +106,15 @@ RewriteRule ^portfolio/lammartcolor$ lammartcolor.php [L,NC]
 RewriteRule ^portfolio/morbi-king$ morbi-king.php [L,NC]
 RewriteRule ^portfolio/picsartelegance$ picsartelegance.php [L,NC]
 RewriteRule ^portfolio/ranwood-rega$ ranwood-rega.php [L,NC]
-RewriteRule ^services/ui-ux-design-company-in-ahmedabad/?$ ui-ux-design.php [L,NC]
-RewriteRule ^services/3d-rendering-company-in-ahmedabad/?$ 3d-rendering.php [L,NC]
-RewriteRule ^portfolio/atina$ atina.php [L,NC]
-RewriteRule ^blogs-2$ blogs-2.php [L,NC]
-RewriteRule ^services/catalogue-design-company-in-ahmedabad/?$ catalogue-design.php [L,NC]
-RewriteRule ^contact-us$ contact-us.php [L,NC]
 RewriteRule ^portfolio/dazzle-berryenpastel$ dazzle-berryenpastel.php [L,NC]
 RewriteRule ^portfolio/fabrino-fabric$ fabrino-fabric.php [L,NC]
 RewriteRule ^portfolio/kiana$ kiana.php [L,NC]
-RewriteRule ^services/mobile-app-development-company-ahmedabad/?$ mobile-app-development.php [L,NC]
-RewriteRule ^mr-velvet-ears$ mr-velvet-ears.php [L,NC]
-RewriteRule ^portfolio$ Portfolio.php [L,NC]
-RewriteRule ^services/exhibition-stall-design-company-ahmedabad/?$ exhibition-stall-design.php [L,NC]
 RewriteRule ^portfolio/vanshlam$ vanshlam.php [L,NC]
-RewriteRule ^blogs-(.+)/?$ blogsdetails.php?url=$1 [NC,L]
-RewriteRule ^blogs/page/([^/\.]+)?$       blogs.php?page=$1 [NC,L]
 
-# RewriteRule ^Natural Sesame Seeds natural-sesame-seeds.php [L]  
+RewriteRule ^blogs$ blogs.php [L,NC]
+RewriteRule ^blogs/$ blogs.php [L,NC]
+RewriteRule ^blogs-(.+)/?$ blogsdetails.php?url=$1 [NC,L]
+RewriteRule ^blogs/page/([^/\.]+)?$ blogs.php?page=$1 [NC,L]
+
+RewriteRule ^contact-us$ contact-us.php [L,NC]
+RewriteRule ^mr-velvet-ears$ mr-velvet-ears.php [L,NC]

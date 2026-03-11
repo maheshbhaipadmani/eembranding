@@ -75,7 +75,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="col-md-6">
                                     <div class="p-4 rounded-3 border h-100 transition-hover">
                                         <span class="text-uppercase small fw-bold text-danger">Previous Post</span>
-                                        <h5 class="mt-2 mb-0"><a href="#"
+                                        <h5 class="mt-2 mb-0"><a href="home"
                                                 class="text-decoration-none text-dark stretched-link">Grow Your Business
                                                 with a Top Digital Marketing Company</a></h5>
                                     </div>
@@ -83,7 +83,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div class="col-md-6">
                                     <div class="p-4 rounded-3 border h-100 text-md-end transition-hover">
                                         <span class="text-uppercase small fw-bold text-danger">Next Post</span>
-                                        <h5 class="mt-2 mb-0"><a href="#"
+                                        <h5 class="mt-2 mb-0"><a href="home"
                                                 class="text-decoration-none text-dark stretched-link">How 3D Rendering Can
                                                 Help Brands Stand Out</a></h5>
                                     </div>

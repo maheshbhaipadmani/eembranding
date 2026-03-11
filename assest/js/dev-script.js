@@ -1,12 +1,14 @@
 window.addEventListener("load", function () {
-
     const preloader = document.getElementById("preloader");
-
-    preloader.style.transition = "opacity 0.3s ease";
-    preloader.style.opacity = "0";
-
-    setTimeout(function () {
+    if (preloader) {
         preloader.style.display = "none";
-    }, 300);
+    }
+});
 
+
+document.querySelector(".scroll-top").addEventListener("click", function () {
+    window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+    });
 });

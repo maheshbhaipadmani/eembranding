@@ -66,7 +66,7 @@ echo
                 </p>
                 <div class="social-links d-flex gap-3 mt-4">
                     <a href="https://facebook.com/eembranding" class="text-white"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#" class="text-white"><i class="fab fa-twitter"></i></a>
+                    <a href="https://x.com/eembranding" class="text-white"><i class="fab fa-twitter"></i></a>
                     <a href="https://linkedin.com/company/eem-branding/" class="text-white"><i class="fab fa-linkedin-in"></i></a>
                     <a href="https://instagram.com/eembranding" class="text-white"><i class="fab fa-instagram"></i></a>
                     <a href="https://www.youtube.com/@EEMBranding" class="text-white"><i class="fab fa-youtube"></i></a>

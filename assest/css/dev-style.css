@@ -6,15 +6,6 @@ html, body {
     margin: 0 0 0 auto !important;
 }
 
-.project-details-custom-slider .swiper-slide {
-    margin: 0 10px;
-}
-
-.project-details-custom-slider .swiper-slide figure img {
-    border-radius: 10px;
-    box-shadow: 0 6px 11px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-}
-
 .z-index-plus {
     z-index: 9999;
 }
@@ -29,54 +20,6 @@ html, body {
 
 .mobile-menu .menu-box:nth-child(n+2) {
     display: none !important;
-}
-
-/* Contact & Services Page Styles */
-.services-icon img {
-    width: 60px;
-}
-
-.services-icon p {
-    max-height: 120px;
-    overflow: hidden;
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-}
-
-.services-item-two {
-    min-height: 400px !important;
-}
-
-.services-item-two:hover {
-    border-bottom: 8px solid #de202a;
-}
-
-.services-icon a.link-btn {
-    background: var(--tg-primary-color);
-    border: medium none;
-    border-radius: 10px;
-    color: var(--tg-white);
-    cursor: pointer;
-    display: inline-block;
-    font-size: 15px;
-    font-weight: 700;
-    letter-spacing: .5px;
-    line-height: 1;
-    margin-bottom: 0;
-    padding: 12px 18px;
-    text-align: center;
-    text-transform: capitalize;
-    touch-action: manipulation;
-    transition: all 0.3s ease 0s;
-    align-items: center;
-    white-space: nowrap;
-    position: relative;
-    overflow: hidden;
-    z-index: 1;
-}
-
-.services-icon a.link-btn:hover {
-    color: #fff;
 }
 
 .breadcrumb-area-two {
@@ -216,60 +159,4 @@ body.mobile-menu-active {
     position: relative;
     margin-top: 25px;
     text-align: center;
-}
-
-/* Responsive Styles for Bootstrap Layout - OPTIMIZED */
-
-/* Tablets (768px to 991px) */
-@media (max-width: 991px) {
-    .services-icon a.link-btn {
-        padding: 10px 16px;
-        font-size: 14px;
-    }
-
-    h1, .h1 {
-        font-size: 32px;
-    }
-}
-
-/* Small Devices (576px to 767px) */
-@media (max-width: 767px) {
-    h1, .h1 {
-        font-size: 28px;
-    }
-
-    h2, .h2 {
-        font-size: 20px;
-    }
-}
-
-/* Extra Small Devices (up to 575px) */
-@media (max-width: 575px) {
-    body {
-        padding: 0 12px;
-    }
-
-    h1, .h1 {
-        font-size: 24px;
-    }
-
-    .container {
-        padding-left: 0;
-        padding-right: 0;
-    }
-}
-
-/* Mobile (up to 425px) */
-@media (max-width: 425px) {
-    h1, .h1 {
-        font-size: 22px;
-    }
-
-    h2, .h2 {
-        font-size: 18px;
-    }
-
-    .lead {
-        font-size: 16px;
-    }
 }
