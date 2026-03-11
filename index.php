@@ -19,7 +19,7 @@ reset($myaraa);
 
 <main>
     <!--1. start hero banner    -->
-<picture>
+<picture class="hero-banner">
 
 <!-- 4K Screen -->
 <source media="(min-width:1921px)" srcset="./assest/img/home/hero/eem-1920×108012.png">
@@ -31,7 +31,7 @@ reset($myaraa);
 <source media="(min-width:768px)" srcset="./assest/img/home/hero/eem-768×1024.png">
 
 <!-- Mobile -->
-<img src="./assest/img/home/hero/eem-480×800.webp" alt="Hero Banner">
+<img src="./assest/img/home/hero/eem-480×800.webp" alt="Hero Banner" class="hero-banner-img">
 
 </picture>
 

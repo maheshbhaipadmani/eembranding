@@ -160,3 +160,15 @@ body.mobile-menu-active {
     margin-top: 25px;
     text-align: center;
 }
+/* For picture container */
+.hero-banner {
+    display: block;
+    width: 100%;
+}
+
+/* For img inside picture */
+.hero-banner-img {
+    display: block;
+    width: 100%;
+    height: auto; /* keeps aspect ratio */
+}
