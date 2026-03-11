@@ -25,7 +25,7 @@ reset($myaraa);
 <source media="(min-width:1921px)" srcset="./assest/img/home/hero/eem-1920×108012.png">
 
 <!-- Desktop / Laptop -->
-<source media="(min-width:1010px)" srcset="./assest/img/home/hero/eem-1920×1080.png">
+<source media="(min-width:1010px)" srcset="./assest/img/home/hero/eem-1920×1080.webp">
 
 <!-- Tablet -->
 <source media="(min-width:768px)" srcset="./assest/img/home/hero/eem-768×1024.png">
