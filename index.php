@@ -17,21 +17,24 @@ $totalPages = ceil($total / $limit);
 reset($myaraa);
 ?>
 
-
 <main>
     <!--1. start hero banner    -->
-<section class="hero-banner w-full overflow-hidden leading-[0]">
-    <picture>
-        <source media="(min-width: 1921px)" srcset="./assest/img/home/hero/eem-2560×1440.webp">
+<picture>
 
-        <source media="(min-width: 1024px)" srcset="./assest/img/home/hero/eem-1920×1080.webp">
+<!-- 4K Screen -->
+<source media="(min-width:1921px)" srcset="./assest/img/home/hero/eem-1920×108012.png">
 
-        <source media="(min-width: 640px)" srcset="./assest/img/home/hero/eem-768×1024.webp">
+<!-- Desktop / Laptop -->
+<source media="(min-width:1010px)" srcset="./assest/img/home/hero/eem-1920×1080.png">
 
-        <img src="./assest/img/home/hero/eem-480×800.webp" 
-             alt="Rollence Ceramic Tiles Collection" 
-             class="w-full  object-cover">
-    </picture>
+<!-- Tablet -->
+<source media="(min-width:768px)" srcset="./assest/img/home/hero/eem-768×1024.png">
+
+<!-- Mobile -->
+<img src="./assest/img/home/hero/eem-480×800.webp" alt="Hero Banner">
+
+</picture>
+
 </section>
     <!-- start hero banner    -->
 

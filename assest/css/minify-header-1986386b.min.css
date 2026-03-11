@@ -48766,7 +48766,7 @@ label {
 
 .breadcrumb-area-two {
     overflow: hidden;
-    padding : 90px 0 0
+    padding : 90px 0 ;
 }
 
 .breadcrumb-content-two .title {
@@ -54675,18 +54675,18 @@ ul .comment-respond {
         grid-template-columns: 1fr;
     }
 }
-
-.hero-banner {
-    width   : 100%;
-    height  : auto;
-    overflow: hidden;
-    margin-top: -2%;
+/* Hero Banner */
+.next-new-hero{
+    height:calc(100vh - 76px);
+    width:100%;
+    overflow:hidden;
 }
 
-.hero-banner img {
-    width     : 100%;
-    height    : 100%;
-    object-fit: contain;
+.next-new-hero img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    display:block;
 }
 
 .blog-small-title .line {
@@ -54952,6 +54952,8 @@ ul .comment-respond {
     font-weight  : 400;
     margin-bottom: 15px;
     opacity      : 0.9;
+    color: white !important;
+
 }
 
 .cta-heading h2 {
@@ -54959,6 +54961,8 @@ ul .comment-respond {
     font-weight  : 600;
     line-height  : 1.2;
     margin-bottom: 30px;
+    color: white !important;
+
 }
 
 /* The Button */

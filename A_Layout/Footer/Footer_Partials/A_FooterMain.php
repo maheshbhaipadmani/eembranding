@@ -69,7 +69,12 @@ echo
                     <a href="#" class="text-white"><i class="fab fa-twitter"></i></a>
                     <a href="https://linkedin.com/company/eem-branding/" class="text-white"><i class="fab fa-linkedin-in"></i></a>
                     <a href="https://instagram.com/eembranding" class="text-white"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.youtube.com/@EEMBranding" class="text-white"><i class="fab fa-youtube"></i></a>
+                    <a href="https://in.pinterest.com/eembranding/" class="text-white"><i class="fab fa-pinterest"></i></a>
+                    <a href="https://dribbble.com/EEMBranding" class="text-white"><i class="fab fa-dribbble"></i></a>
+                    <a href="https://www.behance.net/eembranding" class="text-white"><i class="fab fa-behance"></i></a>
                 </div>
+
             </div>
 
             <div class="col-lg-3 col-md-6 mb-4">
