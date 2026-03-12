@@ -105,7 +105,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <li class="nav-item" role="presentation">
                     <button class="nav-link btn btn-three" data-bs-toggle="pill" data-bs-target="#mobile-tab"
                         type="button">
-                        Mobile app design & Development <span></span>
+                        Logo Design <span></span>
                     </button>
                 </li>
                 <li class="nav-item" role="presentation">
